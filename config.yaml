@@ -1,13 +1,15 @@
-title: Juncture
-tagline: A Visual Essay Site
-banner: https://picsum.photos/1000/400
-favicon: /images/favicon.svg
+title: Kent Digital Map
+tagline: 
+banner: /images/Bleak_house_postcard.jpg
+favicon: /images/favicon.ico
 customCSS: /css/custom.css
 
 # When using a custom domain these fields must be updated to match
 # the account and repository name
-#acct: <GitHub account/username>
-#repo: <GitHub repository>
+acct: kent-map
+repo: kent
+
+ref: v1.1.0
 
 ######################################################
 # Defines options shown in the header navigation menu
@@ -16,16 +18,16 @@ nav:
 - label: About
   icon: info
   path: /about
-#- label: Contact Us
-#  icon: envelope
-#  path: "/contact-us"
+- label: Contact Us
+  icon: envelope
+  path: "/contact-us"
 
 # If the /contact-us path is defined for the nav menu a contact form will be enabled
 # The following information is used in the display and processing of the contact form.
 contactForm:
   toEmail:
-  - Ron Snyder <ronald.snyder@ithaka.org>
-  subject: Contact Us
+  - ron.snyder@ithaka.org
+  subject: Kent Digital Map Contact
 
 #######################################################
 # Base URL of server used for serving and optionally

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link href="https://juncture-digital.org/images/favicon.svg" rel="icon"/>
+  <!-- <link href="https://juncture-digital.org/images/favicon.svg" rel="icon"/> -->
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
@@ -19,12 +19,15 @@
                  :site-config="siteConfig"
                  :essay-config="essayConfig"
                  :content-source="contentSource"
+                 :path="path"
                  :logins-enabled="loginsEnabled"
                  :is-juncture="isJuncture"
                  :is-authenticated="authenticatedUser !== null && loginsEnabled"
                  :is-admin="isAdminUser"
                  :version="junctureVersion"
-                 @menu-item-clicked="menuItemClicked"
+                 :do-action-callback="doActionCallback"
+                 component-name="ve-header"
+                 @do-action="doAction"
                  @authenticate="authenticate"
                  @logout="logout"
       ></component>
@@ -44,21 +47,24 @@
                  :items="items"
                  :entities="entities"
                  :active="viewer === selectedViewer"
+                 :height="viewerHeight"
                  :actions="actions"
                  :hover-item="hoverItem"
                  :content-source="contentSource"
                  :gh-token:="ghToken"
                  :md-dir="mdDir"
                  :is-authenticated="authenticatedUser !== null && loginsEnabled"
+                 :component-name="viewer"
                  @update-component-data="updateComponentData"
                  @set-hover-item="hoverItem = $event"
       ></component>
     </div>
     <div style="display:none;">
       <div ref="popup" class="popup" v-if="hoverEntity">
+        <div v-if="hoverEntity.thumbnails" class="image"><img :src="hoverEntity.thumbnails[0]"></div>
         <div class="label" v-html="hoverEntity.label"></div>
         <div v-if="hoverEntity.description" class="description" v-html="hoverEntity.description"></div>
-        <div v-if="hoverEntity.images" class="image"><img :src="hoverEntity.images[0]"></div>
+        <div v-if="hoverEntity.summary" class="summary" v-html="hoverEntity.summary"></div>
       </div>
     </div>
 
@@ -71,21 +77,6 @@
       </div>
     </div>
 
-    <div id="contact-form" class="modal-form" style="display: none;">
-      <form v-on:submit.prevent>
-        <h1>Contact us</h1>
-        <input v-model="contactName" name="name" placeholder="Name" class="form-name" type="text" required>
-        <input v-model="contactEmail" placeholder="Email" class="form-email" type="email" required>
-        <textarea v-model="contactMessage" placeholder="Your message here" class="form-message" type="text" required></textarea>
-        <div v-html="formProcessingMessage"></div>
-        <div class="form-controls">
-          <button v-if="formProcessingStatus === 'ready'" class="form-cancel" formnovalidate @click="hideForm">Cancel</button>
-          <button v-if="formProcessingStatus === 'ready'" class="form-submit" @click="submitContactForm">Send</button>
-          <button v-if="formProcessingStatus === 'done'" class="form-submit" @click="hideForm">Close</button>
-        </div>
-      </form>
-    </div>
-
     <div id="create-site-form" class="modal-form" style="display: none;">
       <form v-on:submit.prevent>
         <h1>Create new Juncture site</h1>
@@ -96,6 +87,24 @@
           <button v-if="formProcessingStatus === 'ready'" class="form-cancel" formnovalidate @click="hideForm">Cancel</button>
           <button v-if="formProcessingStatus === 'ready'" class="form-submit" @click="doSiteCreate">Create site</button>
           <button v-if="formProcessingStatus === 'done'" class="form-submit" @click="loadNewSite">Close</button>
+        </div>
+      </form>
+    </div>
+
+    <div id="add-page-form" class="modal-form" style="display: none;">
+      <form v-on:submit.prevent>
+        <h1>Add new page</h1>
+        <input :value="authenticatedUser && authenticatedUser.acct" class="form-name" type="text" readonly>
+        <input v-if="contentSource.acct !== 'jstor-labs' && contentSource.repo !== 'juncture'" :value="contentSource.repo" class="form-name" type="text" readonly>
+        <select v-else v-model="selectedRepo" class="form-name">
+          <option v-for="repo in reposForAcct" :key="repo.name" :value="repo.name" v-text="repo.name"></option>
+        </select>
+        <input v-model="newPage" placeholder="Name of new page" class="form-email" required>
+        <div v-html="formProcessingMessage"></div>
+        <div class="form-controls">
+          <button v-if="formProcessingStatus === 'ready'" class="form-cancel" formnovalidate @click="hideForm">Cancel</button>
+          <button v-if="formProcessingStatus === 'ready'" class="form-submit" @click="doPageAdd">Add page</button>
+          <button v-if="formProcessingStatus === 'done'" class="form-submit" @click="gotoAddedPage">Close</button>
         </div>
       </form>
     </div>
@@ -152,11 +161,8 @@
   <script>
     console.log(window.location)
     const isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || window.location.host === 'localhost:8088'
-    const junctureVersion = 'v0.0.62'
+    const junctureVersion = 'v0.0.105'
     console.log(`isJuncture=${isJuncture} junctureVersion=${junctureVersion} referrer=${document.referrer}`)
-
-    let head = document.querySelector('head')
-    head.appendChild(makeLink(`https://gitcdn.link/cdn/jstor-labs/juncture/${junctureVersion}/css/main.css`))
 
     const referrerUrl = document.referrer
     if (referrerUrl) {
@@ -165,7 +171,7 @@
         const referrerPath = referrer.pathname.slice(1).split('/')
         const ghAcct = referrerPath[0]
         const ghRepo = referrerPath[1]
-        const ghBranch = referrerPath.length > 2 ? referrerPath[3] : 'main'
+        const ghBranch = referrerPath.length > 3 ? referrerPath[3] : 'main'
         const pathStart = 4
         const pathEnd = referrerPath[referrerPath.length-1] === 'README.md' || referrerPath[referrerPath.length-1] === 'index.md' ? referrerPath.length-1 : referrerPath.length
         const ghPath = referrerPath.slice(pathStart, pathEnd).join('/').replace(/\.md$/, '')
@@ -223,7 +229,9 @@
 
       // For local dev in custom domain mode
       } else if (window.location.host === 'localhost:8088') {
-        contentSource = {acct: null, repo: null, ref: null, baseUrl: window.location.origin, basePath: '', isGhpSite: false}
+        contentSource = {acct: null, repo: null, ref: null, baseUrl: window.location.origin, basePath: '', isGhpSite: false,
+                        assetsBaseUrl: `${window.location.origin}`
+      }
         let pathElems = window.location.pathname.split('/').filter(elem => elem !== '')
         if (pathElems.length >= 2) {
           let ghRepoInfo = await githubRepoInfo(pathElems[0], pathElems[1])
@@ -244,6 +252,7 @@
           let pathElems = window.location.pathname.split('/').filter(elem => elem !== '')
           if (pathElems.length >= 2) {
             let ghRepoInfo = await githubRepoInfo(pathElems[0], pathElems[1])
+            console.log('ghRepoInfo', ghRepoInfo)
             if (ghRepoInfo) contentSource = {...contentSource, ...ghRepoInfo}
           }
 
@@ -258,14 +267,14 @@
     let qargs = window.location.href.indexOf('?') > 0 ? parseQueryString(window.location.href.split('?')[1]) : {}
     
     // GLobal variables used to initialize Vue
-    let siteConfig, contentSource, componentsList, ghUnscopedToken, oauthAccessToken, gcApiKey, gcAuthDomain
+    let siteConfig, contentSource, componentsList, ghUnscopedToken, oauthAccessToken, gcApiKey, gcAuthDomain, gaPropertyID
     let loginsEnabled = false
     let authenticatedUser = null
     
     const componentsRoot = 'components'
     const componentPrefix = 've-'
     const availableViewers = new Set()
-    const knownGhAccts = {'jstor-labs': 'main', 'rsnyder': 'main', 'kent-map': 'main'}
+    const knownGhAccts = {'jstor-labs': 'main', 'kent-map': 'main'}
 
     async function gcOauth() {
       if (gcApiKey && gcAuthDomain) {
@@ -295,11 +304,13 @@
         contentSource = {...contentSource, ...{
             acct: contentSource.acct || config.acct, 
             repo: contentSource.repo || config.repo, 
-            ref: config.ref || contentSource.ref
+            ref: qargs.ref || config.ref || contentSource.ref
         }}
-        if (!contentSource.isGhpSite) contentSource.assetsBaseUrl = `https://gitcdn.link/cdn/${contentSource.acct}/${contentSource.repo}/${contentSource.ref}`;
+        if (!contentSource.isGhpSite && contentSource.acct) contentSource.assetsBaseUrl = `https://gitcdn.link/cdn/${contentSource.acct}/${contentSource.repo}/${contentSource.ref}`;
         ['banner', 'favicon', 'customCSS'].forEach(attr => { if (config[attr]) config[attr] = convertURL(config[attr]) })
       //}
+      if (gaPropertyID) ga('create', gaPropertyID, 'auto')
+
       contentSource.ref = qargs.ref || contentSource.ref
       return config
     })
@@ -317,6 +328,13 @@
       })
 
       // if (contentSource.isGhpSite) head.appendChild(makeLink(`https://gitcdn.link/cdn/jstor-labs/juncture/${junctureVersion}/css/main.css`))
+
+      let head = document.querySelector('head')
+      if (window.location.hostname === 'localhost') {
+        head.appendChild(makeLink('/juncture/css/main.css'))
+      } else {
+        head.appendChild(makeLink(`https://gitcdn.link/cdn/jstor-labs/juncture/${junctureVersion}/css/main.css`))
+      }
       if (siteConfig.favicon ) head.appendChild(makeLink(siteConfig.favicon, 'icon'))
       if (siteConfig.customCSS) head.appendChild(makeLink(siteConfig.customCSS))
       if (siteConfig.title) document.title = siteConfig.title
@@ -334,17 +352,18 @@
           junctureVersion,
           params: [],
           markdown: null,
+          path: '/',
           mdpath: '',
           mdDir: '/',
           markdownViewer: null,
           html: null,
           active: null,
+          viewerHeight: 0,
           segments: {},
           entities: {},
           availableViewers,
           // viewers: [],
           selectedViewer: null,
-          contactForm: null,
           viewerData: {},
           scrollTop: 0,
           forceHorizontalLayout: window.matchMedia('only screen and (max-width: 1000px)').matches,
@@ -356,14 +375,15 @@
           authenticatedUser,
           loginsEnabled,
           externalWindow: null,
-          contactName: null,
-          contactEmail: null,
-          contactMessage: null, 
           newRepo: null,
+          newPage: null,
           formProcessingMessage: '',
           formProcessingStatus: 'ready',
           releaseTags: [],
-          updateVersion: 'main'
+          updateVersion: 'main',
+          reposForAcct: [],
+          selectedRepo: null,
+          doActionCallback: {}
         }),
         computed: {
           essayConfig() { return this.params.find(attr => attr['ve-config'] !== undefined) },
@@ -432,15 +452,20 @@
             this.scrollTop = e.target.scrollTop
           }, 5),
 
-          async menuItemClicked(action) {
-            if (action === 'viewMarkdown') {
+          async doAction(action, options) {
+            console.log(`doAction`, action, options)
+            if (action === 'send-email') {
+              this.doActionCallback = {status: 'processing', message: 'Processing request'}
+              await sendEmail(options)
+              this.doActionCallback = {status: 'done', message: 'Email sent'}
+            } else if (action === 'viewMarkdown') {
               this.markdownViewer.show()
             } else if (action === 'editMarkdown') {
               this.editMarkdown()
             } else if (action === 'addPage') {
-              this.addPage()
-            } else if (action === '/contact-us') {
-              this.showForm('contact-form')
+              this.reposForAcct = await this.listRepositories()
+              this.selectedRepo = this.reposForAcct.length > 0 ? this.reposForAcct[0].name : null
+              this.showForm('add-page-form')
             } else if (action === 'createSite') {
               this.showForm('create-site-form')
             } else if (action === 'updateSite') {
@@ -453,8 +478,8 @@
               window.open(`https://github.com/${contentSource.acct}/${contentSource.repo}/tree/${contentSource.ref}`, '_blank')
             } else if (action === 'viewSiteOnJuncture') {
               window.location.href = `https://juncture-digital.org/${contentSource.acct}/${contentSource.repo}`
-            } else {
-              this.loadEssay(action)
+            } else if (action === 'loadEssay') {
+              this.loadEssay(options)
             }
           },
 
@@ -474,20 +499,6 @@
             this.formProcessingStatus = 'ready'
           },
 
-          async submitContactForm() {
-            let contactData = {
-              fromAddress: `${this.contactName} <${this.contactEmail}>`,
-              toAddress: this.siteConfig.contactForm.toEmail,
-              messageSubject: this.siteConfig.contactForm.subject,
-              messageBodyText: `${this.contactMessage}\n\r[Sent by: ${this.contactName} <${this.contactEmail}>]`,
-            }
-            console.log('submitContactForm', contactData)
-            let resp = await sendEmail(contactData)
-            console.log('sendEmail response', resp)
-            this.formProcessingStatus = 'done'
-            this.formProcessingMessage = 'Contact email sent'
-          },
-
           async doSiteCreate() {
             this.formProcessingStatus = 'processing'
             this.formProcessingMessage = 'Creating site...'
@@ -503,6 +514,11 @@
             window.open(`https://juncture-digital.org/${this.authenticatedUser.acct}/${this.newRepo}`, '_blank')
           },
 
+          gotoAddedPage() {
+            this.hideForm()
+            this.loadEssay(this.newPage)
+          },
+
           async doSiteUpdate() {
             this.formProcessingStatus = 'processing'
             this.formProcessingMessage = `Updating site to version ${this.updateVersion === 'main' ? 'Latest' : this.updateVersion}...`
@@ -510,6 +526,24 @@
             let siteUrl = `https://${this.contentSource.acct}.github.io/${this.contentSource.repo}`
             this.formProcessingMessage = `Site <a href="${siteUrl}">${siteUrl}</a> updated to version ${this.updateVersion === 'main' ? 'Latest' : this.updateVersion}`
             this.formProcessingStatus = 'done'
+          },
+
+          async doPageAdd() {
+            let targetRepo = this.reposForAcct.find(repo => repo.name === this.selectedRepo)
+            if (targetRepo) {
+              if (this.newPage[0] !== '/') this.newPage = `/${this.newPage}`
+              if (this.newPage[this.newPage.length-1] === '/') this.newPage = this.newPage.slice(0,-1)
+              this.formProcessingStatus = 'processing'
+              this.formProcessingMessage = `Adding essay ${this.newPage} to ${targetRepo.name}...`             
+              await this.addPage(this.authenticatedUser.acct, targetRepo.name, targetRepo.default_branch, this.newPage)
+              this.contentSource.acct = this.authenticatedUser.acct
+              this.contentSource.repo = targetRepo.name
+              this.contentSource.ref = targetRepo.default_branch
+              this.contentSource.basePath = `/${this.authenticatedUser.acct}/${targetRepo.name}`
+              this.contentSource.assetsBaseUrl = `https://gitcdn.link/cdn/${this.authenticatedUser.acct}/${targetRepo.name}/${targetRepo.default_branch}`
+              this.formProcessingMessage = `New page added`
+              this.formProcessingStatus = 'done'
+            }
           },
 
           gotoSite(url) { 
@@ -533,14 +567,11 @@
             return null
           },
 
-          addPage() {
-            console.log('addPage')
-          },
-
           // Loads essay Markdown file
           async loadEssay(path, replace, anchor) {
             path = path || window.location.pathname.slice(contentSource.basePath.length) || '/'
             if (path.slice(-1) !== '/') path += '/'
+            this.path = path 
             console.log(`loadEssay: basePath=${contentSource.basePath} path=${path} anchor=${this.anchor}`)
             let pathsToTry = [`${path}README.md`, `${path.slice(0,-1)}.md`, `${path}index.md`]
             for (let i = 0; i < pathsToTry.length; i++) {
@@ -552,6 +583,10 @@
                 break
               }
             }
+            if (gaPropertyID) {
+              console.log('ga', 'send', 'pageview', `${contentSource.basePath}${path}`)
+              ga('send', 'pageview', `${contentSource.basePath}${path}`)
+            }
 
             let browserPath = `${contentSource.basePath}${path}${this.anchor ? '#'+this.anchor : ''}`
             if (qargs.ref) browserPath += `?ref=${qargs.ref}`
@@ -562,9 +597,12 @@
             }
             this.active = null
             let essayElem = this.markdownToElem(this.markdown)
+            Array.from(this.$refs.essay.classList).forEach(cls => this.$refs.essay.classList.remove(cls))
             this.convertResourceUrls(essayElem, path)
+            Array.from(document.getElementById('essay').querySelectorAll('.collapsible')).forEach(el =>el.removeEventListener('click', this.toggleExpandCollapse))
             this.html = this.doCustomFormatting(essayElem)
             this.$nextTick(() => {
+              Array.from(document.getElementById('essay').querySelectorAll('.collapsible')).forEach(el =>el.addEventListener('click', this.toggleExpandCollapse))
               let segments = [...document.getElementById('essay').querySelectorAll('.segment')]
               this.getEntityData([...this.findEntities()]).then(entities => {
                 this.entities = entities
@@ -622,9 +660,11 @@
           doCustomFormatting(elem) {
             Array.from(elem.querySelectorAll('section.cards')).forEach(cardsSection => {
               Array.from(cardsSection.querySelectorAll('section')).forEach(card => {
-                ['img', 'a', 'ul'].forEach(selector => {
+                ['img', 'a', 'strong', 'ul'].forEach(selector => {
                   let el = card.querySelector(selector)
-                  if (el) card.appendChild(el)
+                  if (el) {
+                    if (selector !== 'strong' || el.parentElement.tagName !== 'A') card.appendChild(el)
+                  }
                 })
                 let segments = []
                 Array.from(card.querySelectorAll('.segment')).forEach(seg => {
@@ -635,13 +675,33 @@
                   }
                 })
                 if (segments.length > 0) {
-                  let segsDiv = document.createElement('div')
-                  card.appendChild(segsDiv)
-                  segments.forEach(seg => segsDiv.appendChild(seg))
+                  let abstractWrapper = document.createElement('div')
+                  abstractWrapper.classList.add('abstract')
+                  card.appendChild(abstractWrapper)
+                  let abstractDiv = document.createElement('div')
+                  abstractDiv.classList.add('abstract-text')
+                  abstractWrapper.appendChild(abstractDiv)
+                  segments.forEach(seg => abstractDiv.appendChild(seg))
+                  abstractWrapper.innerHTML += '<button class="collapsible">read more</button>'
                 }
               })
+
             })
             return elem.innerHTML
+          },
+
+          toggleExpandCollapse(e) {
+            let button = e.target
+            let textDiv = button.previousElementSibling
+            console.log('expandCollapse', button, textDiv)
+            if (button.innerText == 'read more') {
+              button.innerText = 'read less'
+              textDiv.style['-webkit-line-clamp'] = 'unset'
+            }
+            else if (button.innerText == 'read less') {
+              button.innerText = 'read more'
+              textDiv.style['-webkit-line-clamp'] = 5
+            }
           },
 
           // Adds tippy popups to tagged entity text
@@ -654,17 +714,26 @@
               placement: 'right',
               theme: 'light-border',
               onShow: async (instance) => {
-                // let entity = await this.getEntity(instance.reference.dataset.qid, this.lang)
+                // this.hoverEntity = null
                 this.hoverEntity = this.entities[instance.reference.dataset.eid]
+                if (this.hoverEntity.mwPage && !this.hoverEntity.summary) {
+                  let page = this.hoverEntity.mwPage.replace(/\/w\//, '/wiki/').split('/wiki/').pop()
+                  let resp = await fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${page}`, {
+                    headers: {'User-agent': 'JSTOR Labs client'}
+                  })
+                  resp = await resp.json()
+                  this.entities[instance.reference.dataset.eid].summary = resp.extract_html
+                  this.hoverEntity = {...this.entities[instance.reference.dataset.eid]}
+                }
                 this.$nextTick(() => instance.setContent(this.$refs.popup.outerHTML))
               },
-              onHide: () => {  }
+              onHide: () => {}
             })
           },
 
           // Finds all entity references in param tags
           findEntities() {
-            return new Set(Array.from(this.$refs.essay.querySelectorAll('param'))
+            return new Set(Array.from(this.$refs.essay.querySelectorAll('param, span'))
                            .filter(el => el.attributes.eid || (el.attributes.center && isEntityID(el.attributes.center.value)))
                            .map(el => (el.attributes.eid || el.attributes.center).value))
           },
@@ -726,13 +795,26 @@
                 aliases: [],
                 description: rec.description && rec.description.value,
                 geojson: rec.whosOnFirst && rec.whosOnFirst.value && this.whosOnFirstUrl(rec.whosOnFirst.value),
-                images: [], 
+                images: [],
+                thumbnails: [],
                 coords: rec.coords && rec.coords.value.replace(/Point\(/,'').replace(/\)/,'').split(' ').reverse().map(coord => parseFloat(coord)),
                 foundIn: new Set(),
               }
               if (rec.aliases && entities[eid].aliases.indexOf(rec.aliases.value) < 0) entities[eid].aliases.push(rec.aliases.value)
-              if (rec.images && entities[eid].images.indexOf(rec.images.value) < 0) entities[eid].images.push(this.commonsImageUrl(rec.images.value, 160))
+              if (rec.images && entities[eid].images.indexOf(rec.images.value) < 0) {
+                entities[eid].images.push(rec.images.value)
+                entities[eid].thumbnails.push(this.commonsImageUrl(rec.images.value, 160))
+              }
             })
+            query = `SELECT ?item ?mwPage WHERE {
+                        VALUES (?item) { ${values} }
+                        ?mwPage schema:about ?item .
+                        ?mwPage schema:isPartOf <https://en.wikipedia.org/> . }`
+            resp = await fetch(`https://query.wikidata.org/sparql?query=${encodeURIComponent(query)}`, {
+              method: 'GET', headers: { Accept: 'application/sparql-results+json', 'User-agent': 'Juncture web client' }
+            })
+            resp = await resp.json()
+            resp.results.bindings.forEach(rec => entities[rec.item.value.split('/').pop()]['mwPage'] = rec.mwPage.value)
             return entities
           },
 
@@ -752,21 +834,36 @@
                   segments = []
                 }
                 currentSection = new DOMParser().parseFromString('<section></section>', 'text/html').children[0].children[1].children[0]
-                let sectionClasses = Array.from(el.classList)
-                currentSection.classList.add(...sectionClasses)
-                el.classList.remove(...sectionClasses)
+                let elClasses = Array.from(el.classList)
+                el.classList.remove(...elClasses)
                 if (!el.innerHTML) el.style.display = 'none'
                 currentSection.innerHTML += el.outerHTML
+
                 let headings = [...essay.querySelectorAll(`H${sectionLevel-1}`)]
                 let parent = sectionLevel === 1 || headings.length === 0 ? essay : headings.pop().parentElement
-                parent.appendChild(currentSection)
                 let parentDataID = parent.dataset.id || ''
                 let sectionSeq = parent.querySelectorAll(`H${sectionLevel}`).length
                 let currentDataID = parentDataID ? `${parentDataID}.${sectionSeq}` : sectionSeq
                 currentSection.setAttribute('data-id', currentDataID)
+
+                if (elClasses.indexOf('cards') >= 0) {
+                  currentSection.appendChild(new DOMParser().parseFromString('<section class="cards"></section>', 'text/html').children[0].children[1].children[0])
+                } else {
+                  currentSection.classList.add(...elClasses)
+                  let cardsWrapper = parent.querySelector(':scope > .cards')
+                  if (cardsWrapper) {
+                    currentSection.classList.add('card')
+                    parent = cardsWrapper
+                  }
+                }
+
+                parent.appendChild(currentSection)
+
               } else if (el.tagName === 'P') {
                 if (el.innerHTML.indexOf('ve-button.png') >= 0) {
                   el = null
+                } else if (el.innerHTML.indexOf('class="nav"') >= 0) {
+                  currentSection.innerHTML += el.innerHTML
                 } else {
                   segment = new DOMParser().parseFromString('<div></div>', 'text/html').children[0].children[1].children[0]
                   segment.setAttribute('data-id', `${currentSection.dataset.id}.${segments.length + 1}`)
@@ -800,7 +897,11 @@
                 if (!target) { 
                   const parsedUrl = parseUrl(link.href)
                   let pathElems = parsedUrl.pathname.split('/').filter(elem => elem !== '')
-                  if (contentSource.isGhpSite && pathElems[0] === contentSource.repo) pathElems = pathElems.slice(1)
+                  if (contentSource.isGhpSite) {
+                    if (pathElems[0] === contentSource.repo) pathElems = pathElems.slice(1)
+                  } else {
+                    if (pathElems[0] === contentSource.acct && pathElems[1] === contentSource.repo) pathElems = pathElems.slice(2)
+                  }
                   target = parsedUrl.hash === '' ? `/${pathElems.join('/')}/` : parsedUrl.hash.split('?')[0]
                 }
                 link.removeAttribute('href')
@@ -844,7 +945,7 @@
           // Matched text is wrapped with a span tag for reacting to hover and click actions
           // TODO: make this better!
           tagEntities() {
-            Array.from(this.$refs.essay.querySelectorAll('.segment')).forEach(segment => {
+            Array.from(this.$refs.essay.querySelectorAll('.segment p')).forEach(segment => {
               let segmentHTML = segment.innerHTML
               this.paramsInScope(segment).filter(param => param['ve-entity'] !== undefined && param.eid !== undefined).map(param => param.eid).forEach(eid => {
                 let entity = this.entities[eid]
@@ -861,6 +962,13 @@
                 }
               })
               segment.innerHTML = segmentHTML
+            })
+            Array.from(this.$refs.essay.querySelectorAll('p span')).forEach(span => {
+              if (span.attributes.eid) {
+                console.log(span.attributes.eid.value)
+                span.setAttribute('data-eid', span.attributes.eid.value)
+                span.classList.add('entity', 'tagged')
+              }
             })
             Array.from(this.$refs.essay.querySelectorAll('span.entity'))
               .forEach(el => el.addEventListener('click', (e) => {
@@ -1009,14 +1117,13 @@
                 }
               }
             }
-            let baseReplacementValues = {
-              '<site-url>': `https://${targetAcct}.github.io/${targetRepo}`,
-              '<repo-url>': `https://github.com/${targetAcct}/${targetRepo}`,
-              '<config-url>': `https://github.com/${targetAcct}/${targetRepo}/blob/juncture/config.yaml`,
-              '<custom-css-url>': `https://github.com/${targetAcct}/${targetRepo}/blob/main/css/custom.css`,
-              '"Page Author"': `"${authenticatedUser.displayName}"`,
-              '<github-username>': authenticatedUser.acct,
-              '<contact-email>': `${authenticatedUser.displayName} <${authenticatedUser.email}>`
+
+            // template tages used for customized starter pages
+            let replacementValues = {
+              '<<acct>>': targetAcct,
+              '<<repo>>': targetRepo,
+              '<<display-name>>': authenticatedUser.displayName,
+              '<<email>>': authenticatedUser.email,
               }
 
             // At this point we have a juncture branch and it is configured as the Github Pages source
@@ -1033,17 +1140,28 @@
 
             if (isCreate) {
               resp = await this.getFile('/config.yaml', 'jstor-labs', 'juncture', fromRef)
-              await this.putFile('/config.yaml', this.replaceValues(resp.content, baseReplacementValues), targetAcct, targetRepo, 'juncture')
+              await this.putFile('/config.yaml', this.replaceValues(resp.content, replacementValues), targetAcct, targetRepo, 'juncture')
 
               resp = await this.getFile('/page-templates/new-site-readme.md', 'jstor-labs', 'juncture', fromRef)
-              let toReplace = {...baseReplacementValues, ...{'<edit-url>': `https://github.com/${targetAcct}/${targetRepo}/edit/main/README.md`}}
+              let toReplace = {...replacementValues, ...{'<<edit-url>>': `https://github.com/${targetAcct}/${targetRepo}/edit/main/README.md`}}
               await this.putFile('/README.md', this.replaceValues(resp.content, toReplace), targetAcct, targetRepo, 'main')
 
-              resp = await this.getFile('/page-templates/new-page-readme.md', 'jstor-labs', 'juncture', fromRef)
-              toReplace = {...baseReplacementValues, ...{'<edit-url>': `https://github.com/${targetAcct}/${targetRepo}/edit/main/about/README.md`}}
-              await this.putFile('/about/README.md', this.replaceValues(resp.content, toReplace), targetAcct, targetRepo, 'main')
+              await this.addPage(targetAcct, targetRepo, fromRef, '/about')
             }
 
+          },
+
+          async listRepositories() {
+            let resp = await fetch(`https://api.github.com/users/${authenticatedUser.acct}/repos?per_page=100&sort=created`, { headers: {Authorization: `Token ${this.ghToken}`}} )
+            return resp.ok ? await resp.json() : []
+          },
+
+          async addPage(acct, repo, ref, path) {
+            console.log(`addPage: acct=${acct} repo=${repo} ref=${ref} path=${path}`)
+            let replacementValues = {'<<acct>>': acct, '<<repo>>': repo, '<<display-name>>': authenticatedUser.displayName, '<<email>>': authenticatedUser.email}
+            resp = await this.getFile('/page-templates/new-page-readme.md', 'jstor-labs', 'juncture', 'main')
+            toReplace = {...replacementValues, ...{'<<edit-url>>': `https://github.com/${acct}/${repo}/edit/${ref}${path}/README.md`}}
+            await this.putFile(`${path}/README.md`, this.replaceValues(resp.content, toReplace), acct, repo, ref)
           },
 
           async createSite(targetAcct, targetRepo, fromRef) {
@@ -1077,6 +1195,8 @@
 
           scrollTop: {
             handler: function (scrollTop) { 
+              this.viewerHeight = this.$refs.viewer.clientHeight
+              // console.log(`scroll-top=${scrollTop} viewer=${this.viewerHeight}`)
               let target = this.$refs.essay
               let segments = Array.from(target.querySelectorAll('.segment'))
               let i
@@ -1094,7 +1214,7 @@
             this.viewerIsOpen = false
             if (config) {
               if (config.layout) this.layouts = config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout)
-              if (config.style) config.style.split(',').forEach(cls => this.$refs.app.classList.add(cls))
+              if (config.class) config.class.replace(/,/,' ').split(' ').forEach(cls => this.$refs.essay.classList.add(cls))
             }
           },
 
@@ -1148,14 +1268,17 @@
 
     // Vue components mixin that handles linking to external JS and CSS resources
     Vue.mixin({
+      props: {
+        componentName: String
+      },
       methods: {
         loadDependencies(dependencies, i, callback) {
           if (i === 0) {
             let componentData = {}
-            componentData[this.$options.name] = { label: this.viewerLabel, icon: this.viewerIcon }
+            componentData[this.componentName] = { label: this.viewerLabel, icon: this.viewerIcon }
             this.$emit('update-component-data', componentData)
           }
-          if (dependencies.length > 0) {
+          if (dependencies && dependencies.length > 0) {
             this.load(dependencies[i], () => {
               if (i < dependencies.length-1) {
                 this.loadDependencies(dependencies, i+1, callback) 
@@ -1163,6 +1286,8 @@
                 callback()
               }
             })
+          } else {
+            if (callback) callback()
           }
         },
         load(url, callback) {
@@ -1272,6 +1397,7 @@
         config = resp
         gcApiKey = atob(config.gcApiKey)
         gcAuthDomain = atob(config.gcAuthDomain)
+        gaPropertyID = config.gaPropertyID
       }
       if (contentSource.isGhpSite) {
         resp = await fetch(`${contentSource.baseUrl}${contentSource.basePath}/config.yaml`)
@@ -1292,6 +1418,7 @@
       if (config.ghUnscopedToken) ghUnscopedToken = atob(config.ghUnscopedToken)
       if (config.gcApiKey) gcApiKey = atob(config.gcApiKey)
       if (config.gcAuthDomain) gcAuthDomain = atob(config.gcAuthDomain)
+      if (config.gaPropertyID) gaPropertyID = config.gaPropertyID
       loginsEnabled = gcApiKey !== undefined && gcAuthDomain !== undefined
       return config
     }
@@ -1305,7 +1432,7 @@
     // Determines if Github repo exists
     async function githubRepoInfo(acct, repo) {
       if (knownGhAccts[acct]) {
-        return {acct, repo, ref: knownGhAccts[acct], basePath: `/${acct}/${repo}`,
+        return {acct, repo, ref: qargs.ref || knownGhAccts[acct], basePath: `/${acct}/${repo}`,
                 assetsBaseUrl: `https://gitcdn.link/cdn/${acct}/${repo}/${qargs.ref || knownGhAccts[acct]}`}
       } else {
         let ghToken = oauthAccessToken || ghUnscopedToken
@@ -1324,7 +1451,7 @@
       let ref = contentSource.acct === 'jstor-labs' && contentSource.repo === 'juncture' ? junctureVersion : contentSource.ref
       console.log(`getComponentsList: ref=${ref} junctureVersion=${junctureVersion}`)
       let componentsList = []
-      let ghToken = oauthAccessToken || ghUnscopedToken
+      let ghToken = window.location.hostname === 'localhost' ? ghUnscopedToken : (oauthAccessToken || ghUnscopedToken)
       if (window.location.hostname !== 'localhost' && contentSource.acct && contentSource.repo && contentSource.ref) {
         let resp = await fetch(`https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/git/trees/${ref}`,
                                ghToken ? { headers: {Authorization: `Token ${ghToken}`}} : {} )
@@ -1346,11 +1473,18 @@
       }
       // if (isJuncture && contentSource.acct !== 'jstor-labs' || contentSource.repo !== 'juncture') {
       if (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') {
-        let resp = await fetch(`https://api.github.com/repos/jstor-labs/juncture/git/trees/${junctureVersion}`, ghToken ? {headers: {Authorization: `Token ${ghToken}`}} : {})
-        resp = await resp.json()
-        resp = await fetch(resp.tree.find(item => item.path === componentsRoot).url, ghToken ? {headers: {Authorization: `Token ${ghToken}`}} : {})
-        resp = await resp.json()
-        componentsList = [...componentsList, ...resp.tree.map(item => `https://raw.githubusercontent.com/jstor-labs/juncture/${junctureVersion}/${componentsRoot}/${item.path}`)]
+        if (window.location.hostname === 'localhost') {
+          let basePath = contentSource.isGhpSite ? '/juncture' : ''
+          let resp = await fetch(`${contentSource.baseUrl}${basePath}/${componentsRoot}`)
+          resp = await resp.json()
+          componentsList = [...componentsList, ...resp.files.map(fname => `${contentSource.baseUrl}${basePath}/${componentsRoot}/${fname}`)]
+        } else {
+          let resp = await fetch(`https://api.github.com/repos/jstor-labs/juncture/git/trees/${junctureVersion}`, ghToken ? {headers: {Authorization: `Token ${ghToken}`}} : {})
+          resp = await resp.json()
+          resp = await fetch(resp.tree.find(item => item.path === componentsRoot).url, ghToken ? {headers: {Authorization: `Token ${ghToken}`}} : {})
+          resp = await resp.json()
+          componentsList = [...componentsList, ...resp.tree.map(item => `https://raw.githubusercontent.com/jstor-labs/juncture/${junctureVersion}/${componentsRoot}/${item.path}`)]
+        }
       }
       return componentsList
     }
@@ -1403,10 +1537,12 @@
         pathElems = (path || window.location.pathname).split('/').filter(elem => elem !== '')
         if (!pathIsDir) pathElems = pathElems.slice(0, -1)
         pathElems = [...pathElems, ...current.split('/').filter(elem => elem !== '')]
-        if (isJuncture && (contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs')) pathElems = pathElems.slice(2)
-        console.log(pathElems)
       }
-      if (pathElems[0] === contentSource.repo) pathElems = pathElems.slice(1)
+      if (isJuncture && pathElems.length >= 2) {
+        if ((contentSource.repo !== 'juncture' || contentSource.acct !== 'jstor-labs') && pathElems[0] === contentSource.acct && pathElems[1] === contentSource.repo) pathElems = pathElems.slice(2)
+      } else if (pathElems[0] === contentSource.repo) {
+        pathElems = pathElems.slice(1)
+      }
       console.log(`assetsBaseUrl=${contentSource.assetsBaseUrl}`)
       converted = `${contentSource.assetsBaseUrl || contentSource.baseUrl}/${pathElems.join('/')}`
       console.log(`convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
@@ -1420,6 +1556,12 @@
       })
       return await resp.json()
     }
+        
+    // Google Analytics
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window ,document,'script','https://www.google-analytics.com/analytics.js','ga')
   </script>
 
 </body>

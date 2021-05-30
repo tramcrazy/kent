@@ -27,6 +27,7 @@ nav:
 contactForm:
   toEmail:
   - ron.snyder@ithaka.org
+  - carolyn.oulton@canterbury.ac.uk
   subject: Kent Digital Map Contact
 
 #######################################################
@@ -37,6 +38,7 @@ iiifServer: https://iiif.juncture-digital.org
 
 siteAdmins:
 - rsnyder
+- DigiHum1
 
 ######################################################
 # Optional credentials used for GitHub API and OAuth integration

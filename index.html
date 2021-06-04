@@ -175,7 +175,7 @@
     console.log(window.location)
     const ENV = window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0 ? 'DEV' : 'PROD'
     const isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || window.location.host === 'localhost:8088'
-    const junctureVersion = 'v0.2.3'
+    const junctureVersion = 'main'
     let junctureVersionHash
 
     const referrerUrl = document.referrer
@@ -378,7 +378,7 @@
       if (gaPropertyID) ga('create', gaPropertyID, 'auto')
       let attrsWithUrls = ['banner', 'favicon']
 
-      if (ENV === 'PROD') {
+      if (ENV === 'PROD' || window.location.port === '8088') {
         headRef(contentSource.acct, contentSource.repo, contentSource.ref).then(headHash => {
           if (headHash) {
             contentSource.hash = headHash.slice(0,7)
@@ -415,7 +415,7 @@
       
 
       let mainCssPromise = ENV === 'DEV'
-        ? fetch(`/juncture/css/main.css`).then(resp => resp.text())
+        ? fetch(`${window.location.port === '8088' ? '' : '/juncture'}/css/main.css`).then(resp => resp.text())
         : getFile('jstor-labs', 'juncture', junctureVersionHash, '/css/main.css')
       mainCssPromise.then(css => {
       let style = document.createElement('style')
@@ -653,7 +653,7 @@
           },
 
           async getMarkdown(path) {
-            if (ENV === 'PROD' && contentSource.acct) {
+            if ((ENV === 'PROD' || window.location.port === '8088') && contentSource.acct) {
               let url = `https://api.github.com/repos/${contentSource.acct}/${contentSource.repo}/contents${path}?ref=${contentSource.ref}`
               let resp = await fetch(url, this.ghToken ? {cache: 'no-cache', headers: {Authorization:`Token ${this.ghToken}`}} : {})
               if (resp.ok) {

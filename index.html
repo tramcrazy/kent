@@ -8,10 +8,14 @@
   <link href="https://unpkg.com/tippy.js@6/themes/light-border.css" rel="stylesheet"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
   <title>Juncture</title>
+  <style>
+    [v-cloak] { display: none; }
+    #header, #footer { display: none; }
+  </style>
 </head>
 <body>
 
-  <div id="app" ref="app" :class="layouts.join(' ')">
+  <div id="app" v-cloak ref="app" :class="layouts.join(' ')">
     <div id="header" ref="header">            
       <component v-bind:is="'ve-header'" :active="true" :scroll-top="scrollTop"
                  :site-config="siteConfig"
@@ -54,10 +58,11 @@
         @set-active="active = $event"
         @scroll-to-anchor="scrollToAnchor"
         @load-essay="loadEssay"
+        @do-action="doAction"
       ></component>
     </div>
 
-    <div id="viewer" ref="viewer" :style="viewerStyle">
+    <div v-if="essayConfig" id="viewer" ref="viewer" :style="viewerStyle">
       <i v-if="!isVerticalLayout && viewerIsOpen" class="far fa-times-circle" style="position:absolute; top:0; right:0; z-index:500; font-size:26px;" @click="viewerIsOpen = !viewerIsOpen"></i>
       <component v-for="viewer in viewersEnabled" :key="viewer" v-bind:is="viewer" 
                  :items="items"
@@ -76,7 +81,7 @@
                  @set-hover-item="hoverItem = $event"
       ></component>
     </div>
-    <div v-if="path === '/'" id="footer" ref="footer">            
+    <div v-if="essayConfig && path === '/'" id="footer" ref="footer">            
       <component v-bind:is="'ve-footer'" :site-config="siteConfig" :content-source="contentSource"></component>
     </div>
 
@@ -175,7 +180,7 @@
     console.log(window.location)
     const ENV = window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0 ? 'DEV' : 'PROD'
     const isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || window.location.host === 'localhost:8088'
-    const junctureVersion = 'v0.2.3'
+    const junctureVersion = 'v0.2.5'
     let junctureVersionHash
 
     const referrerUrl = document.referrer
@@ -247,7 +252,6 @@
         if (pathElems.length >= 2) {
           let ghRepoInfo = await githubRepoInfo(pathElems[0], pathElems[1])
           if (ghRepoInfo) {
-            console.log('ghRepoInfo', ghRepoInfo)
             contentSource = {...contentSource, ...ghRepoInfo}
           }
         }
@@ -268,7 +272,6 @@
           }
           let ghRepoInfo = await githubRepoInfo(acct, repo)
           if (ghRepoInfo) {
-            console.log('ghRepoInfo', ghRepoInfo)
             contentSource = {...contentSource, ...ghRepoInfo}
           }
 
@@ -282,7 +285,6 @@
           if (pathElems.length >= 2) {
             let ghRepoInfo = await githubRepoInfo(pathElems[0], pathElems[1])
             if (ghRepoInfo) {
-              console.log('ghRepoInfo', ghRepoInfo)
               contentSource = {...contentSource, ...ghRepoInfo}
               contentSource.basePath = `/${contentSource.acct}/${contentSource.repo}`
             }
@@ -483,7 +485,7 @@
         }),
         computed: {
           // essayConfig() { return this.params.find(attr => attr['ve-config'] !== undefined) },
-          mainComponent() { return this.essayConfig && this.essayConfig.component ? `ve-${this.essayConfig.component.toLowerCase()}` : 've-essay'},
+          mainComponent() { return this.essayConfig && this.essayConfig.component ? `ve-${this.essayConfig.component.toLowerCase()}` : null},
           isAdminUser() { return authenticatedUser !== null && (authenticatedUser.isAdmin || contentSource.acct === authenticatedUser.acct) },
           ghToken() { return oauthAccessToken || ghUnscopedToken },
           viewerStyle() { return { 
@@ -670,6 +672,7 @@
 
           // Loads essay Markdown file
           async loadEssay(path, replace, anchor) {
+            // Array.from(this.$refs.app.classList).forEach(cls => this.$refs.app.classList.remove(cls))
             this.essayConfig = null
             path = path || window.location.pathname.slice(contentSource.basePath.length) || '/'
             if (path.slice(-1) !== '/') path += '/'
@@ -689,6 +692,7 @@
               ([this.markdown, this.html, this.params, this.entities] = await this.parseMarkdown(markdown))
               let essayConfig = this.params.find(param => param['ve-config']) || {}
               if (essayConfig.banner) essayConfig.banner = convertURL(essayConfig.banner)
+              essayConfig.component = essayConfig.component || 'essay'
               this.essayConfig = essayConfig
             }
             if (gaPropertyID) ga('send', 'pageview', `${contentSource.basePath}${path}`)
@@ -713,7 +717,17 @@
             let segments = []
             let segment
 
-            let entities = await this.getEntityData(Object.keys(this.findEntities(tmp)))
+            tmp.querySelectorAll('param').forEach(param => {
+              if (param.id || param.classList.length > 0) {
+                let prior = param.previousElementSibling
+                if (param.id) {
+                  prior.id = param.id
+                  param.removeAttribute('id')
+                }
+                if (param.classList.length > 0) prior.classList.add(param.classList)
+                param.parentElement.removeChild(param)
+              }
+            })
 
             Array.from(tmp.children).forEach(el => {
               if (el.tagName[0] === 'H' && isNumeric(el.tagName.slice(1))) {
@@ -725,25 +739,30 @@
                 }
                 currentSection = new DOMParser().parseFromString('<section></section>', 'text/html').children[0].children[1].children[0]
                 let elClasses = Array.from(el.classList)
-                el.classList.remove(...elClasses)
+                el.removeAttribute('class')
+                if (el.id) {
+                  currentSection.id = el.id
+                  el.removeAttribute('id')
+                }
                 if (!el.innerHTML) el.style.display = 'none'
                 currentSection.innerHTML += el.outerHTML
 
                 let headings = [...essay.querySelectorAll(`H${sectionLevel-1}`)]
                 let parent = sectionLevel === 1 || headings.length === 0 ? essay : headings.pop().parentElement
                 let parentDataID = parent.dataset.id || ''
-                let sectionSeq = parent.querySelectorAll(`H${sectionLevel}`).length
+                let sectionSeq = parent.querySelectorAll(`H${sectionLevel}`).length + 1
                 let currentDataID = parentDataID ? `${parentDataID}.${sectionSeq}` : sectionSeq
                 currentSection.setAttribute('data-id', currentDataID)
 
                 if (elClasses.indexOf('cards') >= 0) {
-                  currentSection.appendChild(new DOMParser().parseFromString('<section class="cards"></section>', 'text/html').children[0].children[1].children[0])
+                  let wrapper = new DOMParser().parseFromString('<section class="cards"></section>', 'text/html').children[0].children[1].children[0]
+                  currentSection.appendChild(wrapper)
                 } else {
                   currentSection.classList.add(...elClasses)
-                  let cardsWrapper = parent.querySelector(':scope > .cards')
-                  if (cardsWrapper) {
+                  let wrapper = parent.querySelector(':scope > .cards')
+                  if (wrapper) {
                     currentSection.classList.add('card')
-                    parent = cardsWrapper
+                    parent = wrapper
                   }
                 }
 
@@ -762,9 +781,12 @@
                   segment.classList.add('segment')
                   segment.innerHTML = el.outerHTML
                   segments.push(segment)
+
+                  /*
                   let segLink = document.createElement('span')
                   segment.appendChild(segLink)
                   segLink.outerHTML = `<span class="seg-link" data-anchor="${this.contentSource.baseUrl}${this.contentSource.basePath}${this.path}#${segID}" title="${segID}"><i class="fas fa-link"></span>`
+                  */
                 }
               } else if (el.tagName === 'SECTION' && el.className === 'footnotes') {
                 currentSection.innerHTML += el.outerHTML
@@ -781,42 +803,59 @@
               segments = []
             }
 
+            let assignedId = 0
             let params = Array.from(essay.querySelectorAll('param'))
-              .map(param => {
-                let prior = param.previousElementSibling
+              .map(paramEl => {
+                let prior = paramEl.previousElementSibling
                 while (prior && prior.tagName !== 'P' && prior.tagName[0] !== 'H') {
                   prior = prior.previousElementSibling
                 }
-                return { ...{ path: getDomPath(prior || tmp).join('>') }, ...attrsToObject(param) }
+                return { ...{ path: getDomPath(prior || tmp).join('>') }, ...attrsToObject(paramEl) }
               })
-              .map(param => {
-                let viewerTag = Object.keys(param).find(attr => !attr.value && this.availableViewers.indexOf(attr) >= 0)
-                if (viewerTag) param.viewer = viewerTag
-                else if (!Object.keys(param).find(attr => attr.indexOf('ve-') === 0)) param['ve-entity'] = ''
-                return param
+              .map(paramObj => {
+                let viewerTag = Object.keys(paramObj).find(attr => !attr.value && this.availableViewers.indexOf(attr) >= 0)
+                if (viewerTag) paramObj.viewer = viewerTag
+                else if (!Object.keys(paramObj).find(attr => attr.indexOf('ve-') === 0)) paramObj['ve-entity'] = ''
+                return paramObj
               })
+              .map(paramObj => {
+                if (!paramObj.id) paramObj.id = paramObj.eid || `P${++assignedId}`
+                return paramObj
+              })
+
+              let entities = await this.getEntityData(this.findEntities(tmp, params))
 
             return [markdown, essay.innerHTML, params, entities]
           },
 
           // Finds all entity references in param tags
-          findEntities(root) {
+          findEntities(root, params) {
+
             let entities = Object.fromEntries(
-              Array.from(root.querySelectorAll('param, span'))
-                .filter(el => el.attributes.eid)
-                .map(el => attrsToObject(el))
-                .map(entity => [entity.eid, entity]))
-              Array.from(root.querySelectorAll('param'))
-                .filter(el => el.attributes.center && isEntityID(el.attributes.center.value))
-                .filter(el => !entities[el.attributes.center.value])
-                .map(el => { return {...attrsToObject(el), ...{eid: el.attributes.center.value }} })
-                .forEach(entity => entities[entity.eid] = entity)
+              params.filter(param => param.eid || param['ve-entity'] !== undefined)
+              .map(entity => { return {...entity, ...{
+                id: entity.eid || entity.id, 
+                aliases: new Set(entity.aliases ? entity.aliases.split('|') : []),
+                foundIn: new Set()
+              }} })
+              .map(entity => [entity.id, entity]))
+            
+            Array.from(root.querySelectorAll('span'))
+              .filter(el => el.attributes.eid)
+              .map(el => attrsToObject(el))
+              .map(entity => { return {...entity, ...{id: entity.eid || entity.id} } })
+              .forEach(entity => { if (!entities[entity.eid]) entities[entity.eid] = entity })
+
+            params.filter(param => param.center && isEntityID(param.center))
+              .map(param => { return {...param, ...{id: param.center, eid: param.center} } })
+              .forEach(entity => { if (!entities[entity.eid]) entities[entity.eid] = entity })
+
             return entities
           },
 
           // Gets labels, aliases, images and geo coords for referenced Wikdata entities
-          async getEntityData(entityIds) {
-            let values = entityIds.map(eid => `(<http://www.wikidata.org/entity/${eid}>)`).join(' ')
+          async getEntityData(entities) {
+            let values = Object.values(entities).filter(entity => entity.eid).map(entity => `(<http://www.wikidata.org/entity/${entity.eid}>)`).join(' ')
             let query = `SELECT ?item ?label ?aliases ?description ?images ?coords ?whosOnFirst WHERE {
                             VALUES (?item) { ${values} }
                             ?item rdfs:label ?label . FILTER(LANG(?label) = 'en')
@@ -831,15 +870,15 @@
               headers: { Accept: 'application/sparql-results+json', 'Content-Type': 'application/x-www-form-urlencoded' }
             })
             resp = await resp.json()
-            let entities = {}
+            // let enrichedEntities = {}
             resp.results.bindings.forEach(rec => {
               let eid = rec.item.value.split('/').pop()
-              if (!entities[eid]) entities[eid] = {
-                  ...this.entities[eid], 
+              if (!entities[eid].images) entities[eid] = {
+                  ...entities[eid], 
                   ...{
                     eid, 
                     label: rec.label.value, 
-                    aliases: new Set(this.entities[eid] ? Array.from(this.entities[eid].aliases) : []),
+                    aliases: new Set(entities[eid].aliases ? Array.from(entities[eid].aliases) : []),
                     description: rec.description && rec.description.value,
                     geojson: rec.whosOnFirst && rec.whosOnFirst.value && this.whosOnFirstUrl(rec.whosOnFirst.value),
                     images: [],
@@ -872,7 +911,7 @@
               if (img.src.indexOf(window.location.origin) === 0) img.setAttribute('src', convertURL(img.src))
             })
             root.querySelectorAll('param').forEach(param => {
-              ['url', 'banner'].forEach(attr => {
+              ['url', 'banner', 'article'].forEach(attr => {
                 if (param.attributes[attr]) param.setAttribute(attr, convertURL(param.attributes[attr].value, `${contentSource.basePath}${this.path}`, this.mdDir !== '/'))
               })
             })
@@ -1120,8 +1159,8 @@
             this.viewerIsOpen = false
             if (config) {
               if (config.layout) this.layouts = config.layout.split(',').map(layout => layout === 'vtl' ? 'vertical' : layout)
-              Array.from(this.$refs.essay.classList).forEach(cls => this.$refs.essay.classList.remove(cls))
-              if (config.class) config.class.replace(/,/,' ').split(' ').forEach(cls => this.$refs.essay.classList.add(cls))
+              // Array.from(this.$refs.app.classList).forEach(cls => this.$refs.app.classList.remove(cls))
+              if (config.class) config.class.replace(/,/,' ').split(' ').forEach(cls => this.$refs.app.classList.add(cls))
             }
           },
 
@@ -1508,7 +1547,7 @@
       }
       // console.log(`assetsBaseUrl=${contentSource.assetsBaseUrl}`)
       converted = `${contentSource.assetsBaseUrl || contentSource.baseUrl}/${pathElems.join('/')}`
-      console.log(`convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
+      // console.log(`convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
       return converted
     }
 

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
@@ -185,8 +186,8 @@
   
     console.log(window.location)
     const ENV = window.location.hostname === 'localhost' || window.location.hostname.indexOf('gitpod') > 0 ? 'DEV' : 'PROD'
-    let isJuncture = window.location.hostname.indexOf('juncture-digital.org') >= 0 || ENV === 'DEV'
-    const junctureVersion = 'v0.2.19'
+    let isJuncture = window.location.hostname.indexOf('juncture-digital.org') === 0 || ENV === 'DEV'
+    const junctureVersion = 'v0.2.23'
     let junctureVersionHash
 
     const referrerUrl = document.referrer
@@ -297,6 +298,20 @@
             }
           }
 
+        } else if (window.location.hostname === 'dev.juncture-digital.org') {
+          contentSource = {
+            acct: 'jstor-labs', repo: 'juncture-dev', ref: 'main', basePath: '', isGhpSite: false,
+            baseUrl: window.location.origin, assetsBaseUrl: `https://raw.githubusercontent.com/jstor-labs/juncture-dev/main`
+          }
+          let pathElems = window.location.pathname.split('/').filter(elem => elem !== '')
+          if (pathElems.length >= 2) {
+            let ghRepoInfo = await githubRepoInfo(pathElems[0], pathElems[1])
+            if (ghRepoInfo) {
+              contentSource = {...contentSource, ...ghRepoInfo}
+              contentSource.basePath = `/${contentSource.acct}/${contentSource.repo}`
+            }
+          }
+
         // Deployed in a non juncture-digital.org custom domain
         } else {
           contentSource = {acct: null, repo: null, ref: null, baseUrl: window.location.origin, basePath: '', isGhpSite: false}
@@ -320,7 +335,7 @@
     async function headRef(acct, repo, ref, token) {  
       token = token || oauthAccessToken || ghUnscopedToken
       let heads, tags, found, sha
-      console.log(`headRef: acct=${acct} repo=${repo} ref=${ref} token=${token} oauthAccessToken=${oauthAccessToken} ghUnscopedToken=${ghUnscopedToken}`)
+      // console.log(`headRef: acct=${acct} repo=${repo} ref=${ref} token=${token} oauthAccessToken=${oauthAccessToken} ghUnscopedToken=${ghUnscopedToken}`)
       let resp = await fetch(`https://api.github.com/repos/${acct}/${repo}/git/refs/heads`, {
         headers: {Authorization: `Token ${token}`, Accept: 'application/vnd.github.v3+json'} })
       if (resp.ok) {
@@ -342,8 +357,8 @@
 
     async function getFile(acct, repo, ref, path, token) {
       token = token || oauthAccessToken || ghUnscopedToken
-      console.log(`getFile: token=${token} oauthAccessToken=${oauthAccessToken} ghUnscopedToken=${ghUnscopedToken}`)
-      console.log(`getFile: acct=${acct} repo=${repo} ref=${ref} path=${path} token=${token}`)
+      // console.log(`getFile: token=${token} oauthAccessToken=${oauthAccessToken} ghUnscopedToken=${ghUnscopedToken}`)
+      // console.log(`getFile: acct=${acct} repo=${repo} ref=${ref} path=${path} token=${token}`)
       let content
       let resp = await fetch(`https://api.github.com/repos/${acct}/${repo}/contents${path}?ref=${ref}`, {headers: {Authorization:`Token ${token}`}})
       if (resp.ok) {
@@ -562,11 +577,10 @@
 
           // Handles menu actions from header
           async doAction(action, options) {
-            console.log('doAction', action, options)
+            // console.log('doAction', action, options)
             if (action === 'send-email') {
               this.doActionCallback = {status: 'processing', message: 'Processing request'}
               let resp = await sendEmail(options)
-              console.log(resp)
               this.doActionCallback = {status: 'done', message: 'Email sent'}
             } else if (action === 'view-markdown') {
               this.markdownViewer.show()
@@ -700,7 +714,6 @@
                 let mdFile = pathElems.slice(-1)
                 this.mdDir = `/${pathElems.slice(0,-1).join('/')}`
                 this.mdPath = pathsToTry[i]
-                console.log(pathsToTry[i], pathElems, mdFile, this.mdDir, this.mdPath)
                 break
               }
             }
@@ -716,14 +729,11 @@
             if (markdown) {
               ([this.markdown, this.html, this.params, this.entities] = await this.parseMarkdown(markdown))
               let essayConfig = this.params.find(param => param['ve-config']) || {}
-              console.log('essayConfig', essayConfig)
               if (essayConfig.banner) essayConfig.banner = convertURL(essayConfig.banner)
               essayConfig.component = essayConfig.component || 'essay'
               this.essayConfig = essayConfig
             }
             if (gaPropertyID) ga('send', 'pageview', `${contentSource.basePath}${path}`)
-
-
 
           },
 
@@ -738,16 +748,18 @@
             let segments = []
             let segment
 
-            tmp.querySelectorAll('param').forEach(param => {
-              if (param.id || param.classList.length > 0) {
-                let prior = param.previousElementSibling
-                if (param.id) {
-                  prior.id = param.id
-                  param.removeAttribute('id')
+            Array.from(tmp.querySelectorAll('param'))
+              .filter(param => Object.values(param.attributes).find(attr => attr.nodeName !== 'id' && attr.nodeName !== 'class') === undefined)
+              .forEach(param => {
+                if (param.id || param.className) {
+                  let prior = param.previousElementSibling
+                  if (param.id && prior) prior.id = param.id
+                  if (param.className) {
+                    if (prior) prior.className = param.className
+                    else essay.className = param.className
+                  }
+                  param.parentElement.removeChild(param)
                 }
-                if (param.classList.length > 0) prior.className = param.className
-                param.parentElement.removeChild(param)
-              }
             })
 
             Array.from(tmp.children).forEach(el => {
@@ -928,7 +940,6 @@
 
           convertResourceUrls(root) {
             let pathIsDir = this.path.slice(0,-1) === this.mdDir
-            console.log(this.path.slice(0,-1), this.mdDir, pathIsDir)
             root.querySelectorAll('img').forEach(img => {
               if (img.src.indexOf(window.location.origin) === 0) img.setAttribute('src', convertURL(img.src,`${contentSource.basePath}${this.path}`, pathIsDir))
             })
@@ -1134,7 +1145,7 @@
           },
 
           async addPage(acct, repo, ref, path) {
-            console.log(`addPage: acct=${acct} repo=${repo} ref=${ref} path=${path}`)
+            // console.log(`addPage: acct=${acct} repo=${repo} ref=${ref} path=${path}`)
             let replacementValues = {'<<acct>>': acct, '<<repo>>': repo, '<<display-name>>': authenticatedUser.displayName, '<<email>>': authenticatedUser.email}
             resp = await this.getFile('/page-templates/new-page-readme.md', 'jstor-labs', 'juncture', 'main')
             toReplace = {...replacementValues, ...{'<<edit-url>>': `https://github.com/${acct}/${repo}/edit/${ref}${path}/README.md`}}
@@ -1142,7 +1153,7 @@
           },
 
           async createSite(targetAcct, targetRepo, fromRef) {
-            console.log(`createSite: targetAcct=${targetAcct} targetRepo=${targetRepo} fromRef=${fromRef}`)
+            // console.log(`createSite: targetAcct=${targetAcct} targetRepo=${targetRepo} fromRef=${fromRef}`)
             // See if repo exists and create it if needed
             let resp = await fetch(`https://api.github.com/repos/${targetAcct}/${targetRepo}`, { headers: {Authorization: `Token ${this.ghToken}`}} )
             let repoExists = resp.ok
@@ -1162,7 +1173,7 @@
           },
 
           async updateSite(release) {
-            console.log(`updateSite: release=${release.name} tag=${release.tag_name}`)
+            // console.log(`updateSite: release=${release.name} tag=${release.tag_name}`)
             this.syncFiles(contentSource.acct, contentSource.repo, release.tag_name, false)
           }
     
@@ -1216,7 +1227,7 @@
 
           // logging watchers
           params (params) {
-            console.log('params', params)
+            // console.log('params', params)
             // Load custom components declared in page markdown
             params
               .filter(param => param['ve-component'] !== undefined)
@@ -1230,8 +1241,8 @@
                 }
             })
           },
-          entities (entities) { console.log('entities', entities) },
-          selectedViewer (selectedViewer) { console.log('selectedViewer', selectedViewer) },
+          // entities (entities) { console.log('entities', entities) },
+          // selectedViewer (selectedViewer) { console.log('selectedViewer', selectedViewer) },
           selectedItem (eid) { console.log(`selectedItem=${eid}`) },
           hoverItem (eid) {
             document.querySelectorAll('.hover').forEach(el => el.classList.remove('hover'))
@@ -1319,7 +1330,7 @@
           repo = repo || this.contentSource.repo
           ref = ref || this.contentSource.ref
           let ghToken = oauthAccessToken || ghUnscopedToken
-          console.log(`getFile: path=${path} acct=${acct} repo=${repo} ref=${ref} ghToken=${ghToken}`)
+          // console.log(`getFile: path=${path} acct=${acct} repo=${repo} ref=${ref} ghToken=${ghToken}`)
           if (ENV === 'PROD' && acct) {
             let url = `https://api.github.com/repos/${acct}/${repo}/contents${path}?ref=${ref}`
             let resp = await fetch(url, ghToken ? {headers: {Authorization:`Token ${ghToken}`}} : {})
@@ -1340,7 +1351,7 @@
           repo = repo || this.contentSource.repo
           branch = branch || this.contentSource.ref
           message = message || 'API Commit'
-          console.log(`putFile: path=${path} acct=${acct} repo=${repo} branch=${branch} message=${message}`)
+          // console.log(`putFile: path=${path} acct=${acct} repo=${repo} branch=${branch} message=${message}`)
           if (ENV === 'PROD' && acct) {
             let ghToken = oauthAccessToken || ghUnscopedToken
             let existing = await this.getFile(path, acct, repo, branch)
@@ -1559,11 +1570,10 @@
       let pathElems = []
       if (_current.indexOf('http') === 0) {
         if (_current.indexOf(window.location.origin) === 0) {
-          if (!pathIsDir) {
+          if (path && !pathIsDir) {
             let dirElems = path.split('/').filter(elem => elem !== '').slice(0,-1)
             let mdDir = dirElems.length > 0 ? `/${dirElems.join('/')}/` : '/'
             _current = _current.replace(new RegExp(path.replace(/\//g, '\\/')), `${mdDir}`)
-            console.log(path, mdDir, _current)
           }
           pathElems = _current.split('/').slice(3)
         }
@@ -1582,7 +1592,7 @@
       }
       // console.log(`assetsBaseUrl=${contentSource.assetsBaseUrl}`)
       converted = `${contentSource.assetsBaseUrl || contentSource.baseUrl}/${pathElems.join('/')}`
-      console.log(`isJuncture=${isJuncture} convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
+      // console.log(`isJuncture=${isJuncture} convertURL: current=${current} converted=${converted} path=${path} pathIsDir=${pathIsDir} pathElems=${pathElems}`)
       return converted
     }
 

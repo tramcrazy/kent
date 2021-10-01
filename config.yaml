@@ -40,13 +40,5 @@ siteAdmins:
 - rsnyder
 - DigiHum1
 
-######################################################
-# Optional credentials used for GitHub API and OAuth integration
-######################################################
-
-# GitHub upscoped API token used for content retrivals
-#ghUnscopedToken: <Base64 encoded GitHub unscoped token>
-
-# Google Cloud OAuth settings for GithHub login via Juncture
-#gcAuthDomain: <Base64-encoded Google Cloud OAuth domain>
-#gcApiKey: <Base64-encoded restricted access Google Cloud API key>
+oneTrustSiteKey: 08d331f7-d077-46de-aab3-d92135d132d5
+enableOneTrust: true

@@ -102,9 +102,7 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 
 Regeneration and the rise of the DFL.
 
-# Essays by place
-
-# {.cards}
+# Essays by place {.cards}
 
 ##
 [**Places A-D**](/placesad)

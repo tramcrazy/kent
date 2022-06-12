@@ -3,7 +3,7 @@
        banner="/images/banners/16c.jpg"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[19th century](19c-recommended-reading)**

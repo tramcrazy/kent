@@ -3,7 +3,7 @@
        banner="/images/banners/17c.jpg"
        layout="index">
        
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Aphra Behn](17c-behn-biography)**

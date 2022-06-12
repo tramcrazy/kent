@@ -3,7 +3,7 @@
        banner="/images/banners/18c.jpg"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[John Boys](18c-boys-biography)**

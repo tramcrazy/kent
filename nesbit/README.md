@@ -3,7 +3,7 @@
        banner="/images/banners/19c.jpg"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Edith Nesbit](/nesbit/nesbit-biography)**

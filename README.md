@@ -51,9 +51,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
-# Essays by period
-
-# {.cards}
+# Essays by period {.cards}
 
 ##
 [**Medieval**](/medieval)
@@ -129,9 +127,7 @@ Towns of grandeur. Articles on Folkestone, Gravesend and Margate
 
 Seaside resorts such as Ramsgate and Sandgate.
 
-# Essays by theme
-
-# {.cards}
+# Essays by theme {.cards}
 
 ##
 [**Seascapes**](/seascape)
@@ -182,9 +178,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
-# Featured Authors
-
-# {.cards}
+# Featured Authors {.cards}
 
 ##
 [**Jane Austen**](/austen)
@@ -229,9 +223,7 @@ Edith Nesbit lived in Kent during her childhood and then again in later life and
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
-# Featured Texts
-
-# {.cards}
+# Featured Texts {.cards}
 
 ##
 [**Double Double by John Brunner**](/20c/20c-double-double)

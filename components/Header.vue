@@ -31,11 +31,9 @@
 
             <template>
               <li @click="doMenuAction({action:'view-markdown'})"><i class="fas fa-file-code"></i>View page markdown</li>
-              <li @click="doMenuAction({action:'goto-github'})"><i class="fab fa-github"></i>Goto to GitHub</li>
-                          
-              <hr>
-              <li v-if="isAuthenticated" @click="doMenuAction({action:'create-site'})"><i class="fas fa-plus-circle"></i>Create new site</li>
-              <li v-if="isAdmin" @click="doMenuAction({action:'software-update'})"><i class="fas fa-wrench"></i>Software update</li>
+              <!--
+                <li @click="doMenuAction({action:'goto-github'})"><i class="fab fa-github"></i>Goto to GitHub</li>
+              -->
             </template>
 
           </template>

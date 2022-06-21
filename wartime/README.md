@@ -3,7 +3,7 @@
        banner="https://stor.artstor.org/stor/bee89f45-ed57-468c-bbbb-e706bd015859"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Belgian Refugees](/20c/20c-belgian-refugees)**

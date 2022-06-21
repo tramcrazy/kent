@@ -3,7 +3,7 @@
        banner="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Geoffrey Chaucer](14c-chaucer)**

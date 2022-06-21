@@ -3,7 +3,7 @@
        banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Seaside Resorts](/19c/19c-seaside)**

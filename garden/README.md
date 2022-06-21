@@ -3,7 +3,7 @@
        banner="https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[John Boys](/18c/18c-boys-biography/)**

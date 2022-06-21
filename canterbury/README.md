@@ -2,7 +2,7 @@
        title="Canterbury"
        banner="/images/20c.jpg">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**

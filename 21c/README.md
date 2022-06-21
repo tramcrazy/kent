@@ -2,7 +2,7 @@
        title="21st Century Kent"
        banner="images/Millenium%20Mural.jpg">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Impressions from a Bolthole Window](21c-impressions-hirst)**

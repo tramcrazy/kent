@@ -3,7 +3,7 @@
        banner="https://stor.artstor.org/stor/cc8a3415-e232-4db4-8a21-98b6d9539b2a"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[The Battle of Britain Memorial](/20c/20c-battle-of-britain-memorial)**

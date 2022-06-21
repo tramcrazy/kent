@@ -379,9 +379,7 @@ Dr Simon Wilson is a Senior Lecturer in the Faculty of Arts, Humanities and Educ
 
 Charlotte Worthington is currently a third-year history and French undergraduate, with the intention to go into translation. She was born in the UK but lived in the Lot in the south of France from the age of 11. A keen interest in literature has led her to do her work experience for one of the third-year French modules with the Kent Digital Map project.
 
-# Design Team
-
-# {.cards}
+# Design Team {.cards}
 
 ##
 [**Kaitlyn Cowling**]()

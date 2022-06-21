@@ -3,7 +3,7 @@
        banner="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Alfred Cohen](/20c/20c-cohen-biography)**

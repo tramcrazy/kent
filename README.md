@@ -4,9 +4,7 @@
        
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
-# Featured essays
-
-# {.cards}
+# Featured essays {.cards}
 
 ##
 [**Mobile Landscapes - Finding Kent Dickensian**](/dickens/mobile-landscapes)
@@ -53,9 +51,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 
 It was Kent that engaged my feelings more fiercely than any other place I can remember’, said the American artist Alfred Cohen. 
 
-# Essays by period
-
-# {.cards}
+# Essays by period {.cards}
 
 ##
 [**Medieval**](/medieval)
@@ -106,9 +102,7 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 
 Regeneration and the rise of the DFL.
 
-# Essays by place
-
-# {.cards}
+# Essays by place {.cards}
 
 ##
 [**Places A-D**](/placesad)
@@ -131,9 +125,7 @@ Towns of grandeur. Articles on Folkestone, Gravesend and Margate
 
 Seaside resorts such as Ramsgate and Sandgate.
 
-# Essays by theme
-
-# {.cards}
+# Essays by theme {.cards}
 
 ##
 [**Seascapes**](/seascape)
@@ -184,9 +176,7 @@ Take a musical jaunt with the Canterbury Catch Club through Nineteenth Century K
 
 On the frontline of England's defence, Kent played a pivitol role in both the First and Second World Wars. 
 
-# Featured Authors
-
-# {.cards}
+# Featured Authors {.cards}
 
 ##
 [**Jane Austen**](/austen)
@@ -231,9 +221,7 @@ Edith Nesbit lived in Kent during her childhood and then again in later life and
 
 Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Orlando, Virginia Woolf’s time travelling, gender fluid, eponymous character.  However, she was a prolific and versatile writer in her own right, both a a celebrated poet and author of fourteen novels.
 
-# Featured Texts
-
-# {.cards}
+# Featured Texts {.cards}
 
 ##
 [**Double Double by John Brunner**](/20c/20c-double-double)

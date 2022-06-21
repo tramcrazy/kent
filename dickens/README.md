@@ -3,7 +3,7 @@
        title="Dickens Land"
        banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/dickensland.png">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Finding Dickens Land](dickens-biography)**

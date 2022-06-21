@@ -3,7 +3,7 @@
        banner="/images/banners/19c.jpg"
        layout="index">
 
-# {.cards}
+# &nbsp; {.cards}
 
 ##
 **[Folkestone in the 19th century](/19c/19c-folkestone/)**

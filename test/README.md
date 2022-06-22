@@ -1,4 +1,4 @@
-# Juncture demo
+# Testing
 
-- [Simple (current)](amalfi)
-- [Simple (v2)](amalfi-v2)
+- [Essay with original tagging](amalfi)
+- [Essay with simplified tagging](amalfi-v2)

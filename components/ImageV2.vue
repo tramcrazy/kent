@@ -27,7 +27,7 @@ module.exports = {
   }),
   computed: {
     containerStyle() { return { height: this.viewerIsActive ? '100%' : '0' } },
-    viewerItems() { return this.items.filter(item => item.viewer === 've-image-v2') },
+    viewerItems() { return this.items.filter(item => item.viewer === 've1-image-v2') },
     imageData() { return this.viewerItems.map(item => {
       let entry = item.manifest || (item.src ? item.manifest || item.src : `/${item.url}`)
       if (item.fit) entry += ` ${item.fit}`

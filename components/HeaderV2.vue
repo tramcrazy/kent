@@ -1,7 +1,14 @@
 <template>
-  <div :style="containerStyle">
-    Header V2
-  </div>  
+    <ve-header 
+      label="Kent Maps Online"
+      background="gh:kent-map/images/Kent_Maps.jpg"
+      sticky="true"
+      >
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+      </ul>
+    </ve-header>
 </template>
 
 <script>

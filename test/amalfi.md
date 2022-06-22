@@ -19,7 +19,7 @@ Amalfi is a town and _comune_ in the province of Salerno, in the region of Campa
 
 Amalfi is the main town of the coast on which it is located, named _Costiera Amalfitana_ (Amalfi Coast), and is today an important tourist destination together with other towns on the same coast, such as Positano, Ravello and others.
 <param ve-map center="Q80563" zoom="8">
-<param ve-image-v2 src="gh:rdsnyder/images/italy-2022/amalfi-coast/Amalfi__1.jpg">
+<param ve-image-v2 manifest="gh:rdsnyder/images/italy-2022/amalfi-coast/Amalfi__1.jpg">
 
 ## References
 

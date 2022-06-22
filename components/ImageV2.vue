@@ -27,11 +27,7 @@ module.exports = {
   }),
   computed: {
     containerStyle() { return { height: this.viewerIsActive ? '100%' : '0' } },
-    viewerItems() { return this.items.filter(item => {
-        console.log(item, item.viewer, item.viewer === 've1-image-v2')
-        return item.viewer === 've1-image-v2'
-      }) 
-    },
+    viewerItems() { return this.items.filter(item => item.viewer === 've1-image-v2') },
     imageData() { return this.viewerItems.map(item => {
       let entry = item.manifest || (item.src ? item.manifest || item.src : `/${item.url}`)
       if (item.fit) entry += ` ${item.fit}`
@@ -46,11 +42,6 @@ module.exports = {
   mounted() {
     console.log(`${this.$options.name}.mounted`, 'items', this.items, 'viewerItems', this.viewerItems, 'imageData', this.imageData)
     this.loadDependencies(this.dependencies, 0, this.init) 
-  },
-  watch: {
-    items(items) {console.log('items', items)},
-    viewerItems(items) {console.log('viewerItems', items)},
-    imageData(items) {console.log('imageData', items)}
   }
 }
 

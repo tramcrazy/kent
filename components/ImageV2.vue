@@ -40,7 +40,7 @@ module.exports = {
     path() { return `${this.basePath}${this.mdDir}` }
   },
   mounted() {
-    console.log(`${this.$options.name}.mounted`, this.viewerItems, this.imageData)
+    console.log(`${this.$options.name}.mounted`, this.items, this.viewerItems, this.imageData)
     this.loadDependencies(this.dependencies, 0, this.init) 
   }
 }

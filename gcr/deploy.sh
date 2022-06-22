@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GCR_SERVICE=${1:-kent}
+GCR_SERVICE=${1:-kent-dev}
 MIN_INSTANCE_LIMIT=${2:-0}
 
 gcloud config configurations activate juncture

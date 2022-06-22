@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 
 # Site content
 PREFIX = 'kent-map/kent'
-REF = 'staging' # Github branch to use - leave empty for default branch (typically 'main')
+REF = 'dev' # Github branch to use - leave empty for default branch (typically 'main')
 
 def _add_tag(soup, tag, attrs):
   el = soup.new_tag(tag)

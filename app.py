@@ -66,13 +66,13 @@ def favicon():
 def robots_txt():
   # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
   resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/robots.txt')
-  return Response(resp.txt if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
+  return Response(resp.text if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
 
 @app.route('/sitemap.txt')
 def sitemap_txt():
   # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
   resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/sitemap.txt')
-  return Response(resp.txt if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
+  return Response(resp.text if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
 
 @app.route('/<path:path>')
 @app.route('/')

@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''
 Flask app for Juncture site.
 Dependencies: bs4 Flask Flask-Cors html5lib requests
@@ -57,20 +59,20 @@ def _get_html(path, base_url, ref=REF, **kwargs):
 @app.route('/favicon.ico')
 def favicon():
   # return send_from_directory(os.path.join(app.root_path, 'static', 'images'), 'favicon.png', mimetype='image/png')
-  favicon = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/images/favicon.png').content
-  return Response(favicon, 200, content_type='image/png')
+  resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/images/favicon.png').content
+  return Response(resp.content if resp.status_code == 200 else '', resp.status_code, content_type='image/png')
 
 @app.route('/robots.txt')
 def robots_txt():
-  # return send_from_directory(os.path.join(app.root_path, 'static'), 'robots.txt', mimetype='text/plain')
-  robots = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/robots.txt').text
-  return Response(robots, 200, content_type='text/plain')
+  # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
+  resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/robots.txt')
+  return Response(resp.txt if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
 
 @app.route('/sitemap.txt')
 def sitemap_txt():
   # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
-  sitemap = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/sitemap.txt').text
-  return Response(sitemap, 200, content_type='text/plain')
+  resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/sitemap.txt')
+  return Response(resp.txt if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
 
 @app.route('/<path:path>')
 @app.route('/')

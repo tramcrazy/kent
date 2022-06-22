@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-  title="Amalfi" author="Ron" layout="vertical"
+  title="Amalfi" author="Ron" layout="vertical" header="header-v2"
   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amalfi_panorama_I.jpg/1280px-Amalfi_panorama_I.jpg">
 
 <param ve-entity eid="Q80563" name="Amalfi">

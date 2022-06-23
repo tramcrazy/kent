@@ -1,7 +1,5 @@
-<param ve-config title="Kent Maps Online"
-       banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/images/kent-map-header.jpg"
-       show-abstracts="true">
-       
+.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true
+
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
 
 # Featured essays {.cards}
@@ -9,16 +7,16 @@ This site provides a set of themed essays about Kent, a county in South East Eng
 ##
 [**Mobile Landscapes - Finding Kent Dickensian**](/dickens/mobile-landscapes)
 
-- author: Ken Moffat and Carolyn W. de la L. Oulton
+- Author: Ken Moffat and Carolyn W. de la L. Oulton
 
-![](/images/thumbnails/mobile-landscapes.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/mobile-landscapes.jpg)
 
 You’ll need a map because there are no signposts ... There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie.
 
 ##
 [**H.G.Wells**](/20c/20c-wellshg-biography)
 
-- author: Simone Blandford
+- Author: Simone Blandford
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/3615ba37-88b4-4c75-95b0-6710b43d7c73)
 
@@ -27,7 +25,7 @@ You’ll need a map because there are no signposts ... There are witnesses of co
 ##
 [**Derek Jarman**](/20c/20c-jarman-biography)
 
-- author: Jeremy Page
+- Author: Jeremy Page
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/20c/images/Jarman1.jpg)
 
@@ -36,7 +34,7 @@ It isn’t perhaps surprising that Derek Jarman should have fallen in love with 
 ##
 [**Charles Darwin**](/19c/19c-darwin-biography)
 
-- author: Peter Vujakovic
+- Author: Peter Vujakovic
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/DSCN1084.JPG)
 
@@ -63,35 +61,35 @@ The Kingdom of the Kentish (Cantwara rīce; Regnum Cantuariorum), The murder of 
 ##
 [**16th century**](/16c)
 
-![](/images/thumbnails/16c.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/16c.jpg)
 
 Establishment of Chatham Dockyard. Battle against the Spanish Armada. Industry includes textiles and iron production.
 
 ##
 [**17th century**](/17c)
 
-![](/images/thumbnails/17c.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/17c.jpg)
 
 Industry includes production of malt for brewing. Civil Wars.
 
 ##
 [**18th century**](/18c)
 
-![](/images/thumbnails/18c.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/18c.jpg)
 
 Strategic position of the Medway in relation to European wars. New sea water ‘cures’ see the reinvention of Margate as a fashionable resort.
 
 ##
 [**19th century**](/19c)
 
-![](/images/thumbnails/19c.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/19c.jpg)
 
 Arrival of the railway. Development of recognisably modern tourist industry.
 
 ##
 [**20th century**](/20c)
 
-![](/images/thumbnails/20c.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/20c.jpg)
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
@@ -199,7 +197,7 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 ##
 [**Charles Dickens**](/dickens)
 
-![](/images/thumbnails/dickens-head.jpg)
+![](https://raw.githubusercontent.com/kent-map/kent/main/images/thumbnails/dickens-head.jpg)
 
 One of the greatest Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822; and again from 1856 to 1870.
 

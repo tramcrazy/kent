@@ -1,4 +1,7 @@
 .ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
+    - [Contact Us](/contact)
 
 This site provides a set of themed essays about Kent, a county in South East England, which include interactive maps and images.  Kent has a rich history and provided inspiration for a number of writers and artists.
 

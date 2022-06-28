@@ -6,6 +6,7 @@ Dependencies: bs4 Flask Flask-Cors html5lib requests
 '''
 
 import os, logging
+from urllib.parse import urlencode
 
 from flask import Flask, request, send_from_directory, Response
 from flask_cors import CORS
@@ -73,6 +74,18 @@ def sitemap_txt():
   # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
   resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/sitemap.txt')
   return Response(resp.text if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
+
+@app.route('/search')
+def search():
+  args = {**{
+      'key': 'AIzaSyACC97AeSXz3iWgSPAgiKe1VLpdFaviUMg',
+      'cx': '568011e472c1ffe27'
+    }, 
+    **dict(request.args)
+  }
+  url = f'https://www.googleapis.com/customsearch/v1?{urlencode(args)}'
+  print(f'search: {url}')
+  return requests.get(url).json()
 
 @app.route('/<path:path>')
 @app.route('/')

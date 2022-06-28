@@ -78,7 +78,7 @@ def sitemap_txt():
 @app.route('/search')
 def search():
   args = {**{
-      'key': 'AIzaSyACC97AeSXz3iWgSPAgiKe1VLpdFaviUMg',
+      'key': '',
       'cx': '568011e472c1ffe27'
     }, 
     **dict(request.args)

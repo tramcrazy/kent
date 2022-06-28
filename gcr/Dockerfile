@@ -10,7 +10,7 @@ ENV APP_HOME /app
 WORKDIR $APP_HOME
 COPY . ./
 
-RUN set -e; pip install bs4 Flask Flask-Cors html5lib requests uWSGI
+RUN set -e; pip install bs4 Flask Flask-Cors html5lib PyYAML requests uWSGI
 
 ENV PORT 8080
 

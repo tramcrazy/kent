@@ -2,11 +2,16 @@
 
 '''
 Flask app for Juncture site.
-Dependencies: bs4 Flask Flask-Cors html5lib requests
+Dependencies: bs4 Flask Flask-Cors html5lib PyYAML requests
 '''
 
 import os, logging
 from urllib.parse import urlencode
+
+import yaml
+
+SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
+CREDS = yaml.load(open(f'{SCRIPT_DIR}/creds.yaml', 'r').read(), Loader=yaml.FullLoader)
 
 from flask import Flask, request, send_from_directory, Response
 from flask_cors import CORS
@@ -78,7 +83,7 @@ def sitemap_txt():
 @app.route('/search')
 def search():
   args = {**{
-      'key': '',
+      'key': CREDS['GOOGLE_API_KEY'],
       'cx': '568011e472c1ffe27'
     }, 
     **dict(request.args)

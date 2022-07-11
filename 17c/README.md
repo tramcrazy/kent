@@ -10,7 +10,7 @@
 
 - author: Alexa Barrett
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/313c325c-0895-46de-bd40-f44b75667178)
+![](https://iiif-presentation.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/313c325c-0895-46de-bd40-f44b75667178)
 
 Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown was the likely place she was born; however, like much of her life, this is difficult to confirm.
 
@@ -19,7 +19,7 @@ Behn’s life is thought to have begun in 1640 in Kent. It is argued Harbledown 
 
 - author: Dominique Gracia and Arnav Sharma
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://iiif-presentation.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Physician who contributed to the study of anatomy and physiology, advancing knowledge about the circulation of the blood.
 
@@ -28,7 +28,7 @@ Physician who contributed to the study of anatomy and physiology, advancing know
 
 - author: Dominique Gracia and Hannah Jennison
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://iiif-presentation.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Naturalist and chemist, Plot was born at Borden in Kent.
 
@@ -37,7 +37,7 @@ Naturalist and chemist, Plot was born at Borden in Kent.
 
 - author: Dominique Gracia and Hannah Jennison
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://iiif-presentation.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Botanist and gardener, John Tradescant the Younger was born at Meopham and educated at the King's School, Canterbury.
 
@@ -46,7 +46,7 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 - author: Michelle Crowther
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
+![](https://iiif-presentation.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/40/Ogilby_Kent.jpg)
 
 Mathematician and cryptographer, Wallis is known for his pioneering work in infinitesimal calculus.
 
@@ -56,6 +56,6 @@ Mathematician and cryptographer, Wallis is known for his pioneering work in infi
 
 - author: Dr Melanie Caiazza
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
+![](https://iiif-presentation.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d)
 
 The Island of Sheppey was at the centre of the famous Medway attack during the Anglo Dutch War (c.1664-1667).

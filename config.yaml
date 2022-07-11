@@ -41,7 +41,7 @@ contactForm:
 # Base URL of server used for serving and optionally
 # creating IIIF presentation manifests
 ######################################################
-iiifServer: https://iiif.juncture-digital.org
+iiifServer: https://iiif-presentation.juncture-digital.org
 
 siteAdmins:
 - rsnyder

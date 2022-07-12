@@ -1,20 +1,20 @@
-#!/usr/bin/env python
-
 '''
 Flask app for Juncture site.
-Dependencies: bs4 Flask Flask-Cors html5lib PyYAML requests
+Dependencies: bs4 Flask Flask-Cors html5lib PyYAML requests serverless_wsgi
 '''
 
 import os, logging
-from urllib.parse import urlencode
+from bs4 import BeautifulSoup
 
+from urllib.parse import urlencode
 import yaml
 
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
 CREDS = yaml.load(open(f'{SCRIPT_DIR}/creds.yaml', 'r').read(), Loader=yaml.FullLoader)
 
-from flask import Flask, request, send_from_directory, Response
+from flask import Flask, request, send_from_directory
 from flask_cors import CORS
+from serverless_wsgi import handle_request
 
 import requests
 logging.getLogger('requests').setLevel(logging.WARNING)
@@ -22,11 +22,12 @@ logging.getLogger('requests').setLevel(logging.WARNING)
 app = Flask(__name__)
 CORS(app)
 
-from bs4 import BeautifulSoup
+def handler(event, context):
+  return handle_request(app, event, context)
 
-# Site content
-PREFIX = 'kent-map/kent'
-REF = 'dev' # Github branch to use - leave empty for default branch (typically 'main')
+# Prefix for site content
+prefix = 'kent-map/kent'
+default_ref = 'dev'
 
 def _add_tag(soup, tag, attrs):
   el = soup.new_tag(tag)
@@ -55,30 +56,27 @@ def _customize_response(html):
 
   return str(soup)
 
-def _get_html(path, base_url, ref=REF, **kwargs):
-  api_url = f'https://api.visual-essays.net/html{path}?prefix={PREFIX}&base={base_url}'
+def _get_html(path, base_url, ref=default_ref, **kwargs):
+  # api_endpoint = 'http://localhost:8000/html' if request.host.startswith('localhost') else 'https://api.visual-essays.net/html'
+  api_endpoint = 'https://api.juncture-digital.org/html'
+  api_url = f'{api_endpoint}{path}?prefix={prefix}&base={base_url}'
   if ref: api_url += f'&ref={ref}'
-  print(f'path={path} base_url={base_url} kwargs={kwargs} api_url={api_url}')
+  print(api_url)
   resp = requests.get(api_url)
   return resp.status_code, resp.text if resp.status_code == 200 else ''
 
 @app.route('/favicon.ico')
 def favicon():
-  # return send_from_directory(os.path.join(app.root_path, 'static', 'images'), 'favicon.png', mimetype='image/png')
-  resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/images/favicon.png').content
-  return Response(resp.content if resp.status_code == 200 else '', resp.status_code, content_type='image/png')
+  # return send_from_directory(os.path.join(app.root_path, 'static'), 'favicon.ico', mimetype='image/vnd.microsoft.icon')
+  return send_from_directory(os.path.join(app.root_path, 'static', 'images'), 'favicon.png', mimetype='image/png')
 
 @app.route('/robots.txt')
 def robots_txt():
-  # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
-  resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/robots.txt')
-  return Response(resp.text if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
+  return send_from_directory(os.path.join(app.root_path, 'static'), 'robots.txt', mimetype='text/plain')
 
 @app.route('/sitemap.txt')
 def sitemap_txt():
-  # return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
-  resp = requests.get(f'https://raw.githubusercontent.com/{PREFIX}/{REF}/sitemap.txt')
-  return Response(resp.text if resp.status_code == 200 else '', resp.status_code, content_type='text/plain')
+  return send_from_directory(os.path.join(app.root_path, 'static'), 'sitemap.txt', mimetype='text/plain')
 
 @app.route('/search')
 def search():
@@ -89,7 +87,6 @@ def search():
     **dict(request.args)
   }
   url = f'https://www.googleapis.com/customsearch/v1?{urlencode(args)}'
-  print(f'search: {url}')
   return requests.get(url).json()
 
 @app.route('/<path:path>')
@@ -104,4 +101,4 @@ def render_html(path=None):
   return html, status
 
 if __name__ == '__main__':
-  app.run(debug=True, host='0.0.0.0', port=7777)
+  app.run(debug=True, host='0.0.0.0', port=8080)

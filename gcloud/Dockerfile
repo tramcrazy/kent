@@ -8,11 +8,12 @@ RUN set -e; \
 
 ENV APP_HOME /app
 WORKDIR $APP_HOME
-COPY . ./
 
 RUN set -e; pip install bs4 Flask Flask-Cors html5lib PyYAML requests uWSGI
+
+COPY main.py creds.yaml ./
 
 ENV PORT 8080
 
 ENTRYPOINT ["tini", "--"]
-CMD uwsgi --http :${PORT} --manage-script-name --mount /app=app:app --enable-threads --processes 8 --buffer-size 65535
+CMD uwsgi --http :${PORT} --manage-script-name --mount /app=main:app --enable-threads --processes 8 --buffer-size 65535

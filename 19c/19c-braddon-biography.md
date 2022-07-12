@@ -10,11 +10,11 @@
 #
 
 Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, [Mary Braddon]( https://maryelizabethbraddon.com/) is still best known for her 1862 sensation novel _Lady Audley’s Secret_ and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell. Having met in 1860, the couple were only able to marry in 1874 on the death of Maxwell’s insane first wife, making Braddon the legal stepmother of his five children. They also had six children together.
-<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg/manifest.json">
 
 The family lived in Richmond, but in 1878 they were in Broadstairs ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
 <param ve-image url="/19c/images/braddon family.jpg" label="M.E. Braddon and family" attribution="©ICVWW ">
-<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/M.E._Braddon_and_family.jpg"> 
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/M.E._Braddon_and_family.jpg/manifest.json"> 
 <param ve-map center="Q922739" zoom="15">
 
 But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little Broadstairs, with alternations of gaiety at [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate)’. 
@@ -22,7 +22,7 @@ _Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests tha
 <br>
 _I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and Birchington, and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season._
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Broadstairs-beach.jpg" label="Broadstairs-beach.jpg" attribution="Le Deluge, via Wikimedia Commons" license="CC BY-SA 3.0">
-<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Broadstairs-beach.jpg">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Broadstairs-beach.jpg/manifest.json">
 <param ve-map center="Q618045" zoom="12">
 
 [_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   

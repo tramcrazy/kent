@@ -10,6 +10,7 @@
 #
 
 Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, [Mary Braddon]( https://maryelizabethbraddon.com/) is still best known for her 1862 sensation novel _Lady Audley’s Secret_ and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell. Having met in 1860, the couple were only able to marry in 1874 on the death of Maxwell’s insane first wife, making Braddon the legal stepmother of his five children. They also had six children together.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg" label="Mary Elizabeth Maxwell (née Braddon) by William Powell Frith.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg/manifest.json">
 
 The family lived in Richmond, but in 1878 they were in Broadstairs ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
@@ -28,6 +29,7 @@ _I believe he invents a name and a Bad every summer, and then goes quietly and l
 [_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
 _Do you see the height of those cliffs, terrace above terrace, hill above hill? Why, that level road at the very bottom is the top of a taller cliff than those I used to think so appalling at Broadstairs and Ramsgate!_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b7/North_Cliff%2C_near_Broadstairs_-_geograph.org.uk_-_185248.jpg" label="North Cliff, near Broadstairs - geograph.org.uk - 185248.jpg" attribution="Hywel Williams / North Cliff, near Broadstairs" license="CC BY-SA 2.0">
+<param ve-image-2 manifest="https://iiif.juncture-digital.org/wc:North_Cliff%2C_near_Broadstairs_-_geograph.org.uk_-_185248.jpg">
 <param ve-map center="Q922739" zoom="15">
 
 ### Bibliography

@@ -15,7 +15,7 @@ Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, [M
 
 The family lived in Richmond, but in 1878 they were in Broadstairs ‘for a week or so with children who have been ill, & who are in need of strengthening breezes.’  Like the parents of [Emily Shore](/19c/19c-shore-biography) almost half a century earlier, Braddon was clearly persuaded of the benefits of sea air as a restorative for invalids.
 <param ve-image url="/19c/images/braddon family.jpg" label="M.E. Braddon and family" attribution="©ICVWW ">
-<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/19c/M.E._Braddon_and_family.jpg/manifest.json"> 
+<param ve-image-v2="" manifest="https://iiif.juncture-digital.org/gh:kent-map/images/19c/M.E._Braddon_and_family.jpg/manifest.json"> 
 <param ve-map center="Q922739" zoom="15">
 
 But in her novels Thanet is referenced as a somewhat unadventurous holiday location. In the 1880 _Barbara_ a mother and daughter enjoy ‘a delightful change of air at quiet little Broadstairs, with alternations of gaiety at [Margate](/dickens/19c-margate) and [Ramsgate](/dickens/19c-ramsgate)’. 

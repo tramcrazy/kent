@@ -1,4 +1,4 @@
-.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true search-domain="dev.kent-maps.online" search-filters="16c:16c,17c:17c,18c:18c,19c:19c,20c:20c,21c:21c,austen:Jane Austen,canterbury:Canterbury,churches:Churches,dickens:Dickens"
+<html><head></head><body>.ve-header "Kent Maps Online" gh:kent-map/images/Kent_Maps.jpg sticky=true search-domain="dev.kent-maps.online" search-filters="16c:16c,17c:17c,18c:18c,19c:19c,20c:20c,21c:21c,austen:Jane Austen,canterbury:Canterbury,churches:Churches,dickens:Dickens"
     - [Home](/)
     - [About](/about)
     - [Contact Us](/contact)
@@ -268,3 +268,4 @@ Delmonden is a village in Kent that doesn’t actually exist except in Shepherds
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b)
 
 The adventures of Branwell, a rat and a young wolf called Lukin, as they journey from Howletts, the wildlife park by Bekesbourne via Patrixbourne and the North Downs Way, to Canterbury.
+</body></html>

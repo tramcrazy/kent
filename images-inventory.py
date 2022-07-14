@@ -3,7 +3,8 @@
 
 from logging import root
 from math import trunc
-import os, sys, pygsheets
+import os, sys
+import pygsheets
 
 from bs4 import BeautifulSoup
 import markdown as markdown_parser
@@ -104,7 +105,7 @@ if __name__ == '__main__':
                 if essay == 'README':
                     essay = dirName.split('/')[-1]
 
-                markdown = open(f'{dirName}/{fname}', 'r').read()
+                markdown = open('{dirName}/{fname}', 'r').read()
                 markdownSoup = BeautifulSoup(markdown, 'html5lib')
 
                 # For all <param> tags in markdown

@@ -1,6 +1,4 @@
-<param ve-config 
-       title="Kent Maps Project: About"
-       layout="index">
+<html><head></head><body><param layout="index" title="Kent Maps Project: About" ve-config=""/>
 
 # About the site and project
 
@@ -81,7 +79,7 @@ Dr Pat Argar has a PhD from Canterbury Christ Church University. Her research in
 
 - twitter: @SophieBaldock
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=180&url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=180&amp;url=https://raw.githubusercontent.com/kent-map/kent/main/images/sophiebaldock.jpg)
 
 Dr Sophie Baldock holds a PhD from the University of Sheffield. Her research focuses on twentieth-century poetry, poets’ letters and literary archives. She held a British Library collaborative doctoral award, which involved cataloguing emails in the contemporary poet Wendy Cope’s archive, one of the first hybrid (part-paper, part-digital) literary archives acquired by the Library. She has published essays on the letters and poems of Elizabeth Bishop in Reading Elizabeth Bishop: An Edinburgh Companion (2019) and The Review of English Studies (2020). She grew up in Kent, and in the summer enjoys swimming in the sea along the east Kent coast.  
 
@@ -104,7 +102,7 @@ Simone Blandford is an undergraduate BA English Literature student at the Univer
 ##
 [**Bethia Carter**]()
 
-![](https://iiif.juncture-digital.org/thumbnail?rotation=90&url=https://stor.artstor.org/stor/e4b386b3-b426-4a1a-ba34-d96729dc8b0f)
+![](https://iiif.juncture-digital.org/thumbnail?rotation=90&amp;url=https://stor.artstor.org/stor/e4b386b3-b426-4a1a-ba34-d96729dc8b0f)
 
 Bethia Carter is currently in her third year studying at Canterbury Christ Church University, for a BA (Hons) degree in English Language and Communication and French. Her aim is to become a French teacher, and although a work placement in France was not possible during her course, this work placement with the Kent Digital Map project enabled her to delve into translations of some classic English literature, combining her interests of the interpretation in translation and classic literature.
 
@@ -189,7 +187,7 @@ Arriving in East Kent two days before her second birthday, Diana Hirst has been 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/katieholdway.JPG)
 
-Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution & Reform_ and a member of the Dickens Society Communications Committee.
+Dr Katie Holdway is a Research Fellow in the Department of English at the University of Southampton. Her project, funded by the Wolfson Foundation, is entitled ‘Pickwick in the Papers: Dickens and the Politics of Appropriation in the Newspaper Press, 1836-1900’. Katie has also written theses on George Gissing’s 1880s novels and the British Della Cruscan coterie. She is co-founder and Editor-in-Chief of the open access, nineteenth-century research journal, _Romance, Revolution &amp; Reform_ and a member of the Dickens Society Communications Committee.
     
 ##
 [**Alyson Hunt**]()
@@ -210,7 +208,7 @@ Dr Mandy Jones has completed a PhD at CCCU entitled _Unjustly neglected: reclaim
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/addee311-f0b8-4c15-abf2-88546226a7df)
 
-Miroslava is an undergraduate student from Slovakia, studying combined honours History with Film, Radio & Television studies at Canterbury Christ Church University. She hopes to continue her academic journey focusing on cultural history and portrayal of history in film, while practising filmmaking in the form of documentaries. In her free time, she presents two radio shows on the Canterbury Community and Student Radio, and she is a die-hard arts and crafts enthusiast.
+Miroslava is an undergraduate student from Slovakia, studying combined honours History with Film, Radio &amp; Television studies at Canterbury Christ Church University. She hopes to continue her academic journey focusing on cultural history and portrayal of history in film, while practising filmmaking in the form of documentaries. In her free time, she presents two radio shows on the Canterbury Community and Student Radio, and she is a die-hard arts and crafts enthusiast.
 
 ##
 [**Helena Kelly**]()
@@ -259,7 +257,7 @@ Ken Moffat is Headteacher of Simon Langton Boys’ Grammar School in Canterbury.
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/images/peterorford.JPG)
 
-Dr Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen & Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
+Dr Pete Orford is Course Director of the MA in Dickens Studies at the University of Buckingham. His most recent publication is The Mystery of Edwin Drood: Charles Dickens' unfinished novel and our endless attempts to end it for Pen &amp; Sword, and further details of Drood and its legion of solutions can be found on his website www.droodinquiry.com He is currently completing an edition of Pictures from Italy for the Oxford Dickens, writing a Dickens biography for the Blackwell Literary Lives series, and co-editing a volume of plays by Dickens for Edinburgh UP.
 
 ##
 [**Jeremy Page**]()
@@ -414,3 +412,4 @@ Heather designed a favicon for the site.
 # With thanks
 
 For photographs: Amelia Baring, Calum Elliot, Emma Molford, Becca Miller, Charli Salter-Mclean, Chloe Bartolo, Conor Murphy, Conor Treston, Judyta Socha, Megan Yeoman, Michael Stubbs, Ethan Dudley, Nat Lowden, Sara Gelencer, Benjamin Mortley, Martin Crowther.
+</body></html>

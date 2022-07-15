@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Richard Maltby" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919" layout="vtl" title="20th-century Canterbury: Trade" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -32,7 +32,7 @@ The Wincheap Industrial Estate was the first and remains the largest of Canterbu
 
 To the NE of the city centre, the first landmark is the main Sainsbury’s superstore opened in 1984. Very different in appearance from most supermarket barn or warehouse designs, the building relies on steel masts, from which the roof is suspended by cables. Some commentators joked that it would look good when the roof was put on. It was awarded the Civic Trust Award in 1986 and the Structural Steel Design Award in 1985.
 <param attribution="Sainsbury Archive, open access" label="Design for the award-winning Sainsbury's Canterbury branch" url="https://d1nvj7b44vmgv4.cloudfront.net/w800/bra/SA_BRA_7_C_6_10hr.jpg" ve-image=""/>
-<param manifest="https://iiif.juncture-digital.org/wc:Sainsbury%27s_Supermarket%2C_Canterbury_-_geograph.org.uk_-_1332508.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sainsbury%27s_Supermarket%2C_Canterbury_-_geograph.org.uk_-_1332508.jpg/manifest.json">
 <param center="Q106653436" ve-map="" zoom="15"/>
 
 Across the road from Sainsbury’s and contiguous with the Sturry Road (A28), the city’s first large development of the 21st century is going up, the Riverside Centre. The centre will combine leisure facilities, including a multiplex cinema, with residential accommodation and promises high quality and specialist retailers, cafés and restaurants. If the Riverside successfully appeals to resident and visitor markets, will it release pressure on the commercial centre or hasten its end?
@@ -53,5 +53,4 @@ Both the Sturry Road and Wincheap trading estates have the benefit of Park and R
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-canterbury-commerce) and [industrial heritage](/canterbury/20c-canterbury-industrial), its [retail industry](/canterbury/20c-canterbury-retail-store), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](canterbury/20c-canterbury-railway), as well as [planning](/canterbury/20c-canterbury-planning) decisions, and the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2).
-<param manifest="https://iiif.juncture-digital.org/wc:1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/manifest.json" ve-image-v2/> 
-</body></html>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/manifest.json"> 

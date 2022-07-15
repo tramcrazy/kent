@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Professor Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg" layout="vtl" title="Folkestone Free Library" ve-config=""/>
 
@@ -9,7 +9,7 @@
 #
 
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. Canterbury Museum and Public Library (now The Beaney) opened its doors in 1858, making it the first free library in England.
-<param manifest="https://iiif.juncture-digital.org/wc:Canterbury_Library_main_entrance.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_Library_main_entrance.jpg/manifest.json">
 <param center="Q26370404" ve-map="" zoom="15"/>
 
 Around twenty years later in 1879 the Folkestone Free Library was established on the Bayle,  although the initial catalogue was not published until 1881. The inclusion of blank pages to record any donations, coupled with the distinction between ‘Literature’ and ‘Novels and Fiction’ offers a clue to one of the challenges faced by librarian George Hills – many people objected to fiction being paid for out of public funds. The 1890 catalogue was arranged with the help of a deeply conservative local clergyman, the Rev. Hall, who personally eschewed all novelists later than [Dickens](https://kent-maps.online/dickens). Not surprisingly it has no separate heading for fiction at all.   
@@ -19,14 +19,14 @@ When the library was moved from the Bayle to Grace Street in April 1888, it had 
 
 Determined to maintain its standards, the library had strict regulations, including ‘No person shall be admitted who is in an intoxicated or dirty condition…’  Presumably not for this reason, a separate children’s section was considered unnecessary until the twentieth century.   
 Nor was the open access system adopted until 1910. Before then anyone wanting to borrow a book would have to brave a possibly disapproving librarian, having first consulted the library ‘indicator’. This simple device – dividing titles firmly into categories - showed readers whether a book was available or in use. 
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/19c/library indicator1.jpg/manifest.json" ve-image-v2/> 
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/19c/library indicator1.jpg/manifest.json"> 
 
 [H. G. Wells](/20c/20c-wellshg-biography) sends Kipps to the Folkestone library in 1905, where he claims nervously, _‘I ‘aven’t got a ticket yet. But I shall get one all right, and have a go in at reading. I’ve often wanted to. Rather. I was just ‘aving a look at this Indicator. First-class idea. Tells you all you want to know’._ 
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/19c/kippsinfolkestonelibrary.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/19c/kippsinfolkestonelibrary.jpg/manifest.json">
                                                                    
 In 1902 Rev. Hall and a group of ‘lady volunteers’ helped the librarian to re-catalogue the collection, taking the opportunity to purge it of obsolete volumes. Predictably some of the more sensational titles disappeared at this point. Nonetheless a slight spike in the acquisition of non-canonical Victorian fiction may speak to a moment of nostalgia either at the fin de siècle (the last extant catalogue is from 1896) or in the wake of Victoria’s death the year before.    
 Hill would doubtless have been relieved to know that in 1926 the library flatly refused one donation. Aylmer Maude’s _The Life of Dr Marie Stopes_ commemorating the famously controversial _Married Love_ author, contains no direct reference to birth control, but almost fifty years after the library first opened its doors it was still being careful about who came through them. 
-<param manifest="https://iiif.juncture-digital.org/wc:Marie_Stopes_in_her_laboratory%2C_1904.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Marie_Stopes_in_her_laboratory%2C_1904.jpg/manifest.json">
 
 ### Bibliography
 
@@ -37,4 +37,3 @@ _Folkestone Visitors’ List and Society Journal_ Holbein Visitors’ List and C
 Index to the Folkestone Chronicle 1855-1886. Held in Folkestone Library.   
 Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Railway Age_. Liverpool: Liverpool University Press, 2022.
 Wells, H. G. _Kipps_. London: Weidenfeld and Nicolson, 2010.   
-</body></html>

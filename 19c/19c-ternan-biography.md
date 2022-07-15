@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Helena Kelly" banner="/images/banners/19c.jpg" layout="vtl" title="Ellen woz here" ve-config=""/>
 
 #
@@ -13,7 +13,7 @@ And it isn’t just my own ghosts. I know (because my great-aunt told me) that t
 <param attribution="Benjamin Mortley" label="Gads Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
 
 Rochester was home to Ellen Ternan’s uncle William, her father’s brother, who had married, in 1830, a locally-born woman called Catherine Haymen or Hyman and settled down to raise a nineteenth-century quiverful of children. And it was in Rochester that Ellen was born, in 1839. Soon after her birth her parents moved to the north of England to pursue a theatrical business venture which didn’t prosper. Her younger brother died; in 1846, after a period of illness, so did her father. Ellen’s mother embarked on an unsettled, peripatetic life, travelling all over the British Isles chasing theatre roles for herself and her daughters, though for Ellen, the youngest, these proved quite difficult to come by.
-<param manifest="https://iiif.juncture-digital.org/wc:Ellen_Ternan.jpeg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ellen_Ternan.jpeg/manifest.json">
 
 But in March 1850, according to newspaper reports, ‘Mrs and the Misses Ternan’ were at ‘the Rochester Theatre’ and in January of the following year they were there again; Mrs Ternan acting the main female role in a local amateur performance of Richelieu, a play by Edward Bulwer Lytton. The Ternan girls performed a dance ‘between the play and the farce’ and someone called ‘H. Haymen’ found favour in a comic role – this is probably Henry Haymen, who was a sort of cousin, their uncle William’s nephew by marriage. Two and half months on, when we get to the 1851 census, Ellen and her sister Maria seem still to be in Rochester. At least, their names appear as members of their uncle’s household on the High Street, as well as being listed alongside their mother and sister in St Clement Dane’s in London. 
 <param attribution="Benjamin Mortley" label="Theatre Royal, Rochester" url="https://stor.artstor.org/stor/d0b420cf-d0fd-49f1-a9d1-1f47cbc1618f" ve-image=""/>
@@ -22,7 +22,7 @@ Did Ellen stay in Rochester? Did her uncle take charge of her, perhaps for a len
 <param attribution="Benjamin Mortley" label="High Street, Rochester" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image=""/>
 
 Ellen, Ellen as a resident of Rochester, adds a whole other layer of links and memories, opens up a new set of possible interpretations for the novels [Dickens](/dickens/dickens-biography) wrote during their relationship – _[Great Expectations](/dickens/great-expectations-curated-walk), Our Mutual Friend_, and _[The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk), the first and last of which are both set partly in Rochester, or somewhere that looks an awful lot like it. 
-<param manifest="https://iiif.juncture-digital.org/wc:Mystery_of_edwin_drood_0011.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mystery_of_edwin_drood_0011.jpg/manifest.json">
 
 Some readers think of the chilly Estella as a portrait of Ellen, with the flawed Pip, fatally ensnared by her, as Dickens. But given that Ellen was born locally – like Pip – and – like Pip – had an ‘uncle’ who lived on Rochester High Street (both a real one and a sort-of one in the Pumblechook mould, Mr Haymen), we might want to reassess. Mr Haymen’s wife died in 1847; she is buried in the precincts of Rochester Cathedral. Might she have inspired the dead Mrs Sapsea, whose widower lives on ‘the High-street’, and whose cathedral tomb seems to have been set to play an important role in _[The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk)? It’s a question worth asking.
 <param attribution="Benjamin Mortley" label="Rochester Cathedral Graveyard" url="https://stor.artstor.org/stor/4546137c-afaf-4a2a-91ee-35090bb7c986" ve-image=""/>
@@ -36,4 +36,3 @@ Only how she felt, seeing her own memories trapped inside the glass dome of a no
 <param attribution="Photographed by Astrid Stilma, by kind permission of Patrick Marrin" label="Rochester Bridge, 1828" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image=""/>
 
 
-</body></html>

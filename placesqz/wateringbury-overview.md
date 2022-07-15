@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Natalie Pietersen" banner="/images/banners/19c.jpg" layout="vtl" title="Wateringbury" ve-config=""/>
 
 <param aliases="Folkestone" eid="Q375314" ve-entity=""/>
@@ -6,7 +6,7 @@
 #
 
 Wateringbury is an historic village close to Maidstone. The views are exquisite and the cottages will have you standing in awe. Everywhere you look there is another beautiful thing hidden away down a country road. Wandering its streets, it is not difficult to imagine how things might have been years ago, and the scattering of wrought iron gates hint of wonders within. As you walk the paths others have trodden for hundreds of years, Wateringbury will simply charm your socks off. Hover over the highlighted text to take a tour of the village.
-<param manifest="https://iiif.juncture-digital.org/wc:Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wateringbury_Village_Sign_-_geograph.org.uk_-_2490156.jpg/manifest.json">
 
 **The Lock up and Stocks**   
 Previously known as the village cage and <span data-mouseover-image-zoomto="1739,898,859,575">stocks</span>, before 1846, this was a wooden structure used to hold disturbers of the peace. In 1846 it was upgraded to a sturdier brick building, after a ‘tramp’ (who had been detained for stealing cherries from the Reverend’s garden) had been broken out and escaped to freedom. Once the County Police was established the building was seldom used as Prisoners were taken to Malling where the station was situated. These two items set up echoes of a different time. A harder time. Almost two hundred years ago. Can you imagine wandering past an unfortunate soul with his head and arms in the stocks?
@@ -40,14 +40,14 @@ Beside an impressive wrought iron gate you will see a blue plaque mounted to the
 <param url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d" ve-image=""/>
 
 Mattias was born in London in 1761. In 1776 (at age 15) he began as an apprentice lighterman working on the Thames. He did this with his Father, the lighterman trade being mostly a job passed down the family line. This job involved transferring goods from import ships to the dock. Mattias was said to have been a hard worker and here began the accumulation of his wealth: ‘Through his industrious habits and success in business, Mattias started to realise an immense fortune.’ (Newman, 2013) Mattias became a part of The Watermans Company and in 1798 (at age 37) when news of a Napoleonic invasion reached him, he rallied his fellow watermen to fight. They appointed him Commadore.
-<param manifest="https://iiif.juncture-digital.org/wc:Wateringbury_Place-geograph.org-2985200.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wateringbury_Place-geograph.org-2985200.jpg/manifest.json">
 
 This rallied group of volunteer defenders of their country went on to become the Corps or River Fencibles, a militia which grew into multiple districts. Mattias, who became commander of the river fencibles, was involved in organising the river procession which escorted the barge carrying the body of Lord Nelson to the Admiralty. He was elected Sheriff of London in 1822 (at 61 years old) and in 1827 become the Lord Mayor (age 66). In 1841 he signed the Lee Petition, one of the movements attempting to abolish slavery. Mattias invested heavily in Wateringbury and many of the buildings today are down to his investment. He also built a school for the poorer inhabitants of the town.
-<param manifest="https://iiif.juncture-digital.org/wc:The_Lord_Mayors_dinner_%28BM_Ii%2C3.92%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Lord_Mayors_dinner_%28BM_Ii%2C3.92%29.jpg/manifest.json">
 
 **William Rutter Dawes**   
 Between 1850 and 1857 William Rutter Dawes occupied one of the residencies of Wateringbury. His name can be seen on a plaque marking his home just off the point where Mill Lane and Love Lane meet. William was known for his Astronomical discoveries. A Physician by profession, he later gave up this practice to manage his own private observatories. William was known for his extensive measurements of double stars, an early discovery of Jupiter’s red spot, exceptionally accurate drawings of Mars, and as one of the discoverers of one of the dark rings of Saturn. In 1855 he was awarded the Gold Medal of the Royal Astronomical Society, their highest award.
-<param manifest="https://iiif.juncture-digital.org/wc:Dawes_William_Rutter.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Dawes_William_Rutter.jpg/manifest.json">
  
 **Mill Pond**
 A pond quietly rests, surrounded by domestic relics. Another gem in Wateringbury’s trove, peacefully hidden away down Love Lane. There are a cluster of historic houses just opposite.
@@ -59,22 +59,22 @@ As you get to the end of <span data-mouseover-image-zoomto="950,573,1283,859">Lo
 At the end of Mill Lane is an intriguing building which looks like as if it belonged on a white sandy beach. The Thatched House, previously known as ‘The Swiss Cottage’, was inspired by a Swiss chalet and one of Mattias Prime Lucas’ contributions to the Village. On the gate post you will see a blue plaque depicting the name Lady Lena Campbell Login. Scottish by birth, Lena went to visit her brother who was serving in India. Year? There she met and married a Dr. John Login. John would become the guardian of the child ruler of the Sikhs in Punjab. The last maharaja, 10-year-old Duleep Singh. Lena assisted in the care of Duleep and became one of his tutors. Duleep had in his possession a diamond. A coveted diamond with a bloody history. The Koh-I-Noor, this relic had a story of its own. It had changed hands between some powerful rulers and was seen as a symbol of the highest status. Somehow, it ended up in the hands of [Queen Victoria](19c/19c-victoria-biography), to whom was presented it personally by Duleep. It is a controversial topic and there are rumours that 10-year-old Duleep was forced to give up his diamond by a bullying Britain. The Koh – i – Noor diamond is now a part of the crown jewels.   
 <br/>
 Lena, having been very close to the action, wrote a book about what she had witnessed and experienced surrounding Duleep and the koh-i- noor diamond while living in the Thatched House in around 1900. A book aptly titled ‘Sir John Login and Duleep Singh.’
-<param manifest="https://iiif.juncture-digital.org/wc:Lena_Login_from_a_miniature_by_Fisher%2C_1850.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Lena_Login_from_a_miniature_by_Fisher%2C_1850.jpg/manifest.json">
 
 **Dame Ellen Terry**   
 Alice [Ellen Terry](/20c/20c-terry-biography) who was said to be the most popular actress of her time spent her 80th birthday at the Red House as the guest of Lady Mabel Egerton. Born into showbusiness in 1847, Ellen hit the ground running, becoming a famous childhood star and rumoured to have been the inspiration for Lewis Carroll’s Alice in Wonderland. Her beauty caught the creative eye of several noteworthy artists whom included her in their work. In 1864, at just 16 years of age, she gave up her acting career to marry 47-year-old G. F. Watts, a famous artist of the day who was given the title of ‘England’s Michelangelo.’ Their paths crossed when she had posed of one of his models and he went on to paint a collection of works centered around her. Sadly, the marriage lasted only ten months.
 <br/><br/> 
 Following this unhappy start Ellen eloped with architect and stage designer Edward Godwin with whom she had two children. This lasted three years, then, in 1877, at age 30 she married actor Charles Kelly which also fizzled out after a short while. Unlike her marital life, Ellen’s acting career hit a high note in 1878 at age 31 when she became the <span data-mouseover-image-zoomto="97,50,537,346">leading lady</span> for Sir Henry Irving, a renowned actor who had been knighted for bringing social acceptance to acting before going on to manage his own theatre, the renowned Lyceum. She remained working with Henry for 24 years.
-<param manifest="https://iiif.juncture-digital.org/wc:Ellen_Terry_as_Lady_Macbeth.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ellen_Terry_as_Lady_Macbeth.jpg/manifest.json">
  
 In around 1890, Ellen worked with playwriter George Bernard Shaw, producing and starring in a number of his productions. Their affiliation blossomed into a written romance exchanged through numerous letters known as ‘the paper courtship’.
 <br/><br/>
 In 1907 as Ellen reached 60 she married James Carew, an American actor half her age. This sadly also did not last although they remained friends.
 As her acting career began to run its course Ellen began a tour lecturing on Shakespeare’s heroines.
-<param manifest="https://iiif.juncture-digital.org/wc:Ellen_Terry_LCCN2014698965.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ellen_Terry_LCCN2014698965.jpg/manifest.json">
 
 Dame [Ellen Terry](/20c/20c-terry-biography) died in 1928 at the age of 81 but her legacy lives on. A remarkable woman, Ellen would not be contained and repressed by an unfair cultural expectation, but made her own way, and in so doing, prepared a way for other women to break free and follow their own hearts.
-<param manifest="https://iiif.juncture-digital.org/wc:Ellen_Terry_1922.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ellen_Terry_1922.jpg/manifest.json">
 
 **John Beal Jude**
 John Beal Jude was the founder of the Kent brewery, one of the two significant breweries in Wateringbury. Quite the businessman, John also branched out into coal and farming. He founded Kent brewery in 1833 which was then situated on Bow Road but no longer stands. In 1857 John purchased the Broomcrofts estate on <span data-mouseover-image-zoomto="537,1,1285,859">Canon Lane</span>, and grew to be a wealthy land and property owner.
@@ -83,7 +83,7 @@ John Beal Jude was the founder of the Kent brewery, one of the two significant b
 The first train to land in Wateringbury was in the year 1844. There was a grand celebration with guests including Alderman Mattias Lucas and the band of 16th lancers, a cavalry regiment in the British Army. Around 6 years later the train station was built in the Tudor Gothic style and is now a grade II listed building. The station still holds much of its historic charm and overlooks the countryside. Even if you have no train to catch, its worth the walk down Bow Road to see this splendid building and take in the views.
 <br/><br/> 
 Wateringbury in an intriguing place, whose inhabitants are as intriguing as its architecture. 
-<param manifest="https://iiif.juncture-digital.org/wc:Wateringbury_railway_station%2C_EG02%2C_August_2013.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wateringbury_railway_station%2C_EG02%2C_August_2013.JPG/manifest.json">
 
 ### Bibliography
 Boissoneault. L. “Smithsonian Magazine”, [The True Story of the Kooh-i-noor Diamond – and Why the British Wont Give it Back, 2017,]( https://www.smithsonianmag.com/history/true-story-koh-i-noor-diamondand-why-british-wont-give-it-back-180964660/)   
@@ -109,4 +109,3 @@ Manvel. R, “Britannica”, Ellen Terry,  www.britannica.com/biography/Ellen-Te
 [Where Memories Meet.com](www.wherememoriesmeet.com/) 2022.   
 <br/>
 Whiting, D. “Wateringbury, In the Steps of George Newman and Beyond.” Mike Whiting, 2013      
-</body></html>

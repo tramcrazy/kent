@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Diana Hirst" banner="/images/banners/18c.jpg" layout="vtl" title="John Boys (1749-1824)" ve-config=""/>
 
 <param aliases="Deal" eid="Q1011096" ve-entity=""/>
@@ -39,11 +39,11 @@ This epigraph, which clearly underlines his affection for and pride in Kent, was
 
 **Betteshanger**    
 Boys farmed at Betteshanger Home Farm, about five miles inland from Deal. He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
-<param manifest="https://iiif.juncture-digital.org/wc:%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff/manifest.json">
 <param center="Q4898591" ve-map="" zoom="12"/>
 
 The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940.[^ref4] 
-<param manifest="https://iiif.juncture-digital.org/wc:Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg/manifest.json">
 <param center="Q4898591" ve-map="" zoom="12"/>
  
 **A General view of the agriculture of the county of Kent**   
@@ -65,7 +65,7 @@ Nevertheless, twenty-five years later William Cobbett would find very few fallow
 In short, is there another district in Great Britain, or in the World, of the same extent, in such a perfect state of cultivation, where the Farmers are so wealthy and intelligent, where land, naturally of so inferior a quality, is let for so much money and produces such abundant crops?[^ref11]
 <br/><br/>
 Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.[^ref12]  
-<param manifest="https://iiif.juncture-digital.org/wc:Mown_Corn_field_-_geograph.org.uk_-_404576.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mown_Corn_field_-_geograph.org.uk_-_404576.jpg/manifest.json">
 <param center="Q1752642" ve-map="" zoom="10"/>
 
 **Woodlands, hops and orchards**   
@@ -74,16 +74,16 @@ Boys reproduces a table detailing various woodlands in the county.[^ref13]  He t
 <param center="Q2005288" ve-map="" zoom="12"/>
 
 Other poles would be used for hops. The Hop Grounds in the vicinity of Canterbury and Maidstone are the principle ones in the county, with those of Canterbury superior to those of Maidstone.[^ref15]  This contemporary hop field lies between Ash and Wingham, just south of Canterbury and two or three miles from Each End where Boys moved to when he left Betteshanger and somewhere he would have known well.
-<param manifest="https://iiif.juncture-digital.org/wc:Hop_Fields_along_Pedding_Lane_-_geograph.org.uk_-_1974865.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Hop_Fields_along_Pedding_Lane_-_geograph.org.uk_-_1974865.jpg/manifest.json">
 <param center="Q2632094" ve-map="" zoom="10"/>
 
 The area around Maidstone has plenty of orchards, principally apples and cherries, as it does today, as well as filbert plantations. Apples are grown both for cider and for domestic use, and among those Boys lists are varieties still grown commercially today such as royal russet and Ribstone pippin, while others are still available from specialist nurseries. Apples were shipped along the Medway and thence to London and also to Newcastle in returning colliers. The bulk of the filbert harvest was shipped to London. The area around Sandwich also had plenty of orchards.
-<param manifest="https://iiif.juncture-digital.org/wc:Cherry_orchard_-_geograph.org.uk_-_4704.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cherry_orchard_-_geograph.org.uk_-_4704.jpg/manifest.json">
 <param center="Q213180" ve-map="" zoom="12"/>
 
 **Livestock**   
 Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no particular breed which may be allowed the appellation of Kentish Cattle’.[^ref16]  The beef cattle are bought in from Wales by graziers to be fattened on the Kent marshes until they are fit for the butcher. For the most part, dairy cows are selected from the Welsh droves, but in recent years a few dairy cows, remarkable for the richness of their milk, have been brought from Alderney and Guernsey ‘for the use of the dairies of gentlemens [sic] families’.[^ref17]  Moving on to sheep, he observes that Kent has long been famous for the Romney Marsh breed, known at Smithfield Market as Kent sheep, valuable not only for their meat, but for their very long fine wool. 
-<param manifest="https://iiif.juncture-digital.org/wc:Brebis_agneau_South-Down.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Brebis_agneau_South-Down.jpg/manifest.json">
 <param center="Q614560" ve-map="" zoom="10"/>
 
 While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.[^ref18]  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.[^ref19]  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.
@@ -92,7 +92,7 @@ While Boys himself seems to have had a reputation for his South Downs sheep, bei
 
 **Land Improvement/Obstacles to improvement**   
 Boys begins his chapter on ‘Improvements’ with a section on drainage, saying that this is a subject of infinite importance to the prosperity of the kingdom, and he describes the various methods of draining. As one of Kent’s commissioners for sewers, dealing with land drainage and flood defence, Boys was involved in the drainage of the marshes around Eastry and Finglesham Brooks, streams which break through the chalk ridge at Hacklinge between Deal and Sandwich, and feed into the North Stream and thence into the Stour. He describes a pump driven by a wind mill installed at Cottington, on the seaward side of the ridge. Mill pumps of this kind had been found in the Cambridgeshire Fens from the later sixteenth century, but the manner in which Boys singles this out suggests it is an innovation in East Kent.[^ref20] 
-<param manifest="https://iiif.juncture-digital.org/wc:View_along_the_North_Stream%2C_Ham_-_geograph.org.uk_-_578537.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:View_along_the_North_Stream%2C_Ham_-_geograph.org.uk_-_578537.jpg/manifest.json">
 <param center="Q5330905" ve-map="" zoom="10"/>
 
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
@@ -103,12 +103,12 @@ In a short concluding chapter, Boys lists the principle obstacles to the general
 
 **Highways**   
 Boys considers the highways, and observes that while the principal road in the county, from London to Canterbury, is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’[^ref21]  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in the Weald which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.[^ref22]  
-<param manifest="https://iiif.juncture-digital.org/wc:The_Royal_Hotel%2C_Beach_Street%2C_Deal_-_geograph.org.uk_-_957769.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Royal_Hotel%2C_Beach_Street%2C_Deal_-_geograph.org.uk_-_957769.jpg/manifest.json">
 <param center="Q1011096" ve-map="" zoom="12"/>
 
 **Boys the innovator**   
 Boys was an innovator. Not only did he design the threshing mill described above, he also experimented with the long-term preservation of potatoes by drying, both in slices and as meal. The potatoes were then transported in kegs to St Helena, and were pronounced on arrival to ‘retain the essential qualities of the potatoe [sic], unimpaired, though somewhat altered in colour’.[^ref23]
-<param manifest="https://iiif.juncture-digital.org/wc:Potato_stack.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Potato_stack.jpg/manifest.json">
 
 **Boys' reputation**   
 According to Gentleman’s Magazine for 1825, Boys’ report was ‘accorded the palm amongst County reports of agriculture, “for soundness of judgment and enlightened practical views”’.[^ref24] 
@@ -156,4 +156,3 @@ John Boys first appears on page 40, and his descendants start at page 60. Other 
 [^ref23]: Boys, 198-199.This was twenty years before Napoleon arrived on St Helena. By coincidence, John Boys’ fourth son, Richard, was a chaplain in the East India Company, serving at St Helena at the time of Napoleon’s exile.
 [^ref24]: https://en.wikisource.org/wiki/Men_of_Kent_and_Kentishmen/John_Boys,_of_Betshanger
 [^ref25]: https://www.british-history.ac.uk/survey-kent/vol9/pp583-604
-</body></html>

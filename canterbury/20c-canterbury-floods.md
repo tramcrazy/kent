@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Professor Carolyn Oulton" banner="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a" layout="vtl" title="Floods in Canterbury, 1909" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -24,7 +24,7 @@ The rains finally came to an end on Friday 5 November or ‘Bonfire Night’, an
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or explore Canterbury's economic growth through the essays on Canterbury's [commerce](/canterbury/20c-canterbury-commerce) and [industrial heritage](/canterbury/20c-canterbury-industrial), its [retail industry](/canterbury/20c-canterbury-retail-store) and [trading estates](/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about Canterbury's [universities](/canterbury/20c-canterbury-universities) and its [education](/canterbury/20c-canterbury-education) system, and Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](/canterbury/20c-canterbury-railway), [planning](/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2) and the [disastrous 1909 floods](/canterbury/20c-canterbury-floods).
-<param manifest="https://iiif.juncture-digital.org/wc:1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/manifest.json" ve-image-v2/> 
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/manifest.json"> 
 
 ***
 
@@ -35,4 +35,3 @@ British Newspaper Archive. Accessed 28 April 2021.
 _Langtonian_. December 1909. 340. With thanks to Janeen Barker.  
 ‘Queen’s Message of Sympathy’. _Canterbury Journal, Kentish Times and Farmers' Gazette_. 13 November 1909.   
 <param attribution="Horace Spence Collection" label="Floods, Canterbury, 1909" url="https://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" ve-image=""/>
-</body></html>

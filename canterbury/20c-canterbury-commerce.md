@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Richard Maltby" banner="https://stor.artstor.org/stor/c35dcc83-8c83-4e82-8a7e-0d012287b919" layout="vtl" title="20th-Century Canterbury: Commerce" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -40,7 +40,7 @@ The radio and electrical side of the business became established in Rose Lane, b
 
 Following a catastrophic fire in 1937 the premises in St Peter’s Street had to be rebuilt, but then the [Second World War](/canterbury/20c-canterbury-ww2) came to Barretts in 1940. To help a fund-raising project Barretts put a Messerschmidt 109, which had crash landed intact, on display for three weeks. The aircraft was then put in store to await disposal. On 14th October a German raider dropped bombs on the street. A bomb crashed through the garage roof, destroyed two buses and blew up the ME109. Barretts was not damaged in the Baedeker Raid of 1st June 1942. But it was bombed again in one of the last Luftwaffe strikes of the war. On 22nd January 1944 Barretts was totally destroyed by a single high explosive bomb.
 <param attribution="Photographer unknown" label="Fire at Barrett's on St Peter's Street, 1937" url="https://stor.artstor.org/stor/cd790d83-8b41-4b53-a497-4d691528174f" ve-image=""/>
-<param manifest="https://iiif.juncture-digital.org/wc:Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg/manifest.json">
 
 The 1950s brought more prosperous times as Barretts became the distributor in East Kent for Rover and Austin cars and car sales took off. To expand car servicing and the works area, Barretts acquired the former Malthouse brewery site, off Stephen’s Road. However, the rebuilding of a permanent showroom at St Peter’s Street was held up for years as a result of the planning controversies over proposed routes for the ring road at the Westgate Towers. In 1980 the new building was finally opened to much praise for its architectural design. A modern car showroom was successfully accommodated within a building which replicated the historic streetscape. The opening happily coincided with the launch of the Austin Mini Metro. By the mid ‘80s Jaguar and Land Rover had taken pride of place. For other dealerships, including BMW and Citroen, Barretts acquired facilities on the Broad Oak road.
 <param attribution="Michelle Crowther, by permission" label="Former Barretts showroom on St Peter's Street" url="https://stor.artstor.org/stor/5f170802-922a-4ff3-9636-011d3bc59c7e" ve-image=""/>
@@ -54,5 +54,4 @@ On vacating St Peter’s Street in 2019, the 4th generation of the family, Paul 
 ***
 
 Return to the homepage for [20th-century Canterbury](/canterbury/20c-canterbury-home), or continue exploring Canterbury's economic growth through the essays on Canterbury's [industrial heritage](/canterbury/20c-canterbury-industrial), its [retail industry](/canterbury/20c-canterbury-retail-store) and [trading estates](/canterbury/20c-canterbury-trading-estates), or Canterbury as a [boom city](/canterbury/20c-canterbury-boom-city). You can also learn more about how Canterbury has been shaped by other facets of its [transport](/canterbury/20c-canterbury-transport) infrastructure and the [railway](canterbury/20c-canterbury-railway), [planning](/canterbury/20c-canterbury-planning) decisions, as well as the significant [impact of the Second World War](/canterbury/20c-canterbury-ww2).
-<param manifest="https://iiif.juncture-digital.org/wc:1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/manifest.json" ve-image-v2/> 
-</body></html>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:1557px-Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg/manifest.json"> 

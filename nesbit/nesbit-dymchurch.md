@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Eleanor Fitzsimons" banner="/images/banners/19c.jpg" layout="vtl" title="Edith Nesbit, Dymchurch" ve-config=""/>
 
 <param aliases="Dymchurch" eid="Q2796278" ve-entity=""/>
@@ -38,7 +38,7 @@ A staunch Martello tower stands sentinel behind the sea wall, one of seventy-fou
 Wouldn’t you like to live in a Martello tower? They have one beautiful big room with a Norman-looking pillar in the middle, and a down-stairs part for kitchens, and an up-stairs, where the big gun is, that you could roof in for bedrooms. I should like a Martello! Don’t you want to buy one? You know they built them to keep out Napoleon – and the canal as well – but no one uses them now. They just keep fishing-nets in them and wheelbarrows and eel-spears. 
 <br/><br/> 
 Katherine’s companion, Edward, suggests that it is haunted: “A soldier’s ghost walks there; the village people say, ‘it’s one of them there Roman soldiers that lived here when them towers was built in old ancient Roman times’.” 
-<param manifest="https://iiif.juncture-digital.org/wc:Martello_Tower_24%2C_Dymchurch_1.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Martello_Tower_24%2C_Dymchurch_1.jpg/manifest.json">
 <param center="Q17361844" ve-map="" zoom="15"/>
 
 During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugglers. In _The New Treasure Seekers_, an old man relates this dark history to the Bastable children: 
@@ -46,7 +46,7 @@ During the seventeenth and eighteenth centuries, Dymchurch was a haven for smugg
 ‘There used to be lots of smuggling on these here coasts when my father was a boy,’ he said; ‘my own father’s cousin, his father took to the smuggling, and he was a doin’ so well at it, that what does he do, but goes and gets married, and the Preventives they goes and nabs him on his wed- ding-day, and walks him straight off from the church door, and claps him in Dover Jail.’
 
 When Nesbit arrived in the summer of 1893, the village still had a windmill, but it had stopped working in 1882, and it was demolished in 1905. One of the first properties she rented was Mill House on Mill Street. She put it into _The New Treasure Seekers_ as the home of Miss Sandal and Oswald Bastable describes it to readers: ‘It is before you come to the village, and it is a little square white house. There is a big old windmill at the back of it. It is not used any more for grinding corn, but fishermen keep their nets in it.’ 
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/nesbit//manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/nesbit//manifest.json">
 <param center="51.024498365102495, 0.9924857693740737" ve-map="" zoom="17"/>
 
 That first summer, Edith took rooms in a house on Marine Terrace. Once she had settled in, she sent for the rest of her family. Hubert’s beloved mother, Mary Ann Bland, had just died so he welcomed the opportunity of a long seaside holiday. In late October, he sent a note to Edward Pease asking if he might be excused from the next Fabian meeting: ‘We are having a very good time down here, shrimping, eeling, swimming, etc.,’ he wrote.
@@ -56,10 +56,10 @@ Although Nesbit enjoyed the seclusion she found in Dymchurch, two years after sh
 We heard afterwards that poor, worthy Mr Sandal had climbed a scaffolding to give a workman a tract about drink, and he didn’t know the proper part of the scaffolding to stand on (the workman did, of course) so he fetched down half a dozen planks and the workman, and if a dust-cart hadn’t happened to be passing just under so that they fell into it their lives would not have been spared. 
 
 It was while she was in Dymchurch that Edith invented her terrifying Ugly-Wuglies when a scene they were acting out required more characters than they had people. She painted paper faces and mounted them on coat hangers that were hung with clothes, just as her children did in _The Enchanted Castle_.
-<param manifest="https://iiif.juncture-digital.org/wc:Enchanted_Castle_Page_214.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Enchanted_Castle_Page_214.jpg/manifest.json">
 
 During her holidays, Nesbit explored the surrounding countryside by bicycle and dogcart. Several of the stories in her collection _Grim Tales_ (1893) are set in and around Romney Marsh, including the exceptionally chilling ‘Man-size in Marble’ which unfolds in St Eanswith’s Church in the village of Brenzett, which lies just eight miles inland. Her eerie, animated marble knights were suggested by the tomb chest of John Fagge and his son, which dominates the North Chapel. One of these figures rests on his elbow as if he is about to rise. 
-<param manifest="https://iiif.juncture-digital.org/wc:St_Eanswith%2C_Brenzett%2C_Kent_-_Tomb_chest_-_geograph.org.uk_-_322971.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_Eanswith%2C_Brenzett%2C_Kent_-_Tomb_chest_-_geograph.org.uk_-_322971.jpg/manifest.json">
 <param center="Q17986065" ve-map="" zoom="12"/>
    
 Nesbit put Dymchurch into several of her stories, but she usually renamed it ‘Lymchurch’. ‘Tomorrow,’ says a wise woman in _The House of Arden_ (1910), ‘the French shall land in Lymchurch Bay.’  In _Oswald Bastable and Others_, Lymchurch is home to Miss Sandal: 
@@ -112,4 +112,3 @@ Nesbit, E. [_Oswald Bastable and Others_](https://www.gutenberg.org/ebooks/28804
 Nesbit, E. [_Man and Maid_](https://www.gutenberg.org/ebooks/33028), 1906.   
 Nesbit, E. [_The House of Arden_](https://www.gutenberg.org/ebooks/57799), 1908.      
 Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354), 1916.   
-</body></html>

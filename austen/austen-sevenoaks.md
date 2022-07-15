@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Susan Civale" banner="/images/banners/19c.jpg" layout="vtl" title="Jane Austen and Sevenoaks" ve-config=""/>
 
 # 
@@ -12,7 +12,7 @@ Jane seems to have found the experience trying.  She may have drawn inspiration 
 <br/><br/>
 'In the drawing-room Mr. Crawford certainly was, having been just long enough arrived to be ready for dinner; and the smiles and pleased looks of the three others standing round him, shewed how welcome was his sudden resolution of coming to them for a few days on leaving Bath. A very cordial meeting passed between him and Edmund; and with the exception of Fanny, the pleasure was general; and even to _her_ there might be some advantage in his presence, since every addition to the party must rather forward her favourite indulgence of being suffered to sit silent and unattended to.' 
 _Mansfield Park_
-<param manifest="https://iiif.juncture-digital.org/wc:MansfieldParkTitlePage.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:MansfieldParkTitlePage.jpg/manifest.json">
 
 ### Bibliography 
 Butler, Marilyn.  _Oxford Dictionary of National Biography_. 7 January 2010.    
@@ -21,4 +21,3 @@ Poplawski, Paul.  _A Jane Austen Encyclopedia._  Westport, CT: Greenwood Press, 
 ### References
 [^ref1]: Paul Poplawski, 61.   
 [^ref2]: Marilyn Butler, ODNB.   
-</body></html>

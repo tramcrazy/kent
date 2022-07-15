@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Michelle Crowther" banner="/banners/images/19c.jpg" layout="vtl" title="Henrietta Vaughan Stannard [Pseud. John Strange Winter]" ve-config=""/> 
 
@@ -7,7 +7,7 @@
 #
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of a cavalry officer turned clergyman. She was a popular British novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
-<param manifest="https://iiif.juncture-digital.org/wc:John_Strange_Winter_0001.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:John_Strange_Winter_0001.jpg/manifest.json">
 <param center="Q865021" data-map="" primary="" zoom="10"/>
 
 Like [Edith Katherine Spicer Jay]( /19c/19c-spicer-jay-biography/) who lived in [Sandgate](/placesqz/sandgate-overview), Stannard wrote tales of cavalry life under a male pseudonym (her publisher advised her that if her collection of stories about cavalry life was known to be the work of a woman, it would “prejudice its success.”)  However, when she was invited to a Greenwich fish dinner by the editor of the _Cornhill Magazine_, she declined on the grounds that as '“J.S.Winter” was of the sex requiring chaperones, she must decline the invitation'. 
@@ -118,4 +118,3 @@ The Vagabond CLub.
 [^ref13]: Woman's Signal - Thursday 12 March 1896
 [^ref14]: FLORENCE FENWICK MILLER Jan. 30, 1896 Women's Penny Paper (London, England)Volume: V , Issue: 109
 
-</body></html>

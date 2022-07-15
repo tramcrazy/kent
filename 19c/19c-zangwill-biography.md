@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 <param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Israel Zangwill (21 January 1864 - 1 August 1926)" ve-config=""/>
 
 <param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
@@ -15,11 +15,11 @@
 <br/><br/>
 And as we marvelled at these jewels of the night, that shamed the absentee stars, the brake stood still with a jolt and a shock that threw our gay company into momentary alarm. But it was nothing. Only a horse fallen down dead! One of our overworked wheelers had suddenly sunk upon the earth, a carcase. Dust to dust! Who shall tell of the daylong agony of the dumb beast as he plodded pertinaciously through the heat, ministering to the pleasures of his masters?'    
 _‘Without Prejudice’_, 1893
-<param manifest="https://iiif.juncture-digital.org/wc:True_tales_of_travel_and_adventure%2C_valour_and_virtue_%281884%29_%2814597787058%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:True_tales_of_travel_and_adventure%2C_valour_and_virtue_%281884%29_%2814597787058%29.jpg/manifest.json">
 <param center="Q1494482" ve-map="" zoom="10"/>
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate](/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
-<param manifest="https://iiif.juncture-digital.org/wc:Sands_Ramsgate_England.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sands_Ramsgate_England.jpg/manifest.json">
 <param center="Q736439" ve-map="" zoom="15"/>
 
 As an adult Zangwill was less enraptured with the town; in ‘Without Prejudice’, his regular  column for the _Pall Mall Magazine_, he jocosely repeated a story going round the clubs in 1893 that an ill-starred [Henry James](/19c/19c-jamesh-hever-castle) had gone there to find some ‘peace’.[^ref3]  He was still less impressed by neighbouring [Margate](/19c/19c-margate):
@@ -33,7 +33,7 @@ Zangwill memorably observed that 'in [Margate](/19c/19c-margate) and Deal the ma
 <param center="Q922739" ve-map="" zoom="15"/>
 
 Zangwill stayed in [Dover](/19c/19c-dover) (with no dynamite incidents) in July 1904, working on his play _Jinny the Carrier_.[^ref9] It was also from here that he wrote in November 1905 to thank the _Labour Leader_ for an article expressing ‘sympathy with me and my people’, which he had ‘received with sad pleasure’.[^ref10]  It is indeed not always easy to remember that, in Zangwill’s own words, ‘a serious man may be humorous, still less that a humorous man is always serious.’[^ref11] 
-<param manifest="https://iiif.juncture-digital.org/wc:Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg/manifest.json">
 <param center="Q179224" ve-map="" zoom="15"/>
 
 ### Bibliography
@@ -45,7 +45,7 @@ Rochelson, Meri-Jane. _A Jew in the Public Arena: The Career of Israel Zangwill.
 Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachelors’ Club and The Old Maids’ Club._ London: William Heinemann 1898.    
 --. ‘The Premier and the Painter.’ My First Book. Ed Jerome K. Jerome London: Chatto &amp; Windus, 1894. 163-79.   
 --. Without Prejudice’ VI. _Pall Mall Magazine_: 1 (May-Oct 1893) 901-08.   
-<param manifest="https://iiif.juncture-digital.org/wc:Israel_Zangwill_1905.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Israel_Zangwill_1905.jpg/manifest.json">
 
 ### References
 [^ref1]: ‘The Premier and the Painter’ 163.   
@@ -59,4 +59,3 @@ Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachel
 [^ref9]: Rochelson. Chronology.   
 [^ref10]: ‘Swiss Second Ballot’. _Labour Leader_. 24 November 1905. 9.   
 [^ref11]: Preface to the sixth edition of _The Bachelors’ Club_ (xii).   
-</body></html>

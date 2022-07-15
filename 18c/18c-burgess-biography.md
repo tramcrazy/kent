@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Stephen Williamson" banner="/images/banners/18c.jpg" layout="vtl" title="Mrs Elizabeth Burgess (1737-1825)" ve-config=""/>
 
 <!-- Kent with map centered at Canterbury -->
@@ -19,7 +19,7 @@ The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 
 <param attribution="Edward Crowther" label="Eight Bells" url="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" ve-image=""/>
 
 They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Elizabeth Wootton (married 1734 St Andrews), and Elizabeth married Edward Burgess (1726-1807), a Freeman silk weaver, at St Alphege in 1765. 
-<param manifest="https://iiif.juncture-digital.org/wc:Canterbury_-_St_Alphege.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_-_St_Alphege.jpg/manifest.json">
 
 In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King Street, is mentioned in [_Kentish Gazette_](/18c/18c-kentish-gazette) as one of those selling tickets for a concert, and in 1770 Elizabeth Burgess placed a large advert in that newspaper:
 <br/><br/>
@@ -41,12 +41,12 @@ Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1
 Then in April 1780 Elizabeth Burgess is announced in the _Kentish Gazette_ as Author of a Comedy (never acted) called ‘The Oaks or The Beauties of Canterbury’. ‘Written by Mrs Burgess. The Prologues to be spoken by Mr Miell and the Epilogue by Mrs Dawes’. The play was performed at Canterbury’s Theatre, a rickety wooden building over the Buttermarket outside Christchurch Gate, and seems to have been very successful. It was printed at her own expense and survives in full. 
 <br/><br/>
 In May she is announced as Author of a new Prelude called ‘The Freemen of Canterbury, Or, Preface to the Election’, which features Mr Miell in the role of Nimbletongue, a hairdresser. Unfortunately this and the following pieces announced for Friday 17th August 1781 do not: ‘The Oddities, or the Canterbury Races’ and also for a ‘new Prologue she has written for a Comic Opera called The Wedding Ring’ to be performed on the same evening. It was of course no coincidence that this performance took place during ‘Canterbury Races Week’, an annual event on Barham Downs.
-<param manifest="https://iiif.juncture-digital.org/wc:Christ_Church_Gate_-Joseph_Mallord_William_Turner.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Christ_Church_Gate_-Joseph_Mallord_William_Turner.png/manifest.json">
 
 The Oaks is a very light comedy that revolves around various romances. There is perhaps only one really memorable line, ‘In your way here from the Cathedral there is, Sir, a place called the Oaks. Sir, it is a genteel walk, frequented by the ladies in the morning, and by the other sort of ladies in the evening’, spoken by the inn landlord.
 <br/>
 The ‘Red Lion’ innkeeper’s overcharging of the Duke de Nivernois, the French Ambassador recently arrived at Dover, that caused the populace of Canterbury so much amusement in 1762 (and is mentioned with amusement in the letter of Madame de Pompadour to the Duke in the same year) is referred to, as is a more recent small fire that apparently caused a stampede in the Canterbury theatre when the famed Mr Palmer from the Drury Lane Theatre London was performing. These lines were no doubt well received by the Canterbury audiences. However one can but conclude that this is a competent rather than a brilliant piece of work.
-<param manifest="https://iiif.juncture-digital.org/wc:Louis-Jules_Mancini-Mazarini.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Louis-Jules_Mancini-Mazarini.jpg/manifest.json">
 
 For the next twenty years any further literary output is unknown. _The Thespian Dictionary_ in 1802 has an entry: BURGESS, (Mrs.) is author of a comedy, called “The Oaks; or, Beauties of Canterbury”, 1780, several times acted in that city, where she keeps a shop in St. George's Street. 
 <br/><br/>
@@ -66,7 +66,7 @@ It surely must be shocking Stuff; however,
 To write a Play, she should be something clever,   
 But she is such an awkward clumsy Woman,    
 Quite impolite – her education common.   
-<param manifest="https://iiif.juncture-digital.org/wc:Old_woman_scouring_a_cooking_pot_in_front_of_large_kitchen_fire._Lady_handing_menu%28%3F%29_to_cook_LCCN2002705911.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Old_woman_scouring_a_cooking_pot_in_front_of_large_kitchen_fire._Lady_handing_menu%28%3F%29_to_cook_LCCN2002705911.jpg/manifest.json">
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
 <param attribution="© Martin Crowther" label="Site of Mrs Baker's Canterbury Theatre" url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" ve-image=""/>
@@ -90,4 +90,3 @@ Inoculation an indefensible practice: a sermon preached at the United Parish-Chu
 'Remarks on the Rev. Mr. Delafaye's vindication of his sermon, intitled, inoculation an indefensible practice', By N. Bolaine, surgeon. Printed for R. Baldwin, in Pater-noster-Row; and sold by Mess. Flackton, in Canterbury, 1754.   
 'Some Remarks on the Rev. Mr Delafaye's vindication of his sermon against Inoculation In a letter to a friend'' By a regular Physician. [Signed, Philalethes.] Printed for Mr T. Smith Bookseller in Canterbury 1754.   
 
-</body></html>

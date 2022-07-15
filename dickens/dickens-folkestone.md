@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Ken Moffat and Carolyn W. de la L. Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Dickens and Folkestone" ve-config=""/>
 
 <param aliases="Charles Dickens" eid="Q5686" ve-entity=""/>
@@ -18,16 +18,16 @@ Whilst he is more often associated with [Broadstairs](/dickens/broadstairs), Dic
 <param attribution="Martin Crowther" label="3, Albion Villas" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image=""/>
 
 His affection for the town is obvious from his _Household Words_ article ‘Out of Town’, in which he renames [Folkestone](/19c/19c-folkestone) ‘Pavilionstone’ in honour of Mr Breach, the proprietor of the Pavilion Hotel where he had stayed on previous visits and which had improved considerably since its 1808 origins as a shipbuilder’s hut on the edge of the harbour wall. Breach had been ‘so extraordinarily kind to me when I was ill’ that when he proposed buying 500 copies of the number, Dickens arranged to make a present of them [^ref4]. In 1902 the hotel chain would reissue the article as a limited edition with a beautiful cover illustration, as ‘Pavilionstone’.
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/smaller pavilionstone.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/smaller pavilionstone.JPG/manifest.json">
 
 In October 1855 Dickens read _A Christmas Carol_ to the local Harveian Literary Insistute, insisting that the working men be given a lower ticket price. He must have enjoyed writing to his sub-editor in London a few weeks before this, ‘Scrooge is delighted to hear that Bob Cratchit is enjoying his holiday’[^ref5].
 <param label="A Christmas Carol" url="https://stor.artstor.org/stor/2e5c30ff-5b87-40d2-9bae-52961b0a1a51" ve-image=""/>
 
 Writing in 1914 Charles G. Harper commented that ‘the people who made holiday at [Folkestone](19c-folkestone) in his time were frankly people who “went to the seaside” and descended to the beach, and sometimes even paddled in the sea, and did the like undignified things.’  Now, he complained, visitors to the Leas had nothing to do with the working class trippers who stayed in lodgings near the beach. ‘The very bands understand to a nicety the differences of ideals and outlook, and render Grieg, Wagner and classical music above, while to the Lower Road audiences they discourse strains of a simpler and more popular kind’[^ref6].
-<param manifest="https://iiif.juncture-digital.org/wc:Folkestone%2C_The_Leas%2C_Bandstand.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Folkestone%2C_The_Leas%2C_Bandstand.jpg/manifest.json">
 
 In 1865 Dickens was travelling on the Folkestone tidal train when he was involved in the rail disaster at [Staplehurst](/dickens/dickens-staplehurst).
-<param manifest="https://iiif.juncture-digital.org/wc:Staplehurst_rail_crash.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Staplehurst_rail_crash.jpg/manifest.json">
 
 ## Bibliography
 
@@ -41,7 +41,7 @@ Storey, Graham and K. J. Fielding, eds. _The Pilgrim Edition: The Letters of Cha
 Storey, Graham, Kathleen Tillotson and Nina Burgis, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 6: 1850-1852_. Oxford: Clarendon Press, 1988.   
 Storey, Graham, Kathleen Tillotson and Angus Easson, eds. _The Pilgrim Edition: The Letters of Charles Dickens. Volume 7: 1853-1855_. Oxford: Clarendon Press, 1993.   
 Unattributed. ‘The Rise of the Pavilion Hotel’. _Holbein Visitors’ List and Folkestone Journal._   29 April 1891. 13, 15.albio.   
-<param manifest="https://iiif.juncture-digital.org/wc:The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg/manifest.json">
 
 ### References
 
@@ -54,4 +54,3 @@ Unattributed. ‘The Rise of the Pavilion Hotel’. _Holbein Visitors’ List an
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM5NDQyMDAyN119
 -->
-</body></html>

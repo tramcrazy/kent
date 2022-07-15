@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 <param author="Malcolm Shifrin" banner="/images/banners/19c.jpg" layout="vtl" title="Victorian Turkish baths" ve-config=""/>
 
 <param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
@@ -17,7 +17,7 @@ Barter discovered the Islamic hammams of Morocco and Turkey in a quirky travel b
 <param attribution="The Wellcome Collection, no known copyright" label="The Pillars of Hercules, or, A narrative of travels in Spain and Morocco in 1848 / By David Urquhart" url="https://iiif.wellcomecollection.org/image/b29351066_0002_0007.jp2/full/full/0/default.jpg" ve-image=""/>
 
 His first ‘improved’ Turkish bath, using relatively dry hot air, was available to his patients in 1856. The following year, Urquhart helped build the first such bath in Manchester. While Barter was responsible for its rapid spread throughout Ireland, Urquhart, concentrating more on the value of the bath as a cleansing agent to improve personal hygiene, was responsible for its spread throughout the rest of the United Kingdom, the Empire, and the United States.
-<param manifest="https://iiif.juncture-digital.org/wc:David_Urquhart_%281805-1877%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:David_Urquhart_%281805-1877%29.jpg/manifest.json">
 
 This is the bath which became known as the Victorian Turkish Bath. By 1860—a period of less than five years—its exemplar was already considered to be ‘a type of bath in which the bather sweats freely in a room heated by hot dry air (or in a series of two or three such rooms maintain-ed at progressively higher temperatures), usually followed by a cold plunge, a full body wash and massage, and a final period of relaxation in a cooling-room.’[^ref1]  In Victorian Turkish baths, the body wash and massage, taken together, were known as shampooing.
 <param attribution="Credit: Wellcome Collection. Public Domain Mark" label="Punch, or, the London Charivari" license="CC BY 4.0" url="https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg" ve-image=""/>
@@ -27,12 +27,12 @@ While simpler versions were soon to be found in the country and town houses of t
 
 While Kent had fewer Turkish baths than many northern counties, they were no less interesting than those built elsewhere. Many well-known people used them including 
 [F C Burnand](/19c/19c-burnand-biography/), [Wilkie Collins](/19c/19c-collins-biography/), and [Edward Linley Sambourne](/19c/19c-sambourne-biography/), while [George Grossmith](/19c/19c-grossmith-biography/) not only used them, but also owned shares in one of them, The Savoy.
-<param manifest="https://iiif.juncture-digital.org/wc:Edward_Linley_Sambourne%2C_self_portrait_1891.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Edward_Linley_Sambourne%2C_self_portrait_1891.png/manifest.json">
 
 The first Turkish bath we hear of in Kent was a private one in Bifrons Mansion House at Patrixbourne.[^ref2]  Its foundation stone was laid in March 1860 by the Dowager Marchioness Conyngham but, apart from a decorator’s bill which included painting the bath,[^ref3]  little else is so far known about it.
 <br/><br/>
 A number of baths were proposed but never progressed any further. Between 1860 and 1863, for example, there was much campaigning in the local newspaper correspondence columns on the need for Turkish baths in Folkestone,[^ref4]  but to no avail.
-<param manifest="https://iiif.juncture-digital.org/wc:Jan_Wyck_-_Bifrons_Park%2C_Kent_-_Google_Art_Project.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Jan_Wyck_-_Bifrons_Park%2C_Kent_-_Google_Art_Project.jpg/manifest.json">
       
 More hopefully, in 1877, the Dover Harbour Board approved plans for baths designed by J T Anson for a Mr Adcock which were expected to open the following year, but the scheme fell through. The three-floor building, its frontage ‘style being ornamental Byzantine’, was to have included a swimming pool, slipper baths, Turkish bath, and a flat for the proprietor or manager.[^ref7]
 <br/><br/>
@@ -61,4 +61,3 @@ Urquhart, David.  _The Pillars of Hercules, or, a narrative of travels in Spain 
 [^ref8]: ‘The Saline Spa [advertisement]’   East Kent Times and Mail   (15 Dec 1870)   p.2   
 
 *Woolwich was within the Kent boundary at the time.
-</body></html>

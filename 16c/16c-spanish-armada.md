@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Duke of Edinburgh Scheme Participants" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/La_batalla_de_Gravelinas%2C_por_Nicholas_Hilliard.jpg" layout="vtl" title="The Spanish Armada and Kent " ve-config=""/> 
 
 <param aliases="Dover" eid="Q179224" ve-entity=""/> 
@@ -25,10 +25,10 @@
 “I have placed my chiefest strength and safeguard in the loyal hearts and goodwill of my subjects, and therefore I am come amongst you, as you see, at this time, not for my recreation, but being resolved, in the midst and heat of the battle, to live or die amongst you all, to lay down for my God, and for my Kingdom and my People, my honour and my blood, even in the dust."[^ref1]
 <br/><br/>
 These are the words spoken by Queen Elizabeth I at Tilbury to her assembled troops on the eve of an anticipated Spanish invasion on the 8th of August 1588.  Determined to protect the nation against the advancing Spanish foe, the government had concentrated its forces near London, digging trenches along the Essex coast and barring the entrance to the Thames with a chain. 
-<param manifest="https://iiif.juncture-digital.org/wc:Ignoto%2C_elisabetta_I_d%27inghilterra%2C_1588_caFXD.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ignoto%2C_elisabetta_I_d%27inghilterra%2C_1588_caFXD.jpg/manifest.json">
 
 Meanwhile in Kent, the militia had been mobilised to protect the county from any possible invasion. Sir John Norris who was in charge of commanding the South East, mustered troops at Rochester, planning to concentrate his forces at Canterbury, whereas Sir Thomas Scott, former MP for Kent, wanted to spread out along the coast. [^ref2] There were fears that troops from Flanders might land either on the Downs or along the unprotected coast of Margate. Unlike the south Kent coast, which had benefitted from the fortifications built by Henry VIII at Sandgate, Walmer, Deal, and Sandown, the North Kent coast from Margate to the River Medway was vulnerable. [Sheppey](/16c/16c-sheppey-at-war) had been fortified earlier in the year but the castle at Upnor was the only fortification on the Medway and nearby Rochester Castle had fallen into disrepair.[^ref3] Some plans were made to strengthen the fort at Gravesend, as late as July 29th.[^ref4] 
-<param manifest="https://iiif.juncture-digital.org/wc:Sir_Thomas_Scott_%281535-1594%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sir_Thomas_Scott_%281535-1594%29.jpg/manifest.json">
 <param center="Q29303" ve-map="" zoom="10"/>
 
 In the autumn of 1587, Philip II of Spain had written to the Duke of Parma, the governor of the Netherlands, outlining his plans for the campaign: 
@@ -36,25 +36,25 @@ In the autumn of 1587, Philip II of Spain had written to the Duke of Parma, the 
 ”The most important of all things is that you should be so completely ready that the moment the Marquis (of Santa Cruz) arrives at Margate, you may be able to do your share without delay. You will see the danger of any such delay; the Armada being there and you behindhand : as until your passage is effected he will have no harbour for shelter, whereas, when you have crossed over he will have the safe and spacious river Thames. Otherwise he will be at the mercy of the weather; and if, which God forbid! any misfortune should happen to him, you will understand what a state it will put us into.”[^ref5] 
 <br/><br/>
 Six thousand Spanish infantry were sent by ship to increase Parma's fighting power so that a surprise attack could be launched from the Netherlands.[^ref6] A series of events in the English Channel, however, foiled the Spanish plans to "join hands" off Margate.[^ref7] 
-<param manifest="https://iiif.juncture-digital.org/wc:The_track_of_the_Armada_around_Britain_and_Ireland_RMG_L8270.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_track_of_the_Armada_around_Britain_and_Ireland_RMG_L8270.jpg/manifest.json">
 <param center="Q618045" ve-map="" zoom="15"/>
 
 In the weeks leading up to the Spanish offensive, a series of beacons had been erected to act as a warning system along the southern coast. These were filled with tar and the first one lit as soon as the Spanish galleons were spotted off Cornwall; each town then played its part relaying the impending danger to London. Kent had a well-established system of beacons; and watches were arranged at Hoo, Sheppey, Graystones, Elmes, Dymchurch and Sandgate.[^ref8] As soon as the beacon was lit at Fairlight in Sussex, Kent would have received its warning.
-<param manifest="https://iiif.juncture-digital.org/wc:A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:A_Map_of_the_Beacons_in_Kent_%28BM_1872%2C0113.1137%29.jpg/manifest.json">
 
 On the 20th July 1588, the Spanish fleet sailed past Plymouth where they were bombarded by cannon fired from English ships under the command of Lord Howard of Effingham and Sir Francis Drake. Drake, who was second in command, was a privateer who had earned the nickname 'El Draque' - the dragon - for his raids on Spanish ships. He may have spent some time in Kent as a boy, as his father was a curate at Upchurch, although evidence suggests he largely remained in Devon with the Hawkins family.[^ref9] 
-<param manifest="https://iiif.juncture-digital.org/wc:St._Mary_the_Virgin_Church%2C_Upchurch_-_geograph.org.uk_-_2210058.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St._Mary_the_Virgin_Church%2C_Upchurch_-_geograph.org.uk_-_2210058.jpg/manifest.json">
 
 After Plymouth, and with the English fleet in hot pursuit, the Spanish galleons headed on towards the Kent coast, but skirmishes at Portland and in the Solent, forced them to provision at Calais.   At midnight on 28th July, the English unleashed eight ‘hellburners’- tar filled ships, which threatened to destroy the Spanish fleet, leading to chaos and confusion in the channel. Sir Thomas Scott wrote to Lord Burghley on the 5th of August informing him that the Armada had been seen off Boulogne. His letter was carried by horseman through the night, passing through Sittingbourne at 4 a.m. Thirty ensigns of infantry and three cornets of horse were assembled on the Downs "to make a shewe ... to the Enymye".[^ref10] 
 <br/><br/>
 Over the period of a day, Scott had assembled 4000 men at Dover paying for their services with his own money, however, on seeing the magnificent Spanish galleons massing in the channel, the callow and unprepared troops began to panic, many fleeing their positions.[^ref11] Scott commanded the camp at Northbourne but the commanding officers for Thanet, Edward Wotton and Sir Thomas Fane, were on duty elsewhere leaving the coast unprotected.[^ref12] 
-<param manifest="https://iiif.juncture-digital.org/wc:Invincible_Armada.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Invincible_Armada.jpg/manifest.json">
 <param center="Q179224" ve-map="" zoom="10"/>
 
 The English attacked the Armada near Gravelines on the 8th of August, driving the Spanish galleons further up the coast and away from Kent, leaving the Spanish unable to rendezvous off Cape Margate.  Instead, the town of Margate saw an influx of English sailors, who having contracted typhus after the battle of Gravelines, were left to die of disease and starvation.[^ref13] An ignoble and pitiful end for these brave fighters. The armies in Kent and Tilbury were gradually disbanded and Elizabeth I did not have to lie down among the blood and the dust of her people. 
 <br/><br/>
 This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis, Max, Niamh and Polina whilst undertaking volunteering on the Kent Maps as part of their Duke of Edinburgh Award. It was collated and written up by Eloise Lewis and Michelle Crowther.
-<param manifest="https://iiif.juncture-digital.org/wc:Loutherbourg-Spanish_Armada.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Loutherbourg-Spanish_Armada.jpg/manifest.json">
 <param center="Q618045" ve-map="" zoom="10"/>
 
 ### References
@@ -73,5 +73,4 @@ This article was researched by Arnav, Charlie, Conrad, Hannah, Lewis, Max, Niamh
 [^ref11]: Younger, Neil. “If the Armada Had Landed: A Reappraisal of England’s Defences in 1588.” _History_, vol. 93, no. 3 (311), Wiley, 2008, pp. 328–54, http://www.jstor.org/stable/24428393.
 [^ref12]: Letter from Sir Thomas Scott to Burghley, 5 August 1588.
 [^ref13]: John Guy. _Elizabeth: The Forgotten Years._ Penguin Books Limited, 2016. 
-<param manifest="https://iiif.juncture-digital.org/wc:Elizabeth_I_%28Armada_Portrait%29.jpg/manifest.json" ve-image-v2/>
-</body></html>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Elizabeth_I_%28Armada_Portrait%29.jpg/manifest.json">

@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Bethia Carter" banner="/images/banners/19c.jpg" layout="vtl" title="Dickens, A Tale of Two Cities and France" ve-config=""/>
 
 <param aliases="Gads Hill Place" eid="Q5516441" ve-entity=""/>
@@ -15,7 +15,7 @@ The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale o
 <param attribution="Benjamin Mortley" label="Gads Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
 
 The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’s description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref1] The etymology of the place names en route testify to this: "Shooters Hill, so called from the thievery there practiced" and Gad's Hill, from the "Gadd's of steel" used before fire arms.[^ref2]
-<param manifest="https://iiif.juncture-digital.org/wc:The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg/manifest.json">
 
 The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref3] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:   
 He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref4]      
@@ -36,7 +36,7 @@ _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherou
 "Next morning’s sun saw Mr Dorrit’s equipage upon the Dover road, where every red-jacketed postilion was the sign of a cruel house, established for the unmerciful plundering of travellers. The whole business of the human race, between London and Dover, being spoliation, Mr Dorrit was waylaid at Dartford, pillaged at Gravesend, rifled at Rochester, fleeced at Sittingbourne, and sacked at Canterbury. However, it being the Courier’s business to get him out of the hands of the banditti, the Courier brought him off at every stage; and so the red-jackets went gleaming merrily along the spring landscape, rising and falling to a regular measure, between Mr Dorrit in his snug corner and the next chalky rise in the dusty highway."
 
 Dickens was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref13]. However with the railway opening in Dover in 1844 and the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is more likely Dickens travelled by train than coach to the continent. It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous as the earlier mail coach.
-<param manifest="https://iiif.juncture-digital.org/wc:Staplehurst_rail_crash.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Staplehurst_rail_crash.jpg/manifest.json">
 
 However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref14], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
 
@@ -73,4 +73,3 @@ Whyman, John. _Kentish Sources: The Early Kentish Seaside_. 1985. Kent Archives 
 [^ref12]: (Birmingham, 1853).    
 [^ref13]: (Storey, G. and Fielding, K.J., 42).    
 [^ref14]: (Jones, McDonagh, and Mee, 2009).    
-</body></html>

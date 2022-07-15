@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Melissa Campbell-Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Richard Dadd (1817-1886)" ve-config=""/>
 
 <param aliases="Chatham" eid="Q729006" ve-entity=""/>
@@ -15,7 +15,7 @@ It was during this trip that he first displayed symptoms of mania, initially mis
 <param label="Cobham Hall, near Rochester" url="https://stor.artstor.org/stor/dc892f31-c494-463b-ae95-942bf382344a" ve-image=""/>
 
 On 28 August the two men shared a meal at the Ship Inn at Cobham. The waiter recognized Robert Dadd and asked whether he should get him one bed or two for the night, in a nearby cottage. He answered, ‘This is my son, and one will be enough’, but as the waiter was leaving the room, Richard opened the door and said sharply, ‘Get two beds.’[^ref4]  Later that evening the two men went for a walk and the following morning Robert Dadd was found stabbed to death in nearby Cobham Park. Suspicion immediately fell on his son, who was understood to be ‘labouring under mental aberration’.[^ref5]  As his brother Stephen put it, ‘My God to think he should fall by the hand of his son Richard who loved him so dearly and whom he so dearly loved’[^ref6]. 
-<param manifest="https://iiif.juncture-digital.org/wc:The_Ship_Inn%2C_Cobham_-_geograph.org.uk_-_2522999.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Ship_Inn%2C_Cobham_-_geograph.org.uk_-_2522999.jpg/manifest.json">
 
 Immediately after the murder Richard fled to [Dover](/19c/19c-dover) Port, from where he escaped to Calais. After attacking a fellow traveller, he spent ten months in an asylum before being extradited and taken to Maidstone Gaol. He stood trial in Rochester in July 1844 – as the charge was read, Dadd retorted, ‘You say I am the murderer, you b-y villain.’[^ref7]  He was found to be criminally insane, a diagnosis that saw him institutionalised, rather than being remanded in prison. At the age of 23 Dadd’s loss of autonomy coincided with the end of his time in Kent. 
 <param attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin" label="The Picturesque Beauties of Great Britain: Kent: The New Sessions House, Maidstone" url="https://stor.artstor.org/stor/d08f6d96-830c-4102-97a5-c96b9eb64ef2" ve-image=""/>
@@ -27,7 +27,7 @@ Between the years 1843 and 1863, Dadd was an inmate at London’s Bethlem Hospit
 <param attribution="By permission of Bethlem Museum of the Mind" label="Murder" url="https://stor.artstor.org/stor/f0fcc4d1-c3d4-40a3-a6e1-9f8a7711bba4" ve-image=""/>
 
 Dadd died in Broadmoor, having spent the vast proportion of his adult life in mental institutions (two of his siblings also suffered from paranoid schizophrenia). But while he had lost his sanity, and with it his independence, his extraordinary talent survived. In the twentieth century, he provided inspiration for Angela Carter's story 'Come onto these yellow sands' and Freddy Mercury's song ['The Fairy Feller's Master Stroke'](https://youtu.be/IGNILpVcgz4).
-<param manifest="https://iiif.juncture-digital.org/wc:Richard_Dadd_-_The_Fairy_Feller%27s_Master-Stroke_-_Google_Art_Project.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Richard_Dadd_-_The_Fairy_Feller%27s_Master-Stroke_-_Google_Art_Project.jpg/manifest.json">
 
 ### Bibliography
 Allderidge, Patricia H. ‘Dadd, Richard (1817-1886). Oxford Dictionary of National Biography, 2004. https://doi.org/10.1093/ref:odnb/37337   
@@ -47,4 +47,3 @@ Hughes, William R. A Week’s Tramp in Dickens Land. London: Chapman and Hall, 1
 [^ref6]: Stephen Dadd to David Roberts. 3 September 1843.
 [^ref7]: ‘Richard Dadd, the Parricide.
 [^ref8]: Hughes 396. Hughes wrongly gives Dadd’s place and time of death as Bethlem, 1887. 
-</body></html>

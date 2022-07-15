@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Diana Hirst" banner="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" layout="vtl" title="E.M. Forster" ve-config=""/>
 
@@ -11,10 +11,10 @@
 #
 
 In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.[^ref1] Forster was unhappy here, although it is to Tonbridge that he owes the deep love of the classics on which he draws for many of his short stories and his two ‘English’ novels. He would base Sawston School, where Rickie Elliot teaches in _The Longest Journey_, on his Tonbridge experience.[^ref2]
-<param manifest="https://iiif.juncture-digital.org/wc:Tonbridge_School%2C_from_the_cricket_field.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Tonbridge_School%2C_from_the_cricket_field.jpg/manifest.json">
 
 A few years later, through the Bloomsbury set, Forster met Sydney Waterlow.[^ref3] Waterlow’s family lived at Trosley Towers at Trottiscliffe on the chalk escarpment of the North Downs, with views over the Weald. Chalk topography plays an important role in Forster’s work, and he would have enjoyed his visits here, quite apart from his friendship with Sydney. Waterlow’s aunt was the [Countess von Arnim](/20c-von-arnim-biography), the novelist then known as ‘Elizabeth of the German Garden’, and it was through Waterlow that Forster was offered the post of tutor to her daughters at Nassenheide in Pomerania, which he took up for the summer months of 1905.
-<param manifest="https://iiif.juncture-digital.org/wc:North_Downs_at_Trottiscliffe.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:North_Downs_at_Trottiscliffe.jpg/manifest.json">
 
 In August 1907, just after the publication of _The Longest Journey_, Forster joined von Arnim and others of her former tutors, including Hugh Walpole, on the caravanning journey through the Weald during what was one of the wettest Augusts on record. Von Arnim would immortalise the holiday in her 1909 novel _The Caravaners_, though it is not evident which, if any, of the young men is based on Forster.[^ref4] Forster joined the party in a field at Great Chart but left before the end, travelling from Borough Green station back to London. He found the city ‘hummed strangely’ for, in a rare moment of sunshine, he had ‘heard a new song’ in the Kent countryside which he recorded in this poem.   
 <br/>
@@ -30,7 +30,7 @@ The shadows passed; but we remain.'[^ref5]
 However, two years later, in Howards End, Forster would ask ‘Why has not England a great mythology? . . . Deep and true as the native imagination can be, it seems to have failed here.’[^ref6]
 <br/><br/>
 Alas, our Kentish gods had failed to dominate the classical ones!
-<param manifest="https://iiif.juncture-digital.org/wc:Cricket_pitch%2C_Great_Chart_-_geograph.org.uk_-_2479477.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cricket_pitch%2C_Great_Chart_-_geograph.org.uk_-_2479477.jpg/manifest.json">
 
 ## References
 
@@ -40,4 +40,3 @@ Alas, our Kentish gods had failed to dominate the classical ones!
 [^ref4]: Von Arnim, Elizabeth. 1909. _The Caravaners_. Virago Press, 1996.    
 [^ref5]: Usborne, Karen. ‘Elizabeth’: the Author of Elizabeth and Her German Garden. Bodley Head, 1986. p. 131    
 [^ref6]: Forster, E.M. 1910. _Howards End._ Penguin Books, 2000, p.
-</body></html>

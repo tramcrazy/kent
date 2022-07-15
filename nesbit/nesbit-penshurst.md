@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Eleanor Fitzsimons" banner="/images/banners/19c.jpg" layout="vtl" title="Edith Nesbit, Penshurst" ve-config=""/>
 
 <param aliases="Sevenoaks" eid="Q939838" ve-entity=""/>
@@ -20,14 +20,13 @@ I wandered up through Penshurst churchyard, and through a little wicket-gate int
 <param center="51.2342802052878, 0.1940171847982023" ve-map="" zoom="12"/>
 
 Penshurst is situated six miles south of Sevenoaks, in a valley on the northern slopes of the Kentish Weald. This picturesque region of South East England lies between the parallel chalk escarpments of the North and South Downs at the confluence of the River Medway and the River Eden. It is an area of outstanding natural beauty and has been recognised as a conservation zone with protected woodlands and fields.  
-<param manifest="https://iiif.juncture-digital.org/wc:River_Medway_at_Penshurst_-_geograph.org.uk_-_2206540.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:River_Medway_at_Penshurst_-_geograph.org.uk_-_2206540.jpg/manifest.json">
 <param center="Q1227477" ve-map="" zoom="15"/>
 
 The village of Penshurst developed around Penshurst Place, the ancestral home of the Sidney family, which was owned for a time by Henry VIII. Records date back to 1346. The ‘little wicket-gate’ that Nesbit mentions is a private gate in the garden walls of Penshurst Place that leads to eleven acres of beautifully laid out Elizabethan gardens with fountains, ancient trees, woodland and heraldic topiary. 
-<param manifest="https://iiif.juncture-digital.org/wc:Penshurst_Place%2C_Kent.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Penshurst_Place%2C_Kent.jpg/manifest.json">
 <param center="Q7164746" ve-map="" zoom="15"/>
 
 There are two walking trails across the estate, the Parkland and the Riverside Walks. Regional cycle route no. 12 from Tonbridge to [Penshurst Place](https://www.penshurstplace.com), which is mostly off road, also goes through the estate.  Cycle from Penshurst Place to Tonbridge Castle with this [Guide](https://www.penshurstplace.com/public/uploads/browser/files/Cycle%20Route.pdf)
-<param manifest="https://iiif.juncture-digital.org/wc:Penshurst_Place%2C_2012_%283%29.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Penshurst_Place%2C_2012_%283%29.JPG/manifest.json">
 <param center="Q7820768" ve-map="" zoom="16"/>
-</body></html>

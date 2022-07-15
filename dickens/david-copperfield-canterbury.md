@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Professor Carolyn Oulton" banner="images/banner/19c.jpg" layout="vtl" title="Dickens and Canterbury" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -7,7 +7,7 @@
 
 _‘I seemed to be sustained and led on by my fanciful picture of my mother in her youth, before I came into the world. It always kept me company. It was there, among the hops, when I lay down to sleep; it was with me on my waking in the morning; it went before me all day. I have associated it, ever since, with the sunny street of Canterbury, dozing as it were in the hot light; and with the sight of its old houses and gateways, and the stately, grey Cathedral, with the rooks sailing round the towers.’_   
 _David Copperfield_
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/In Dickens Land. The Little Inn, Canterbury.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/In Dickens Land. The Little Inn, Canterbury.JPG/manifest.json">
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,[^ref1]
@@ -30,7 +30,7 @@ Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little I
 Dickens’ relationship with Canterbury was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of _David Copperfield_ would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham (Rochester) in [_The Mystery of Edwin Drood_ )](/dickens/edwin-drood-curated-walk), but that is not a feature of his letters or other writings. He bought Cruikshank's _Bottle_ here in 1847, took a friend 'in tow to Canterbury' in 1848.[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] But the only obviously affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.    
 Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes](/dickens/mobile-landscapes) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.   
 Want to know more about Dickens's links to Canterbury? Why not go for a walk round the city and find your own [Canterbury Connections?](https://drive.google.com/file/d/1ijH_Pcg1JQ8KMtBShCS70j9IdLvth5i3/view)
-<param manifest="https://iiif.juncture-digital.org/wc:Abode_Hotel_Canterbury.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Abode_Hotel_Canterbury.jpg/manifest.json">
 
 ## Bibliography
 
@@ -39,7 +39,7 @@ Storey, Graham, ed. The Pilgrim Edition: _The Letters of Charles Dickens.'' Volu
 --. and and K. J. Fielding, eds. The Pilgrim Edition: _The Letters of Charles Dickens.'' Volume 5: 1847-1849_. Oxford: Clarendon Press, 1977.   
 Turley, A. C. ‘Charles Dickens and Canterbury’. [from] East Kent Scientific and Natural History Society's 'Report and transactions for the year ending September 30th, 1907. Series II. Vol. VII'.   
 Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide for Pilgrims_. Canterbury: Canterbury &amp; District Chamber of Trade, 1928.   
-<param manifest="https://iiif.juncture-digital.org/wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg/manifest.json">
 
 ### References
 
@@ -50,4 +50,3 @@ Wilson, Stanley Gordon Francis. _Canterbury and Charles Dickens: a Little Guide 
 [^ref5]: _Letter to John Forster_ [early October 1849]. Pilgrim 5. 620-1.   
 [^ref6]: _Letter To George Dolby. 1 June 1869. 362-3. 363.   
 
-</body></html>

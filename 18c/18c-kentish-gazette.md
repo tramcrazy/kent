@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Katie Holdway" banner="/images/banners/18c.jpg" layout="vtl" title="Kentish Gazette" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -20,7 +20,7 @@ By the 1830s, Robert Smithson had succeeded Simmons as both printer and publishe
 
 At about this time, the _Gazette_ can be described as Conservative and anti-Reform. This stance continued into the 1840s and beyond, with the 1846 _Newspaper Press Directory_ stating that the publication ‘[a]dvocates the agricultural interest chiefly. Is attached to the Church of England, and the friend of religious toleration’.  By this time the _Gazette_ was also circulating through Surrey and Sussex. On 1st July 1851, the _Gazette_ came under the proprietorship of Henry Ward, who reiterated the paper’s Conservative allegiance in an address in his inaugural issue. The paper remained in the Ward family for much of the nineteenth century: passed to Henry’s wife Jane Ward upon his death in December 1857, and subsequently to their daughter Mary Ann Ward in 1881.
 In 1944, the [Luftwaffe](/canterbury/20c-canterbury-ww2) bombed [Canterbury](/canterbury/20c-canterbury-home) and destroyed the offices of the _Kentish Gazette_, although publication continued, and the next issue even contained a report on the bombing. In 1980, the _Gazette_ joined the Kent Media Group and still publishes today, winning ‘Newspaper of the Year’ in the 2019 Kent Press and Broadcast Awards.
-<param manifest="https://iiif.juncture-digital.org/wc:St_George%27s_Tower_Canterbury_plaque.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_George%27s_Tower_Canterbury_plaque.JPG/manifest.json">
 
 ### Bibliography:
 Hannah Barker, _Newspapers, Politics and English Society 1695-1855_ (Essex: Pearson, 2000).   
@@ -34,4 +34,3 @@ Mitchell, Charles, _The Newspaper Press Directory_ (London: Charles Mitchell, 18
 [_Northampton Mercury_](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000317/18311029/025/0004), Saturday 29th October 1831, p.4 [Accessed: 30/12/2019].   
 [_Waterloo Directory of English Newspapers and Periodicals_](http://www.victorianperiodicals.com/series3/index.asp) [Accessed: 30/12/2019]   
 
-</body></html>

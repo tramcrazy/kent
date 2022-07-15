@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Dr Chris Price" banner="/images/banners/19c.jpg" layout="vtl" title="William Henry Longhurst (1819–1904)" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -9,8 +9,7 @@ William Henry Longhurst, a singer and composer, gave 14 years of service to Cant
 <param attribution="Photographed by Michelle Crowther" label="Plaque to Longhurst in Canterbury Cathedral" url="https://stor.artstor.org/stor/ee2dd200-0f05-4e33-877d-45477188e322" ve-image=""/>
 
 None of the pieces would prompt a re-appraisal of Longhurst’s modest place in the ranks of English composers, but they are pleasant enough, and would serve their purposes well: an addition to the repertoire of canticles and anthems for a provincial cathedral, or teaching pieces for singing pupils such as ‘The Misses Backhouse’ to whom his Mermaid’s Song was dedicated. And for the sake of completeness, it should be noted that the Catch Club was treated to at least one composition which did not make it into print, probably because few would be able to play the piano accompaniment: The Fairies: In the Stilly Night was a ‘Cheerful Glee’ for 4 voices which begins innocuously enough but launches into a virtuosic passage for the accompanist whilst the voices trip around singing ‘We step so lightly, gay and sprightly, from eve till the break of day’. 
-<param manifest="https://iiif.juncture-digital.org/wc:Emily%27s_Fairies_WA_MVAS.jpeg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Emily%27s_Fairies_WA_MVAS.jpeg/manifest.json">
 
 Other publications in the Canterbury collection testify to the journeys music could make across the nation in the eighteenth and nineteenth centuries.  Subscription lists are often simply a list of names, but will, not infrequently, give a location. The geographical reach is remarkable. A two-volume set of music by the much-loved John Wall Callcott, edited by his son-in-law, the composer William Horsley, and published in London by Birchall, Lonsdale, and Mills in 1824, is probably the jewel in the Canterbury Collection; the map shows in graphic form how far afield Callcott’s music travelled.
 <param attribution="Chris Price" label="Map showing the locations of subscribers to the 2 volume edition of works by John Wall Calcott" url="https://stor.artstor.org/stor/1eb60c5c-a15e-4f20-82f3-8a124803bf10" ve-image=""/>
-</body></html>

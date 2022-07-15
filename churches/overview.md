@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Andrew Vincent" banner="https://stor.artstor.org/stor/19dd8250-567d-401f-af5e-2c86842c2a9f" layout="vtl" title="The Hidden Gems of Parochial Kent" ve-config=""/>
 
 <param aliases="Headcorn" eid="Q743020" ve-entity=""/>
@@ -31,5 +31,4 @@ The church of [St Mary and St Eanswythe](/churches/steanswythe-folkestone) sits 
 <param center="Q17546000" ve-map="" zoom="15"/>
 
 [All Saints church in Eastchurch](/churches/allsaints-eastchurch) has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.
-<param manifest="https://iiif.juncture-digital.org/wc:Eastchurch_Sheppey_9223.JPG/manifest.json" ve-image-v2/>
-</body></html>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Eastchurch_Sheppey_9223.JPG/manifest.json">

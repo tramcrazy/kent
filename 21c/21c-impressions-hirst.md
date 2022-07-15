@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Diana Hirst" banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" layout="vtl" title="Impressions from a Bolthole Window" ve-config=""/>
 
 <param aliases="Deal" eid="Q1011096" ve-entity=""/>
@@ -37,7 +37,7 @@ To the south
 the sea is silvered by a secret sun.   
 A pregnant cloud droops luminosity,   
 suspending gloom, suspending rain.   
-<param manifest="https://iiif.juncture-digital.org/wc:Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg/manifest.json">
 <param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" ve-image=""/>
 
 Tonight the pier is gaudy.  Its orange sodium lights   
@@ -71,7 +71,7 @@ but without success.
 Above some shifting stars, an absent moon.   
 Only Venus to the east seems constant.   
 Just for tonight?   
-<param manifest="https://iiif.juncture-digital.org/wc:Pier-of-Deal-07.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Pier-of-Deal-07.jpg/manifest.json">
 
 Even though the sun is warming up its pathway   
 the sea is shivering as it rolls to shore.   
@@ -111,7 +111,7 @@ Above, oblivious to graft and beauty,
 cumulus clouds chug along importantly,   
 itching to destroy this work   
 with tiny hail- and rain-seeds.   
-<param manifest="https://iiif.juncture-digital.org/wc:Waves_%281793045566%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Waves_%281793045566%29.jpg/manifest.json">
 
 The window frames are white   
 and form nine silent rectangles   
@@ -132,7 +132,7 @@ a dumbshow for drizzle-driven windows.
 Apart from these small interruptions,   
 the picture is Mark Rothko in Grey and Grey   
 viewed through nine silenced rectangles of double-glazing.   
-<param manifest="https://iiif.juncture-digital.org/wc:Rothko_Paper_Works.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Rothko_Paper_Works.jpg/manifest.json">
 
 The sea is hammered to a blue steel pan.   
 A scattering of snippets from the moon   
@@ -145,7 +145,7 @@ slithers on its path towards me.
 Its scales glitter out a warning   
 to shipping lights on the horizon,   
 which slink away.   
-<param manifest="https://iiif.juncture-digital.org/wc:English_Channel_%2820562846383%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:English_Channel_%2820562846383%29.jpg/manifest.json">
 
 Earlier this afternoon,    
 near the marshes lying outside town   
@@ -159,7 +159,7 @@ drifting nonchalant as summer candyfloss
 against the backcloth of a sky   
 which drops, air-force blue,    
 to a sea of sheen like a magpie’s wing.   
-<param manifest="https://iiif.juncture-digital.org/wc:Frozen_Cabbage_-_geograph.org.uk_-_2181989.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Frozen_Cabbage_-_geograph.org.uk_-_2181989.jpg/manifest.json">
 
 A parabolic cloud conceals a focus   
 from which soft lines of light   
@@ -199,5 +199,4 @@ and, skipping along to Beach Street,
 whisks at skirts, teases headgear,   
 skids lolly litter into the gutter,   
 and sashays into the bar at the Royal Hotel.   
-<param manifest="https://iiif.juncture-digital.org/wc:Royal_Hotel_-_geograph.org.uk_-_2852587.jpg/manifest.json" ve-image-v2/>
-</body></html>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Royal_Hotel_-_geograph.org.uk_-_2852587.jpg/manifest.json">

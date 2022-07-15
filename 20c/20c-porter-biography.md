@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author=" Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Bertha Porter (1852-1941)" ve-config=""/>
 
@@ -7,7 +7,7 @@
 #
 
 Bertha Porter, biographer, and Egyptologist was born in Bloomsbury on April 9th, 1852. Her father, a noted architect, designed the Union Bank of London on Chancery Lane in 1865, and Bertha spent a very privileged childhood living in Charlotte Street and later Russell Square, where she became acquainted with [Charles Dickens](/dickens/dickens-biography), Thomas and Jane Carlyle, and Robert and Elizabeth Barrett Browning.[^ref1] 
-<param manifest="https://iiif.juncture-digital.org/wc:Dickens_Gurney_head.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Dickens_Gurney_head.jpg/manifest.json">
 
 In the 1870s, Bertha’s parents, Frederick and Sarah Porter (nee Moyle), bought a seaside home on Marine Terrace, Hythe. A partly completed hotel which was going cheap, it was remodelled it into a family home, which Frederick named Moyle Tower, in tribute to his wife. Sarah and Frederick quickly became part of the community, hosting annual parties for poor children and providing them with tea and games.[^ref2] Frederick later became mayor of Hythe (1886) and a magistrate for Kent (1888).  
 <br/>
@@ -21,15 +21,15 @@ Developing an interest in psychical research, Bertha became friendly with Edmund
 In Gurney and Myers book _Phantasms of the Living_ vol. 1, Bertha is given the authors "warmest thanks for her well-directed, patient and energetic assistance" for searching 260 books on witchcraft with "rare zeal and intelligence."[^ref7] She also reported the sighting of an apparition witnessed by Fraulein Wilhelmine Ivens.
 <br/><br/>
 By volume 2, published in 1886, Bertha was taking a much more active role in Gurney and Myers psychical research, recording accounts of visions from a range of friends and family including her servant Ellen Greaney, Mrs Amos of Hythe, Miss C., Mrs Banister and her cousins Mrs Harnett and Frances Moberly.[^ref8]  Frederic Myers was later accused of an unhealthy interest in his young female proteges. 
-<param manifest="https://iiif.juncture-digital.org/wc:Frederic_Myers_Photograph.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Frederic_Myers_Photograph.png/manifest.json">
 
 In 1885, Bertha Porter was appointed by Sidney Lee to write biographical entries for the _Dictionary of National Biography_ (DNB). Lee likened biography to chemistry, a scientific undertaking; favouring the ‘mausoleum’ style of Victorian life writing.[^ref14] and this is possibly why he appointed Bertha who had analytical and investigative research skills.  She wrote biographies mainly of nineteenth century architects and sixteenth century religious divines. Atkinson (2010) argues that the DNB 'relegated women biographers to the more feminine genre of domestic biography', writing mainly about family members or close acquaintances.[^ref9] In the 58th volume published in 1899, Porter contributed articles on Benjamin Lewis Vulliamy, clockmaker and his architect son, Lewis, who had been her father’s mentor.[^ref10]  Undoubtedly, she would have known the Vuillamy family, but it was her father’s connections as a member of the Royal Institute of British Architects, which would have made her closely connected to the profession and given her access to RIBA archives.[^ref11]  
 <br/>
 Unlike Sidney Lee’s sister Elizabeth who contributed mainly female entries, it was not until 1901, after submitting 155 articles to the DNB, that Bertha wrote an entry about a woman, her relative, writer Jessie Fothergill.  [Charlotte Carmichael Stopes](/19c/19c-stopes-biography), women’s rights campaigner who weekended at Swanscombe, was also a contributor to the DNB at this time, contributing two articles on her husband’s relatives. Porter subscribed to the Central Society for Women's Suffrage between 1903-4[^ref12]  and it is possible that she was acquainted with Carmichael Stopes who addressed a group of their members at Hampstead in 1903.[^ref13]  
-<param manifest="https://iiif.juncture-digital.org/wc:Oxford_Dictionary_of_National_Biography_volumes.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Oxford_Dictionary_of_National_Biography_volumes.jpg/manifest.json">
 
 At the turn of the century, Bertha studied Egyptian hieroglyphics at University College, London aunder the tutelage of Assistant Professor Francis Llewellyn Griffiths and then in 1901-2 at the University of Gottingen under Kurt Sethe, who developed a theory on the Egyptian verb. She wrote to Griffith from Moyle Tower on the 20th March 1902 explaining that she had recently returned from Gottingen, but had not made as much progress in her studies as she hoped as her health had been "very bad".[^ref15] She was employed as a bibliographer by Griffith, who was now Professor of Egyptology at Oxford, to identify publications for inclusion in the _Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings._[^ref16] She worked on this for the next 20 years, first at the British Museum and then later in Oxford, until Rosalind Moss was appointed to assist her in 1924.[^ref17] Unlike her assistant, Bertha did not visit Egypt during this period and so she relied on Rosalind to verify identifications. By 1929, Porter had retired from the project and only 2 of the six volumes were published during her editorship.[^ref18] 
-<param manifest="https://iiif.juncture-digital.org/wc:Karanog_altar.PNG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Karanog_altar.PNG/manifest.json">
 
 With the death of her mother in 1912, Bertha’s connections with Hythe ended. It is likely due to her studies and research that she spent little time in Kent, only visiting at weekends or for holidays. In all the censuses, until 1911, she was living in London, apart from 1891, when her whereabouts is unknown. It is possible that she is the Miss Porter who sailed on P.S. Rameses on the Cook's Nile service. The ship sailed from Cairo on January 21st 1890, travelling to Luxor and Assouan.[^ref19] During the first world war Bertha undertook war work, although the nature of this is not known. She later moved to Oxford where she took lodgings in the Banbury Road. She died on the 17th January, 1941 at 11, Crick Road. She was described as 'musical, widely read, a good raconteur, and full of imagination, courage and cheerfulness, even when at last her sight failed her and reading became impossible.'[^ref20] 
 <param attribution="Kent Maps Online Postcard Collection" label="Marine Parade, Hythe with Moyle Tower c.1914" url="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" ve-image=""/>
@@ -58,4 +58,3 @@ With the death of her mother in 1912, Bertha’s connections with Hythe ended. I
 [^ref19]: List of Passengers per P.S. Rameses, 21 Jan 1890 - 29 Nov 1892, © Permission granted by Thomas Cook Archives - AM Explorer.
 [^ref20]:  "Obituaries." Times, 22 Jan. 1941, p. 7. [_The Times Digital Archive_,](link.gale.com/apps/doc/CS119355446/GDCS?u=ccc_uni&amp;sid=bookmark-GDCS&amp;xid=07417704). Accessed 2 Oct. 2021.
 
-</body></html>

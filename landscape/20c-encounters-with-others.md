@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Peter Vujakovic" banner="https://stor.artstor.org/stor/40fd3c44-43fc-4930-9377-1960db48d73b" layout="vtl" title="Hop and fruit picking in the 20th century" ve-config=""/>
 
 #
@@ -22,7 +22,7 @@ Maxwell also describes the changes then taking place as farmers turned to local 
 <param attibution="T.C.Dugdale, private collection" label="Hopping" url="https://stor.artstor.org/stor/22b087f4-554d-47c2-8131-3582d178ad1f" ve-image=""/>
 
 Richard Church, in _The Little Kingdom: A Kentish Collection_, offers other perspectives, from his own patrician stance, to the harsh characterisation of pickers by Richard Jefferies. Jefferies, writing in the late nineteenth century, was renowned as a nature writer who understood the countryside and its people. In the passage reprinted in Church’s collection he pulls no punches in his depiction of three women fruit-pickers, one old, the others young, encountered on a dusty road. He starts with a description of the elder, in whose craggy face black shadows are gathering from too much exposure to sun. In contrast several pages are then given over to a soliloquy on the loveliness of the others; their grace of movement and their features transfigured by the summer light to that ‘golden-brown’ ‘… only found on the human face which has felt the sunshine continually’.  There is, yet, a brooding niggle, the effect of sun on the old woman has already been described as detrimental, and other passages remind us of mortal frailty - leaves on a hawthorn hedge ‘browned by the work of caterpillars’ . 
-<param manifest="https://iiif.juncture-digital.org/wc:Richard_Church%2C_by_William_Shackleton.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Richard_Church%2C_by_William_Shackleton.jpg/manifest.json">
 
 It is, however, the visceral hostility that Jefferies perceives the woman to have for him, a person of seeming leisure, that is shocking. Although he is understanding, noting their lot is to toil from childhood ‘until limbs failed or life closed’.  Jefferies bizarrely returns to his soliloquy on beauty and his envy of their ‘health and hue’ and ‘glorious life’. All seems set for a hopeful conclusion as he re-encounters the women that evening and ‘shadow took away something of the coarseness of the group’,  only for a quarrel to commence and for the older woman to swear outrageously while the younger ones stagger drunk and incoherent – their coarse ‘otherness’ established.
 Church’s own encounter is less threatening, but very much a critique of a subaltern group – semi-migrant pickers lingering in Kent between early fruit and ‘hop-season’. These pickers work for a neighbouring farmer, harvesting Kentish Cobs (a variety of hazel nut). Church declares ‘these chattering semi-gypsies [sic] … [show] no respect for person or distinction of class, if there is such a thing in this postwar world’,  nor is respect shown for his dog, at which they throw nut shells and pass loud remarks regarding his ancestral characteristics!
@@ -30,7 +30,7 @@ Church’s own encounter is less threatening, but very much a critique of a suba
 
 More ‘sociological’ treatments were provided by Jack London and George Orwell, both joined the ‘tramps’ and others from London desperately drawn to the ‘hopping’ for the wages. London’s book _People of the Abyss_ (1903) examined the slum conditions of the East End of London as he experienced them during 1902, including ‘hopping’ in Kent. Orwell encountered similarly poor conditions during 1931. At one farm he was refused work, as the farmer could not provide adequate accommodation and Government inspectors were actively checking conditions. This effectively meant large numbers of unemployed Londoners could not get crucial employment in the hop-fields.   
 For fictional accounts of hop picking see [Hop Picking and the Literary Imagination](20c-hop-picking)   
-<param manifest="https://iiif.juncture-digital.org/wc:Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22173.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22173.jpg/manifest.json">
 
 ### Bibliography 
 
@@ -38,4 +38,3 @@ Bateman, Ron (2012) _Orwell and other writers’ treatment of hop-picking,_ [The
 Church, Richard (1964) _The Little Kingdom: A Kentish Collection_ (London: Hutchinson)     
 Jeffreries, Richard (1885) _The Open Air_ (London: Chatto &amp; Windus); passage reprinted in Church (1964)     
 <param atribution="Martin Crowther" label="Oasthouses, Kent" url="https://raw.githubusercontent.com/kent-map/kent/98a7d4f/20c/images/OasthousesMJC.jpg" ve-image=""/>
-</body></html>

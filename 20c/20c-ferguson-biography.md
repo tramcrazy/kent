@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Professor Carolyn Oulton" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="John Ferguson (1871-1952)" ve-config=""/>
 
 <param aliases="Folkestone" eid="Q375314" ve-entity=""/>
@@ -14,7 +14,7 @@ _‘I wandered out on the Leas, amid the gay butterflies listening to the milita
 _Stealthy Terror_ (1918)   
 <br/>
 Scottish by birth, novelist and dramatist John Ferguson became chaplain of Eversley girls’ school in [Sandgate](/placesqz/sandgate-overview) in 1915.[^ref1] The following year he wrote a paper for the Folkestone War Refugees Committee on the town’s contribution in helping [Belgian refugees](/20c/20c-belgian-refugees).[^ref2] 
-<param manifest="https://iiif.juncture-digital.org/wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif/manifest.json">
 <param arriving="" attribution="By kind permission of Folkestone Museum" belgian="" folkestone"="" in="" label="" refugees="" url="https://raw.githubusercontent.com/kent-map/kent/502194a/20c/images/arrivalofbelgiansFMuseum.jpg" ve-image=""/>
 
 His spy novel _Stealthy Terror_ was published in 1918, but captures the mood of 1914, just before the outbreak of [WW1](/20c/20c-folkestone-ww1). In a memorable scene in Folkestone, the narrator watches human ‘butterflies’ on the [Leas](https://www.visitfolkestoneandhythe.co.uk/media/1843/folkestone-historical-walks-promenading-on-the-leas.pdf), as they gather round a military band. The bandstand had been erected in 1893, when Folkestone ranked as one of the more fashionable [Victorian resorts](/19c/19c-folkestone). But as Ferguson’s readers would have been well aware, the Leas promenade gives on to what would later be designated The Road of Remembrance, along which thousands of soldiers had passed on their way to the trenches. Henry Williamson (best remembered as the author of _Tarka the Otter_), would call it ‘the English Via Dolorosa’ in his post-war novel _The Dream of Fair Women_ (1924).
@@ -40,4 +40,3 @@ Oulton, Carolyn W. de la L. Oulton. _Down from London: Seaside Reading in the Ra
 [^ref3]: _Folkestone, Hythe, Sandgate &amp; Cheriton Herald_. 2 December 1933. 8.
 [^ref4]: _Folkestone, Hythe, Sandgate &amp; Cheriton Herald_. 6 July 1935. 10.  
 [^ref5]: With thanks to Mary Annetts, St Barbe Museum.
-</body></html>

@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Dr Michael Goodrum" banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301" layout="vtl" title="Double Double by John Brunner " ve-config=""/>
 <meta content="visual-essay" name="robots"/>
 <param aliases="Margate" eid="Q618045" ve-entity=""/>
@@ -15,9 +15,8 @@ Notes on the landscape might seem extraneous given all the other details but, tr
 <param attribution="Thomas Crowther" label="Multiplying" url="https://stor.artstor.org/stor/d56de85e-015f-4305-9adb-9ddb12601fcc" ve-image=""/>
 
 _Double, Double_ is not very good, and it has not aged well. The language of the 1960s pop scene has obviously dated, and the novel also exposes the values of its time. Apart from the elderly Miss Beeding, the women are all young and attractive and seem to spend an unnessary amount of time in their underwear – there is talk of them ‘wiggling their hips’ to get their way, and a policeman spends longer than necessary looking at the scantily clad sleeping girls travelling with the band. Brunner’s attempts to appear progressive by having a Caribbean band member are clunky – though it is perhaps unfair to judge him by this novel, when it sits in his bibliography between _Stand on Zanzibar_ (1968), which won both the Hugo and British Science Fiction Association awards in 1969, and _The Jagged Orbit_ (1970), which also won the BSFA. What the novel does achieve, at least to some extent, is a sense of driving through North Kent in the late 1960s, winding through small towns to holiday camps, and of watching the Kent coast unfurl from onboard a ferry travelling up to London from the continent. On the whole, the book might be regrettable but at least Kent comes out of it well.
-<param manifest="https://iiif.juncture-digital.org/wc:Waldens%27_Caravan_Park%2C_Seasalter_-_geograph.org.uk_-_772645.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Waldens%27_Caravan_Park%2C_Seasalter_-_geograph.org.uk_-_772645.jpg/manifest.json">
 
 ### Bibliography
 
 Brunner, John. _Double Double_. Sidgwick and Jackson, 1971.
-</body></html>

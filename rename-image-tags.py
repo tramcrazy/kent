@@ -84,6 +84,27 @@ def getGhManifest(tagPrefix, imagePath, imageName):
 
     return  "{}/{}:{}/{}/{}/{}/manifest.json".format(MANIFEST_URL, tagPrefix, GH_ACCOUNT_NAME, GH_REPO_NAME, imagePath, imageName)
 
+# Removes unwanted tags that bs4 adds
+def removeTags(string, tags):
+    for tag in tags:
+        string = string.replace("<{}>".format(tag), "")
+        string = string.replace("</{}>".format(tag), "")
+
+    return string
+
+# Removes the /> end of ve-image-v2 tags and removes a- from ve-image-v2 (put there
+# to ensure ve-image-v2 attribute comes before the manifest attribute)
+def tweakVeImageTags(string):
+    lines = string.split("\n")
+
+    for i in range(len(lines)):
+        if ("<param a-ve-image-v2" in lines[i]):
+            lines[i] = lines[i].replace("/>", ">")
+            lines[i] = lines[i].replace("<param a-ve-image-v2", "<param ve-image-v2")
+
+    string = "\n".join(lines)
+    return string
+
 rootDir = getRootDir()
 
 for dirName, subdirList, fileList in os.walk(rootDir):
@@ -111,17 +132,29 @@ for dirName, subdirList, fileList in os.walk(rootDir):
                         # If a manifest was generated, replace tag
                         if (len(manifest) > 0):
 
+                            # ve-image-v2 tag marked as a-ve-image-v2 so it appears in tag first
+                            # and can then be renamed in tweakVeImageTags()
                             newTag = Tag(
                                 builder = markdownSoup.builder, 
                                 name = "param", 
-                                attrs = {"ve-image-v2" : None, "manifest" : manifest})
+                                attrs = {"a-ve-image-v2" : None, "manifest" : manifest})
 
                             tag.replace_with(newTag)
                             changeMade = True
 
                 # Write changes
                 if (changeMade):
+
+                    stringToWrite = str(html.unescape(markdownSoup))
+
+                    # Removes unwanted tags that bs4 adds
+                    stringToWrite = removeTags(stringToWrite, ["html", "head", "body"])
+
+                    # Removes the /> end of ve-image-v2 tags and removes a- from ve-image-v2 (put there
+                    # to ensure ve-image-v2 attribute comes before the manifest attribute)
+                    stringToWrite = tweakVeImageTags(stringToWrite)
+
                     with open("{}/{}".format(dirName, fname), "w") as file:
-                        file.write(str(html.unescape(markdownSoup)))
+                        file.write(stringToWrite)
 
 generateReport("tag_renaming_result.txt")

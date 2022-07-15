@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Hannah Jennison, Alfie Forsyth and Jonathan Baker" banner="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG" layout="vtl" title="Doodlebugs in Kent" ve-config=""/>
 <param aliases="V-1" eid="Q153348" title="V-1 flying bomb" ve-entity=""/> <!-- V-1 flying bomb -->
@@ -24,7 +24,7 @@ Despite its somewhat light-hearted nickname, the doodlebug was a source of great
 <param center="Q2313624" ve-map="" zoom="10"/>
 
 The doodlebug became an object of curiosity during 'Doodlebug Summer' particularly in those areas where few bombs fell. At the bank holiday fete in Canterbury "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In Herne Bay residents could view a Doodlebug at Woolworths[^ref8] and in Whitstable at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain](/20c/20c-battle-of-britain-memorial/). [^ref9]  
-<param manifest="https://iiif.juncture-digital.org/wc:Fieseler_Fi_103R_Reichenberg.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Fieseler_Fi_103R_Reichenberg.jpg/manifest.json">
 
 A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref10]
 <param label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" ve-image=""/> 
@@ -50,4 +50,3 @@ Though the decision to change the path of the bombs saved many lives in London, 
 [^ref12]: "Doodlebugs 'Diverted' To Save London." BBC News. 2014. Web. 1 Apr. 2022.
 [^ref13]: "Where The Doodle Bugs Crashed In Kent. Summer 1944. | Maps." Daniel Crouch Rare Books - Antique and Vintage Maps, Rare Books, Charts and Atlases. _The Kent Messenger_, 1944. Web. 6 Apr. 2022.
 [^ref14]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.
-</body></html>

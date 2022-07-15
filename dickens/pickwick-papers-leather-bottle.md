@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Leather Bottle, The Street, Cobham, Gravesend" ve-config=""/>
 
 <param eid="Q949561" title="Cobham"/>
@@ -13,7 +13,7 @@ In this opinion also, both Mr Winkle and Mr Snodgrass expressed their concurrenc
 “Show the gentlemen into the parlour, Tom,” said the landlady.   
 <br/>
 A stout country lad opened a door at the end of the passage, and the three friends entered a long, low-roofed room, furnished with a large number of high-backed leather-cushioned chairs, of fantastic shapes, and embellished with a great variety of old portraits and roughly-coloured prints of some antiquity. At the upper end of the room was a table, with a white cloth upon it, well covered with a roast fowl, bacon, ale, and et ceteras; and at the table sat Mr. Tupman, looking as unlike a man who had taken his leave of the world, as possible.’ _The Pickwick Papers_.   
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/leather-bottle.jpg/manifest.json" ve-image-v2/>  
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/leather-bottle.jpg/manifest.json">  
 <param eid="Q949561" title="Cobham" ve-entity=""/>
 <param center="Q949561" prefer-geojson="" title="Cobham" ve-map="" zoom="11"/>
 
@@ -38,4 +38,3 @@ For more images of the Leather Bottle see [dover-kent.com](http://www.dover-kent
 [^ref1]: ‘A Relic of Pickwick.’ _Bridport News_. 15 April 1887. 6.
 [^ref2]: Kitton, Frederick G. _The Dickens Country_. London: A. C. Black, 1925 [first published 1905], p.211.   
 
-</body></html>

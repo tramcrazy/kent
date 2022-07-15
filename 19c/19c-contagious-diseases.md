@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Dr Martin Watts" banner="/images/banners/19c.jpg" layout="vtl" title="Contagious Diseases Acts and Lock Hospitals" ve-config=""/>
 
@@ -14,12 +14,11 @@ Following public concern over an increase in prostitution and venereal disease, 
 <param center="Q729006" ve-map="" zoom="15"/>
 
 Chatham’s purpose built Lock hospital was constructed in 1869, and was used to treat those arrested under the Act from Chatham, [Gravesend](/19c/19c-gravesend), Maidstone and Sheerness. The use of the Lock Hospital reduced prostitution in these towns, although this reduction coincided with increased police observation of suspected brothels.
-<param manifest="https://iiif.juncture-digital.org/wc:RochesterStBarts4245.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:RochesterStBarts4245.JPG/manifest.json">
 <param center="Q729006" ve-map="" zoom="10"/>
 
 The Act, which had no provision for sanctions against men who used prostitutes, was seen as discriminatory towards women by campaigners such as Josephine Butler and [Sarah Grand](/19c/19c-grand-biography), although Elizabeth Garrett Anderson, the first English female physician agreed with the Act as a means of protecting women and children. The Act was finally repealed in 1886.
-<param manifest="https://iiif.juncture-digital.org/wc:Josephine_Butler.jpg/manifest.json" ve-image-v2/>
-<param manifest="https://iiif.juncture-digital.org/wc:Portrait_of_Sarah_Grand.jpg/manifest.json" ve-image-v2/>
-<param manifest="https://iiif.juncture-digital.org/wc:Elizabeth_Garrett_Anderson.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Josephine_Butler.jpg/manifest.json">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Portrait_of_Sarah_Grand.jpg/manifest.json">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Elizabeth_Garrett_Anderson.jpg/manifest.json">
 
-</body></html>

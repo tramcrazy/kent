@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Stephen Williamson" banner="/images/banners/19c.jpg" layout="vtl" title="George Alfred Henty (1832-1902)" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -9,7 +9,7 @@ George Alfred Henty who wrote as G A Henty was a Crimean War correspondent as we
 <param attribution="© Augustine House Library, Canterbury Christ Church University" label="Novels by G.A. Henty" url="https://stor.artstor.org/stor/82c3499a-ede2-4442-a0bb-ec3ccd531e99" ve-image=""/>
 
 Henty’s connection with [Canterbury](/19c/19c-canterbury) is mentioned in his biography by G M Fenn entitled ‘Story of an Active Life’ published in 1907. Fenn advises that Henty came to live in Canterbury when he was five, staying for five years. Research has shown that the Henty family came to live in [Canterbury](/19c/19c-canterbury) in the winter of 1837/8. 
-<param manifest="https://iiif.juncture-digital.org/wc:Portrait_of_G._A._Henty.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Portrait_of_G._A._Henty.jpg/manifest.json">
 
 Henty’s father James had had a disastrous career as a broker on the London stock exchange. The newspapers of 1827 report that he was in debt to the tune of £100000, the equivalent of at least £5 million today. This was particularly upsetting to the Henty family who, as a family of bankers based in Arundel, Sussex, had a reputation for probity to uphold. Ostracised by his own family, James Henty and his wife and children went to live with his parents-in-law James and Mary Edwards. Immediately prior to moving to [Canterbury](/19c/19c-canterbury) they were all living at Godmanchester, Huntingdonshire, where James Edwards was a doctor. In 1837 James Edwards bought a ‘doctor’s house and practice’ in Canterbury, and James Henty’s family moved to Canterbury too. James Edwards applied in September 1838 for a position at the Kent and Canterbury hospital but seems to have been unsuccessful. G A Henty’s sister Mary had been baptised at St Mildred’s Church described as ‘of Stour Street’ on 13th May 1838, and James Edwards and his wife are shown as living in Stour Street in the 1841 census. Further research has shown that their house was on the site now occupied by Mulberry Court on Stour Street. In the 1841 census James Henty and his family are to be found in Pelham Place, Kensington, London, but James Edwards continued to live in [Canterbury](/19c/19c-canterbury) till about 1846.
 <param attribution="Edward Crowther" label="Mulberry Court, Stour Street" url="https://stor.artstor.org/stor/e5314be8-ce81-4a98-8367-61e82e3944ad" ve-image=""/>
@@ -29,4 +29,3 @@ It was a wonderful house for echoes, and at night we would steal from our beds a
 
 Further information on Henty and [Canterbury](/19c/19c-canterbury) can be found in issue 138 of [_The Henty Society Bulletin_](http://www.hentysociety.org/publications.html) pub. July 2016.
 
-</body></html>

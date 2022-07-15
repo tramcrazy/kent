@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 <param author="Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/3/32/Rustic_bridge_at_Beltinge_1913.jpg" layout="vtl" title="Mary L. Pendered (1858 – 1940)" ve-config=""/>
 
 <param aliases="Beltinge" eid="Q4884748" ve-entity=""/>
@@ -8,36 +8,36 @@
 #
 
 Although primarily associated with her home county of Northamptonshire, Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’  spent several years in Herne Bay, where she was the President of the local branch of the National Union of Women’s Suffrage Societies.[^ref1]  
-<param manifest="https://iiif.juncture-digital.org/wc:Herne_Bay_College%2C_Herne_Bay_Kent.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Herne_Bay_College%2C_Herne_Bay_Kent.jpg/manifest.json">
 <param center="Q929286" ve-map="" zoom="15"/>
 
 The daughter of a Northamptonshire auctioneer, Mary was an energetic and politically active campaigner for women’s rights. Described as tall, with blue eyes, brown hair and the sort who could “handle a racquet and a pair of reins better than most women”[^ref2], she moved from her home town of Wellingborough to London in 1892 to become a journalist.[^ref3]  She had already been dabbling with journalism, writing amusing poetry and stories in _The Magazine of music: For the student and the million._ This reflected her fun-loving nature as she loved performing and writing comic sketches and songs. She played both the piano and the banjo.
-<param manifest="https://iiif.juncture-digital.org/wc:Pracisting_the_Piano_%28Millais%29.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Pracisting_the_Piano_%28Millais%29.png/manifest.json">
 
 According to Mary, her parents opposed her decision to become a journalist and her father refused to support her. For a year she “battled for a place in the literary scheme of things in London, undaunted by the starvation wage of £1 a week”[^ref4]  working for _Life_ magazine, where she “did everything except sweep out the office’.[^ref5]  After this, she secured a position with the London edition of the _Detroit Free Press_ where she met Hall Caine and George Bernard Shaw and became “well-known to the denizens of Bohemia”.[^ref6]  She also joined the Fabian socialists. 
-<param manifest="https://iiif.juncture-digital.org/wc:Picture_of_Hall_Caine.jpg/manifest.json" ve-image-v2/>
-<param manifest="https://iiif.juncture-digital.org/wc:George_Bernard_Shaw.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Picture_of_Hall_Caine.jpg/manifest.json">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:George_Bernard_Shaw.jpg/manifest.json">
 
 Her first novel [_Dust and Laurels: a study in nineteenth century womenhood_](https://www.loc.gov/item/07036374/) was published in 1893 whilst she was working in London and is dedicated to “that hybrid complication, the woman of to-day, whose food is fruit of the tree of knowledge of good and evil, and whose drink is the intoxicating ether of freedom and independence.”[^ref7]  It must have been exhausting writing her first novel, often in the late hours, whilst simultaneously being on the staff of “more than one London paper and acting editress of a popular weekly.”[^ref8]   The newspapers described it as “one of the most adventurous books of the season."[^ref9]  
 Her writing at this time could be described as part of the ‘New Woman’ movement and was seen as slightly shocking by some of the critics, which is surprising giving the later appraisal of her work.[^ref10]   In her 1895 novel, _A Pastoral Played out_, touted as a “London literary sensation”, readers were shocked when her heroine Gylda agreed to live with her lover Etheredge who declared that he didn’t believe in marriage.[^ref11] 
-<param manifest="https://iiif.juncture-digital.org/wc:Fig29NewWoman.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Fig29NewWoman.png/manifest.json">
 
 From at least 1895 she was writing stories for [Jerome K. Jerome](/19c/19c-jerome-biography)'s _Idler_ and featured in the Idler’s Club column along with authors such as Mary Elizabeth [Braddon](/19c/19c-braddon-biography), Sarah [Grand](/19c/19c-grand-biography) and Ella Hepworth-Dixon. She also published stories in periodicals such as _Belgravia, Temple Bar, Quiver, Argosy, The Girl’s Own Paper, the Women’s Penny Paper_ and _Hearth and Home_.
-<param manifest="https://iiif.juncture-digital.org/wc:Jerome_K._Jerome_%287893553318%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Jerome_K._Jerome_%287893553318%29.jpg/manifest.json">
 
 In 1899, her love of socialism was portrayed in her novel _An Englishman_, however, her middle-class tradesman hero was viewed by some with scepticism. _The Evening Standard_ wrote: “There is so much careful and intelligent work in Miss Mary Pendered’s novel, …But the book is dull, and in a novel dullness is an unforgivable sin.”[^ref12]   
 Her 1905 publication, _The Truth about Man_ published anonymously ‘by a spinster’ was a little spicier, and was one of those books which simultaneously shocked but also appealed to those who denounced it; and its notoriety may have encouraged sales.  In it, Mary claimed to draw from her personal experience, writing “I have been loved by three Americans, two Frenchmen, one German, one Irishman, one Swiss, three Scotsmen, and two or three Colonials, who do not count as they are so nearly English.”[^ref13]   The premise of the book was that women who have “a safe income, good friends, enough amusement and variety” do not need husbands. A reviewer from Yorkshire declared her a minx.[^ref14]
-<param manifest="https://iiif.juncture-digital.org/wc:Morrow_The_New_Woman.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Morrow_The_New_Woman.jpg/manifest.json">
 
 It is not certain when she moved to Herne Bay, but on 3 November 1908, Mary wrote a letter from The Fold, Beltinge to the _Daily Mirror_ about women’s suffrage. She was the President of the Herne Bay Society for Women’s Suffrage. Five years later, and still, at this address, Mary hotly debated women’s suffrage in the _Whitstable Times and Herne Bay Herald_ in the summer of 1913, with Jane Pemberton, a 55-year old woman of independent means living at Hunter’s Forstal. According to Mary “every organised body of industrial women … [was] crying out for the vote” and she accused Miss Pemberton of failing to understand the working woman because she was a “delicately nurtured and sheltered well to do woman.”[^ref15]  She continued by arguing that anti-suffragists were people who had everything they needed and therefore didn’t care about the vote. Jane E. Pemberton replied: “As to the relative positions in the State of myself on the one hand and my lawn-mower and chimney sweep on the other, my vanity is not in the least wounded by the consideration that they have a vote, and I have not.”[^ref16]  
-<param manifest="https://iiif.juncture-digital.org/wc:Clock_tower%2C_Herne_Bay%2C_England-LCCN2002696804.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Clock_tower%2C_Herne_Bay%2C_England-LCCN2002696804.jpg/manifest.json">
 <param label="Beltinge" url="https://stor.artstor.org/stor/18912934-acb7-4c45-b1fc-83b59b86e182" ve-image=""/>
 <param center="Q929286" ve-map="" zoom="10"/>
 <param center="Q4884748" ve-map="" zoom="10"/>
 <param center="Q107338811" ve-map="" zoom="10"/>
 
 Although Mary was living in Kent at this time, her pastoral novels such as _At Lavender Cottage_ (1912), _Phyllida Flouts me_ (1913) and _Lily Magic_ (1913) portrayed scenes of rural Northamptonshire life. Her reputation for ‘safe’ stories in which “the power of goodness allied with youth and beauty” overcame “moral miasma” were embraced by her home town, less so by her adopted county in which it was more likely they were written.[^ref17]  
-<param manifest="https://iiif.juncture-digital.org/wc:Clock_Tower_Herne_Bay_012.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Clock_Tower_Herne_Bay_012.jpg/manifest.json">
 
 At the outbreak of the First World War, Mary became involved in running a Soldier’s Club at Beltinge, converting a garage into a space for the soldiers. It was here that she indulged her other love, entertaining. Singing around the piano became a nightly event, with coffee and biscuits served to the men. Later, with a generous donation of a bungalow, the club was able to offer a place for the soldiers to unwind from 10 am to 10 pm, providing a writing and cards room, bagatelle, billiard table and a piano.[^ref18]  In the following year, she supported the formation of the Herne Bay District Voluntary Association which made 6,119 articles of clothing for sick and wounded troops.    
 <param attribution="Martin Crowther" label="Site of the Soldier's Home on Lismore Road, Beltinge" url="https://stor.artstor.org/stor/8009bc63-bac6-4da4-93e1-2da9a8313cb7" ve-image=""/>
@@ -72,4 +72,3 @@ At some time in late 1916 or early 1917, Mary left Herne Bay for Wellingborough 
 [^ref20]: _Illustrated London News_, Saturday 03 July 1915.  
 
 
-</body></html>

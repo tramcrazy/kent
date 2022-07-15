@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Eleanor Fitzsimons" banner="/images/banners/19c.jpg" layout="vtl" title="Edith Nesbit, Halstead" ve-config=""/>
 
 <param aliases="Halstead" eid="Q2035885" ve-entity=""/>
@@ -8,16 +8,16 @@
 On 30 November 1871, Edith Nesbit’s older sister Mary lost her battle with TB, the disease that had blighted her life. She was staying with friends in Normandy at the time. Sarah Nesbit, Edith’s mother, decided to return to England and settle in the picturesque village of Halstead, near Sevenoaks, with her surviving children. In _My School Days_, Nesbit described her “Kentish home” as “dearer to me than all”. She wrote:
 <br/><br/>
 After many wanderings, my mother took a house at Halstead, ‘The Hall’ it was called but the house itself did not lend itself to the pretensions of its name. A long, low, red-brick house, that might have been common-place but for the roses and ivy which clung to the front of it, and the rich, heavy jasmine which covered the side. There was a smooth lawn with chest- nut-trees round it and a big garden, where flowers and fruit and vegetables grew together, as they should, without jealousy or class-distinction. There never were such peonies as grew among our currant-bushes, nor such apricots as hung among the leaves on the sunny south wall. From a laburnum-tree in a corner of the lawn we children slung an improvised hammock, and there I used to read and dream, and watch the swaying green gold of leaf and blossom.
-<param manifest="https://iiif.juncture-digital.org/wc:Rose_and_Crown%2C_Halstead_-_geograph.org.uk_-_2073126.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Rose_and_Crown%2C_Halstead_-_geograph.org.uk_-_2073126.jpg/manifest.json">
 
 When falling sugar prices stimulated the jam industry, fruit farms had proliferated in Halstead. Local woodland was grubbed up to make way for strawberries, and damson trees, known locally as ‘skegs’, lined the hedgerows. Smallholder’s huts, erected hurriedly, were soon replaced with stone cottages. Boisterous groups of itinerant pickers spent their wages in the village pubs, the Rose and Crown, and the Cock Inn. Both are still trading.
-<param manifest="https://iiif.juncture-digital.org/wc:Cock_Inn%2C_Halstead_-_geograph.org.uk_-_2073238.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cock_Inn%2C_Halstead_-_geograph.org.uk_-_2073238.jpg/manifest.json">
 <param center="Q2035885" ve-map="" zoom="14"/>
 
 In _My School Days_, Nesbit described the glorious days she spent exploring the countryside around Halstead with her older brothers, Alfred and Harry: 
 <br/><br/>
 Oh, those dewy mornings – the resurrection of light and life in the woods and fields! Would that it were possible for all children to live in the country where they may drink in, consciously or unconsciously, the dear delights of green meadow and dappled woodland! The delight in green things growing, in the tender beauty of the evening light on grey pastures, the glorious splendour of the noonday sun on meadows golden with buttercups, the browns and purples of winter woodlands.
-<param manifest="https://iiif.juncture-digital.org/wc:23_of_%27Spring_%28Summer-Autumn-Winter%29_songs_and_sketches%27_%2811306335426%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:23_of_%27Spring_%28Summer-Autumn-Winter%29_songs_and_sketches%27_%2811306335426%29.jpg/manifest.json">
 
 Sarah Nesbit leased Halstead Hall, a substantial detached house located in the village and reputed to be haunted. Long before the Nesbits arrived, the local rector had carried out a ceremony of exorcism on the stairway and this may have informed Edith’s horror story ‘The Shadow’ (1905):
 <br/><br/>
@@ -29,23 +29,23 @@ The only really exciting thing was the presence, within a stone’s throw of our
 <param center="Q2035885" ve-map="" zoom="14"/>
 
 When Alfred Nesbit shot a fox, mistaking it for a rabbit, and hid the corpse in his bedroom, he scoffed at Edith’s suggestion that they give it a funeral. Instead, he persuaded her to help him stuff it. They bought a shilling book on taxidermy, and the chemicals they needed, skinned the poor creature, buried its innards, and nailed its pelt to the inside of a cupboard door. Next day they rose early, before the maids had stirred, and reunited the pelt with its contents, abandoning their taxidermy project. Decades later, Edith included this event, in almost identical detail, in _The Wouldbegoods_. When the Bastable children shoot a fox in error, they give it the elaborate funeral Edith desired. She even composed a eulogy for it.
-<param manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0225.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0225.jpg/manifest.json">
 
 While she lived in Halstead, Edith would run down Cadlocks Hill to the railway track at its base and walk the railway line with her brothers. The fictional railway line in _The Railway Children_, her most celebrated novel for children, is a pastiche of several but appears to draw on memories of Halstead since it runs along the field at the end of the children’s garden.
-<param manifest="https://iiif.juncture-digital.org/wc:Footpath_to_Cadlocks_Hill_-_geograph.org.uk_-_1574685.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Footpath_to_Cadlocks_Hill_-_geograph.org.uk_-_1574685.jpg/manifest.json">
 <param center="51.344163347233376, 0.13627557317754357" ve-map="" zoom="16"/>
  
 Nesbit included this roof space in several of her books including _The Wouldbegoods_ (1901) and _The Phoenix and The Carpet_ (1903). In _The Wouldbegoods_, Oswald Bastable, equipped with ‘a book and a few apples’, enters ‘a square trapdoor in the ceiling of the linen room’ to reach ‘the wonderful, mysterious place between the ceiling and the roof of the house’: 
 <br/><br/>
 The roof is beams and tiles. Slits of light show through the tiles here and there. The ceiling, on its other and top side, is made of rough plaster and beams. If you walk on the beams it is all right – if you walk on the plaster you go through with your feet... it was splendid... He walked along a dark, narrow passage. Every now and then cross-beams barred his way, and he had to creep under them. At last a small door loomed before him with cracks of light under and over. He drew back the rusty bolts and opened it. It opened straight on to the leads, a flat place between two steep red roofs, with a parapet two feet high back and front, so that no one could see you. It was a place no one could have invented better than, if they had tried, for hiding in.
-<param manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0001.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0001.jpg/manifest.json">
 
 The window of Nesbit’s own bright little bedroom facing westward over a garden filled with roses, shrubs and fruit trees. In her short story ‘The Brute’ (_The Literary Sense_, 1903) a large-eyed, dark-haired girl, with a passion for poetry, leans out of her window:
 <br/><br/>
 The pearl of dawn was not yet dissolved in the gold cup of the sunshine, but in the northwest the dripping opal waves were ebbing fast to the horizon, and the sun was already half risen from his couch of dull crimson. She leaned out of her window. By fortunate chance it was a jasmine-muffled lattice window, as a girl’s window should be, and looked down on the dewy stillness of the garden. The cloudy shadows that had clung in the earliest dawn about the lilac bushes and rhododendrons had faded like grey ghosts, and slowly on lawn and bed and path new black shadows were deepening and intensifying. 
 <br/><br/>
 This young girl is ‘full of the anxious, trembling longing that is youth’s unnecessary joy.’ 
-<param manifest="https://iiif.juncture-digital.org/wc:Vincent_van_Gogh_-_Lilacs_%281889%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Vincent_van_Gogh_-_Lilacs_%281889%29.jpg/manifest.json">
 
 Underneath her bedroom window stood an old mahogany bookcase with a deep top drawer that let down to form a writing table. There, she would scribble away at her poetry, locking it away if her brothers were about. In ‘When I was a Girl’, an article she wrote for _John O’London’s Weekly_, she described the adolescent style of her early poems, which she signed ‘D. Nesbit’, D for Daisy: 
 <br/><br/>
@@ -54,20 +54,19 @@ I don’t know whether it was the influence of the poetry I read or merely a ten
 Sarah sent several of these early poems to Alexander Hay Japp, literary adviser to publishers Alexander Strahan, and a member of the editing team on _Good Words_ and the _Sunday Magazine_. He agreed to publish them. Edith described her joy at seeing her work in print: 
 <br/><br/>
 The first poem I ever had published was a non-committal set of verses about dawn, with a moral tag. It was printed in the _Sunday Magazine_. When I got the proof I ran round the garden shouting ‘Hooray!’ at the top of my voice, to the scandal of the village and the vexation of my family. 
-<param manifest="https://iiif.juncture-digital.org/wc:19_of_%27Flowers_I_bring_and_Songs_I_sing_..._Poems_by_E._Bland%2C_H._M._Burnside%2C_A._Scanes%27_%2811223991133%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:19_of_%27Flowers_I_bring_and_Songs_I_sing_..._Poems_by_E._Bland%2C_H._M._Burnside%2C_A._Scanes%27_%2811223991133%29.jpg/manifest.json">
 
 Sarah Nesbit gave up the lease on Halstead Hall in the autumn of 1875. In _My School Days_, Nesbit wrote: 
 <br/><br/>
 My book of memories lies open always at the page where are the pictures of Kentish cherry orchards, field and farm and gold-dim woodlands starred with primroses, light copses where the blue-bells and wild-flowers grow. 
-<param manifest="https://iiif.juncture-digital.org/wc:Bluebells_on_the_North_Downs_Way_-_geograph.org.uk_-_167791.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Bluebells_on_the_North_Downs_Way_-_geograph.org.uk_-_167791.jpg/manifest.json">
 
 Early in their relationship, Nesbit brought Hubert Bland, her husband-to-be, to her beloved Halstead. They wandered through the woods and had lunch in a ‘funny, old-fashioned Inn’. She recaptures that idyllic day in her short story ‘A Holiday’ (_The Literary Sense_, 1903). A fictional couple, strangers to each, other spend sublime hours strolling through lush green parkland in Halstead ‘where tall red sorrel and white daisies grew high among the grass that was up for hay’. They ‘talked of all things under the sun’. While they are there, ‘[the] gold sun shone, the blue sky arched over a world of green and glory’. ‘It seemed,’ Nesbit wrote, ‘that the green country was enchanted land, and they under a spell that could never break.’ 
 <br/><br/>
 You can listen to the story of the _The Shadow_ [here](https://www.youtube.com/watch?v=g35k5tiRTiY)
-<param manifest="https://iiif.juncture-digital.org/wc:Hubert_Bland_-_Project_Gutenberg_eText_13715.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Hubert_Bland_-_Project_Gutenberg_eText_13715.png/manifest.json">
 
 ### Bibliography
 
 Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/32466), 1901.   
 Nesbit, E. [_The Phoenix and the Carpet_](https://www.gutenberg.org/ebooks/836), 1904.
-</body></html>

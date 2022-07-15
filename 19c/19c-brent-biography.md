@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="John Brent (1808-1882)" ve-config=""/>
 
@@ -11,14 +11,14 @@ _Canterbury in the Olden Time_ (1860)
 <param attribution="Kent Maps Online Postcard Collection" label="The Westgate, Canterbury" url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" ve-image=""/>
 
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, to a shipbuilder and his wife Susannah. The latter was from Sturry, and the family moved back to [Canterbury](/19c/19c-canterbury) in around 1821. John’s father would become an Alderman and Chief Magistrate, and was Mayor at the time of a tragic incident in 1838, when a former inmate of Barming Asylum, calling himself William Courtenay, announced to a crowd in [Canterbury](/19c/19c-canterbury) that he was the risen Christ. Courtenay led a procession around Goodnestone, Newnham, Throwley, Selling and Sittingbourne, before shooting a constable who was advancing with a warrant for his arrest.  At Brent’s request, a detachment of troops was sent from [Dover](/19c/19c-dover)  and eight people (including Courtenay) were killed.
-<param manifest="https://iiif.juncture-digital.org/wc:The_parish_church%2C_Sturry%2C_Kent_-_geograph.org.uk_-_480705.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_parish_church%2C_Sturry%2C_Kent_-_geograph.org.uk_-_480705.jpg/manifest.json">
 
 John Brent was himself a political campaigner from a young age, becoming a member of the Anti-Slavery Association, and secretary of the local branch of the Polish Association, set up to support refugees after the suppression of the 1831 uprising. He addressed public meetings on the Whig side in support of the 1832 Reform Bill, and it was noted at his death that he was a persuasive platform speaker, albeit hampered by the lack of a strong voice. Weeks before his death he organised an anti-vivisection meeting in [Canterbury](/19c/19c-canterbury).  Like his father, he became Mayor (in 1831, 1844 and 1849).
-<param manifest="https://iiif.juncture-digital.org/wc:Canterbury_from_the_Railway_%28BM_1931%2C0818.1%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_from_the_Railway_%28BM_1931%2C0818.1%29.jpg/manifest.json">
 
 It is unclear what formal education Brent received (he was not registered at King's, the only [Canterbury](/19c/19c-canterbury) school operating at the time); but having begun work as a miller, he soon turned instead to literature and antiquarian pursuits. By the age of 26 he had published _The Sea Wolf, a Romance_ (1834), followed by _Lays of Poland_ in 1836 and [_Lays and Legends of Kent_]( https://books.googleusercontent.com/books/content?req=AKW5QadY0R5Cm4VnasEGIr2yjX6hcxRy5WKamnyzV88Kz5friiGL12cnFDMqmTJB5MTx89mslYp10DO_ZUws8fJWJDXT8eDF11Z4gMJ4rM2PbH87qyk2cH2YE7BWY_j7p8P8CeSgbH_LhpfR6aJ84ruTXzaeMXF7zqND_csLrvBp9mRjVaaQ8LlG6YDZJIhjRpE-Y8UD3J4HE8JOFANoGM0KFaBlpgwkEM7_uylI76SJD9D4mzOn28pPgFTkGwpXCzdCwfwm_LrtNrAZeJRQkayR0jBRQsas_tiR6j2trshM3eiaUCqK6YY)
 and Guillemette La Delanasse (both published in 1840). In the same year he contributed to the [_Kentish Coronal_](https://www.google.co.uk/books/edition/The_Kentish_coronal_original_prose_and_p/oraka2LFkaAC?hl=en&amp;gbpv=1), edited by [Henry Gardiner Adams](LINK). Further literary work was to follow, including _The Battle Cross: A Romance of the Fourteenth Century and further volumes of poetry and fiction._
-<param manifest="https://iiif.juncture-digital.org/wc:Waterwheel_pit%2C_Abbot%27s_Mill_-_geograph.org.uk_-_1921736.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Waterwheel_pit%2C_Abbot%27s_Mill_-_geograph.org.uk_-_1921736.jpg/manifest.json">
 
 Brent became a fellow of the Society of Antiquaries in April 1853, and was a member of the British Archaeological Association and the Kent Archaeological Society. He is best remembered for his 1860 [Canterbury in the Olden Time](https://babel.hathitrust.org/cgi/pt?id=uc1.31175001958167&amp;view=1up&amp;seq=9).  A fan of that quintessential self-made man [Charles Dickens](/dickens), it is tempting to think that Brent was present at his public reading at the Fountain Hotel in [Canterbury](/19c/19c-canterbury) in 1861. What is certain is that like [Henry Adams](/19c/19c-gardiner-adams-biography), he would succumb to a fatal urge to address a poem to the great author. An otherwise accomplished poet, he marked Dickens’s death in lines that are not among his best, such as:
 [The hand which down the chords of feeling sent /
@@ -44,4 +44,3 @@ https://www.kentarchaeology.org.uk/sites/default/files/archcant/1946%2058%20Misc
 ‘Riot at Canterbury’. 11 September 1832. Morning Post. British Newspaper Archive. Accessed 19 May 2021.   
 For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
 <param label="Canterbury in the Olden Time signed by the author" url="https://stor.artstor.org/stor/129ae304-a3f9-4021-856a-0c6d4ce1c3bc" ve-image=""/>
-</body></html>

@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Ivana Nika" banner="/images/banners/19c.jpg" layout="vtl" title="Ann Walker (1803-1854)" ve-config=""/>
 
 <param aliases="Canterbury" eid="Q29303" ve-entity=""/>
@@ -11,7 +11,7 @@ The landowner and diarist [Ann Walker](https://en.wikipedia.org/wiki/Ann_Walker_
 <param attribution="No known copyright restrictions" label="Canterbury street, from A Walk In and About the City of Canterbury by William Gostling" url="https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b" ve-image=""/> 
 
 On 12 June 1834[^ref1] Ann Walker and Anne Lister arrived in [Canterbury](/19c/19c-canterbury) late at night, in their carriage, with two of their servants. Ann notes in her diary how they missed out on seeing Rochester Cathedral on the way due to rain. They booked rooms at [The Fountain](http://www.machadoink.com/Royal%20Fountain%20Hotel.htm) in St Margaret's Street, which had been claimed to be one of the oldest coaching inns in the country, but was sadly destroyed in air raids in 1942. 
-<param manifest="https://iiif.juncture-digital.org/wc:Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Frederick_Nash_-_Rochester_Cathedral_and_Castle_-_Google_Art_Project.jpg/manifest.json">
 
 On 13 June 1834[^ref2]  Ann Walker wrote a detailed account of the day. In the morning Anne and Ann visited Canterbury Cathedral, in the afternoon strolled down Dane John Gardens, briefly saw Canterbury castle, and climbed up Dane John Mound. 
 <param attribution="No known copyright restrictions" label="Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling" url="https://stor.artstor.org/stor/e70a6523-0d4d-42da-a07a-699c3f2aa1ea" ve-image=""/> 
@@ -41,4 +41,3 @@ The [In Search of Ann Walker](https://insearchofannwalker.com/) research collabo
 [^ref7]: [Canterbury Castle](http://www.canterbury-archaeology.org.uk/castle/4590809462)     
 [^ref8]: [Packet Service I to 1854](https://doverhistorian.com/2015/03/21/packet-service-to-1854/)    
 [^ref9]: [Diary Comparison Portal](https://insearchofannwalker.com/tuesday-26th-august-1834/)     
-</body></html>

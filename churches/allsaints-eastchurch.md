@@ -1,11 +1,11 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Dr Melanie Caizza" banner="/images/banners/19c.jpg" layout="vtl" title="All Saints parish church of Eastchurch, Isle of Sheppey" ve-config=""/>
 
 <param aliases="Eastchurch" eid="Q2661688" ve-entity=""/>
 <param aliases="Isle of Sheppey" eid="Q1500299" ve-entity=""/>
 
 All Saints church in Eastchurch has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.  In 1431, royal license was granted for All Saints to perform all duties of a parish church, yet wealthy inhabitants of the island that left wills have shown that they did not want burial to take place at their parish church, as per the usual custom by this period.  As a prominent and wealthy landowning family of the Isle of Sheppey, the Cheneys all requested burial at the Minster rather than their local Eastchurch parish church.  
-<param manifest="https://iiif.juncture-digital.org/wc:Isle_of_Sheppey_from_Space_NASA.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Isle_of_Sheppey_from_Space_NASA.jpg/manifest.json">
                                                                                                                     
 Some of the interesting burial requests found in last will and testaments from Eastchurch parishioners including the following:   
 <br/>
@@ -13,9 +13,8 @@ Some of the interesting burial requests found in last will and testaments from E
 •	In 1524, Sir John Male, a priest of Eastchurch, requested burial within the chapel of St. John the Baptist ‘in the churchyard of Minster’   
 •	John Collens, a farmer of Sir Thomas Cheney, who lived in Eastchurch parish, requested burial in the churchyard of St. Sexburga ‘called the Minster’   
 •	In 1559, Sir Thomas Cheney stated in his will that ‘my bodye to be buryed at the Minster in the Isle of Shepey’.
-<param manifest="https://iiif.juncture-digital.org/wc:Eastchurch_Sheppey_9223.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Eastchurch_Sheppey_9223.JPG/manifest.json">
 
 Religious bequests overall to Eastchurch parish church give us an insight into the devotional space and how it was used by local people but also into the close relationship they had with SS Mary and Sexburga church in Minster.  Last wills and testaments dated from between c.1460-1559 reveal that the most popular bequest was first to the Prioress of Minster, Sheppey and then the ‘nuns of Minster’.  The ‘high cross’ at Minster was the third most popular religious bequest left in wills before the Eastchurch parishioners left anything for their own parish church.  Eastchurch parish church received mostly bequests for church repairs and lights within the church that were dedicated to ‘Our Lady’ in the ‘high choir’, in ‘the south chancel’, the high cross or rood light, the trinity and St. Catherine, in addition to new vestments and altar cloths.
-<param manifest="https://iiif.juncture-digital.org/wc:SS_Mary_%5E_Sexburga%2C_Minster_-_geograph.org.uk_-_2726630.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:SS_Mary_%5E_Sexburga%2C_Minster_-_geograph.org.uk_-_2726630.jpg/manifest.json">
 
-</body></html>

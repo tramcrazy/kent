@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 <param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Sandgate" ve-config=""/>
 
 <param aliases="Folkestone" eid="Q375314" ve-entity=""/>
@@ -17,18 +17,18 @@ Fanny Burney (1752–1840) visited the town in 1813 and “avoided going to the 
 'Eh bien — at church at Sandgate, the day after my arrival, I saw this justly celebrated man, and was introduced to him in the churchyard, after the service, by Charles. The ramparts and martellos around us became naturally our theme, and Mr. Wilberforce proposed showing them to me. I readily accepted the offer, and Charles and Sarah, and Mrs. Wilberforce and Mrs. Barrett, went away in their several carriages, while Mr. Barrett alone remained, and Mr. Wilberforce gave me his arm, and, in short, we walked the round from one to five o'clock! Four hours of the best conversation I have, nearly, ever enjoyed.'[^ref2] 
 <br/><br/>
 [Mary Shelley](https://kent-maps.online/19c/19c-shelleym-biography/) came in 1832, writing: “I think this place the healthiest in the world (though a little windy and cold).”[^ref3] 
-<param manifest="https://iiif.juncture-digital.org/wc:Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Frances_d%27Arblay_%28%27Fanny_Burney%27%29_by_Edward_Francisco_Burney.jpg/manifest.json">
 
 [Sarah Grand](/19c/19c-grand-biography), writer, feminist campaigner and proponent of sex education for girls, lived happily at Sandate after her marriage to David Chambers McFall. McFall, an army surgeon, was stationed at Shorncliffe Barracks in the Spring of 1871. It was here that Sarah "concentrated on the host of new experiences in her life" and gave birth to her only son on the 7 October 1871.[^ref4]
-<param manifest="https://iiif.juncture-digital.org/wc:Sarah_Grand_profile.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sarah_Grand_profile.jpg/manifest.json">
 
 The journalist and author, [George Augustus Sala](/19c/19c-sala-biography) visited Kent in September 1886 and was particularly taken with Sandgate, he wrote: “My favourite excursion by fly is to Sandgate, because there I found a pretty, smiling, friendly hotel called the “Royal Kent” with a green garden, stretching down to the sea. The “Nobs” had discovered the prettiness and geniality of the “Royal Kent” and had taken possession of it so that I could not obtain rooms there, but I shall call occasionally to take tea in the garden and contemplate the upper classes from a respectable distance.”[^ref5]  
-<param manifest="https://iiif.juncture-digital.org/wc:GeorgeAugustusSala1828-1895.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:GeorgeAugustusSala1828-1895.jpg/manifest.json">
 
 The art critic and writer, John Ruskin visited the ‘Kent Hotel’ a year later to “cool down” after a row at the National Gallery about works by J.M. W. Turner.[^ref6]  He was suffering from depression and stayed in Sandgate until the following summer, sometimes able to write, but at other times unable to pick up his pen. He invited Henrietta Eliza Vaughan Stannard who wrote under the pseudonym John Strange Winter, to visit him and was clearly enchanted by her work, however his mental instability was evident as he demanded that she give him statistics on the armament of British troops which she was unable to supply. In the morning he said sweetly “You never gave me those statistics I asked you for, John” after which a very lively debate ensued.[^ref7]. 
 <br/><br/>
 In a letter to Kate Greenaway, dated 19 February 1888, Ruskin wrote: "This is the dismallest day I've seen at Sandgate." He also said that he was working his way through the circulating library.[^ref8]
-<param manifest="https://iiif.juncture-digital.org/wc:John_Ruskin%2C_1882.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:John_Ruskin%2C_1882.jpg/manifest.json">
 
 In 1888, Evelyn Underhill (1875-1941) was a pupil at Sandgate House boarding school. She would later write _Mysticism: a study in the Nature and Development of Man's Spiritual Consciousness_ (1911).
 <br/><br/>
@@ -38,7 +38,7 @@ The antiquarian and writer, Wilfred Cripps (1841-1903), regularly visited Farlei
 <param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt. at the Shorncliffe Barracks" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image=""/> 
 
 Not long after this, [H.G. Wells](https://kent-maps.online/20c/20c-wellshg-biography/ ) moved to Beach Cottage  on the advice of his doctors, then later Arnold House, before commissioning his own house near the Riviera. He entertained many of the leading writers of the day here, including George Bernard Shaw, Henry James, Arnold Bennett, and [Joseph Conrad]( https://kent-maps.online/19c/19c-conrad-biography/).[^ref9]  His novel _The Sea Lady_ is set in Sandgate.
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/placesqz/spade%20MJC.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/placesqz/spade%20MJC.jpg/manifest.json">
 
 Bithia Croker, writer of military life in India, lived at 10, Radnor Cliffe, not far from Wells and set her novel [Miss Balmaine’s Past]( https://kent-maps.online/19c/19c-croker-missbalmaine/) in the nearby Romney Marshes and the playwright Henry Hamilton lived at The Haven until his death on 4 September 1918. He sang his ‘world-famous’ song “Tommy Atkins” from the musical play 'A Gaiety Girl' at Hythe Town Hall in February 1900.[^ref10] 
 <param attribution="Photographed by Martin Crowther" label="Home of Bithia Croker" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image=""/>
@@ -58,4 +58,3 @@ The Chaplain of Eversley School, Sandgate, [John Ferguson](/20c/20c-ferguson-bio
 [^ref9]: [Sandgate Society](http://archive.sandgatesociety.com/uploads/document/5cfe37053d8f1.pdf)
 [^ref10]: _Folkestone, Hythe, Sandgate &amp; Cheriton Herald_ - Saturday 17 February 1900
 
-</body></html>

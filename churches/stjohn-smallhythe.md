@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Andrew Vincent" banner="/images/banners/19c.jpg" layout="vtl" title="St. John the Baptist, Small Hythe" ve-config=""/>
 
 <param aliases="Tenterden" eid="Q614560" ve-entity=""/>
@@ -7,7 +7,7 @@
 <param aliases="Isle of Thanet" eid="Q590422" ve-entity=""/>
 
 A short way from the historic town of Tenterden lies the village of Small Hythe.  This village, although now completely landlocked, had close ties to the Cinque Ports Confederation. Small Hythe was a famous shipyard in medieval times, using timber from the great Wealden Forest. Although it is difficult to imagine when looking at the modern landscape of Kent, the county used to be an archipelago of deep channels and small isles, the names of which exist to this day, such as the Isle of Thanet, and Small Hythe’s neighbour, the Isle of Oxney. 
-<param manifest="https://iiif.juncture-digital.org/wc:St_John_the_Baptist_Church%2C_Small_Hythe%2C_Kent_-_geograph.org.uk_-_957959.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_John_the_Baptist_Church%2C_Small_Hythe%2C_Kent_-_geograph.org.uk_-_957959.jpg/manifest.json">
  
 It is not known when a chapel was first built in Small Hythe, but we do know that by the end of the fourteenth century a small chapel stood on the site of the current church. Very few records of this building remain, and so we know almost nothing about it: the material used, the dedication, or who served there. It is thought that it was licensed as a chapel to help ease the strain of the growing congregation of St Mildred’s in Tenterden. After many years of struggle between the residents of Small Hythe and the authorities, the village was given a license for their own chaplain who would be an extension of the vicarage of St Mildred’s in Tenterden. 
 <param attribution="Andrew Vincent" label="The view of the church from the south east. Note the stepped gables and heavy buttressing" url="https://stor.artstor.org/stor/62da9026-fd94-40de-9f54-ad63696fdc9e" ve-image=""/>
@@ -23,4 +23,3 @@ However, only eight years after this in 1514, a fire tore through Small Hythe, t
 Taylor, A. H. _The Chapel of St John the Baptist, Smallhythe. Archaeologia Cantiana._ 30. 133-192. 1914. https://www.kentarchaeology.org.uk/arch-cant/vol/30/chapel-st-john-baptist-smallhythe Accessed 19 May 2021.   
 Zeleny, Rachael Baitch. “Painting an Ethos: The Actress, the Angel in the House, and Pre-Raphaelite Ellen Terry.” Rhetoric Review, vol. 32, no. 4, 2013, pp. 397–418., www.jstor.org/stable/42003466. Accessed 29 April 2021.   
 <param attribution="Andrew Vincent" label="The view of the church from the west, showing the entrance and porch, as well as the figure of St John the Baptist set into a niche above the west window" url="https://stor.artstor.org/stor/e1a56162-96fa-4e4c-af51-a481569d773c" ve-image=""/>
-</body></html>

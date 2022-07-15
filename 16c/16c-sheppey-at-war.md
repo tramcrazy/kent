@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 <param author="Dr Melanie Caiazza" banner="/images/banners/16c.jpg" layout="vtl" title="Sheppey at war in the 16th century" ve-config=""/> 
 
 <param aliases="Sheppey" eid="Q1500299" ve-entity=""/> 
@@ -14,7 +14,7 @@ The Anglo Dutch War was not the first time that Sheppey inhabitants suffered due
 	mustered Sheppey souldiours…well taught and trayned up to the use 
 	and handling of their severall sortes of weapons, at suche times as we
 	 shalbe thereunto by then…’[^ref2]  
-<param manifest="https://iiif.juncture-digital.org/wc:Queenborough_Castle_1784.png/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Queenborough_Castle_1784.png/manifest.json">
 
 However, the second half of his report reveals concern for the inhabitants of the island and the impact the defensive programmes might be having on the wellbeing of everyday life on the island:
 <br/>
@@ -33,7 +33,7 @@ However, the second half of his report reveals concern for the inhabitants of th
 <param label="Detail of Sheppey, John Speed map of Kent, 1611" url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" ve-image=""/>
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
-<param manifest="https://iiif.juncture-digital.org/wc:Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg/manifest.json">
 
 ### References
 
@@ -42,4 +42,3 @@ Overall, Hoby’s account provides a complex insight into the tensions between t
 [^ref3]: BL Landsdowne MS.42, f.11.
 
 
-</body></html>

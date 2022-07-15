@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Maggie Harris" banner="https://stor.artstor.org/stor/0d641b7a-318e-4c7f-8789-6452984df301" layout="vtl" title="21st Century Margate " ve-config=""/>
 
 <param aliases="Margate" eid="Q618045" ve-entity=""/>
@@ -14,8 +14,7 @@ It remains to be seen what impact Covid will make on the new creative industries
 <param label="Another Time by Anthony Gormley, Margate" url="https://stor.artstor.org/stor/ee7f84dc-a5b0-4c36-ad58-bb9a01682e54" ve-image=""/> 
 
 My book [_In Margate by Lunchtime_](/21c/21c-margate-lunchtime) offers a bird’s eye view of Thanet from pre-Roman times to the 21st century. Just as our early ancestors would have found miraculous the Thanet windfarm which stands now off the coast like sentinels  an act of magic, so might they of a mermaid tour guide on a Vespa, except of course she’s real. 
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/21c/Kent Maps Mermaid Transparent.jpg/manifest.json" ve-image-v2/> 
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/21c/Kent Maps Mermaid Transparent.jpg/manifest.json"> 
 
 For more on the history of Dreamland see [‘Canterbury Tales: from the City to the Sea’](https://www.youtube.com/watch?v=461nK7mazNo)
-<param manifest="https://iiif.juncture-digital.org/wc:Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg/manifest.json" ve-image-v2/> 
-</body></html>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Dreamland%2C_Margate_-_geograph.org.uk_-_1473130.jpg/manifest.json"> 

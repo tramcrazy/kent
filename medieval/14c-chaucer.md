@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Charlotte Worthington" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Blake_Canterbury_Pilgrims_engraving.jpg/1024px-Blake_Canterbury_Pilgrims_engraving.jpg" layout="vtl" title="Geoffrey Chaucer c.1340s-1400" ve-config=""/>
 
 <param aliases="Harbledown" eid="Q5654535" ve-entity=""/>
@@ -18,7 +18,7 @@ It is generally believed that Geoffrey Chaucer was born in the early 1340s, as i
 He is best known for _The Canterbury Tales_, which he wrote in the last decade of his life.  The Tales are a collection of stories told by a group of pilgrims travelling to Canterbury to visit the Shrine of Thomas Becket. 
 <sp>
 However, despite the title, the loquacious pilgrims arrive in the village of Harbledown on the outskirts of Canterbury (Woot ye nat where ther stant a litel toun/ Which that ycleped is Bobbe-up-and-doun/Under the Blee, in Caunterbury Weye?- _The Manciple's Prologue_), and it is only in a later 15th century work _Tale of Beryn_ by an unknown author that the pilgrims actually reach Canterbury.  
-<param manifest="https://iiif.juncture-digital.org/wc:Interesting_buildings_in_Harbledown_-_geograph.org.uk_-_1291639.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Interesting_buildings_in_Harbledown_-_geograph.org.uk_-_1291639.jpg/manifest.json">
 <param center="Q5654535" ve-map="" zoom="15"/>
 
 
@@ -38,4 +38,4 @@ Foreville, Raymonde. (1958) [“Le jubilé de Saint Thomas Becket dans la perspe
 Gray, D. "Geoffrey Chacuer." _Oxford Dictionary of National Biography_ 2004.  
 Sanderlin, S. “Chaucer and Ricardian Politics.” _The Chaucer Review,_ vol. 22, no. 3, 1988, pp. 171–184. JSTOR, www.jstor.org/stable/25094045. Accessed 5 Nov. 2020. 
 <param attribution="Photographed by Martin Crowther" label="The Pilgrim's Guide to Canterbury" url="https://stor.artstor.org/stor/fcfc5c9a-3387-4c5f-9756-b5f6e7fb0f88" ve-image=""/>
-</sp></sp></body></html>
+</sp></sp>

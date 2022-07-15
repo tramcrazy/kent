@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Peter Merchant" banner="/images/banners/18c.jpg" layout="vtl" title="Elizabeth Carter (1717–1806)" ve-config=""/>
 
 <param aliases="Deal" eid="Q1011096" ve-entity=""/>
@@ -18,28 +18,28 @@ Lest lurking Folly with insidious Art
 Regain my volatile inconstant Heart.[^ref2]   
 <br/>
 Blake’s adage that those who restrain desire do so because theirs is weak enough to be restrained does not appear to apply here.
-<param manifest="https://iiif.juncture-digital.org/wc:Elizabeth_Carter.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Elizabeth_Carter.jpg/manifest.json">
 
 The fierce discipline to which Carter subjected herself is abundantly demonstrated by the arrangements she put in place to ensure that the crack of dawn would always find her already poring over her books. A letter of 1746 which is quoted by her nephew describes a device that might challenge comparison with Heath Robinson’s trumpet alarm clock: ‘There is a bell placed at the head of my bed, and to this is fastened a packthread and a piece of lead, which…is conveyed through a crevasse of my window into a garden below, pertaining to the Sexton, who gets up between four and five, and pulls the said packthread with as much heart and good will as if he was ringing my knell.’[^ref3]  It was thanks to this extraordinary dedication (and ingenuity) that Carter was able to complete, for publication in 1758, an acclaimed translation of ‘All the Works of Epictetus Which are Now Extant.’ It was as big a project, arguably, as Samuel Johnson’s _Dictionary of the English Language_ (with which it overlapped).
-<param manifest="https://iiif.juncture-digital.org/wc:The_Discourses_of_Epictetus_-_Elizabeth_Carter_-_1758_-_title_page.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Discourses_of_Epictetus_-_Elizabeth_Carter_-_1758_-_title_page.jpg/manifest.json">
 
 Carter could by this time have been commanding, had she chosen, a profile as high as Johnson’s own. She was a precocious poet and, at the time of Johnson’s plunge into the literary life of London, had had the opportunity to make the same move herself; but she was reluctant to leave Deal behind. Her attitudes, too, were such as would come to seem provincial and—towards the end of her life—out of tune with the times. She was, her nephew notes, ‘warmly attached to the Established Church,’ and ‘very partial to all the House of Hanover’; and she ‘detested the principles displayed in Mrs. Woolstonecroft’s [sic] theory concerning the ‘Rights of Women.’’[^ref4] 
-<param manifest="https://iiif.juncture-digital.org/wc:Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mary_Wollstonecraft_by_John_Opie_%28c._1797%29.jpg/manifest.json">
 
 That final comment, like the puppet-show anecdote, may risk creating a false impression of Carter’s personality and attitudes. She in fact vigorously promoted the education of women, although she did not want it to be at the expense of domestic accomplishments. Nor did Samuel Johnson:   
 <br/>
 'My old friend, Mrs. Carter, said he, could make a pudding, as well as translate Epictetus from the Greek, and work a handkerchief as well as compose a poem.’[^ref5]  Faint though that praise now seems — and bestowed on the back of a colossal condescension (‘A man is in general better pleased when he has a good dinner upon his table, than when his wife talks Greek’) — making puddings and translating Epictetus at least blazed a rather brighter trail than the consummation so devoutly to be deprecated in _Jane Eyre_, ‘making puddings and knitting stockings.'
-<param manifest="https://iiif.juncture-digital.org/wc:Samuel_Johnson_by_Joshua_Reynolds_2.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Samuel_Johnson_by_Joshua_Reynolds_2.jpg/manifest.json">
 
 Two hundred years ago, compiling a ‘Series of Writers in English Poetry, Natives of or Residents in the County of Kent; with Specimens of their Compositions, and Some Account of their Lives and Writings,’ Rowland Freeman proposed a mainly male roll of honour. After Elizabeth I, Mary Sidney Herbert, and [Aphra Behn](/17c/17c-behn-biography), Carter was the fourth and final female poet admitted to the hall of fame. Her impeccable Kentish credentials are laid at once before the reader:   
 <br/>
 ‘This learned and excellent lady was born at Deal, where her father, the Rev. Nicholas Carter, D.D., was curate of the episcopal chapel; he was also rector of Woodchurch and Ham, and one of the six preachers in the cathedral of Canterbury.’[^ref6]  When in 1762 she was able to move up the property ladder, her ambitions extended no further than South Street in Deal; and ‘she continued to occupy the same residence at Deal to the end of her life, dividing her time between that town and London, where she generally passed the winter.’[^ref7]   
 <br/>
 A life of nearly ninety years, made up according to Freeman of twenty-hour working days, gave her a lot of time to divide: ‘She…consumed in severe application to books, the hours which should have been devoted to repose. She accustomed herself to rise at four o’clock in the morning, and did not usually retire to rest until past midnight; to prevent sleep during this long period, she not only acquired the disgusting practice of snuff-taking, but she was also accustomed to chew green tea and coffee, and even to bind a wet towel round her head, or apply it to the region of the stomach.’[^ref8] 
-<param manifest="https://iiif.juncture-digital.org/wc:Buildings_on_the_S_side_of_South_Street_-_geograph.org.uk_-_967133.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Buildings_on_the_S_side_of_South_Street_-_geograph.org.uk_-_967133.jpg/manifest.json">
 
 All this points, for Freeman, to a life of stoic self-denial. Carter followed the precepts of the thinker, Epictetus, whose works she laboured to translate; and to that end she for a long while put poetry aside. One of the very few women writers admitted into Freeman’s pantheon is in the final analysis admirable for having thought and written like a man, and having chosen ‘not the soft and flower paths of literature, but the rough and thorny road of learning.’[^ref9]  Still, ‘should it ever again become a question whether the intellect of women be inferior to that of men, English ladies may triumphantly appeal to the illustrious name of Elizabeth Carter.’[^ref10]  Virginia Woolf would duly invoke it in 1929: ‘[Jane Austen](/19c/19c-austen-biography) should have laid a wreath upon the grave of Fanny Burney, and George Eliot done homage to the robust shade of Eliza Carter—the valiant old woman who tied a bell to her bedstead in order that she might wake early and learn Greek.’[^ref11] 
-<param manifest="https://iiif.juncture-digital.org/wc:Virginia_Woolf_1927.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Virginia_Woolf_1927.jpg/manifest.json">
 
 ### References
 
@@ -55,4 +55,3 @@ All this points, for Freeman, to a life of stoic self-denial. Carter followed th
 [^ref10]: ibid.   
 [^ref11]: Virginia Woolf, _A Room of One’s Own_ (London: Hogarth Press, 1929), 98.   
 
-</body></html>

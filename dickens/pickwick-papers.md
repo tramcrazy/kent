@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Katie Holdway" banner="/images/banners/19c.jpg" layout="vtl" title="The Posthumous Papers of the Pickwick Club" ve-config=""/>
 
 <param aliases="Sissinghurst" eid="Q1971996" ve-entity=""/>
@@ -14,7 +14,7 @@ Alfred Jingle describing Rochester Bridge, and Rochester Cathedral.
 <param attribution="1828 Adlard" label="Rochester Bridge" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image=""/>
 
 Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Strood, Rochester, [Chatham](/dickens/dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/ppwrapper.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/ppwrapper.jpg/manifest.json">
 
 Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place](/dickens/dickens-gads-hill) would result in many unequivocally fond representations of Kent in his later career, in _Pickwick_ his engagement with Kentish geographies, inhabitants and stereotypes is more variable. Both Dickens and his characters alternate between a genuine if snobbish admiration of Kent’s picturesque history and a savage satire of its inhabitants.
 <param attribution="Benjamin Mortley" label="Gad's Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
@@ -23,10 +23,10 @@ The first mention of Kent appears in Chapter 2, as the Pickwickians approach Roc
 <param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image=""/>
 
 Interspersing these scenic impressions are some more practical musings. With an emotional disengagement that contrasts sharply with his revelling in Kentish scenery, Mr Pickwick describes to his companions the ‘principle productions’, of the Kentish towns they visit, which ‘appear to be soldiers, sailors, Jews, chalk, shrimps, officers, and dockyard men’ . Through the superior eye of the metropolitan gentleman, Kent and its inhabitants are reduced to a list of commodities.
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/pickwick-papers-victorian-web.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/pickwick-papers-victorian-web.jpg/manifest.json">
 
 Perhaps most scathing of all is [Dickens’s](/dickens/dickens-biography) representation of Kent’s military population and Chatham Barracks. At a field day and bivouac, the Pickwickians find themselves quite literally in the line of fire, charged down pell-mell by the prancing Colonel Bulder as well as ‘a long perspective of red coats and white trousers’.  More sinister than this slapstick chapter—in which the military chases Mr Pickwick, and Mr Pickwick chases his hat—is the violence and intoxication of the military that is described as taking place in the surrounding residential areas. Naively interpreted by Mr Pickwick as ‘conviviality’, he tells us that ‘[n]othing…can exceed the… good-humour’ of these drunken military men, before relating an anecdote of a barmaid who was stabbed in the shoulder with a bayonet for refusing to serve a soldier more liquor. ‘And yet this fine fellow’, Mr Pickwick explains, ‘was the very first to go down to the house next morning and express his readiness to overlook the matter, and forget what had occurred!’  
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/The_Medway_Chatham_England-LCCN2002711859.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/The_Medway_Chatham_England-LCCN2002711859.jpg/manifest.json">
 
 The scathing caricature of the military and residents of Kent contrasts sharply with [Dickens’s](/dickens/dickens-biography) descriptions of its scenery, which is perhaps why some local newspapers focussed on the latter when reviewing or reprinting extracts from the serial. For example, in 1836, the _Kentish Gazette_ delightedly writes that, ‘[t]o our general readers the Pickwick papers will be doubly acceptable, from the scenes being laid in Kent, where, intermingled with narrations of laughable adventures, are beautiful graphic descriptions of some of the magnificent remains of the feudal grandeur of the county’.
 <param attribution="By kind permission of Martin Crowther" label="Redcoats by the coast" url="https://stor.artstor.org/stor/9892bd49-0ecf-4513-a85d-00fc939769da" ve-image=""/>
@@ -38,7 +38,6 @@ Dickens, Charles. _The Pickwick Papers_. Oxford World’s Classics, 2008.
 Images taken from the _Victorian Web_. Permission to reproduce for scholarly or educational purposes.   
 [‘The Monthly Wrapper’](http://www.victorianweb.org/art/illustration/seymour/ppwrapper.html) by Robert Seymour. Scanned image and text by Philip V. Allingham.      
 [‘Mr Pickwick in Chase of his Hat’](http://www.victorianweb.org/art/illustration/seymour/6.html) by Robert Seymour. Scanned image and text by Philip V. Allingham.   
-<param manifest="https://iiif.juncture-digital.org/wc:Mr_Pickwick_1889_Dickens_The_Pickwick_Papers_character_by_Kyd_%28Joseph_Clayton_Clarke%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mr_Pickwick_1889_Dickens_The_Pickwick_Papers_character_by_Kyd_%28Joseph_Clayton_Clarke%29.jpg/manifest.json">
 
 
-</body></html>

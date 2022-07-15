@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 
 <param author="Peter Orford" layout="vtl" title="Edwin Drood: a Curated Walk" ve-config=""/>
 
@@ -13,7 +13,7 @@
 Inevitably, attention is drawn towards the crypt of the cathedral. This is the place where the stonemason Durdles takes Jasper on a night-time tour, at Jasper’s request, and it is during that tour that Durdles falls strangely tired, as though drugged, and ‘dreams’ of Jasper taking his keys. This has led many to assume that Jasper makes a copy of the keys, with the intention of entombing his unfortunate nephew somewhere within, most likely in the Sapsea tomb. Dickens describes that night-time tour of Durdles and Jasper in deliciously gothic tones:    
 _‘They enter, locking themselves in, descend the rugged steps, and are down in the Crypt.  The lantern is not wanted, for the moonlight strikes in at the groined windows, bare of glass, the broken frames for which cast patterns on the ground.  The heavy pillars which support the roof engender masses of black shade, but between them there are lanes of light.’_   
 Alas, it is rather difficult for the modern visitor to quite capture the same gloomy sense of an eternity trapped in that tomb, since the crypt is now home to the cathedral café. But it is nice to imagine Edwin sipping a latte while all of Cloisterham scrambles to find him.
-<param manifest="https://iiif.juncture-digital.org/wc:Rochester_Cathedral_crypt_1.jpg/manifest.json" ve-image-v2/>  
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Rochester_Cathedral_crypt_1.jpg/manifest.json">  
 <param center="Q26377461" ve-map="" zoom="14"/>
 
 Outside the cathedral, but not too far, the next prominent building is the cathedral’s gatehouse. This is where Jasper lives as tenant to the Topes, and where in turn Dick Datchery will also rent a room.  Mr. Tope’s official dwelling, communicating by an upper stair with Mr. Jasper’s (hence Mrs. Tope’s attendance on that gentleman), was of very modest proportions, and partook of the character of a cool dungeon…These two chambers, close as to their atmosphere, and swarthy as to their illumination by natural light, were the apartments which Mrs. Tope had so long offered to an unappreciative city.  Mr. Datchery, however, was more appreciative.  He found that if he sat with the main door open he would enjoy the passing society of all comers to and fro by the gateway, and would have light enough.
@@ -31,7 +31,7 @@ _In the midst of Cloisterham stands the Nun's House: a venerable brick edifice, 
 <param attribution="Benjamin Mortley" label="Eastgate House" url="https://stor.artstor.org/stor/4bcb5ff3-1a7b-4d15-943d-36c283e418e0" ve-image=""/>  
 
 Again, [Rochester](/dickens/dickens-medway) has celebrated the link with a teashop on the grounds called Miss Twinkleton’s Fine Coffee House. There is a nice example of circular influence here. [Eastgate house](/dickens/edwin-drood-eastgate-house) inspired Drood, Drood inspired my own website The Drood Inquiry, including new illustrations of characters, the one of Twinkleton in turn being used subsequently as the logo for Twinkleton’s café at [Eastgate House](/dickens/edwin-drood-eastgate-house).
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Fig 5 Miss Twinkleton's Fine Coffee House.jpg/manifest.json" ve-image-v2/>   
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Fig 5 Miss Twinkleton's Fine Coffee House.jpg/manifest.json">   
 <param center="Q26377461" ve-map="" zoom="14"/>
 
 Across the road from the [Nun’s house](dickens/edwin-drood-eastgate-house), Dickens tells us, is Mr Sapsea’s home: ‘Mr. Sapsea’s premises are in the High-street, over against the [Nun’s house](/dickens/edwin-drood-eastgate-house).  They are of about the period of the [Nun’s house](dickens/edwin-drood-eastgate-house), irregularly modernised here and there, as steadily deteriorating generations found, more and more, that they preferred air and light to Fever and the Plague.  Over the doorway is a wooden effigy, about half life-size, representing Mr. Sapsea’s father, in a curly wig and toga, in the act of selling.  The chastity of the idea, and the natural appearance of the little finger, hammer, and pulpit, have been much admired.’   
@@ -40,14 +40,14 @@ Not far from here, so far as we can tell, is where would have stood  The Travell
 <param center="Q26377461" ve-map="" zoom="14"/>
 
 Away from the high street is Minor Canon Row, translated in Drood to Minor Canon Corner, home to Septimus Crisparkle and his mother. Dickens describes this tranquil spot as ‘a quiet place in the shadow of the Cathedral, which the cawing of the rooks, the echoing footsteps of rare passers, the sound of the Cathedral bell, or the roll of the Cathedral organ, seemed to render more quiet than absolute silence.’
-<param manifest="https://iiif.juncture-digital.org/wc:Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg/manifest.json" ve-image-v2/>   
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Charles_Dickens_and_Rochester_%281880%29_%2814788137593%29.jpg/manifest.json">   
 <param center="Q26377461" ve-map="" zoom="14"/>
 
 Returning to the Cathedral, we can see just beyond it the castle. While this features prominently on the [Rochester](/dickens/dickens-medway) skyline, it does not feature so prominently in Cloisterham, though Luke Fildes did provide an illustration of the castle for a frontispiece – could further misadventures have been planned upon the castle grounds? 
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Fig 7 1870 title page.jpg/manifest.json" ve-image-v2/>    
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Fig 7 1870 title page.jpg/manifest.json">    
 
 For those searching for Edwin beyond the coffeeshop/crypt, the next stop would be the weir, which Dickens tells us is ‘full two miles above the spot to which the young men [Edwin and Neville] had repaired to watch the storm’ - except [Rochester](/dickens/dickens-medway) has no weir. As I have said, Dickens is inspired by reality, but is not bound to it. There is, however, the river, which may be part inspiration. While early in the novel Septimus Crisparkle takes exercise swimming in the weir, later we are told he ‘had come at one plunge out of the river at Cloisterham’. Since Crisparkle makes little distinction between weir and river, this perhaps suggests the two bodies of water may be interchangeable in Dickens’s mind.  On the night of Drood’s disappearance we are told he and Neville walk down to see the river, and indeed it is a short walk to here from the Gatehouse, and none of it too far from the Cathedral and its crypt. So, if Dickens really was mapping Edwin’s final movements upon [Rochester](/dickens/dickens-medway), then surprising Edwin by the river, or in the gatehouse, and transporting him to the crypts would have been no great feat for Jasper, or any other suspect, to undertake.
-<param manifest="https://iiif.juncture-digital.org/wc:Derelict_Slipway%2C_River_Medway_-_geograph.org.uk_-_1844091.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Derelict_Slipway%2C_River_Medway_-_geograph.org.uk_-_1844091.jpg/manifest.json">
 <param center="Q26377461" ve-map="" zoom="14"/>
 
 [Rochester](/dickens/dickens-medway) offers a beguiling tour through Droodland, but it also comes with an advisory warning. We can imagine ourselves in Cloisterham, but never truly inhabit it – its location rests solely in Dickens’ own imagination. Perhaps in that sense the [chalet](/dickens/dickens-swiss-chalet) in [Eastgate House](/dickens/edwin-drood-eastgate-house) is the closest we can get to the fictional landscape of Dickens’ last novel – that after all where Cloisterham was created and developed. At the same time, there are clues and hints we can glean from [Rochester](/dickens/dickens-medway). That it inspired Cloisterham is without doubt, and therefore the argument can be made that key scenes may be played out with specific reference to [Rochester](/dickens/dickens-medway)’s geography. The danger is that we can never be truly sure which scenes, nor in turn which parts might have been embellished or changed by Dickens to suit his plot, such as Datchery’s non-existent door. [Rochester](/dickens/dickens-medway) is a therefore a delightful spot to attempt to envision Drood – and the best place to do so  - but the surest clues remain in the text itself.   
@@ -55,4 +55,3 @@ Inspired to go looking for the missing Edwin? You may enjoy this [Rochester walk
 See also [Mobile Landscapes]( https://kent-maps.online/dickens/mobile-landscapes)
 <param attribution="By kind permission of David Perdue" label="Dickens' Rochester/Chatham" url="https://stor.artstor.org/stor/cc1b9669-0996-475c-bba2-692467a50043" ve-image=""/>
 <param center="Q26377461" ve-map="" zoom="14"/>
-</body></html>

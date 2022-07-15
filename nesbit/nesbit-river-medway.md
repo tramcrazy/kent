@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Eleanor Fitzsimons" banner="/images/banners/19c.jpg" layout="vtl" title="Edith Nesbit, River Medway" ve-config=""/>
 
 <param aliases="Medway" eid="Q797782" ve-entity=""/>
@@ -17,7 +17,7 @@ All through the summer nights the market carts creak along the London road; to L
 <br/><br/>
 E. NESBIT.   
 KENT, March 1896.   
-<param manifest="https://iiif.juncture-digital.org/wc:Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22171.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22171.jpg/manifest.json">
 
 ‘Coals of Fire’, the final story in the collection, features river dwellers who sail barges along the River Medway between London and Tonbridge. Nesbit opens: 
 <br/><br/>
@@ -29,7 +29,7 @@ Nesbit, a keen oarswoman and swimmer, took many boating holidays on the Medway w
 <br/>
 We went along the towing path; it is shady with willows, aspens, elders, oaks, and other trees. On the banks are flowers – yarrow, meadow-sweet, willow herb, loose-strife, and lady’s bed-straw.  
 As dusk fell, she would play her guitar, sometimes strumming a song of her own composition. Her ‘Medway Song’ goes as follows:  
-<param manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0123.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0123.jpg/manifest.json">
 
 MEDWAY SONG (Air: Carnaval de Venise)
 <br/>
@@ -97,42 +97,41 @@ Who call the Medway ours.
 Long passages in _The Incredible Honeymoon_ (1921) and _Salome and the Head_ (1909) two of Nesbit’s novels for adults, describe the river’s beauty. In _Salome and the Head_, she wrote:  
 <br/>
 The Medway just above the Anchor (at Yalding, Kent) is a river of dreams. The grey and green of willows and alders mirror themselves in the still water in images hardly less solid-seeming than their living realities. There is pink loosestrife there, and meadow-sweet creamy and fragrant, forget- me-nots wet and blue, and a tangle of green weeds and leaves and stems that only botanists know the names of.  
-<param manifest="https://iiif.juncture-digital.org/wc:The_Anchor_Inn%2C_Yalding_on_Medway_Valley_Walk_-_geograph.org.uk_-_1200328.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Anchor_Inn%2C_Yalding_on_Medway_Valley_Walk_-_geograph.org.uk_-_1200328.jpg/manifest.json">
 <param center="51.22312394033697, 0.4188703306878291" ve-map="" zoom="15"/>
 
 Nesbit stayed in several of the pubs and inns that punctuated the river- bank. The real Anchor, which has been renamed the Boathouse, is a quaint fourteenth-century pub that stands just across the river from the medieval Twyford Bridge and weir. In _The Englishman’s Country_ (1945), poet and nature writer Walter James Turner described the Anchor as a ‘beautiful inn with its nooks and corners answering no particular scheme of architecture’. Its origin was as a bargeman’s inn, but it became ‘a favourite anchorage for anglers, who have miles of water, swift or slow to yield them sport’. 
-<param manifest="https://iiif.juncture-digital.org/wc:YaldingTwyford0529.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:YaldingTwyford0529.JPG/manifest.json">
 <param center="Q17641439" ve-map="" zoom="16"/>
 
 In _Salome and the Head_, Nesbit wrote:  
 <br/>
 If you go to Yalding you may stay at the George, and be comfortable in a little village that owns a haunted churchyard, a fine church, and one of the most beautiful bridges in Europe. Or you may stay at the Anchor, and be comfortable on the very lip of the river.  
-<param manifest="https://iiif.juncture-digital.org/wc:The_George_Pub%2C_Yalding_-_geograph.org.uk_-_1143857.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_George_Pub%2C_Yalding_-_geograph.org.uk_-_1143857.jpg/manifest.json">
 
 Templar, her protagonist, stays at the Anchor, where Nesbit stayed many times. She included a description of breakfast there in _Salome and the Head_:  
 <br/>
 At the Anchor you breakfast either in a little room whose door opens directly on that part of the garden which is adorned by two round flower- beds edged with the thickest, greenest box you ever saw – this is next door to breakfasting in the garden itself – or you do breakfast in the garden. Once upon a time you used to breakfast in a hornbeam arbour, but now that is given over to bargees. The landlord of the Anchor is a just man, and apportions the beauty of his grounds fairly among his clients.  
 <br/>
 The morning being a prince of mornings, even for June, Mr Templar ate his eggs and bacon in the garden, drank there his three cups of tea, and there leaned back and smoked the after-breakfast pipe. There were birds singing in the alders opposite; the river, decorated with sunlight, looked warm and brown, like the shallow pools whose warmness quite shocks you when you dangle your feet in them from seaweed-covered rocks.  
-<param manifest="https://iiif.juncture-digital.org/wc:The_Anchor%2C_Yalding.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Anchor%2C_Yalding.JPG/manifest.json">
 
 Edward and Katherine, her couple from _The Incredible Honeymoon_, stand ‘on the landing-stage of the Anchor, looking down on a sort of Sargasso Sea of small craft that stretched along below the edge of the Anchor garden’. When they take to the water on the next page, Nesbit uses this as an opportunity to condemn the hideously utilitarian architecture encroaching on this beloved landscape, a theme she returned to again and again:  
 <br/>
 A few strokes took them out of sight of the Anchor, its homely, flowered garden, its thatched house, its hornbeam arbor; they passed, too, the ugly, bare house that some utilitarian misdemeanant has built next to it, then nothing but depths of willow copse, green and grey, and the grassy curves of the towing-path where the loosestrife grows, and the willow herb, the yellow yarrow, and the delicate plumes of the meadow-sweet.  
-<param manifest="https://iiif.juncture-digital.org/wc:Boats_Moored_near_Yalding%2C_River_Medway_-_geograph.org.uk_-_1267438.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Boats_Moored_near_Yalding%2C_River_Medway_-_geograph.org.uk_-_1267438.jpg/manifest.json">
 
 The George in Yalding, a riverside inn dating back to 1642, provided an alternative to the Anchor. Templar enjoys a drink there in _Salome and the Head_: 
 <br/><br/>
 But he walked up to Yalding and leaned on the bridge and looked down into the mysterious shadowy depths that by daylight are green-water-meadows; saw two white owls fly out from the church tower; heard the church clock strike nine; had a drink at the George and a pleasant word with the George’s good landlord; and went back over the broad, deserted green space, tree-bordered, which Yalding calls the Leas, to that other bridge which is almost as beautiful as Yalding’s, and so to bed in a little bungalow close to the water, and there fell asleep with the sound of the weir soothing him like a lullaby.  
-<param manifest="https://iiif.juncture-digital.org/wc:Yalding_from_bridge.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Yalding_from_bridge.JPG/manifest.json">
 <param center="51.22340252406306, 0.4293744136337939" ve-map="" zoom="15"/>
 
 In 1905 Edith sent a note to [H.G. Wells](/20c/20c-wellshg-biography), who was due to join them: ‘I can’t remember whether you were told that our inn at Yalding is the _George_ – it would be dreadful if you were to seek us vainly at the _Bull_ or the _Anchor_, she wrote.  
-<param manifest="https://iiif.juncture-digital.org/wc:H._G._Wells%2C_c.1890.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:H._G._Wells%2C_c.1890.jpg/manifest.json">
 
 ### Bibliography
 
 Nesbit, E. [_In Homespun_](https://www.gutenberg.org/files/4378/4378-h/4378-h.htm), 1896.    
 Nesbit, E. [_The Wouldbegoods_](https://www.gutenberg.org/ebooks/794), 1901, ch. 5. 
 Nesbit, E. [_The Incredible Honeymoon_](https://www.gutenberg.org/ebooks/41354), 1916.      
-</body></html>

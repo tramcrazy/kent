@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 <param author="Ken Moffat and Carolyn W. de la L. Oulton" banner="images/david-copperfield-banner.jpg" layout="vtl" title="David Copperfield - a curated walk" ve-config=""/>
 
 <!-- Global entities -->
@@ -37,7 +37,7 @@
 #
 
 David Copperfield, like Pip in _Great Expectations_, shares the difficult story of what it means to become involuntarily fascinated, even obsessed: with grotesque figures, with landscapes, with the secrets of one’s own past. From the moment of meeting the chilling Mr Murdstone the child David finds it hard to take his eyes off him, and he will later find himself compelled to watch the slumbers of Uriah Heep, as he succumbs to what Dickens memorably termed ‘the fascination of repulsion’. In both cases David emphasises the way in which his home is invaded by these unwelcome figures. But just what home means – and where it is – proves elusive throughout the novel.
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Copperfield_cover_serial.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Copperfield_cover_serial.jpg/manifest.json">
 
 Unlike Pip the blacksmith’s boy, who must learn to challenge what it really means to be a ‘gentleman’, David is born into and then expelled from a secure middle class family. While Pip’s aspirations are bound up with escaping the Kent marshes and reaching London, David is packed off to the metropolis to work in a warehouse after his mother’s death. During this time he will become acquainted with ‘the meanest phases’ of London life, including pawn brokers, cheap lodgings and the debtors’ prison – his enduring sense of shame may even imply a precocious sexual awareness derived from what he sees on his way to and from work.  Both boys feel tainted by association and both are desperate to put as much distance as possible between themselves and the place of their humiliation. But David’s escape plan works in reverse as he makes his way down the [Dover Road](/dickens/david-copperfield-dover-road) to the coast.
 <param center="51.2, 0.9" title="Kent Marshes" ve-map="" zoom="10"/>
@@ -58,7 +58,7 @@ After further delays as he hides from ‘any of these people’ coming towards h
 
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
 <param center="Q179224" ve-map="" zoom="11"/>
-<param manifest="https://iiif.juncture-digital.org/wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg/manifest.json">
 
 _I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me._
  
@@ -67,11 +67,11 @@ Symbolically David is sitting on the doorstep of an empty shop at the corner of 
 Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child[^ref2]. 
 
 At this point David is assimilated into the Kent landscape, moving between [Dover](/dickens/dickens-dover) and [Canterbury,](/dickens/david-copperfield-canterbury) where he is put to school with Dr Strong and develops romantic attachments to a succession of young woman like the eldest Miss Larkins.
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/The Eldest Miss Larkins T00072-21.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/The Eldest Miss Larkins T00072-21.jpg/manifest.json">
 
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
 [Canterbury](/dickens/david-copperfield-canterbury) to visit Agnes Wickfield, for whose sake he will triumphantly denounce Uriah Heep with the aid of Traddles and Mr Micawber. 
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Heep of Infamy M00002-10.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Heep of Infamy M00002-10.jpg/manifest.json">
 
 Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to Gravesend. The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
 
@@ -84,4 +84,3 @@ Only once, in a desperate bid to avoid a tête á tête with Uriah, does David s
 
 [^ref2]: https://literatureproject.com/david-copperfield/david-copperfield_chapter_14_-_my.htm
 
-</body></html>

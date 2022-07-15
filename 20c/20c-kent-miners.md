@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
+<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 <param author="Professor Emeritus Linden West" banner="https://stor.artstor.org/stor/6e4cd3c3-771e-43b2-a9e8-90384590672d" layout="vtl" title="Mapping radical dissent: the Kent Miners, militancy and workers’ education" ve-config=""/>
 <param center="Q866348" ve-map="" zoom="10"/>
 
@@ -13,11 +13,11 @@ On April 2nd, 2022, a new museum opened on the site of what was once Betteshange
 
 **Oral history**   
 I was once part of a small research team at the University of Kent in the early 1990s, doing oral history interviews among some of the miners: focusing on their lives, and the role and meaning of workers’ education in shaping experience and consciousness. Little was known, for instance, about the influence of workers' education in general and especially at times of explicit conflict with mine owners: when challenging inhumane working practices, for instance, during strikes and in struggles to imagine a better, less class-ridden and exploitative, as well as socially, materially and politically democratic order.  
-<param manifest="https://iiif.juncture-digital.org/wc:Commemorative_statue_showing_Aylesham%27s_history_of_mining..jpg/manifest.json" ve-image-v2/> 
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Commemorative_statue_showing_Aylesham%27s_history_of_mining..jpg/manifest.json"> 
 
 **Strikes**   
 One of only two miners’ strikes in the 2nd World War took place at Betteshanger Colliery in 1942 (the other was in Yorkshire). The strike’s origins lay in a switch to a new coalface that was much narrower and harder to work. After an arbitrator ruled that the quotas asked of the miners were achievable, the miners objected, and the strike began on the 9th of January. The story of that strike and a later one in 1984/5 is documented in various sources, including in some of the stories we were able to gather. In 1942, the eventual terms agreed by the Mine Owners were more or less what the miners had asked for, but only after bitter struggle and a period of imprisonment for three of the leaders. The Kent Miners, it should be noted, were the last to return to work in 1985 after that contentious national strike, leaving a festering wound in mining communities like Kent to this day. 
-<param manifest="https://iiif.juncture-digital.org/wc:KentNUMStrikeBadge.JPG/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:KentNUMStrikeBadge.JPG/manifest.json">
 <param center="Q4898591" ve-map="" zoom="15"/>
 
 **Workers education**   
@@ -28,7 +28,7 @@ From early on the Kent miners had a reputation for militancy. A number of them w
 Jack Dunn was a trade union leader and member of the class: his interview provides a vignette to begin to fill some of the gaps in our mapping. Jack was born in 1915 in South Staffordshire. There were six brothers and four sisters and Jack ‘couldn’t go to Grammar School’, he said, ‘because of the cost’. He moved to Kent in 1929 looking for work. He talked of ‘injustice’ in relation to an elder brother who was injured in an underground accident. He  likened Snowdown to Dante’s Inferno: ‘atrocious’, ‘seven pints of water a shift’, just to survive. 
 <br/><br/>
 Jack described Betteshanger as a ‘much better pit than Snowdown’, but there were frictions over meal breaks or ‘snap time’. Conflict too over injury compensation when people were forced to return to work by coal owners before their injuries were healed. Jack was something of the autodidact who was interested in Hegel and the Communist Party; and began attending union meetings and then D’Eye’s class. The Miners’ Welfare Club at Mill Hill, Deal, was its location. It had a library of political tracts and novels. D’Eye’s class covered socialism, capitalism, the Russian Revolution; Tom Payne and the Rights of Man; the French Revolution, the British Empire and Colonialism. The imagination was unashamedly internationalist, the impulse critical and questioning. 
-<param manifest="https://iiif.juncture-digital.org/wc:Looking_NE_along_a_footpath_on_top_of_spoil_heap_-_geograph.org.uk_-_585442.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Looking_NE_along_a_footpath_on_top_of_spoil_heap_-_geograph.org.uk_-_585442.jpg/manifest.json">
 
 **Power, community and cultivating self-expression**   
 Jack described union meetings at Betteshanger. ‘A whole maelstrom of factors created the atmosphere’: the Catholic Church, the WEA branch, and there were ‘politics for breakfast, tea and dinner’. Jack became Chair of the WEA Branch for many years. This work focused on ‘understanding power, community, and cultivating the ability to express yourself.’ ‘We never considered ourselves inferior to anyone’. ’We wanted’, he said, ‘union members to be technically educated too’, to be able to negotiate with the bosses from a position of strength. They would attend [Canterbury Technical College](https://kent-maps.online/canterbury/20c-canterbury-education) while 10-14 students would go abroad, every year, say to France to further their political education. There were day  and weekend schools at Ruskin and Baliol Colleges, Oxford. There were links with the miners in Nord Pas de Calais, Sweden, Denmark as well as in every Eastern European country. We can observe in these human, educational and cultural narratives an internationalist educational spirit now largely dissipated in a ‘post-industrial’ world. 
@@ -57,4 +57,3 @@ West, L. (2017) 'Resisting the enormous condescension of posterity: Richard Henr
 <param attribution="Martin Crowther" label="Miners Statue near the roundabout on the A258" url="https://stor.artstor.org/stor/792d1b6f-16d4-47c3-8e1d-8a86b5469678" ve-image=""/>
 
 
-</body></html>

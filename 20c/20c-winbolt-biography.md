@@ -1,4 +1,4 @@
-<html><head></head><body><a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
+<a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 <param author="Michelle Crowther" banner="/images/banners/20c.jpg" layout="vtl" title="S.E. Winbolt (1868-1944)" ve-config=""/>
 
 <param aliases="Folkestone" eid="Q375314" ve-entity=""/>
@@ -14,10 +14,10 @@
 #
 
 'Kent of all the counties of England, is thickest set with historical reminiscences, and he alone, who has tried, will fully realise how hard it is in writing of such a county to compress and select.' _Bell’s Pocket Guide to Kent_ (1930)
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/RomanFolkestone by Winbolt MJC.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/RomanFolkestone by Winbolt MJC.jpg/manifest.json">
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
-<param manifest="https://iiif.juncture-digital.org/wc:Folkestone_Roman_Villa%2C_Wear_Bay_Road_%28geograph_2573346%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Folkestone_Roman_Villa%2C_Wear_Bay_Road_%28geograph_2573346%29.jpg/manifest.json">
 <param center="Q375314" ve-map="" zoom="10"/>
 <param center="Q60108798" ve-map="" zoom="10"/>
 
@@ -26,10 +26,10 @@ During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/roma
 <param center="Q26672887" ve-map="" zoom="10"/>
 
 The town’s businessmen, councillors and guest house owners watched the developments with interest, hoping that Roman remains would draw visitors to the town. The walls of a villa, a hypocaust system, a small furnace, a late Celtic bowl and a coin minted in Lyons were quickly discovered.[^ref3]  
-<param manifest="https://iiif.juncture-digital.org/wc:Mosaic_fragment._%28FindID_69499%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mosaic_fragment._%28FindID_69499%29.jpg/manifest.json">
 
 On Monday 25th August 1924, nearly a thousand people visited the site, each paying three pence to view the excavations.[^ref4]  Was Folkestone about to experience Romanomania?
-<param manifest="https://iiif.juncture-digital.org/wc:Across_the_site_of_the_Roman_villa_-_panoramio.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Across_the_site_of_the_Roman_villa_-_panoramio.jpg/manifest.json">
 <param center="Q375314" ve-map="" zoom="10"/>
 
 Frank Fletcher, President of the Rotary Club, enthusiastically described Winbolt as having 'done Folkestone a signal service in bringing the town before the reading public.'[^ref5]  Reports about the excavations had been widely reported in the British press  - _The Graphic_ gave a whole page to the story, including illustrations - and the townsfolk must have been eager for an influx of visitors.[^ref6]  The [first world war](20c/20c-folkestone-ww1/) had impacted the popularity of the town - the smart set who had filled the hotels had moved on and it now attracted a more middle-class holiday-maker. Kentish seaside towns had to work hard to attract visitors.
@@ -37,10 +37,10 @@ Frank Fletcher, President of the Rotary Club, enthusiastically described Winbolt
 
 Winbolt claimed that the press was 'most diligent - almost too diligent and they had given him no rest' to such an extent that it was interfering with his work.  In reality, he was more receptive to the press than he dissembled, and was keen to keep ‘Felix’ of the _Folkestone Herald_ well supplied with stories and superlatives about the site.[^ref7]  Similarly, the London newspapers were sent material by Winbolt himself. News articles stressed both the need to preserve but also advertise the site, recognising what a boon such a discovery could be to the town.[^ref8]    
 Indeed, Winbolt recognised that keeping the project in the limelight was important to securing the continued investment of the corporation, and was keen to stress that the eight weeks of excavation had given the town 'not less than £2,000 worth of advertisement'.  He said that if money were spent on improving the site, they could charge 6d instead of 3d and the weekly takings of around £40 could be doubled.  He was commercially astute and keen to make the site a ‘paying concern’ so that work could continue.[^ref9]  
-<param manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/Roman Folkestone inside MJC.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/Roman Folkestone inside MJC.jpg/manifest.json">
 
 Winbolt was also keen to curry favour from local archaeologists and spoke of his fondness for the county in a speech to the Kent Archaeological Society in September 1924. He is reported to have said that although he was a Sussex man, 'if he had another choice he would be a Kentish man'[^ref10] (or, as Folkestone people would prefer him to say, a ‘Man of Kent’ - Winbolt clearly hadn’t done his homework!). He also took an interest in archaeological investigations in other parts of Kent, including St Radegund’s Abbey, Dover and described [Richborough](/20c/20c-richborough) as “perhaps the most Roman piece of soil in Great Britain.”[^ref11]
-<param manifest="https://iiif.juncture-digital.org/wc:Farmhouse%2C_St_Radigund%27s_Abbey_Farm_%28geograph_4901835%29.jpg/manifest.json" ve-image-v2/>
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Farmhouse%2C_St_Radigund%27s_Abbey_Farm_%28geograph_4901835%29.jpg/manifest.json">
 <param center="Q23346" ve-map="" zoom="10"/>
 <param center="Q7591573" ve-map="" zoom="10"/>
 <param center="Q179224" ve-map="" zoom="10"/>
@@ -77,4 +77,3 @@ During his lifetime, S.E. Winbolt wrote and edited over 70 publications. His vis
 [^ref16]: _Folkestone, Hythe, Sandgate &amp; Cheriton Herald_ - Saturday 19 July 1930.   
 [^ref17]: _Folkestone, Hythe, Sandgate &amp; Cheriton Herald_ - Saturday 05 May 1934.   
 [^ref18]: _The Times_ - Monday 21 February 1944.
-</body></html>

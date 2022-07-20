@@ -1,5 +1,5 @@
 <template>
-  <div :style="containerStyle">
+  <div ref="viewer" :style="containerStyle">
 
     <ve-image :user="user" :anno-base="path" style="height:100%;">
       <ul>
@@ -42,6 +42,14 @@ module.exports = {
   mounted() {
     // console.log(`${this.$options.name}.mounted`, 'items', this.items, 'viewerItems', this.viewerItems, 'imageData', this.imageData)
     this.loadDependencies(this.dependencies, 0, this.init) 
+  },
+  watch: {
+    viewerIsActive: {
+      handler: function (isActive) { 
+        this.$refs.viewer.style.display = isActive ? 'unset' : 'none' 
+      },
+      immediate: false
+    }
   }
 }
 

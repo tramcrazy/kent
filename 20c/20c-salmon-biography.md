@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param attribution="Canterbury Tail at the English-language Wikipedia" author="Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" layout="vtl" title="Nora Geraldine Gordon Salmon (pseud. J.G. Sarasin) (1897 – 1976)" ve-config=""/>
+<param attribution="Canterbury Tail at the English-language Wikipedia" author="Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/Harbledown_Ben_W_Bell_31_10_2004.jpg" layout="vtl" title="Nora Geraldine Gordon Salmon (pseud. J.G. Sarasin) (1897 – 1976)" ve-config/>
 
-<param aliases="Harbledown" eid="Q5654535" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Catherine Williamson" eid="Q28921788" ve-entity=""/>
+<param aliases="Harbledown" eid="Q5654535" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Catherine Williamson" eid="Q28921788" ve-entity/>
 
 #
 
@@ -11,7 +11,7 @@
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_Nicholas_Church_Harbledown_1.jpg/manifest.json">
 
 At some point, after the death of her father in 1912, Geraldine moved with Minnie to [Canterbury](/canterbury/20c-canterbury-home), where they lived at 1, London Road, a large townhouse opposite St Dunstan’s Church. Minnie named the house Cleadon,  after their former family home Cleadon Park, in South Shields.[^ref1] Minnie’s sister Rachel was also widowed at this time and it is possible that she moved to Kent to live with her sister and niece. We do not know much about Geraldine’s life at this time, although we do know that she joined the Beaney Institute, and regularly borrowed books, fuelling her fertile imagination. In May 1919, she entered _The Bookman_ prize competition for the best original lyric and received a special commendation.[^ref2]  
-<param attribution="Michelle Crowther" label="1, London Road, Canterbury" url="https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393" ve-image=""/>
+<param attribution="Michelle Crowther" label="1, London Road, Canterbury" url="https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393" ve-image/>
 
 During the 1920s, Minnie and Geraldine moved to The Grange, Harbledown; a large house on Church Hill.  It was at this period that Geraldine’s literary career took off. Her first book _Quest of Youth_ was published in 1923, swiftly followed by the _Chronicles of a Cavalier_ (1924) and _The Black Glove_ (1925). _The Black Glove_ was described as 'a thrilling tale of a maid of honour, who through a drunken jest of the Earl of Rochester, is driven to wed a dishonoured man'.[^ref3]  It would seem that Geraldine also lived a thrilling life, zipping along the lanes of Harbledown on her motorcycle, and in 1925 she was fined 7s. 6d.  for failing to tax the vehicle and for not carrying her driver’s licence.[^ref4]
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Church_Hill%2C_Harbledown_%28geograph_3757803%29.jpg/manifest.json">

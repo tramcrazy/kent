@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author=" Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Bertha Porter (1852-1941)" ve-config=""/>
+<param author=" Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Bertha Porter (1852-1941)" ve-config/>
 
-<param aliases="Hythe" eid="Q967166" ve-entity=""/>
+<param aliases="Hythe" eid="Q967166" ve-entity/>
 
 #
 
@@ -12,7 +12,7 @@ Bertha Porter, biographer, and Egyptologist was born in Bloomsbury on April 9th,
 In the 1870s, Bertha’s parents, Frederick and Sarah Porter (nee Moyle), bought a seaside home on Marine Terrace, Hythe. A partly completed hotel which was going cheap, it was remodelled it into a family home, which Frederick named Moyle Tower, in tribute to his wife. Sarah and Frederick quickly became part of the community, hosting annual parties for poor children and providing them with tea and games.[^ref2] Frederick later became mayor of Hythe (1886) and a magistrate for Kent (1888).  
 <br/>
 In December 1877, influenced by her cousin Frances Moberly, Bertha joined the Persistent Scribblers Society, a creative writing group for aspiring writers. Her name features in the subscription list with her father, mother and sister, Ethel,   however she did not contribute any pieces. It is possible that Bertha felt the society was not suited to her aspirations, as she disappears from the subscription list after only one notebook.[^ref3] 
-<param attribution="The Photochrom Co. Ltd" label="The Parade, Hythe with Moyle Tower" url="https://stor.artstor.org/stor/573d7807-f4c0-40b9-ad07-e65b737daf4f" ve-image=""/>
+<param attribution="The Photochrom Co. Ltd" label="The Parade, Hythe with Moyle Tower" url="https://stor.artstor.org/stor/573d7807-f4c0-40b9-ad07-e65b737daf4f" ve-image/>
 
 Developing an interest in psychical research, Bertha became friendly with Edmund Gurney and F.W.H. Myers, and became their 'valued helper'[^ref4]. Edmund Gurney was drawn to psychical research after three of his sisters tragically drowned when their boat capsized on the Nile during their 1875 tour of Egypt.[^ref5]  We do not know if Bertha knew them. In his book _Human Personality and its survival of bodily death_, Myers notes that experiments with the planchette were conducted at Tynwald, Hythe in 1884 by Bertha’s cousin Frances Moberly. There were two other women present, and it is very likely that one of these was Bertha. Frances wrote:
 <br/><br/>
@@ -32,7 +32,7 @@ At the turn of the century, Bertha studied Egyptian hieroglyphics at University 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Karanog_altar.PNG/manifest.json">
 
 With the death of her mother in 1912, Bertha’s connections with Hythe ended. It is likely due to her studies and research that she spent little time in Kent, only visiting at weekends or for holidays. In all the censuses, until 1911, she was living in London, apart from 1891, when her whereabouts is unknown. It is possible that she is the Miss Porter who sailed on P.S. Rameses on the Cook's Nile service. The ship sailed from Cairo on January 21st 1890, travelling to Luxor and Assouan.[^ref19] During the first world war Bertha undertook war work, although the nature of this is not known. She later moved to Oxford where she took lodgings in the Banbury Road. She died on the 17th January, 1941 at 11, Crick Road. She was described as 'musical, widely read, a good raconteur, and full of imagination, courage and cheerfulness, even when at last her sight failed her and reading became impossible.'[^ref20] 
-<param attribution="Kent Maps Online Postcard Collection" label="Marine Parade, Hythe with Moyle Tower c.1914" url="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" ve-image=""/>
+<param attribution="Kent Maps Online Postcard Collection" label="Marine Parade, Hythe with Moyle Tower c.1914" url="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" ve-image/>
 
 
 ### References

@@ -1,13 +1,13 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Dr Ruth Heholt" banner="/images/banners/19c.jpg" layout="vtl" title="Catherine Ann Crowe (née Stevens) (1790-1872)" ve-config=""/>
+<param author="Dr Ruth Heholt" banner="/images/banners/19c.jpg" layout="vtl" title="Catherine Ann Crowe (née Stevens) (1790-1872)" ve-config/>
 
-<param aliases="Ivy Hatch" eid="Q550991332" ve-entity=""/>
-<param aliases="Borough Green" eid="Q2001391" ve-entity=""/>
-<param aliases="Sandwich" eid="Q26163" ve-entity=""/>
-<param aliases="Romney Marsh" eid="Q1506093" ve-entity=""/>
-<param aliases="Wrotham" eid="Q2740296" ve-entity=""/>
-<param aliases="Sandwich" eid="Q26163" ve-entity=""/>
-<param aliases="Deal" eid="Q1011096" ve-entity=""/>
+<param aliases="Ivy Hatch" eid="Q550991332" ve-entity/>
+<param aliases="Borough Green" eid="Q2001391" ve-entity/>
+<param aliases="Sandwich" eid="Q26163" ve-entity/>
+<param aliases="Romney Marsh" eid="Q1506093" ve-entity/>
+<param aliases="Wrotham" eid="Q2740296" ve-entity/>
+<param aliases="Sandwich" eid="Q26163" ve-entity/>
+<param aliases="Deal" eid="Q1011096" ve-entity/>
 
 #
 
@@ -20,7 +20,7 @@ Best known for her 1848 collection of ‘real’ ghost stories [_The Night Side 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg/manifest.json">
 
 Crowe lived and was educated in Kent in Borough Green during her early life and did not leave until she married at age 32 in 1822. In her declining years, after many adventures in Edinburgh, London and abroad, Crowe joined her son Willy and his family at [Folkestone](/19c/19c-folkestone) and passed away peacefully there. 
-<param center="Q2001391" ve-map="" zoom="10"/>
+<param center="Q2001391" ve-map zoom="10"/>
 
 Crowe’s unofficial biographer Geoffrey Larken traced the connections between Crowe and Kent. He says, ‘It is a well-known fact in the history of smuggling that freetraders flourished there and were especially active during the late 18th and early 19th centuries. Illicit cargoes landed on the Kentish coast off Sandwich, Deal and the sands of Romney Marsh were run inland and concealed in hides or depts., which formed a ring around Ivy Hatch and Borough Green. Wrotham was in fact the last halt on the passage to London, and the area comprising Gallows Hill, Wrotham Heath and the Hurst Woods afforded excellent coverage for hides’ 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Smugglers_by_John_Atkinson.jpg/manifest.json">
@@ -29,7 +29,7 @@ Crowe’s father was a wine merchant and ran a coffee house in London where his 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Byron_1813_by_Phillips.jpg/manifest.json">
 
 Lucy Sussex says, ‘The child Catherine was reared in rural, coastal Kent, which could have been for reasons of her health.’ However, she continues perhaps ‘John Stevens had an ulterior motive. His stock in trade was luxuries, the port and champagnes whose import was risky, given the ongoing wars between England and first Revolutionary, then Napoleonic France. If he needed reasons to visit an area well known for smuggling, or “Kentish freetrading”, then a daughter was a useful cover’. 
-<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg/manifest.json">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_description_of_Romney_Marsh_RMG_K1030-001.jpg/manifest.json">
 
 We will of course never really know. However, the bleak and rugged Kentish countryside is prominent in Crowe’s novels. Larken states that ‘‘Incidents, locations and events from the formative years spent at Ivy Hatch and Borough Green are often reflected in Mrs. Crowe’s novels’. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ivy_Hatch_-_geograph.org.uk_-_2207279.jpg/manifest.json">

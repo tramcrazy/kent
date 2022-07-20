@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Alyson Hunt" banner="/images/banners/19c.jpg" layout="vtl" title="Queen Victoria and West Cliff House" ve-config=""/>
+<param author="Alyson Hunt" banner="/images/banners/19c.jpg" layout="vtl" title="Queen Victoria and West Cliff House" ve-config/>
 
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
 
 #
 

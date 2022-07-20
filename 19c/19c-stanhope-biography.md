@@ -1,13 +1,13 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Diana Hirst" banner="/images/banners/19c.jpg" layout="vertical" title="Lady Hester Stanhope (1776-1839)" ve-config=""/>
+<param author="Diana Hirst" banner="/images/banners/19c.jpg" layout="vertical" title="Lady Hester Stanhope (1776-1839)" ve-config/>
        
-<param eid="Q939838" title="Sevenoaks" ve-entity=""/>
-<param eid="Q2297876" title="Chevening" ve-entity=""/>
-<param eid="Q2551894" title="Walmer" ve-entity=""/>
-<param eid="Q2543161" title="Walmer Castle" ve-entity=""/>
-<param eid="Q179224" title="Dover" ve-entity=""/>
-<param eid="Q950970" title="Dover Castle" ve-entity=""/>
+<param eid="Q939838" title="Sevenoaks" ve-entity/>
+<param eid="Q2297876" title="Chevening" ve-entity/>
+<param eid="Q2551894" title="Walmer" ve-entity/>
+<param eid="Q2543161" title="Walmer Castle" ve-entity/>
+<param eid="Q179224" title="Dover" ve-entity/>
+<param eid="Q950970" title="Dover Castle" ve-entity/>
 
 
 Lady Hester Stanhope is probably best known today as ‘Queen of the Desert’ or ‘Queen of the East’ from her near-legendary life travelling in the Ottoman Empire before settling in present-day Lebanon, but much of her early life was spent in Kent.

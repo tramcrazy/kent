@@ -1,16 +1,16 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Miss Balmaine's Past by Bithia Croker" ve-config=""/>
+<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Miss Balmaine's Past by Bithia Croker" ve-config/>
 
-<param aliases="New Romney" eid="Q181071" ve-entity=""/>
-<param aliases="Romney Marsh" eid="Q1506093" ve-entity=""/>
+<param aliases="New Romney" eid="Q181071" ve-entity/>
+<param aliases="Romney Marsh" eid="Q1506093" ve-entity/>
 
 #
 
 “Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)
-<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg/manifest.json">
+<param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_description_of_Romney_Marsh_RMG_K1030-001.jpg/manifest.json">
 
 ‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to [Sandgate](/placesqz/sandgate-overview) with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
-<param attribution="Martin Crowther" label="Blue Plaque, 10 Radnor Cliff" url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" ve-image=""/>
+<param attribution="Martin Crowther" label="Blue Plaque, 10 Radnor Cliff" url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" ve-image/>
 
 The novel paints a dismal portrait of Horton, where there was “no shopping, no lending library – not even a clothing club.” (p.8); very different from the present-day New Romney which has a supermarket, library and charity shops. The countryside and the marshes around the town, however, provide a wild and romantic location for Rosamund Balmaine, who runs “with hasty, elastic steps over the green turf across “the Marshes.” To meet, of course, a young man.” 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Shops%2C_New_Romney_-_geograph.org.uk_-_1332933.jpg/manifest.json">
@@ -44,7 +44,7 @@ Mrs Croker described New Romney and the Marshes as timeless and tedious, but als
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wild_rose_-_geograph.org.uk_-_459566.jpg/manifest.json">
 
 Bithia Croker continued to write until she died in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in Sandgate.[^ref2] Other noted Sandgate writers at this period include [Florence Warden](/19c/19c-florence-warden-biography) and [H.G.Wells](/20c/20c-wellshg-biography/).
-<param attribution="Martin Crowther" label="10 Radnor Cliff, Sandgate" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image=""/>
+<param attribution="Martin Crowther" label="10 Radnor Cliff, Sandgate" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image/>
 
 ### Bibliography
 

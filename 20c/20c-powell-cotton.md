@@ -1,4 +1,4 @@
-<param author="Jan Dunn" banner="/images/kent-map-header.jpg" layout="vtl" title="Kent Digital Map" ve-config=""/>
+<param author="Jan Dunn" banner="/images/kent-map-header.jpg" layout="vtl" title="Kent Digital Map" ve-config/>
 
 <param eid="Q865021" ve-entity="Birchington"/>
 
@@ -7,11 +7,11 @@
 **Place:**  Quex Park, Birchington, Kent
 
 **Event:** Two intrepid women from Quex Park, Kent travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. Arguably the first British women documentary filmmakers. 
-<param center="Q865021" ve-map="" zoom="8"/>
+<param center="Q865021" ve-map zoom="8"/>
 
 On a rainy day in February 1936 Diana Powell-Cotton was 28 years old and her sister Tony only 20 when they left their home [Quex House](https://www.historichouses.org/houses/house-listing/quex-house.html), Birchington to embark upon a trip to the interior of Africa. They had prepared by learning to drive and to speak Portuguese. On arrival in Angola, West Africa they would be picking up their two and a half ton truck Jemima, onto which would be loaded their significant and heavy filming equipment. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/Tony Archaeologist.jpg/manifest.json">
-<param center="Q865021" ve-map="" zoom="8"/>
+<param center="Q865021" ve-map zoom="8"/>
 
 Diana with her fine art degree, would utilise this skill in writing detailed field notes. Tony had been volunteering at the Pitt Rivers Museum in Oxford and both developed an interest in anthropology from an early age, with a further growing interest in ethnography. Their role as women filmmakers was not that extraordinary but as documentary filmmakers it was.  Women have been at the centre of the film industry since its inception (more women worked in film during its first two decades than at any time since) but early pioneer women filmmakers have largely been written out of history with their contributions undervalued and early women filmmakers misrepresented by a ‘scarcity myth’.[^ref1] From the early days of film, women had been turning the camera onto issues and subjects relevant to them. They have a different gaze. When it came to the documentary work of the Powell-Cotton sisters, they had not only to contend with filming in hot and inhospitable locations but there was work to be done in setting up camp, fires to prepare, pots to wash. They were involved in every aspect of daily life of location filming. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/1936 R2-12 Our truck Tony and Joao.jpg/manifest.json">

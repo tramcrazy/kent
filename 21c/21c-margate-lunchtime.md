@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Maggie Harris" banner="images/eliot5.JPG" layout="vtl" title="In Margate by Lunchtime" ve-config=""/> 
+<param author="Maggie Harris" banner="images/eliot5.JPG" layout="vtl" title="In Margate by Lunchtime" ve-config/> 
 
 **The Mermaid Tour**   
 from [_In Margate by Lunchtime_](https://maggieharris.co.uk/books/in-margate-by-lunchtime/)   

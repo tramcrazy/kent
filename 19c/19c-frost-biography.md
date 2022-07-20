@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Thomas Frost (1821-1908)" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Thomas Frost (1821-1908)" ve-config/>
 
-<param aliases="Tunbridge Wells" eid="Q665489" ve-entity=""/>
-<param aliases="Romney Marsh" eid="Q1506093" ve-entity=""/>
-<param aliases="Beckenham" eid="Q123372" ve-entity=""/>
+<param aliases="Tunbridge Wells" eid="Q665489" ve-entity/>
+<param aliases="Romney Marsh" eid="Q1506093" ve-entity/>
+<param aliases="Beckenham" eid="Q123372" ve-entity/>
 
 #
 
@@ -13,7 +13,7 @@ The chartist and journalist Thomas Frost was born in Croydon on 16 December 1821
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Faversham_Creek_-_geograph.org.uk_-_2251391.jpg/manifest.json">
 
 The essentially bohemian tendencies of the family are captured perfectly in Frost’s recollection that one night a cousin of his went missing, and at the end of six months had been given up for lost. While spending a few days at [Gravesend](/19c/19c-gravesend) a precocious young Frost  decided on a visit to Northfleet. He walked round the churchyard, saw the chalk-pit (later the site of the [Rosherville Gardens](/19c/19c-gravesend) – and ‘As the day was warm, the chalk-dust of the roads in that part of Kent is provocative of thirst’ and the sign of the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) swinging before a low-roofed, old-fashioned village inn, was suggestive of a cool mug of ale’,  he went in. On the way out he was amazed to encounter the missing man, who was working there as an ostler. The two went back in for another drink, and the cousin implored Frost not to say anything to his family – while he duly resurfaced a month later, it is not clear how he explained matters to his wife.
-<param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image=""/>
+<param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image/>
 
 Following an unsuccessful venture into newspaper editing in 1843, Frost himself became ‘a relatively isolated, geographically and socially mobile individual, who managed to scratch a precarious living from writing.’  His love of the Kent coast and its woodland comes across in much of his writing, and forms a setting for the now lost novel _Edith Gray_. He had married in 1841 and probably for the next decade he spent a week in the county every summer.  On the death of his wife Lucy in 1851 after only ten years of marriage, he was left with a 6 year old son and soon remarried. While he went on to have two daughters with his second wife Julia, by 1867 he was living with Elizabeth (at 22 or 23 she was roughly half his age), with whom he had at least two further sons.  
 <br/><br/>

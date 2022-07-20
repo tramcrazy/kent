@@ -1,28 +1,28 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
 <param author="Michelle Crowther" banner="https://stor.artstor.org/stor/2251af4a-a56d-45f0-b9b1-361ba46aaf4d" layout="vertical" title="Mary Ann/ Marian Evans 
-              [pseud. George Eliot] (1819 –1880)" ve-config=""/>
+              [pseud. George Eliot] (1819 –1880)" ve-config/>
        
-<param eid="Q736439" title="Ramsgate" ve-entity=""/>
-<param eid="Q922739" title="Broadstairs" ve-entity=""/>
-<param eid="Q179224" title="Dover" ve-entity=""/>
+<param eid="Q736439" title="Ramsgate" ve-entity/>
+<param eid="Q922739" title="Broadstairs" ve-entity/>
+<param eid="Q179224" title="Dover" ve-entity/>
 
 #
 
 “I warn you against Ramsgate which is a strip of London come out for an airing. Broadstairs is perfect, and I have the snuggest little lodgings conceivable with a motherly good woman and a nice little damsel of 14 to wait on me.”[^ref1]
-<param label="Broadstairs" url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" ve-image=""/>
+<param label="Broadstairs" url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" ve-image/>
 
 Marian Evans, later known as the novelist, George Eliot, visited [Broadstairs](/dickens/broadstairs-19th-century) in the summer of 1852. She had moved to London two years earlier, with the intention of becoming a writer and had gained work as assistant editor of the _Westminster Review_, but the work depressed her, and by July 1852 she was “sadly in want of the change.”[^ref2] She wrote to her friend Sara Hennell that she felt “bothered to death with article-reading and scrap work of all sorts: it is clear my poor head will never produce anything under these circumstances; but I am patient.”[^ref3] She was also suffering from unrequited love, having recently been spurned by philosopher and biologist Herbert Spencer whom she had met through her friend, the publisher John Chapman.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:George_Eliot_%281865%29_by_Frederick_William_Burton.jpg/manifest.json">
 
 According to Hughes it was unusual for a single woman to holiday alone and so the Chapmans, with whom Evans lodged in London, escorted her to the coast, thus giving an air of respectability about her stay.[^ref4] She found lodgings at Chandos Cottage, near the seafront with <span data-mouseover-image-zoomto="327,743,1764,1293">Melinda Edger</span> (‘My nice, kind, blue-eyed landlady’) and her maid Eliza Bishop.[^ref5]
-<param attribution="By kind permission of Broadstairs Dickens Museum" label="Broadstairs Rate Book, 1843" url="https://stor.artstor.org/stor/f918a212-aeef-4252-8a4a-6b076588f70d" ve-image=""/>
+<param attribution="By kind permission of Broadstairs Dickens Museum" label="Broadstairs Rate Book, 1843" url="https://stor.artstor.org/stor/f918a212-aeef-4252-8a4a-6b076588f70d" ve-image/>
 
 There were two rooms in <span data-mouseover-image-zoomto="1669,1569,928,597">Chandos Cottage</span> which Evans describes as “a sitting-room about eight feet by nine and a bedroom a little larger yet in that small space there is almost every comfort”.[^ref6] Evans wrote to her friend Cara Bray: “I pay a guinea a week for my rooms, so I shall not ruin myself by staying a month unless I commit excesses in coffee and sugar.”[^ref7] Coffee and sugar were not excessively expensive at this time, unlike tea which was three times the price of coffee, but reveal the additional charges that were imposed by landladies on seaside lodgings.[^ref8]   She also mentions eating mutton chops.[^ref9] Evans continues “I am thinking whether it would not be wise to retire from the world and live here for the rest of my days. With some fresh paper on the walls and an easy chair I think I could resign myself.”[^ref10] Clearly, Chandos Cottage was a little shabby.  
-<param attribution="by kind permission of Broadstairs Dickens Museum" label="Map of Broadstairs, 1824 showing Chandos Place" url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" ve-image=""/>
+<param attribution="by kind permission of Broadstairs Dickens Museum" label="Map of Broadstairs, 1824 showing Chandos Place" url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" ve-image/>
 
 [Broadstairs](/dickens/broadstairs-19th-century) was at this time a fashionable sea-bathing resort “frequented by many families of distinction, particularly for those who prefer retirement to the noise and crowds of [Margate](/19c/19c-margate) and [Ramsgate](/19c/19c-ramsgate)”[^ref11]. The [Ramsgate](/19c/19c-ramsgate) steamer _The Duchess of Kent_ had sunk on the 1st July after a collision with another boat in the Thames, so the perils of sea travel would have been much discussed among the visitors at Broadstairs and it is possible that Evans took the train to [Ramsgate](/19c/19c-ramsgate) from London Bridge and then completed the journey to [Broadstairs](/dickens/broadstairs-19th-century) by road. There were baths, libraries, news rooms and assembly rooms at [Broadstairs](/dickens/broadstairs-19th-century) with Chandos Cottage conveniently located near the Royal Kent Library. Eliot remarked: “One sees no novels less than a year old at the sea-side, so I am unacquainted with the 'Blithedale Romance,' except through the reviews, which have whetted my curiosity more than usual.”[^ref12] Nathaniel Hawthorne’s book which had been published in late June and said to be available “at all Libraries in town or country” had not made it to Broadstairs.[^ref13]
-<param label="Broadstairs" url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" ve-image=""/>
+<param label="Broadstairs" url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" ve-image/>
 
 Shortly after her arrival, Evans, still in love with Herbert Spencer, invited him to visit her, writing: “No credit to me for my virtues as a refrigerant. I owe them all to a few lumps of ice which I carried away from me from that tremendous glacier of yours.”[^ref14]  Spencer came down to stay at a nearby hotel, and they shared walks along the seashore, but he made it clear that he did not feel the same way.  In his autobiography he described her as “the most admirable woman, mentally, I ever met”[^ref15]  but as he found her decidedly manly, there was a lack of physical attraction. In a letter to Spencer, Evans, aware of her own failure to attract him, made analogies between herself and the evolutionary biology he favoured: “I fancy I should soon be on equality, in point of sensibility, with the star-fish and sea-egg.”[^ref16]  He described her as someone for whom “calmness was an habitual trait” and perhaps he failed to appreciate her disappointment.  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Spencer_Herbert_Age_38.jpg/manifest.json">
@@ -37,7 +37,7 @@ By the middle of August, Evans was considering a return to London. She wrote: �
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:2019-07-22_Coccinellidae_1.jpg/manifest.json">
 
 Evans spent a further six weeks in Kent on her return from a trip to Weimar and Berlin in 1855. She had been visiting Germany with George Henry Lewes, who was researching Goethe. Lewes was already married, but in an open relationship with his wife, and so the couple began to live together, however on their return to England “the practical implications of their liaison”[^ref26] became apparent. Evans stayed at the Lord Warden Hotel [Dover](/19c/19c-dover) for six weeks whilst Lewes made arrangements in London.  She spent the time writing _Recollections of Berlin_ and translating Spinoza. 
-<param label="Snargate Street, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
+<param label="Snargate Street, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
 
 ### References
 

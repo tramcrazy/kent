@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
 
-<param author="Dr Sophie Baldock" banner="/images/banners/19c.jpg" layout="vtl" title="John Keats (1795-1821)" ve-config=""/>
+<param author="Dr Sophie Baldock" banner="/images/banners/19c.jpg" layout="vtl" title="John Keats (1795-1821)" ve-config/>
 
 #
 
@@ -27,4 +27,4 @@ Barker, Nigel, et al. _Margate’s Seaside Heritage_. English Heritage, 2007. ht
 Keats, John. _John Keats: The Complete Poems_. Edited by John Barnard. London: Penguin Classics, 1977.   
 Keats, John. [_Letters of John Keats to His Family and Friends_](http://www.gutenberg.org/ebooks/35698). Edited by Sidney Colvin. Project Gutenberg, 1925.   
 Motion, Andrew. _Keats_. London: Faber, 1997.
-<param attribution="Charles Brown (1787-1842), Public domain, via Wikimedia Commons" image="" label="Portrait of John Keats, August 1819" url="https://upload.wikimedia.org/wikipedia/commons/6/61/Keats19.jpg" ve=""/>
+<param attribution="Charles Brown (1787-1842), Public domain, via Wikimedia Commons" image label="Portrait of John Keats, August 1819" url="https://upload.wikimedia.org/wikipedia/commons/6/61/Keats19.jpg" ve/>

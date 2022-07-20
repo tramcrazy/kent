@@ -1,23 +1,23 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Dr Dominique Gracia and Hannah Jennison" banner="/images/banners/17c.jpg" layout="vtl" title="Robert Plot (1640 – 1696)" ve-config=""/> 
+<param author="Dr Dominique Gracia and Hannah Jennison" banner="/images/banners/17c.jpg" layout="vtl" title="Robert Plot (1640 – 1696)" ve-config/> 
 
-<param aliases="Wye" eid="Q590063" ve-entity=""/>
-<param aliases="Borden" eid="Q2437595" ve-entity=""/>
-<param aliases="Hertford College" eid="Q81090" ve-entity=""/>
-<param aliases="Magdalen Hall" eid="Q10323023" ve-entity=""/>
-<param aliases="Robert Plot" eid="Q889609" ve-entity=""/>
-<param aliases="University of Oxford" eid="Q34433" ve-entity=""/>
-<param aliases="John Fell" eid="Q6232906" ve-entity=""/>
-<param aliases="Bishop of Oxford" eid="Q1837303" ve-entity=""/>
-<param aliases="Megalosaurus" eid="Q131056" ve-entity=""/>
-<param aliases="William Camden" eid="Q364239" ve-entity=""/>
-<param aliases="Royal Society of London" eid="Q123885" ve-entity=""/>
-<param aliases="Ashmolean Museum" eid="Q636400" ve-entity=""/>
-<param "sutton="" ,="" aliases="Sutton Barne" and="" baron="" baron"="" eid="Q26322356" hall="" sutton="" ve-entity=""/> 
-<param aliases="Duke of Norfolk" eid="Q3784946" ve-entity=""/>
-<param aliases="Historiographer Royal" eid="Q5774502" ve-entity=""/>
-<param aliases="Thomas Shadwell" eid="Q1230771" ve-entity=""/>
+<param aliases="Wye" eid="Q590063" ve-entity/>
+<param aliases="Borden" eid="Q2437595" ve-entity/>
+<param aliases="Hertford College" eid="Q81090" ve-entity/>
+<param aliases="Magdalen Hall" eid="Q10323023" ve-entity/>
+<param aliases="Robert Plot" eid="Q889609" ve-entity/>
+<param aliases="University of Oxford" eid="Q34433" ve-entity/>
+<param aliases="John Fell" eid="Q6232906" ve-entity/>
+<param aliases="Bishop of Oxford" eid="Q1837303" ve-entity/>
+<param aliases="Megalosaurus" eid="Q131056" ve-entity/>
+<param aliases="William Camden" eid="Q364239" ve-entity/>
+<param aliases="Royal Society of London" eid="Q123885" ve-entity/>
+<param aliases="Ashmolean Museum" eid="Q636400" ve-entity/>
+<param "sutton , aliases="Sutton Barne" and baron baron" eid="Q26322356" hall sutton ve-entity/> 
+<param aliases="Duke of Norfolk" eid="Q3784946" ve-entity/>
+<param aliases="Historiographer Royal" eid="Q5774502" ve-entity/>
+<param aliases="Thomas Shadwell" eid="Q1230771" ve-entity/>
 
 Born in 1640 in Borden, Kent to Robert and Rebecca, née  Patenden, Robert Plot was educated at Wye Free School and Magdalen Hall, University of Oxford, now Hertford College. Although he spent much of his career in Oxford, as a student, then an academic, Plot retired to Kent in 1690, where he lived with his wife and sons until his death in 1696.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Portrait_of_Robert_Plot_D_D_by_Sylvester_Harding.jpg/manifest.json"> 
@@ -34,14 +34,14 @@ Plot was an early member of the Royal Society of London, the UK's national acade
 
 **Retirement in Kent**   
 Plot retired in 1690 to live in his family property Sutton Barne in Borden, marrying Rebecca Burman, a widow, with whom he had two sons, Robert and Ralph. His stepson, John Burman, would edit the second edition of Plot’s _Oxfordshire_.
-<param center="Q26322356" ve-map="" zoom="14"/>
+<param center="Q26322356" ve-map zoom="14"/>
 
 When Plot returned to Kent after retirement, he extended the family property, as well as enclosing the front court and laying out a new kitchen garden. Plot’s home is now divided into two cottages, Sutton Baron Hall and Sutton Baron. They are an example of the Wealden hall house type, which is a distinctive type of medieval timber-framed halls most commonly seen in Kent and surrounding areas.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Bayleaf_dismantling.gif/manifest.json">
 
 Plot died in 1696 from kidney stones and is buried in Borden Churchyard. When he died, he was in the process of completing a study of Kent and Middlesex, begun in his retirement. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Church_of_St_Peter_and_St_Paul%2C_Borden_-_geograph.org.uk_-_655985.jpg/manifest.json">
-<param center="Q2437595" ve-map="" zoom="14"/>
+<param center="Q2437595" ve-map zoom="14"/>
 
 ## Bibliography
 

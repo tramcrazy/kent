@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Simone Blandford" banner="/images/banners/19c.jpg" layout="vtl" title="Mary Wollstonecraft Shelley (1797-1851)" ve-config=""/>
+<param author="Simone Blandford" banner="/images/banners/19c.jpg" layout="vtl" title="Mary Wollstonecraft Shelley (1797-1851)" ve-config/>
 
-<param aliases="Hythe" eid="Q967166" ve-entity=""/>
-<param aliases="Folkestone" eid="Q375314" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
+<param aliases="Hythe" eid="Q967166" ve-entity/>
+<param aliases="Folkestone" eid="Q375314" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
 
 #
 

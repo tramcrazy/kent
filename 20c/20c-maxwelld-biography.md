@@ -1,15 +1,15 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Professor Peter Vujakovic" banner="https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg" layout="vtl" title="Donald Maxwell (1877-1936)" ve-config=""/>
+<param author="Professor Peter Vujakovic" banner="https://upload.wikimedia.org/wikipedia/commons/e/e1/Firle_Beacon_2.jpg" layout="vtl" title="Donald Maxwell (1877-1936)" ve-config/>
 
-<param aliases="Borstal" eid="Q4946691" ve-entity=""/>
-<param aliases="Rochester" eid="Q507517" ve-entity=""/>
-<param aliases="Milton Creek" eid="Q107314188" ve-entity=""/>
-<param aliases="Sittingbourne" eid="Q1626044" ve-entity=""/>
-<param aliases="Faversham" eid="Q1000115" ve-entity=""/>
-<param aliases="Cooling" eid="Q2649453" ve-entity=""/>
-<param aliases="Upnor" eid="Q7898393" ve-entity=""/>
-<param aliases="Medway" eid="Q7898393" ve-entity=""/>
-<param aliases="Weald" eid="Q2298322" ve-entity=""/>
+<param aliases="Borstal" eid="Q4946691" ve-entity/>
+<param aliases="Rochester" eid="Q507517" ve-entity/>
+<param aliases="Milton Creek" eid="Q107314188" ve-entity/>
+<param aliases="Sittingbourne" eid="Q1626044" ve-entity/>
+<param aliases="Faversham" eid="Q1000115" ve-entity/>
+<param aliases="Cooling" eid="Q2649453" ve-entity/>
+<param aliases="Upnor" eid="Q7898393" ve-entity/>
+<param aliases="Medway" eid="Q7898393" ve-entity/>
+<param aliases="Weald" eid="Q2298322" ve-entity/>
 
 #
 
@@ -17,10 +17,10 @@ Enlisted in Royal Naval Volunteer Reserve and posted to North Sea Patrol at Shee
 <br/><br/>
 'It chanced that my train ran a little beyond the platform in the direction of Faversham. The time was evening. Strange lights and shadows glancing across the vapour-laden brickfields gave a curious Eastern glamour to the landscape. Suddenly a shaft of gold lit up the distance, and in a moment of time I beheld a city, four-square, with ramparts, gates, and towers. Its architecture was Babylonian or Assyrian. It stood by the waters of Milton Creek, and, because of the familiar sailing barges at its quays, I could see that it was no mirage. Then the sunlight failed. The city vanished, and the train steamed back into the station.'
 Maxwell’s description of the giant paper pulp stacks at Sittingbourne Papermill. _Unknown Kent_, 1921.
-<param attribution="c.1909" label="Lloyd's Paper Mill, Sittingbourne" url="https://stor.artstor.org/stor/ff02b007-70c7-432e-88d7-04fa94cfefde" ve-image=""/>
+<param attribution="c.1909" label="Lloyd's Paper Mill, Sittingbourne" url="https://stor.artstor.org/stor/ff02b007-70c7-432e-88d7-04fa94cfefde" ve-image/>
 
 Paul Tritton claims that Maxwell ‘did more than any other to inspire his and subsequent generations to explore the [Kentish landscape](/landscape), and view familiar places in a new light.’ His praise is fully justified, but Maxwell is now far less well-known than he deserves, and his vision of landscape is yet to be fully appreciated. Tritton noted that Maxwell saw form and beauty in the ‘commonplace’ and what others would regard as ‘eyesores’. Sadly, most people will still regard as carbuncles the quarries, industries and sites of dereliction that Maxwell eulogised and lovingly illustrated alongside the quaint and the picturesque.
-<param label="Unknown Kent, 1921" url="https://stor.artstor.org/stor/ced608e6-1e5f-48a9-b58c-0f2eda22bead" ve-image=""/>                                                           
+<param label="Unknown Kent, 1921" url="https://stor.artstor.org/stor/ced608e6-1e5f-48a9-b58c-0f2eda22bead" ve-image/>                                                           
 
 Maxwell used his writing and illustration to infuse the industrial and everyday with a sense of the exotic or the magical. His experience of the Middle East provided him with the ability to see Babylonian structures in pyramids of paper pulp. One whole chapter of _Unknown Kent_ is devoted to ‘The Land of Cement’ a landscape that many will regard as scarred, to be filled today, at best, with a shopping complex, or become overgrown. Maxwell gloried in the sights and sounds of the cement kilns, especially see at night with ‘Dantesque effects of lurid light when the stokers throw open the furnace doors and chequered light appears on the drifting smoke.’ - there are echoes of earlier artists work, of de Loutherbourg’s _Coalbrookdale by Night_ (1801) and Joseph Wright of Derby’s _An Iron Forge_ (1772), in his illustrations. Other ‘eyesores’ were glorified and not just the redundant with their glamour of rust and ruin, but the ‘new’, although Maxwell admits ‘the only people who are likely to see beauty in gasometers and sublimity in chimneys are those very people who are building the new world’; again echoing the union of arts and science during the British Enlightenment.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Maxwell%2C_Donald_-_Babylon_-_Google_Art_Project.jpg/manifest.json">                                                                                               

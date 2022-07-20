@@ -1,18 +1,18 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Amy Green" banner="https://upload.wikimedia.org/wikipedia/commons/2/22/BBMF_spits_and_hurricane.JPG" layout="vtl" title="Battle of Britain Memorial" ve-config=""/>
+<param author="Amy Green" banner="https://upload.wikimedia.org/wikipedia/commons/2/22/BBMF_spits_and_hurricane.JPG" layout="vtl" title="Battle of Britain Memorial" ve-config/>
 
-<param aliases="Capel-le-Ferne" eid="Q1006783" ve-entity=""/>
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
-<param aliases="Folkestone" eid="Q375314" ve-entity=""/>
-<param aliases="Hougham" eid="Q4690189" ve-entity=""/>
-<param aliases="Battle of Britain Memorial" eid="Q811006" ve-entity=""/>
+<param aliases="Capel-le-Ferne" eid="Q1006783" ve-entity/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
+<param aliases="Folkestone" eid="Q375314" ve-entity/>
+<param aliases="Hougham" eid="Q4690189" ve-entity/>
+<param aliases="Battle of Britain Memorial" eid="Q811006" ve-entity/>
 
 #
 
 The Battle of Britain Memorial is situated on top of the White Cliffs at Capel-le-Ferne, near Folkestone. Dedicated to [Churchill’s](/20c/20c-churchill-chartwell) Few, it occupies a special place in the hearts and minds of those who have visited the site. It commemorates the Battle of Britain which took place in the skies above London and the South East between 10 July – 31 October 1940.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Battle_of_Britain_Memorial.jpg/manifest.json">
-<param center="Q811006" ve-map="" zoom="15"/>
+<param center="Q811006" ve-map zoom="15"/>
 
 The area around Capel-le-Ferne was of strategic significance during both world wars. RNAS (Royal Naval Air Station) Capel, which later became RAF Folkestone, was a First World War airship station operational from April 1915 until 1919. It had had three airship sheds and a large grass landing area.  Being close to Dover, it was an ideal location for patrolling the Channel. The airships spotted enemy u-boats and escorted shipping across the channel. During the Second World War, two 8-inch-high performance guns were positioned on top of the cliffs - one at Capel-le-Ferne and the other at Hougham. These provided anti-shipping defensive fire in the Channel and were successful in engaging enemy shipping targets at a maximum range of 17 miles.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Observation_post.jpg/manifest.json">

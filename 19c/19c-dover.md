@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Dover in the 19th century" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Dover in the 19th century" ve-config/>
 
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
 
 #
 

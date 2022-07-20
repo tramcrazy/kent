@@ -1,17 +1,17 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 
-<param author="Michelle Crowther" banner="/images/banners/17c.jpg" layout="vtl" title="John Wallis (1616-1703)" ve-config=""/> 
+<param author="Michelle Crowther" banner="/images/banners/17c.jpg" layout="vtl" title="John Wallis (1616-1703)" ve-config/> 
 
-<param aliases="Ashford" eid="Q725261" ve-entity=""/>
-<param aliases="Godmersham" eid="Q632173" ve-entity=""/>
-<param aliases="Tenterden" eid="Q614560" ve-entity=""/>
-<param aliases="Hythe" eid="Q967166" ve-entity=""/>
-<param aliases="Rolvenden" eid="Q2313624" ve-entity=""/>
-<param aliases="Ruckinge" eid="Q4406028" ve-entity=""/>
-<param aliases="Aldington" eid="Q921173" ve-entity=""/>
-<param aliases="Lydd" eid="Q1639689" ve-entity=""/>
-<param aliases="Saltwood" eid="Q2621103" ve-entity=""/>
-<param aliases="Egerton" eid="Q951928" ve-entity=""/>
+<param aliases="Ashford" eid="Q725261" ve-entity/>
+<param aliases="Godmersham" eid="Q632173" ve-entity/>
+<param aliases="Tenterden" eid="Q614560" ve-entity/>
+<param aliases="Hythe" eid="Q967166" ve-entity/>
+<param aliases="Rolvenden" eid="Q2313624" ve-entity/>
+<param aliases="Ruckinge" eid="Q4406028" ve-entity/>
+<param aliases="Aldington" eid="Q921173" ve-entity/>
+<param aliases="Lydd" eid="Q1639689" ve-entity/>
+<param aliases="Saltwood" eid="Q2621103" ve-entity/>
+<param aliases="Egerton" eid="Q951928" ve-entity/>
 
 
 

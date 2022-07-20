@@ -1,11 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Seaside resorts" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Seaside resorts" ve-config/>
 
-<param aliases="Gravesend" eid="Q676689" ve-entity=""/>
-<param aliases="Sheppey" eid="Q1500299" ve-entity=""/>
-<param aliases="Tunbridge Wells" eid="Q665489" ve-entity=""/>
-<param aliases="Whitstable" eid="Q964785" ve-entity=""/>
-<param aliases="Herne Bay" eid="Q929286" ve-entity=""/>
+<param aliases="Gravesend" eid="Q676689" ve-entity/>
+<param aliases="Sheppey" eid="Q1500299" ve-entity/>
+<param aliases="Tunbridge Wells" eid="Q665489" ve-entity/>
+<param aliases="Whitstable" eid="Q964785" ve-entity/>
+<param aliases="Herne Bay" eid="Q929286" ve-entity/>
 
 #
 

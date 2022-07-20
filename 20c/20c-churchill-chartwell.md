@@ -1,11 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Michelle Whitham" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg" layout="vtl" title="Sir Winston Churchill (1874-1965)" ve-config=""/>
+<param author="Michelle Whitham" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg" layout="vtl" title="Sir Winston Churchill (1874-1965)" ve-config/>
 
-<param aliases="Chartwell" eid="Q1067909" ve-entity=""/>
-<param aliases="Westerham" eid="Q2321393" ve-entity=""/>
-<param aliases="Cinque Ports" eid="Q748895" ve-entity=""/>
-<param aliases="Walmer Castle" eid="Q2543161" ve-entity=""/>
+<param aliases="Chartwell" eid="Q1067909" ve-entity/>
+<param aliases="Westerham" eid="Q2321393" ve-entity/>
+<param aliases="Cinque Ports" eid="Q748895" ve-entity/>
+<param aliases="Walmer Castle" eid="Q2543161" ve-entity/>
 
 
 #
@@ -33,7 +33,7 @@ As well as residing in Kent, Churchill visited other areas of the county on nume
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:War_Office_Second_World_War_Official_Collection_H3509.jpg/manifest.json">
 
 Churchill is remembered in Kent through three statues. One is located in Westerham on The Green,[^ref13], another at Chartwell and the third at St. Margaret’s Bay, Dover looking out towards the Dover Patrol Memorial on the white cliffs.[^ref14]
-<param attribution="Martin Crowther" label="Churchill Statue in Westerham" url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" ve-image=""/>
+<param attribution="Martin Crowther" label="Churchill Statue in Westerham" url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" ve-image/>
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Chartwell%2C_Churchills%27_statue.jpg/manifest.json"> 
 
 ### References 

@@ -1,30 +1,30 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Amber Potter" banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg" layout="vtl" title="The Maid of Kent: Elizabeth Barton" ve-config=""/>
+<param author="Amber Potter" banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg" layout="vtl" title="The Maid of Kent: Elizabeth Barton" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Aldington" eid="Q921173" ve-entity=""/>
-<param aliases="Romney Marsh" eid="Q1506093" ve-entity=""/>
-<param aliases="Ashford" eid="Q725261" ve-entity=""/>
-<param aliases="Chapel of Our Lady at Court-at-Street" eid="Q17641255" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Aldington" eid="Q921173" ve-entity/>
+<param aliases="Romney Marsh" eid="Q1506093" ve-entity/>
+<param aliases="Ashford" eid="Q725261" ve-entity/>
+<param aliases="Chapel of Our Lady at Court-at-Street" eid="Q17641255" ve-entity/>
  
 Elizabeth Barton, 'The Holy Maid of Kent' was born in Aldington in 1506 [^ref1]. She was employed as a servant to Thomas Cobb, steward of the Archbishop of Canterbury in the 1520s,[^ref2] however, at the age of nineteen her health began to deteriorate, so much so that it was feared that she had been stricken with a mortal disease.[^ref3]  She was in ‘grievous paine, in-so-much as a man woulde have thought that shee had suffered the pangs of death intselfe, until the disease descended and dell down into the bodie againe.’[^ref4]  It was at this period that she began to experience "curious" visions [^ref5] and foresaw the death of Cobb’s child. She also began sharing the glories that she had seen of heaven and the agonies of hell with her neighbours and mistress[^ref6] and predicted that she would visit the chapel of Our Lady of Court-at-Street where she would be healed.[^ref7]  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cobbs_Hall_Aldington_Kent_Geograph-2117504-by-David-Anstiss.jpg/manifest.json"> 
-<param center="Q921173" ve-map="" zoom="15"/>
+<param center="Q921173" ve-map zoom="15"/>
 
 Astonished with Barton’s knowledge of the unseen world and future, Thomas Cobb invited the parish priest Richard Masters to visit Barton and hear some of her revelations for himself, after which Masters communicated 'of the prophetess Elizabeth Barton' to Archbishop Warham.[^ref8]  Upon hearing the news, Archbishop Warham sent an ecclesiastical commission led by Edward Bocking, a monk from the Benedictine house of Christ Church, Canterbury to examine Barton.[^ref9]  She was questioned, and the commission found her orthodox on the points of faith. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:William_Warham.jpg/manifest.json"> 
-<param center="Q29303" ve-map="" zoom="15"/>
+<param center="Q29303" ve-map zoom="15"/>
 
 The commission accompanied Barton to the chapel of Our Lady in the village of Court-at-Street in 1526 and it was here in front of neighbours, friends, masters and mistresses and the commission that she was miraculously healed.[^ref10] William Lambarde states in his _Perambulation of Kent_ that upon visiting the chapel Barton was revived ‘from the very point of death,’ and that her healing ‘should be rong for a miracle.’[^ref11]
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:WilliamLambarde.jpg/manifest.json">
-<param center="Q17641255" ve-map="" zoom="15"/>
+<param center="Q17641255" ve-map zoom="15"/>
 
 Under the guidance of the commission, Barton entered the convent of St. Sepulchre in Canterbury, where she received the spiritual direction of Edward Bocking.[^ref12]  Barton’s reputation for sanctity became wide spread leading to her reputation as a miracle worker and seer.[^ref13]  She was venerated by the nuns at Syon Abbey, monks at the Charterhouses of Sheen and London, and the friars at Canterbury, Greenwich and Richmond, and had audiences with Henry VIII, Cardinal Wolsey, Sir Thomas More, Archbishop Warham and Bishop Fisher.[^ref14]  However, her prophecies became increasingly contentious, and when she attacked the kings behaviour, it was felt that she had gone too far.[^ref15]
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/manifest.json"> 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cardinal_Thomas_Wolsey.jpg/manifest.json"> 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Hans_Holbein%2C_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/manifest.json"> 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:San_Juan_Fisher_Obispo_de_Rochester_y_M%C3%A1rtir.jpg/manifest.json"> 
-<param center="Q29303" ve-map="" zoom="15"/>
+<param center="Q29303" ve-map zoom="15"/>
 
 Barton warned Thomas Wolsey and Sir Thomas More of the dreadful consequences that would befall Henry VIII should he divorce Catherine of Aragon.[^ref16]  She was given an audience with the King in 1528 and told him that if he married Anne Boleyn the vengeance of God would plague him.[^ref17] Henry VIII ignored her but she continued to gain followers, and a year later she had another vision.[^ref18] This time, she warned the King that his voluptuousness and carnal appetite were leading him to disgrace God’s law and that if he divorced Catherine and married Anne, he would die a miserable death. Henry dismissed Barton and never invited her into his presence again.[^ref19] Barton lost her protectors when Thomas Wolsey died in 1530 and Archbishop Warham in 1532, leaving only Sir Thomas More who was a cautious supporter.[^ref20]
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Catalina_de_Arag%C3%B3n%2C_palacio_de_Lambeth.jpg/manifest.json"> 

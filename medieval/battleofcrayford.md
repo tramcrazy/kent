@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param attribution="Ron Strutt / Replica Viking ship " author="Francesca Allfrey and Beth Whalley" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" hugin"="" layout="vtl" title="The Battle of Crayford" ve-config=""/>
+<param attribution="Ron Strutt / Replica Viking ship " author="Francesca Allfrey and Beth Whalley" banner="https://upload.wikimedia.org/wikipedia/commons/9/94/Replica_Viking_ship_%22Hugin%22_-_geograph.org.uk_-_41852.jpg" hugin" layout="vtl" title="The Battle of Crayford" ve-config/>
 
-<param aliases="Bexley" eid="Q207208" ve-entity=""/>
-<param aliases="Crayford" eid="Q146676" ve-entity=""/>
-<param aliases="Northumberland Heath" eid="Q146288" ve-entity=""/>
+<param aliases="Bexley" eid="Q207208" ve-entity/>
+<param aliases="Crayford" eid="Q146676" ve-entity/>
+<param aliases="Northumberland Heath" eid="Q146288" ve-entity/>
 
 #
 
@@ -19,10 +19,10 @@ The brief account of the Battle of Crayford above is taken from the C-version of
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:BL_Cotton_Tiberius_B_I_f._118r.png/manifest.json">
 
 For that reason, it is perhaps surprising that the Battle of Crayford was not written about by subsequent chroniclers, nor is it particularly well known in modern times, even by Crayford locals. Walking around Crayford in the 21st century, there are only hints of its possible past; there is a Hengist Road and a Horsa Road in Northumberland Heath, for example. 
-<param center="Q146288" ve-map="" zoom="15"/>
+<param center="Q146288" ve-map zoom="15"/>
 
 In 2018 the local history group Crayford Reminiscence and Youth (CRAY) sought to change this by organising [a series of summer events](https://www.crayfordhistory.org.uk/category/projects/the-legend-of-hengest) with local primary schools [^ref3]. Children learnt about different versions of the story and were encouraged to create their own legends of the battle - along the way, thinking about why medieval writers would reconfigure history for their own creative and critical purposes. CRAY created a resources pack which can be used by other interested schools - see their site linked above for more.
-<param label="The authors who worked on the CRAY project" url="https://stor.artstor.org/stor/c7b05a8c-84a8-41d0-ace6-65117ba54e49" ve-image=""/>
+<param label="The authors who worked on the CRAY project" url="https://stor.artstor.org/stor/c7b05a8c-84a8-41d0-ace6-65117ba54e49" ve-image/>
 
 If you find yourself in Crayford, we’d encourage you to explore the town, walking from the train station to the ‘Cray Gardens’, a pocket of greenery by the river. There, we’d invite you to imagine that the delicious smells from the brightly-lit take-aways selling every possible cuisine are instead wafting from smaller cooking fires in a bustling market. Among the cars imagine the Romans, then Catholic missionaries, then newer arrivals from across the North Atlantic medieval world passing through on their way from the coast to London. Cross over the London Road then walk up the hill of the high street to St Paulinus Church, and try and imagine what of this view has changed, and what may be recognisable, to the people who wrote down a few lines of a chronicle, 1000 years ago.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_Paulinus%27_Church%2C_Crayford_in_Landscape_Context.jpg/manifest.json">

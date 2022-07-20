@@ -1,12 +1,12 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="images/Grammar_School_Gate_Rochester.jpg" layout="vtl" title="Charles Dickens (1812-1870)" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="images/Grammar_School_Gate_Rochester.jpg" layout="vtl" title="Charles Dickens (1812-1870)" ve-config/>
 
-<param aliases="Chatham" eid="Q729006" ve-entity=""/>
-<param aliases="Chalk" eid="Q5068781" ve-entity=""/>
-<param aliases="Broadstairs" eid="Q922739" ve-entity=""/>
-<param aliases="Folkestone" eid="Q375314" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Rochester" eid="Q507517" ve-entity=""/>
+<param aliases="Chatham" eid="Q729006" ve-entity/>
+<param aliases="Chalk" eid="Q5068781" ve-entity/>
+<param aliases="Broadstairs" eid="Q922739" ve-entity/>
+<param aliases="Folkestone" eid="Q375314" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Rochester" eid="Q507517" ve-entity/>
 
 #
 

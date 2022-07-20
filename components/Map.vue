@@ -309,13 +309,15 @@ module.exports = {
                 next.push({id: this.basemap, label: this.basemap, layer: baseLayer})
             }
 
+            console.log('mapDefs', mapDefs)
             for (let [layerId, layerDef] of Object.entries(mapDefs)) {
+                console.log(layerid, layerDef)
                 const exists = next.find(layer => layer.id === layerId)
                 if (!exists) {
                     if (layerId === 'heatmap') {
                         this.addHeatmap(layerDef)
                     } else if (layerId) {
-                        const layer = L.tileLayer(`https://allmaps.xyz/maps/${layerDef}/{z}/{x}/{y}.png`)
+                        const layer = L.tileLayer(`https://allmaps.xyz/maps/${layerDef['allmaps-id']}/{z}/{x}/{y}.png`)
                         next.push({id: layerId, label: layerDef.label || layerDef.title, layer})
                         layer.options.id = layerDef.id
                         layer.options.label = layerDef.label || layerDef.title

@@ -1,15 +1,15 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 
-<param author="Michelle Crowther" banner="/images/banners/20c.jpg" layout="vtl" title="Baroness Emmuska Orczy (1865-1947)" ve-config=""/>
+<param author="Michelle Crowther" banner="/images/banners/20c.jpg" layout="vtl" title="Baroness Emmuska Orczy (1865-1947)" ve-config/>
 
-<param aliases="Isle of Thanet" eid="Q590422" ve-entity=""/>
-<param aliases="Monkton" eid="Q1917280" ve-entity=""/>
-<param aliases="Acol" eid="Q2404354" ve-entity=""/>
-<param aliases="Minster" eid="Q9033431" ve-entity=""/>
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Maidstone" eid="Q213180" ve-entity=""/>
-<param aiases="Ashford" eid="Q725261" ve-entity=""/>
-<param aliases="Bearsted" eid="Q2065577" ve-entity=""/>
+<param aliases="Isle of Thanet" eid="Q590422" ve-entity/>
+<param aliases="Monkton" eid="Q1917280" ve-entity/>
+<param aliases="Acol" eid="Q2404354" ve-entity/>
+<param aliases="Minster" eid="Q9033431" ve-entity/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Maidstone" eid="Q213180" ve-entity/>
+<param aiases="Ashford" eid="Q725261" ve-entity/>
+<param aliases="Bearsted" eid="Q2065577" ve-entity/>
 
 #
 
@@ -26,7 +26,7 @@ The local schoolmaster Mr Hawtry swore loudly whenever he met the team of horses
 The Baroness quickly became involved in the life of the county, opening fetes, art exhibitions and acting as the guest of honour at school prize givings. In December 1908, she presented prizes and certificates to the students of the Ramsgate County School for Girls delivering: 'a few bright, cheering and encouraging remarks to the girls.'[^ref4]
 <br/><br/>
 It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Acol in 1657.    
-<param label="Ramsgate Commemorative Map 1884-1934" url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" ve-image=""/>
+<param label="Ramsgate Commemorative Map 1884-1934" url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" ve-image/>
 
 When the lease was up on Cleave Court, the couple decided to move to Bearsted, near Maidstone buying Snowfield house which had twenty acres of garden. They planted the garden with rhododendrons, flaming azaleas; she wrote: 'We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.' 
 <br/><br/>
@@ -57,7 +57,7 @@ The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 di
 In November 1914, the Baroness was invited to distribute prizes at Maidstone Girls Grammar School. The girls, all dressed in virginal white, were encouraged to do their best in life: 'whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently.' [^ref15] Considering the number of women who remained unmarried after the first world war, Orczy’s words were prescient.
 <br/><br/>
 In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: 'The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before.' [^ref16] 
-<param attribution="By kind permission of Maidstone Grammar School for Girls" label="Maidstone Grammar School for Girls at Albion Place" url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" ve-image=""/>
+<param attribution="By kind permission of Maidstone Grammar School for Girls" label="Maidstone Grammar School for Girls at Albion Place" url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" ve-image/>
 
 The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918: 
 <br/><br/>

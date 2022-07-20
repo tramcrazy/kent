@@ -1,10 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Peter Vujakovic" banner="images/Down%20House%20banner.jpg" layout="vtl" title="Charles Darwin 1809-1882" ve-config=""/> 
+<param author="Peter Vujakovic" banner="images/Down%20House%20banner.jpg" layout="vtl" title="Charles Darwin 1809-1882" ve-config/> 
 
-<param aliases="Downe" eid="Q125344" ve-entity=""/>
-<param aliases="Down House" eid="Q3038318" ve-entity=""/>
-<param center="20210218 4e78384" data-map="" zoom="10"/>
+<param aliases="Downe" eid="Q125344" ve-entity/>
+<param aliases="Down House" eid="Q3038318" ve-entity/>
+<param center="20210218 4e78384" data-map zoom="10"/>
 
 #
 
@@ -15,7 +15,7 @@ Few people generally think of Charles Darwin as a writer, let alone a prolific a
 <br/><br/>
 'It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us … There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, while this planet has gone cycling on according to the fixed laws of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.'  From the final paragraph of _On the Origin of Species_ (First Edition)
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Charles_Darwin_by_Julia_Margaret_Cameron_3.jpg/manifest.json"> 
-<param center="Q2019734" ve-map="" zoom="8"/>
+<param center="Q2019734" ve-map zoom="8"/>
 
 His capacity to write with clarity and an ability to engage his readers is evident throughout his work. The chapter entitled ‘Natural Selection’ ends with a vivid use of metaphor that has influenced ideas of evolution ever since. The paragraph finishes thus:
 <br/><br/>
@@ -23,11 +23,11 @@ His capacity to write with clarity and an ability to engage his readers is evide
 <br/><br/>
 This metaphor was enthusiastically adopted by one of Darwin’s key early supporters, Ernst Haekel, a very talented artist as well as a zoologist. Sadly, as Julia Voss has noted, Haekel’s image places ‘MAN’ [sic] at the top of the of his evolutionary tree with other apes ‘banished to lower branches’, while Darwin’s own sketch of the primate tree grants humans no exceptional status.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Tree_of_life_by_Haeckel.jpg/manifest.json"> 
-<param center="Q2019734" ve-map="" zoom="8"/>
+<param center="Q2019734" ve-map zoom="8"/>
 
 Darwin moved to Kent in 1842 and this remained his home until his death forty years later. While resident at Down House Darwin wrote over a dozen science books and a handful of important monographs, many based on observations and experiments undertaken in his house and grounds. Darwin established ‘experimental beds’ in the kitchen garden and had a hothouse constructed next to his greenhouse to allow him to examine delicate and demanding plant species. His observations provided much of the material for several seminal works on plants and related themes, including: _The Movements and Habits of Climbing Plants_ (1875); _The Power of Movement in Plants_ (1880); and his wonderful examination of _The Formation of Vegetable Mould through the Action of Worms_ (1881). The nature writer Richard Mabey describes Darwin as an ‘ingenious writer’ and notes that his work on _Insectivorous Plants_ (1875) was forensically researched and written with the ‘craft skills of a country-house thriller author’ in which the mystery of the ‘murderous flytrap, is a page turner’.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Down_House.jpg/manifest.json"> 
-<param center="Q2019734" ve-map="" zoom="8"/>
+<param center="Q2019734" ve-map zoom="8"/>
 
 A doting father, Darwin was often helped in his research by his children, although sometimes they became the observed rather than observers. He took a scientific interest in his children’s development, using his observations to determine which expressions were instinctive and which learned (published in _The Expression of the Emotions in Man and Animals_ (1872)).
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_expression_of_the_emotions_in_man_and_animals_%281872%29_%2814762147996%29.jpg/manifest.json">

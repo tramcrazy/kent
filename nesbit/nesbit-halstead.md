@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Eleanor Fitzsimons" banner="/images/banners/19c.jpg" layout="vtl" title="Edith Nesbit, Halstead" ve-config=""/>
+<param author="Eleanor Fitzsimons" banner="/images/banners/19c.jpg" layout="vtl" title="Edith Nesbit, Halstead" ve-config/>
 
-<param aliases="Halstead" eid="Q2035885" ve-entity=""/>
-<param aliases="Sevenoaks" eid="Q939838" ve-entity=""/>
-<param aliases="Rose and Crown" eid="Q26327334" ve-entity=""/>
+<param aliases="Halstead" eid="Q2035885" ve-entity/>
+<param aliases="Sevenoaks" eid="Q939838" ve-entity/>
+<param aliases="Rose and Crown" eid="Q26327334" ve-entity/>
 
 On 30 November 1871, Edith Nesbit’s older sister Mary lost her battle with TB, the disease that had blighted her life. She was staying with friends in Normandy at the time. Sarah Nesbit, Edith’s mother, decided to return to England and settle in the picturesque village of Halstead, near Sevenoaks, with her surviving children. In _My School Days_, Nesbit described her “Kentish home” as “dearer to me than all”. She wrote:
 <br/><br/>
@@ -12,7 +12,7 @@ After many wanderings, my mother took a house at Halstead, ‘The Hall’ it was
 
 When falling sugar prices stimulated the jam industry, fruit farms had proliferated in Halstead. Local woodland was grubbed up to make way for strawberries, and damson trees, known locally as ‘skegs’, lined the hedgerows. Smallholder’s huts, erected hurriedly, were soon replaced with stone cottages. Boisterous groups of itinerant pickers spent their wages in the village pubs, the Rose and Crown, and the Cock Inn. Both are still trading.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cock_Inn%2C_Halstead_-_geograph.org.uk_-_2073238.jpg/manifest.json">
-<param center="Q2035885" ve-map="" zoom="14"/>
+<param center="Q2035885" ve-map zoom="14"/>
 
 In _My School Days_, Nesbit described the glorious days she spent exploring the countryside around Halstead with her older brothers, Alfred and Harry: 
 <br/><br/>
@@ -26,14 +26,14 @@ On the staircase, the feeling used to be so awful that I have had to bite my lip
 It seems likely that this ghost was Septimus Man, youngest son of the family who owned the house. A tragic and eccentric figure, he would squat in Halstead Hall whenever it was empty of tenants. In _My School Days_, Edith wrote: 
 <br/><br/>
 The only really exciting thing was the presence, within a stone’s throw of our house, of our landlady’s son, who lived all alone in a little cottage standing in the fields. He was reported mad by the world, eccentric by his friends; but, as we found him, perfectly harmless. His one delusion, as far as I know, was that he was the rightful owner, nay, more, the rightful tenant of our house, and about once in six months he used to terrify the whole household by appearing with a carpet bag at the front door and announcing that he had come to take possession. This used to alarm all of us very much, because if a gentleman is eccentric enough to wish to ‘take possession’ of another person’s house there is no knowing what he may be eccentric enough to do next. But he was always persuaded to go away peaceably, and I don’t think we need have been so frightened. Once while he was in the drawing-room being persuaded by my mother, I peeped into the carpet bag he had left in the hall: It contained three empty bottles that had held mixed pickles, a loaf of bread and a barrister’s wig and gown. Poor gentleman, I am afraid he was very eccentric indeed.
-<param center="Q2035885" ve-map="" zoom="14"/>
+<param center="Q2035885" ve-map zoom="14"/>
 
 When Alfred Nesbit shot a fox, mistaking it for a rabbit, and hid the corpse in his bedroom, he scoffed at Edith’s suggestion that they give it a funeral. Instead, he persuaded her to help him stuff it. They bought a shilling book on taxidermy, and the chemicals they needed, skinned the poor creature, buried its innards, and nailed its pelt to the inside of a cupboard door. Next day they rose early, before the maids had stirred, and reunited the pelt with its contents, abandoning their taxidermy project. Decades later, Edith included this event, in almost identical detail, in _The Wouldbegoods_. When the Bastable children shoot a fox in error, they give it the elaborate funeral Edith desired. She even composed a eulogy for it.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Wouldbegoods-nesbit_0225.jpg/manifest.json">
 
 While she lived in Halstead, Edith would run down Cadlocks Hill to the railway track at its base and walk the railway line with her brothers. The fictional railway line in _The Railway Children_, her most celebrated novel for children, is a pastiche of several but appears to draw on memories of Halstead since it runs along the field at the end of the children’s garden.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Footpath_to_Cadlocks_Hill_-_geograph.org.uk_-_1574685.jpg/manifest.json">
-<param center="51.344163347233376, 0.13627557317754357" ve-map="" zoom="16"/>
+<param center="51.344163347233376, 0.13627557317754357" ve-map zoom="16"/>
  
 Nesbit included this roof space in several of her books including _The Wouldbegoods_ (1901) and _The Phoenix and The Carpet_ (1903). In _The Wouldbegoods_, Oswald Bastable, equipped with ‘a book and a few apples’, enters ‘a square trapdoor in the ceiling of the linen room’ to reach ‘the wonderful, mysterious place between the ceiling and the roof of the house’: 
 <br/><br/>

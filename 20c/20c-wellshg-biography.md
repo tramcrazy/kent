@@ -1,10 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Simone Blandford" banner="/images/banners/20c.jpg" layout="vtl" title="Herbert George Wells (H.G Wells) (1866-1946)" ve-config=""/>
+<param author="Simone Blandford" banner="/images/banners/20c.jpg" layout="vtl" title="Herbert George Wells (H.G Wells) (1866-1946)" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Folkestone" eid="Q375314" ve-entity=""/>
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Aldington" eid="Q921173" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Folkestone" eid="Q375314" ve-entity/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Aldington" eid="Q921173" ve-entity/>
 
 **Publications of Interest:** _The Sea Lady_ (1902), _Kipps_ (1905) and _The History of Mr. Polly_ (1910)   
 <br/>

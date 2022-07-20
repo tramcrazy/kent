@@ -1,39 +1,39 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Hannah Jennison, Alfie Forsyth and Jonathan Baker" banner="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG" layout="vtl" title="Doodlebugs in Kent" ve-config=""/>
-<param aliases="V-1" eid="Q153348" title="V-1 flying bomb" ve-entity=""/> <!-- V-1 flying bomb -->
-<param eid="Q123977" title="Orpington" ve-entity=""/>
-<param eid="Q967166" title="Hythe" ve-entity=""/>
-<param eid="Q911577" title="Dungeness" ve-entity=""/>
-<param eid="Q2686542" title="Benenden" ve-entity=""/>
-<param eid="Q1083051" title="Swanscombe" ve-entity=""/>
-<param eid="Q936183" title="Tonbridge" ve-entity=""/>
-<param eid="Q2056118" title="Lympne" ve-entity=""/>
-<param eid="Q1006783" title="Capel-le-Ferne" ve-entity=""/>
-<param eid="Q2313624" title="Rolvenden" ve-entity=""/>
-<param eid="Q3144592" title="Brabourne" ve-entity=""/>
-<param eid="Q964785" title="Whitstable" ve-entity=""/>
-<param eid="Q929286" title="Herne Bay" ve-entity=""/>
-<param eid="Q29303" title="Canterbury" ve-entity=""/>
-<param eid="Q2470003" title="Little Chart" ve-entity=""/>
+<param author="Hannah Jennison, Alfie Forsyth and Jonathan Baker" banner="https://upload.wikimedia.org/wikipedia/commons/9/9e/Fieseler_Fi_103R_side.JPG" layout="vtl" title="Doodlebugs in Kent" ve-config/>
+<param aliases="V-1" eid="Q153348" title="V-1 flying bomb" ve-entity/> <!-- V-1 flying bomb -->
+<param eid="Q123977" title="Orpington" ve-entity/>
+<param eid="Q967166" title="Hythe" ve-entity/>
+<param eid="Q911577" title="Dungeness" ve-entity/>
+<param eid="Q2686542" title="Benenden" ve-entity/>
+<param eid="Q1083051" title="Swanscombe" ve-entity/>
+<param eid="Q936183" title="Tonbridge" ve-entity/>
+<param eid="Q2056118" title="Lympne" ve-entity/>
+<param eid="Q1006783" title="Capel-le-Ferne" ve-entity/>
+<param eid="Q2313624" title="Rolvenden" ve-entity/>
+<param eid="Q3144592" title="Brabourne" ve-entity/>
+<param eid="Q964785" title="Whitstable" ve-entity/>
+<param eid="Q929286" title="Herne Bay" ve-entity/>
+<param eid="Q29303" title="Canterbury" ve-entity/>
+<param eid="Q2470003" title="Little Chart" ve-entity/>
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans. The V-1 flying bomb, also known as the doodlebug because of its erratic movement and buzzing noise, was powered by a jet engine and carried a ton of explosive in its nose. The bombs were launched from the Pas de Calais and Picardy during the summer of 1944, with most passing over the Kent coast between Hythe and Dungeness; their destination, London.[^ref1] 
-<param center="Q967166" ve-map="" zoom="10"/>
+<param center="Q967166" ve-map zoom="10"/>
 
 Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. For the residents of Tonbridge, which was on the flight of the 'bomb lane', it was a period of anxiety and stress.[^ref2]. The first bomb dropped on Swanscombe on the 13th June.[^ref3] Four days later, the first civilian casualities were recorded at Benenden when a flying bomb demolished a cottage and damaged two more, as well as causing extensive damage to the sanitorium.[^ref4] As the summer wore on, there were more civilian casualties in the Kent villages of Lympne, Capel-le-Ferne, Rolvenden, and Brabourne.[^ref5] In the House of Commons, Tom Driberg, called for more Morrison shelters to protect people in rural areas.[^ref6]
-<param center="Q2313624" ve-map="" zoom="10"/>
+<param center="Q2313624" ve-map zoom="10"/>
 
 The doodlebug became an object of curiosity during 'Doodlebug Summer' particularly in those areas where few bombs fell. At the bank holiday fete in Canterbury "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In Herne Bay residents could view a Doodlebug at Woolworths[^ref8] and in Whitstable at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain](/20c/20c-battle-of-britain-memorial/). [^ref9]  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Fieseler_Fi_103R_Reichenberg.jpg/manifest.json">
 
 A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref10]
-<param label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" ve-image=""/> 
+<param label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" ve-image/> 
 
 With heavy bombing on the capital massively impacting public morale, the British government decided to leak false information to the Germans in an effort to redirect doodlebugs away from the centre of London towards Kent, and thus minimise civilian deaths.[^ref11] This calculation, as Professor Eric Grove explains, aimed to 'sacrifice lives in the countryside to avoid heavier casualties in London'.[^ref12] Double agents working for the Allies deceived the Germans into thinking the doodlebugs were landing too far north, and the deception was successful in changing the course of the bombs to hit Kent and the south of London instead. 
-<param description="A spitfire tipping a V1 with its wing" label="V1 tipped over by a Spitfire" license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg" ve-image=""/>
+<param description="A spitfire tipping a V1 with its wing" label="V1 tipped over by a Spitfire" license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg" ve-image/>
 
 Though the decision to change the path of the bombs saved many lives in London, the ethics of the government’s decision to interfere with the destination of the bombs has been considered highly controversial. It is estimated that doodlebugs killed over 6,000 people in Britain, with the final doodlebug hitting Orpington on March 27th, 1945.[^ref13] Squadron Leader H.E. Bates, who was serving with the R.A.F. during the second world war, was commissioned to write _The Battle of the Flying Bomb_ but the publication was cancelled. He would later move to Little Chart, where he wrote _The Darling Buds of May_.[^ref14]
-<param center="Q123977" ve-map="" zoom="15"/>
+<param center="Q123977" ve-map zoom="15"/>
 
 ### References
 [^ref1]: Ogley, B. _Kent: a chronicle of the century. vol. 2: 1925-1949._ Westerham: Froglets Publication, 1997. p.151.

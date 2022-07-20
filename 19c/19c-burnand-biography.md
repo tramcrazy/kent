@@ -1,10 +1,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg" layout="vtl" title="F. C. Burnand (1836-1917)" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg" layout="vtl" title="F. C. Burnand (1836-1917)" ve-config/>
 
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Margate" eid="Q618045" ve-entity=""/>
-<param aliases="Broadstairs" eid="Q922739" ve-entity=""/>
-<param aliases="Sandwich" eid="Q26163" ve-entity=""/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Margate" eid="Q618045" ve-entity/>
+<param aliases="Broadstairs" eid="Q922739" ve-entity/>
+<param aliases="Sandwich" eid="Q26163" ve-entity/>
 
 **Lived in Ramsgate from around 1875 - until death in 1917**      
 <br/>
@@ -17,10 +17,10 @@ Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Pu
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Image_taken_from_page_81_of_%27The_Z.Z.G.%2C_or_Zig_Zag_Guide_round_and_about_the_bold_and_beautiful_Kentish_coast_..._Illustrated_by_Phil_May%27_%2811296786325%29.jpg/manifest.json">
 
 In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dickens/19c-ramsgate) as well as [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century) and Sandwich as if from the standpoint of an itinerant tourist. In fact by 1883 he had ‘made his house at Ramsgate’, travelling to London once or twice a week. The 1887 Street Directory locates a Frederick Charles Burnand at 18 Royal Crescent (where Burnand died in 1917); the 1911 census shows that while Francis’s fifth son Philip was born in Middlesex (now part of London) in 1869, his fourth daughter Mary was born in Ramsgate in 1875.  
-<param attribution="Kent Maps Online Postcard Collection" label="Ramsgate Pavilion" url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" ve-image=""/>
+<param attribution="Kent Maps Online Postcard Collection" label="Ramsgate Pavilion" url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" ve-image/>
 
 Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
-<param attribution="Martin Crowther" label="Burnand's grave" url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" ve-image=""/>
+<param attribution="Martin Crowther" label="Burnand's grave" url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" ve-image/>
 
 
 ### Bibliography

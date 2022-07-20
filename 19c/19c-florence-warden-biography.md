@@ -1,8 +1,8 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Florence Warden (Florence Alice James) (1857 – 1929)" ve-config=""/>
+<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Florence Warden (Florence Alice James) (1857 – 1929)" ve-config/>
 
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Cliffsend" eid="Q2287962" ve-entity=""/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Cliffsend" eid="Q2287962" ve-entity/>
 
 #
 
@@ -40,7 +40,7 @@ The Kentish landscape provides a backdrop for romantic liaisons and sensational 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_promenade%2C_Sandgate%2C_England-LCCN2002708091.jpg/manifest.json">
 
 Whilst in Ramsgate, Florence attended sittings at the local police court, “whenever there was anything before the Bench likely to suggest matter for her stories.”[^ref14]  During one murder case, a seat was reserved for her with the press so that she did not miss a thing. It is most likely that this was the infamous [Ramsgate murder](https://theisleofthanetnews.com/2017/12/18/a-ramsgate-murder-from-1893-features-in-a-new-penny-dreadfuls-book/) of Mrs Sarah Dinah Noel who was found shot in her home on the 14th May 1893. The trial attracted a large crowd to the hearing at the Town Hall and gained notoriety in the national press. The question on everyone’s lips was did her husband kill her? One wit wrote to A.C. Doyle inviting Sherlock Holmes to solve it. Doyle declined.
-<param label="Ramsgate Commemorative Map 1884-1934" url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" ve-image=""/>
+<param label="Ramsgate Commemorative Map 1884-1934" url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" ve-image/>
 
 Florence was not the only woman to attend the hearing, and _“Ladies it was remarked, were present in considerable force – much it must be said to their own inconvenience… At one point Inspector Ross found it necessary to engage the services of some of his subordinates in endeavouring to assist fair spectators in danger of suffocation to a place of greater safety.”_[^ref15]  Florence didn’t waste the experience and in the following year the opening scene of her novel _A Sensational Case_ (1894) was set in a courtroom which: _“was crowded to suffocation, for a man was on trial for his life”._ She continued _“every available corner was filled with ladies”_.  Her literary output was phenomenal at this period, she wrote three more novels in this year, whilst also giving birth to her fourth child in six years.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:New_Road%2C_Ramsgate%2C_England-LCCN2002708073.jpg/manifest.json">

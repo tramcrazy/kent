@@ -1,19 +1,19 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Elizabeth Waterman-Scrase" banner="/images/banners/19c.jpg" layout="vtl" title="Leather and dust: David Copperfield’s shoes and the Dover Road" ve-config=""/>
+<param author="Elizabeth Waterman-Scrase" banner="/images/banners/19c.jpg" layout="vtl" title="Leather and dust: David Copperfield’s shoes and the Dover Road" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Dover road" eid="Q5303515" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Dover road" eid="Q5303515" ve-entity/>
 
-<param center="Q729006" ve-map="" zoom="12"/>
-<param active="true" data-map-layer="" mapwarper-id="45555" title="Kent 1904" type="mapwarper"/>
+<param center="Q729006" ve-map zoom="12"/>
+<param active="true" data-map-layer mapwarper-id="45555" title="Kent 1904" type="mapwarper"/>
        
 <!-- Historical map layers --> 
-<param active="" mapwarper="" mapwarper-id="38872" title="Kent 1820" ve-map-layer=""/> <param mapwarper="" mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer=""/> <param mapwarper="" mapwarper-id="37387" title="Kent 1808" ve-map-layer=""/> <param mapwarper="" mapwarper-id="45555" title="Kent 1904" ve-map-layer=""/>
+<param active mapwarper mapwarper-id="38872" title="Kent 1820" ve-map-layer/> <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/> <param mapwarper mapwarper-id="37387" title="Kent 1808" ve-map-layer/> <param mapwarper mapwarper-id="45555" title="Kent 1904" ve-map-layer/>
 
 #
 
 David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
-<param active="" eid="dickens:dover-road" geojson="" title="Dover Road" url="/geojson/david-copperfield-dover-road.json" ve-map-layer=""/>
+<param active eid="dickens:dover-road" geojson title="Dover Road" url="/geojson/david-copperfield-dover-road.json" ve-map-layer/>
 
 Maps can show us the route, but what of the road itself? We can surmise something from what we know about road surfaces during this period and mismanagement in an era that had turnpikes. As David leaves [Canterbury](/dickens/david-copperfield-curated-walk), he is likely to be on road surfaces that are well kept, the city is likely paved and cobbled. There are even accounts in 1838 of bitumen pavements in Canterbury. So, this part of the journey might be relatively easy compared with what he would encounter further on. The Victorian image of the cobbled road quickly fades to a road surface called McAdam. This type of road surface was cheaper and easier to lay and maintain. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg/manifest.json">
@@ -21,7 +21,7 @@ Maps can show us the route, but what of the road itself? We can surmise somethin
 
 Invented by John Loudon McAdam, this was a type of road surface that consisted of angular stones which bind together better than rounded. Each stone was a specific size (7.5cm in modern metric terms) to (5cm top layer). This made an easy ride for carts etc and traffic would crate a dust that would further bind the stone. When this method was first used each stone was broke into size by hand. The navvies would keep the size correct by the rule that each stone could fit into a man’s mouth, that or the foreman would use a gauge. In summer (when David is on his walk to Dover) it can get quite dusty, mixed with track road and poorly built of kept McAdam. One can well imagine why he was in such a state on arrival at his aunt’s. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:John_Macadam_%281827%E2%80%931865%29.jpg/manifest.json">
-<param center="Q179224" ve-map="" zoom="11"/>
+<param center="Q179224" ve-map zoom="11"/>
 
 Developments to improve the original invention were to mix water and rock dust, then use it to bind McAdam roads; they would become firmer and less of a problem during extremes of weather or if coal tar was used as a binder it would later improve further. It would take a while to perfect these recipes using resins and other materials (Tar-McAdam or tarmac). Perhaps to us the most surprising was asphalt (bitumen) as a road development, but a reasonably well travelled Victorian might not be surprised at the roads we use today, while many promenades in the 1850s would seem familiar today. Currently we do not know the exact stretches of the [Dover Road](/dickens/david-copperfield-dover-road) that might be cob, track or McAdam variants. But due to the previous turnpike system it is a sure bet that they were a mix, especially considering the corruption exposed by McAdam during his career. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Dover_road_%28Page_85%29_BHL25262433.jpg/manifest.json">

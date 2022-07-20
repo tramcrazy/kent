@@ -1,10 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Peter Merchant" banner="/images/banners/19c.jpg" layout="vtl" title="R.D. Blackmore (1825-1900)" ve-config=""/>
+<param author="Peter Merchant" banner="/images/banners/19c.jpg" layout="vtl" title="R.D. Blackmore (1825-1900)" ve-config/>
 
-<param aliases="Wrotham" eid="Q2740296" ve-entity=""/>
-<param aliases="Tonbridge" eid="Q936183" ve-entity=""/>
-<param aliases="Maidstone" eid="Q213180" ve-entity=""/>
-<param aliases="Sevenoaks" eid="Q939838" ve-entity=""/>
+<param aliases="Wrotham" eid="Q2740296" ve-entity/>
+<param aliases="Tonbridge" eid="Q936183" ve-entity/>
+<param aliases="Maidstone" eid="Q213180" ve-entity/>
+<param aliases="Sevenoaks" eid="Q939838" ve-entity/>
 
 #
  

@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param attribution="Suicasmo" author="Brooke Altringham" banner="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" label="Dover Castle" layout="vtl" title="The secret war tunnels of Dover Castle" url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" ve-config=""/> 
+<param attribution="Suicasmo" author="Brooke Altringham" banner="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" label="Dover Castle" layout="vtl" title="The secret war tunnels of Dover Castle" url="https://upload.wikimedia.org/wikipedia/commons/9/9b/Dover_Castle_20180901.jpg" ve-config/> 
 
-<param aliases="Dover Castle" eid="Q950970" ve-entity=""/> 
+<param aliases="Dover Castle" eid="Q950970" ve-entity/> 
 
 Throughout History, Dover Castle has been used as a highly fortified military garrison to protect Britain’s shores from invaders. Originally the Castle’s foundations, built by the Romans, resembled a hillfort and a lighthouse was also later erected on Castle Hill. This fort known as Dubris, was demolished in AD 215 [^ref1] and the lighthouse was reused for the construction of the church of St Mary in Castro around AD 1000. The Castle was remodelled in 1180 into the one we recognise today; the rebuilding was established by Henry II who created the most advanced castle design in Europe.[^ref2]  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/Roman Pharos.jpg/manifest.json"> 

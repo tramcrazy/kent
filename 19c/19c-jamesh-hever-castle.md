@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Dr Peter Merchant" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg" layout="vtl" title="Henry James (1843-1916)" ve-config=""/>
+<param author="Dr Peter Merchant" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg" layout="vtl" title="Henry James (1843-1916)" ve-config/>
 
-<param aliases="Hever Castle" eid="Q1132683" ve-entity=""/>
+<param aliases="Hever Castle" eid="Q1132683" ve-entity/>
 
 #
 
@@ -9,7 +9,7 @@
 By which famous Henry was Hever Castle put on the map?    
 In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question:
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg/manifest.json">
-<param center="Q1132683" ve-map="" zoom="15"/> 
+<param center="Q1132683" ve-map zoom="15"/> 
 
 “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Anne_boleyn.jpg/manifest.json">
@@ -30,7 +30,7 @@ That plot served James on three separate occasions: in 1895, when he used it in 
 
 In writing these works James is generally thought to have had Osterley Park, and possibly Hatfield House, in mind. However, some details—-the age of the house; the presence in it of a Flemish tapestry, a tattered banner from the Battle of Blenheim, and a suit of armour worn at Tewkesbury; the grand staircase made of “fine old stone or oak”—better fit Hever Castle. It is particularly on its final appearance, in 1907, that the old English country house conjured up by James seems coloured by his memories and impressions of Hever; and there is a very good reason for this. In the summer of 1903 Hever Castle had been acquired by William Waldorf Astor. Astor had by then been a naturalised British citizen for four years. To most observers, however, this acquisition constituted a striking real-life example of an American intervening to rescue and repair a decaying piece of English heritage. Astor relandscaped the gardens, creating a maze made of yew hedges, and embarked on an extensive rebuilding programme. Inside the house he installed such mod cons as electricity and central heating, but he also hung tapestries and restored many original features. This made Hever both more Tudor and more Edwardian. According to Ditchfield and Clinch in their 1907 guidebook [Memorials of Old Kent](https://openlibrary.org/books/OL7122534M/Memorials_of_old_Kent), what Astor now owned was “a curious mixture of a domestic house and a feudal castle.”
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Battle_of_Blenheim.jpg/manifest.json">
-<param center="Q1132683" ve-map="" zoom="10"/>
+<param center="Q1132683" ve-map zoom="10"/>
 
 James could hardly help seeing a good deal of Mrs Gracedew in William Waldorf Astor. Astor was also a figure in whom James saw a lot of himself, and with whom Van Wyck Brooks had explicitly compared him. In the same year, 1899, that brought Astor British citizenship, James had purchased (having previously rented) a historic property near the Kent-Sussex border: Lamb House in Rye. It is no wonder, as in an extensive rebuilding programme of his own James set about turning the short story that was previously a play back into drama again, that the fictional Covering End and the Boleyns’ Hever Castle came increasingly to coalesce.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:William_Waldorf_Astor.jpg/manifest.json">

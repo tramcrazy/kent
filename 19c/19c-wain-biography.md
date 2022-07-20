@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Nick Evans" banner="https://upload.wikimedia.org/wikipedia/commons/1/15/Louis_Wain_The_bachelor_party.jpg" layout="vertical" title="Louis Wain" ve-config=""/>
+<param author="Nick Evans" banner="https://upload.wikimedia.org/wikipedia/commons/1/15/Louis_Wain_The_bachelor_party.jpg" layout="vertical" title="Louis Wain" ve-config/>
 
 Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. He was born in Clerkenwell in London on 5 August 1860, and by his own account, had a strange childhood.  Born with a cleft lip, he was a sickly child and prone to wandering the streets and docks of London on his own.  He was tormented by recurring dreams and nightmares.
 <br/><br/>

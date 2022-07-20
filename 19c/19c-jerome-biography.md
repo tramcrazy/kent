@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Jerome K. Jerome (1859-1927)" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Jerome K. Jerome (1859-1927)" ve-config/>
 
 #
 
@@ -16,15 +16,15 @@ _“You’ll find when you get home,” I said, “she has thought of one other 
 _Three Men on the Bummel_   
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg/manifest.json">
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Bandstand%2C_The_Leas%2C_Folkestone_-_geograph.org.uk_-_1980145.jpg/manifest.json">
-<param center="Q375314" ve-map="" zoom="13"/>
+<param center="Q375314" ve-map zoom="13"/>
 
 Recalling their holiday in [Folkestone](/19c/19c-folkestone) in the summer of 1890, the writer [Robert Barr](/19c/19c-barr-biography) quotes Jerome as saying, ‘There is too much blamed much respectability there for me. I like a place where you don’t need to wear a collar and where you can “mooch” around.’
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Photo_of_Robert_Barr.jpg/manifest.json">
-<param center="Q375314" ve-map="" zoom="14"/>
+<param center="Q375314" ve-map zoom="14"/>
 
 _Three Men on the Bummel_ (1900) sees the cast of _Three Men in a Boat_ reunited for a bicycling holiday in the Black Forest, the price they pay being their wives’ demand for various home improvements and a female-only holiday in [Folkestone](/19c/19c-folkestone).
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Jerome_Three_Men_in_a_Boat_First_edition_1889.jpg/manifest.json">
-<param center="Q375314" ve-map="" zoom="14"/>
+<param center="Q375314" ve-map zoom="14"/>
 
 In one of the best comic set pieces Jerome briefly references the ultra-respectable Leas, as the place where his alter ego J meets the man who will go on to destroy his bicycle by ‘overhauling’ it.   
 _‘He said: “This front wheel wobbles.”   

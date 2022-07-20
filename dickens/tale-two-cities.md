@@ -1,18 +1,18 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Bethia Carter" banner="/images/banners/19c.jpg" layout="vtl" title="Dickens, A Tale of Two Cities and France" ve-config=""/>
+<param author="Bethia Carter" banner="/images/banners/19c.jpg" layout="vtl" title="Dickens, A Tale of Two Cities and France" ve-config/>
 
-<param aliases="Gads Hill Place" eid="Q5516441" ve-entity=""/>
-<param aliases="Dartford" eid="Q858775" ve-entity=""/>
-<param aliases="Faversham" eid="Q1000115" ve-entity=""/>
-<param aliases="Sittingbourne" eid="Q1626044" ve-entity=""/>
-<param aliases="Rochester" eid="Q507517" ve-entity=""/>
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Gravesend" eid="Q676689" ve-entity=""/>
+<param aliases="Gads Hill Place" eid="Q5516441" ve-entity/>
+<param aliases="Dartford" eid="Q858775" ve-entity/>
+<param aliases="Faversham" eid="Q1000115" ve-entity/>
+<param aliases="Sittingbourne" eid="Q1626044" ve-entity/>
+<param aliases="Rochester" eid="Q507517" ve-entity/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Gravesend" eid="Q676689" ve-entity/>
 
 “It was the best of times, it was the worst of times…” (Dickens, 1875, p.1)   
 The opening of [Charles Dickens](/dickens/dickens-biography)’s novel _A Tale of Two Cities_, is probably one of the most famous in English literature. Set in London and Paris, the novel sets out the events leading up to, at the start of, and even predicts the end of the French Revolution. It was written on the top floor of Dickens's [Swiss chalet](/dickens/dickens-swiss-chalet) during the spring and summer at his [Gad's Hill](/dickens/dickens-gads-hill) home, and published just three years after he had moved to Kent.
-<param attribution="Benjamin Mortley" label="Gads Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
+<param attribution="Benjamin Mortley" label="Gads Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image/>
 
 The action in the novel very quickly moves to the county, with the Mail coach arriving at [Dover](/dickens/dickens-dover) at six a.m., having set off from London at eight the previous evening.  Dickens’s description of the postal service is consistent with contemporary accounts and the passengers’ unwillingness to trust one another seems to reflect the dangerous nature of journeys reported in news articles from 1775, of robberies where highwaymen stopped coaches on their way into towns.[^ref1] The etymology of the place names en route testify to this: "Shooters Hill, so called from the thievery there practiced" and Gad's Hill, from the "Gadd's of steel" used before fire arms.[^ref2]
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Dover_road_-_annals_of_an_ancient_turnpike_%281922%29_%2820995540465%29.jpg/manifest.json">
@@ -20,7 +20,7 @@ The action in the novel very quickly moves to the county, with the Mail coach ar
 The journey between Dover and London was a fairly popular one, with coaches making the journey everyday excepting Sundays.[^ref3] The route travelled through Dartford, Rochester, Sittingbourne, [Canterbury](/19c/19c-canterbury) and Faversham. In Dickens’ description of the journey near Shooters Hill, however, it does not sound like a pleasant one:   
 He walked uphill in the mire by the side of the mail […] because the hill, and the harness, and the mud, and the mail were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath […] There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none. A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.[^ref4]      
 Dickens adds that such a journey in winter was “an achievement to congratulate an adventurous traveller upon”[^ref5] and even the condition of the coach was not something that would add comfort to such a journey, “The mildewy inside of the coach, with its damp and dirty straw, its disagreeable smell, and its obscurity, was rather like a larger dog-kennel”.[^ref6]
-<param attribution="Painted by Elisa Hudson" label="Millenium Mural, Canterbury" url="https://stor.artstor.org/stor/3804b801-3aa0-4e06-97fa-d8793febc878" ve-image=""/>
+<param attribution="Painted by Elisa Hudson" label="Millenium Mural, Canterbury" url="https://stor.artstor.org/stor/3804b801-3aa0-4e06-97fa-d8793febc878" ve-image/>
 
 As the mail coach "lumbered, jolted, rattled, and bumped upon its tedious way"[^ref7] through Kent, nothing more is said of the towns and villages, shrouded in darkness. The county acts as a conduit and the story turns to the passengers and their conversation.  However as we approach Dover, Jarvis Lorry,   
 "lowered the window, and looked out at the rising sun. There was a ridge of ploughed land, with a plough upon it where it had been left last night when the horses were unyoked; beyond, a quiet coppice-wood, in which many leaves of burning red and golden yellow still remained upon the trees. Though the earth was cold and wet, the sky was clear, and the sun rose bright, placid, and beautiful."[^ref8]   
@@ -28,7 +28,7 @@ It is a beautiful, hopeful description of the county that Dickens had made his h
 
 On arrival at Dover, Mr Lorry takes a walk long the beach at [Dover](/dickens/dickens-dover):   
 "The little, narrow, crooked town […] hid itself away from the beach, and ran its head into the chalk cliffs, like a marine ostrich. The beach was a desert of heaps of sea and stones tumbling wildly about, and the sea did what it liked, and what it liked was destruction. It […] thundered at the cliffs, and brought the coast down, madly. The air among the houses was of so strong a piscatory flavour […]. A little fishing was done in the port, and a quantity of strolling about by night… "[^ref9]
-<param attribution="Drawn by G.Shepherd" label="Snargate St, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
+<param attribution="Drawn by G.Shepherd" label="Snargate St, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
 
 This is one of only a few references to [Dover](/dickens/dickens-dover). But Dickens does make reference to the Royal George Hotel where Mr Lorry stays before he leaves England. Jervis Lorry's stay sounds a comfortable one, even if the hotel's decor was a little funereal, as he enjoys a bottle of claret by the fire. The real-life equivalent of this hotel is believed by some to be the Ship Hotel which was sadly demolished the year after Dickens published _A Tale of Two Cities_.[^ref10] Dickens stayed in this hotel in 1856 and this hotel was also frequented by other literati such as Lord Byron.[^ref11] For a time, this hotel bore a name slightly more similar to the one Dickens chose, when it was known as The Royal Ship Hotel.[^ref12] 
 

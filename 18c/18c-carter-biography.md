@@ -1,10 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Peter Merchant" banner="/images/banners/18c.jpg" layout="vtl" title="Elizabeth Carter (1717–1806)" ve-config=""/>
+<param author="Peter Merchant" banner="/images/banners/18c.jpg" layout="vtl" title="Elizabeth Carter (1717–1806)" ve-config/>
 
-<param aliases="Deal" eid="Q1011096" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
+<param aliases="Deal" eid="Q1011096" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
 <!-- <param ve-entity eid="51.24366, 1.33130" aliases="Ham"> -->
-<param aliases="Woodchurch" eid="Q1874946" ve-entity=""/>
+<param aliases="Woodchurch" eid="Q1874946" ve-entity/>
 
 #
 

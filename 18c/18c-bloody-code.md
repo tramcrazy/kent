@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Martin Watts" banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg" layout="vtl" title="The Bloody Code" ve-config=""/>
+<param author="Martin Watts" banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/Westgate_055.jpg" layout="vtl" title="The Bloody Code" ve-config/>
 
 #
 

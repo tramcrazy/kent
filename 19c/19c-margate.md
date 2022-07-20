@@ -1,12 +1,12 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Margate in the nineteenth century" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Margate in the nineteenth century" ve-config/>
 
-<param aliases="Margate" eid="Q618045" ve-entity=""/>
+<param aliases="Margate" eid="Q618045" ve-entity/>
 
 #
 
 The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753 by Benjamin Beale, and the town’s credibility as a health resort was consolidated with the founding of a charitable [Royal Sea Bathing Infirmary](http://glorious-and-unknown.co.uk/margate-royal-sea-bathing-infirmary/) in 1792 for the treatment of scrofula. In 1820 writer Walley Chamberlain Oulton noted that due to the salubrious air ‘The temperate islander may be frequently seen, at the age of ninety, performing his domestic functions with all the activity and bustle of youth.’ 
-<param attribution"wellcome="" collection:="" domain="" label="Margate, Kent: a woman diving off a bathing wagon in to the sea. Coloured etching, ca. 1800." mark"="" public="" url="https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg" ve-image=""/>
+<param attribution"wellcome collection: domain label="Margate, Kent: a woman diving off a bathing wagon in to the sea. Coloured etching, ca. 1800." mark" public url="https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg" ve-image/>
 
 In the early 19th century visitors such as [Keats](/19c/19c-keats-margate/) would have arrived by hoy boat, although this somewhat rickety form of transport had been superseded by the steam packet by the 1830s. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Scene_aboard_a_Margate_hoy.jpg/manifest.json">

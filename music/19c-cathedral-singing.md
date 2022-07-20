@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Dr Chris Price" banner="/images/banners/19c.jpg" layout="vtl" title="Cathedral Singers" ve-config=""/>
+<param author="Dr Chris Price" banner="/images/banners/19c.jpg" layout="vtl" title="Cathedral Singers" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
 
 Since the dissolution of the monasteries in the 1540s, the new cathedrals constituted by statute had allowed unordained men to swell the ranks of the choir required to sing the two prescribed daily offices – Matins in the Morning and Evensong in the afternoon. Ordained men – so-called Minor Canons – sang alongside them, but it was a rare cathedral which could find enough to make up the alto, tenor and bass lines, so ‘Lay Clerks’ (or, in some places, ‘Lay Vicars’) were employed to do the job. [Canterbury](/music/19c-music-canterbury) had twelve of them (four of each voice), alongside the six Minor Canons and ten boy Choristers.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_Cathedral_Choir_%2840805457492%29.jpg/manifest.json">
@@ -10,7 +10,7 @@ The work of a Lay Clerk never has been a full-time job, and has never paid a wag
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/music/Beaney copy - Scaled and adjusted.jpg/manifest.json">
 
 Almost all of them however, appear in the [Catch Club](/music/19c-catch-club) records (quite exhaustive Minutes were kept, and survive, from 1802) as singers, orchestral players, and as functionaries of other sorts for which some small remuneration is paid: Check [sic] Taker, or Librarian. Many also crop up in newspaper reports of concerts in and around the city. It becomes clear that these musicians were keen to hawk their time and talents around wherever such piecemeal employment could be found. 
-<param url="https://www.youtube.com/watch?reload=9&amp;v=dbKAb18w72c&amp;t=11s" ve-video=""/>
+<param url="https://www.youtube.com/watch?reload=9&amp;v=dbKAb18w72c&amp;t=11s" ve-video/>
 
 The thirteen Lay Clerks (including two Organists) who served in the Cathedral Choir in 1825–6 reach back to 1773 and forward to 1872; their period of service spans just one year short of a century. This encompasses the entire life-span of the [Canterbury Catch Club](/music/19c-catch-club): from Shrubsole’s appointment in 1773, six years before the official formation of the Club, to Thomas Jones’ death in 1872, seven years after the [Catch Club](/music/19c-catch-club) disbanded itself. It is, however, a coincidence of charming serendipity that the last musician on the list, [James Shoubridge](/music/19c-james-shoubridge), was appointed to replace the first of these thirteen singers: ‘Mr James Shoubridge was elected &amp; admitted a Lay Clerk in the room [i.e., the place] of Shrubsole, deceased.’[^ref1]  
 To those unfamiliar with the world of cathedral musicians in the centuries between Henry VIII and [Queen Victoria](/19c/19c-victoria-biography), there are some aspects of this bald account which require immediate explanation. The mortality rate amongst Lay Clerks seems alarmingly high; the deaths in service of one-third of those named gives the impression that cathedral singing is a hazardous occupation. This is explained by the fact that Lay Clerks, like their ordained colleagues, were appointed for life—which also accounts for the strikingly lengthy periods of service of some of the men. 

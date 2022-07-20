@@ -1,11 +1,11 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Carla Danella" banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg" layout="vtl" title="Cicely Hamilton (15 June 1872 – 6 December 1952)" ve-config=""/>
+<param author="Carla Danella" banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Smallhythe_Place%2C_Kent_1.jpg" layout="vtl" title="Cicely Hamilton (15 June 1872 – 6 December 1952)" ve-config/>
 
-<param aliases="Priest’s House" eid="Q107325931" ve-entity=""/>
-<param aliases="Barn Theatre" eid="Q7543679" ve-entity=""/>
-<param aliases="museum" eid="Q7543679" ve-entity=""/>
-<param aliases="Smallhythe Place" eid="Q7543679" ve-entity=""/>
-<param aliases="SmallHythe" eid="Q3486845" ve-entity=""/>
+<param aliases="Priest’s House" eid="Q107325931" ve-entity/>
+<param aliases="Barn Theatre" eid="Q7543679" ve-entity/>
+<param aliases="museum" eid="Q7543679" ve-entity/>
+<param aliases="Smallhythe Place" eid="Q7543679" ve-entity/>
+<param aliases="SmallHythe" eid="Q3486845" ve-entity/>
 
 #
 

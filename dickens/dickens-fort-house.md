@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Fort House (Bleak House)" ve-config=""/>
+<param author="Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Fort House (Bleak House)" ve-config/>
 
 #
 

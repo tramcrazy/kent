@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Goodwin Sands" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Goodwin Sands" ve-config/>
 
-<param aliases="Goodwin Sands" eid="Q1494482" ve-entity=""/>
+<param aliases="Goodwin Sands" eid="Q1494482" ve-entity/>
 
 **Event:** Shipwrecks 1847, 1851.   
 _‘A great to do here. A steamer lost on the Goodwin yesterday, and our men bringing in no end of cattle and sheep. I stood a supper for them last night, to the unbounded gratification of Broadstairs. They came in from the Wreck very wet and tired, and very much disconcerted by the nature of their prize – which I suppose after all will have to be re-committed to the Sea, when the hides and tallow are secured. One lean-faced boatman murmured, when they were all ruminative over the bodies as they lay on the Pier, “Couldn’t sassages be made on it?” -  but retired in confusion shortly afterwards, overwhelmed by the execrations of the bystanders.’_ Letter to Henry Austin, 8 September 1851.
@@ -11,7 +11,7 @@ While staying in [Fort House](dickens-fort-house), [Broadstairs](broadstairs) in
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:lossy-page1-3868px-Skeppsbrott_-_Sj%C3%B6historiska_museet_-_S_0902.tif.jpg/manifest.json">
 
 The last chapters of _David Copperfield_ had been written in [Fort House](dickens-fort-house)  the year before, and it is tempting to think that the Yarmouth storm in which Ham and Steerforth both drown may have been inspired by Dickens’s observation of the Goodwins in tempestuous weather. David himself avers that ‘I have started up so vividly impressed by it, that its fury has yet seemed raging in my quiet room, in the still night. … I have an association between it and a stormy wind, or the lightest mention of a seashore, as strong as any of which my mind is conscious.’[^ref3]
-<param attribution="©Elgate Postcards, Margate" label="Bleak House -Fort House - as Dickens would have known it" url="https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db" ve-image=""/>
+<param attribution="©Elgate Postcards, Margate" label="Bleak House -Fort House - as Dickens would have known it" url="https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db" ve-image/>
 
 ### Bibliography
 

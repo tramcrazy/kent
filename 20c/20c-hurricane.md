@@ -1,13 +1,13 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg" layout="vtl" title="The Great Storm of 1987" ve-config=""/>
+<param author="Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/e/ea/The_White_Cliffs_of_Dover_%2848904125611%29.jpg" layout="vtl" title="The Great Storm of 1987" ve-config/>
 
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
-<param aliases="Ashford" eid="Q725261" ve-entity=""/>
-<param aliases="Sevenoaks" eid="Q939838" ve-entity=""/>
-<param aliases="Folkestone" eid="Q375314" ve-entity=""/>
-<param aliases="Chartwell" eid="Q1067909" ve-entity=""/>
-<param aliases="Toys Hill" eid="Q3536087" ve-entity=""/>
-<param aliases="Bekesbourne" eid="Q4881598" ve-entity=""/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
+<param aliases="Ashford" eid="Q725261" ve-entity/>
+<param aliases="Sevenoaks" eid="Q939838" ve-entity/>
+<param aliases="Folkestone" eid="Q375314" ve-entity/>
+<param aliases="Chartwell" eid="Q1067909" ve-entity/>
+<param aliases="Toys Hill" eid="Q3536087" ve-entity/>
+<param aliases="Bekesbourne" eid="Q4881598" ve-entity/>
 
 #
 

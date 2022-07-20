@@ -1,14 +1,14 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="John Brent (1808-1882)" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="John Brent (1808-1882)" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
 
 #
 
 _‘The privilege of electing a mayor seems to have been somewhat tardily conceded to a city so important as Canterbury.’_   
 _Canterbury in the Olden Time_ (1860)
-<param attribution="Kent Maps Online Postcard Collection" label="The Westgate, Canterbury" url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" ve-image=""/>
+<param attribution="Kent Maps Online Postcard Collection" label="The Westgate, Canterbury" url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" ve-image/>
 
 Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1808, to a shipbuilder and his wife Susannah. The latter was from Sturry, and the family moved back to [Canterbury](/19c/19c-canterbury) in around 1821. John’s father would become an Alderman and Chief Magistrate, and was Mayor at the time of a tragic incident in 1838, when a former inmate of Barming Asylum, calling himself William Courtenay, announced to a crowd in [Canterbury](/19c/19c-canterbury) that he was the risen Christ. Courtenay led a procession around Goodnestone, Newnham, Throwley, Selling and Sittingbourne, before shooting a constable who was advancing with a warrant for his arrest.  At Brent’s request, a detachment of troops was sent from [Dover](/19c/19c-dover)  and eight people (including Courtenay) were killed.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_parish_church%2C_Sturry%2C_Kent_-_geograph.org.uk_-_480705.jpg/manifest.json">
@@ -23,14 +23,14 @@ and Guillemette La Delanasse (both published in 1840). In the same year he contr
 Brent became a fellow of the Society of Antiquaries in April 1853, and was a member of the British Archaeological Association and the Kent Archaeological Society. He is best remembered for his 1860 [Canterbury in the Olden Time](https://babel.hathitrust.org/cgi/pt?id=uc1.31175001958167&amp;view=1up&amp;seq=9).  A fan of that quintessential self-made man [Charles Dickens](/dickens), it is tempting to think that Brent was present at his public reading at the Fountain Hotel in [Canterbury](/19c/19c-canterbury) in 1861. What is certain is that like [Henry Adams](/19c/19c-gardiner-adams-biography), he would succumb to a fatal urge to address a poem to the great author. An otherwise accomplished poet, he marked Dickens’s death in lines that are not among his best, such as:
 [The hand which down the chords of feeling sent /
 Once sweetest music – now is stilled and cold]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&amp;pg=PA99&amp;dq=%22Dickens%22+and+%22John+Brent%22&amp;hl=en&amp;newbks=1&amp;newbks_redir=0&amp;sa=X&amp;ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&amp;q=%22Dickens%22%20and%20%22John%20Brent%22&amp;f=false).
-<param attribution="John Brent" label="Canterbury in the Olden Time" url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" ve-image=""/>
-<param attribution="John Brent" label="Illustration of enamelled brooches from Canterbury in the Olden Time" url="https://stor.artstor.org/stor/3e7c4e22-8283-443a-8ae0-da685ef246bf" ve-image=""/>
+<param attribution="John Brent" label="Canterbury in the Olden Time" url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" ve-image/>
+<param attribution="John Brent" label="Illustration of enamelled brooches from Canterbury in the Olden Time" url="https://stor.artstor.org/stor/3e7c4e22-8283-443a-8ae0-da685ef246bf" ve-image/>
 
 Still, it must be confessed that many readers of [Edwin Drood](/edwin-drood-curated-walk) would sympathise with Brent’s mixed frustration and awe, at:
 [A Mystery Death forbade thee to unfold /
 – Yet Death’s own secret is now solved by thee]( https://books.google.co.uk/books?id=Ds8IAAAAQAAJ&amp;pg=PA99&amp;dq=%22Dickens%22+and+%22John+Brent%22&amp;hl=en&amp;newbks=1&amp;newbks_redir=0&amp;sa=X&amp;ved=2ahUKEwjKrP-csNbwAhUPExQKHQhIDSQQ6AEwAHoECAAQAg#v=onepage&amp;q=%22Dickens%22%20and%20%22John%20Brent%22&amp;f=false).
 Brent himself died of heart disease at his house, 8 Dane John Grove, on 23 April 1882.
-<param attribution="Martin Crowther" label="Don John Grove, with Brent's house on the far left" url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" ve-image=""/>
+<param attribution="Martin Crowther" label="Don John Grove, with Brent's house on the far left" url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" ve-image/>
 
 
 ### Bibliography 
@@ -43,4 +43,4 @@ Kent Archaeological Society
 https://www.kentarchaeology.org.uk/sites/default/files/archcant/1946%2058%20Miscellaneous_1.pdf   
 ‘Riot at Canterbury’. 11 September 1832. Morning Post. British Newspaper Archive. Accessed 19 May 2021.   
 For more of Brent’s work see [_The Online Books Page_](http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Brent%2C%20John%2C%201808-1882)
-<param label="Canterbury in the Olden Time signed by the author" url="https://stor.artstor.org/stor/129ae304-a3f9-4021-856a-0c6d4ce1c3bc" ve-image=""/>
+<param label="Canterbury in the Olden Time signed by the author" url="https://stor.artstor.org/stor/129ae304-a3f9-4021-856a-0c6d4ce1c3bc" ve-image/>

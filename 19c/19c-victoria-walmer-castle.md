@@ -1,9 +1,9 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Queen Victoria at Walmer Castle" ve-config=""/>
+<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Queen Victoria at Walmer Castle" ve-config/>
 
-<param aliases="Walmer Castle" eid="Q2543161" ve-entity=""/>
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
+<param aliases="Walmer Castle" eid="Q2543161" ve-entity/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
 
 #
 

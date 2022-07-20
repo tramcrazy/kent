@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Ellen Wood (1814-1887)" ve-config=""/>
+<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Ellen Wood (1814-1887)" ve-config/>
 
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
 
 #
 

@@ -1,4 +1,4 @@
-<html><head></head><body><param layout="index" title="Kent Maps Project: About" ve-config=""/>
+<html><head></head><body><param layout="index" title="Kent Maps Project: About" ve-config/>
 
 # About the site and project
 

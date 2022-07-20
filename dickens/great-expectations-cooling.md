@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Ken Moffat and Carolyn W. de la L. Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Cooling" ve-config=""/>
+<param author="Ken Moffat and Carolyn W. de la L. Oulton" banner="/images/banners/19c.jpg" layout="vtl" title="Cooling" ve-config/>
 
 <!-- Global entities -->
 <param eid="Q5686" title="Charles Dickens"/>
-<param aliases="the marshes" article="/articles/Cooling_marshes.md" fill-opacity="0.4" geojson="/geojson/marshes.json" label="Cooling Marshes" ve-entity=""/>
+<param aliases="the marshes" article="/articles/Cooling_marshes.md" fill-opacity="0.4" geojson="/geojson/marshes.json" label="Cooling Marshes" ve-entity/>
 <param eid="Q2649453" title="Cooling"/>
 <param article="/articles/Compeyson.md" eid="Q5156367" title="Compeyson"/>
 <param eid="Q676689" title="Gravesend"/>
@@ -13,13 +13,13 @@
 <param eid="Q507517" title="Rochester"/>
 
 <!-- Kent with map centered at Rochester -->
-<param center="51.254291, 0.876473" ve-map="" zoom="10"/>
+<param center="51.254291, 0.876473" ve-map zoom="10"/>
 
 <!-- Historical map layers -->
-<param active="" mapwarper="" mapwarper-id="38872" title="Kent 1820" ve-map-layer=""/>
-<param mapwarper="" mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer=""/>
-<param mapwarper="" mapwarper-id="37387" title="Kent 1808" ve-map-layer=""/>
-<param mapwarper="" mapwarper-id="45555" title="Kent 1904" ve-map-layer=""/>
+<param active mapwarper mapwarper-id="38872" title="Kent 1820" ve-map-layer/>
+<param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/>
+<param mapwarper mapwarper-id="37387" title="Kent 1808" ve-map-layer/>
+<param mapwarper mapwarper-id="45555" title="Kent 1904" ve-map-layer/>
 
 #
 

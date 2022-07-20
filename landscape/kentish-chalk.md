@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Prof Peter Vujakovic" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="The Kentish Chalk" ve-config=""/>
+<param author="Prof Peter Vujakovic" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="The Kentish Chalk" ve-config/>
 
 _Ah, God! One sniff of England — / To greet our flesh and blood — / To hear the traffic slurring / Once more through London mud! / Our towns of wasted honour — / Our streets of lost delight! / How stands the old Lord Warden? / Are Dover's cliffs still white?_   
 ‘The Broken Men’, Rudyard Kipling (1901)

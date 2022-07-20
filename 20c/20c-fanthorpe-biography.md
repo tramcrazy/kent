@@ -1,12 +1,12 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Simone Blandford" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" ve-config=""/>
+<param author="Simone Blandford" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="U. A. Fanthorpe (Ursula Askham Fanthorpe) (1929-2009)" ve-config/>
 
-<param aliases="Lewisham" eid="Q215030" ve-entity=""/>
-<param aliases="Bromley" eid="Q208201" ve-entity=""/>
-<param aliases="Lee" eid="Q6512849" ve-entity=""/>
-<param aliases="Biggin Hill" eid="Q1431935" ve-entity=""/>
-<param aliases="Sissinghurst Castle" eid="Q24660387" ve-entity=""/>
-<param aliases="Knole" eid="Q1285144" ve-entity=""/>
+<param aliases="Lewisham" eid="Q215030" ve-entity/>
+<param aliases="Bromley" eid="Q208201" ve-entity/>
+<param aliases="Lee" eid="Q6512849" ve-entity/>
+<param aliases="Biggin Hill" eid="Q1431935" ve-entity/>
+<param aliases="Sissinghurst Castle" eid="Q24660387" ve-entity/>
+<param aliases="Knole" eid="Q1285144" ve-entity/>
 
 #
 
@@ -17,11 +17,11 @@ She came, and was. And came again”
 <br/>
 Ursula Askham Fanthorpe (more commonly known as U. A. Fanthorpe) was born in the town of Lee, Lewisham on 22nd July 1929.[^ref1]   According to Fanthorpe, her parents were ‘middle class but honest” people.[^ref2]  Her father, Richard Fanthorpe, was a notable barrister and judge, and inspired her sense of justice, a topic that runs throughout her poetry. Fanthorpe’s childhood spent in Bromley would become significant to her work in later life. With her brother David, she spent time exploring Kent by bicycle and stopping at historical sites. However, with the arrival of the Second World War, and Bromley being near the Biggin Hill airfield, Fanthorpe was sent away to escape repeated bombings of the area. From the age of ten, her childhood continued at a boarding school in Surrey. Her time in Kent was cut short and the implications of war would later be identifiable in her work.[^ref3] 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Royal_Air_Force-_the_Air_Training_Corps%2C_1941-1945._CH9567.jpg/manifest.json">
-<param center="Q6512849" ve-map="" zoom="15"/>
+<param center="Q6512849" ve-map zoom="15"/>
 
 At fifty, Fanthorpe published her first poetry collection entitled _Side Effects_ (1978). There are notable mentions of Kent within the collection, including ‘Earthed’, where Fanthorpe describes ‘the chalky / Kent mud’.[^ref4]  During her childhood Fanthorpe enjoyed reading about English landscapes and it is clear that the [Kentish landscape](/landscape/kentish-landscapes/) specifically has permeated her work.[^ref5]  Her relationship with Kent continues in her collection _A Watching Brief_ (1987) where we can identify a link between the implications of war and Fanthorpe’s childhood spent in Kent. In ‘A Wartime Education’ the speaker of the poem describes ‘A father in uniform conferred status. Mine / Camping it up with the Home Guard in Kent / On summer nights, too human for heroics.’[^ref6]  The poem harbours a feeling of detachment from the places and people of childhood especially, for example, in the line break after ‘Mine’. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:King_George_VI_talking_to_a_member_of_the_Home_Guard_during_an_inspection_in_Kent%2C_10_August_1940._H2936.jpg/manifest.json">
-<param center="Q208201" ve-map="" zoom="15"/>
+<param center="Q208201" ve-map zoom="15"/>
 
 Fanthorpe’s relationship with Kent, as identified above, didn’t end with her move to Surrey. In 1993 she wrote about the acclaimed writer [Vita Sackville-West](/20c/20c-sackville-west-biography)’s Kent homes: Sissinghurst Castle and Knole. A clear admiration for the landscape and history of Kent is discernible throughout the essay. Fanthorpe writes that Sackville-West’s work is permeated by her life lived at Knole in _The Edwardians_ (1930).[^ref7]  Fanthorpe’s work, like Sackville-West’s, is richly influenced by Kent’s landscape. 
 <br/>
@@ -30,7 +30,7 @@ Poetry anthologies including a Kent setting:
 _Side Effect_ (1978),   
 _A Watching Brief_ (1987)   
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG/manifest.json">
-<param center="Q24660387" ve-map="" zoom="15"/>
+<param center="Q24660387" ve-map zoom="15"/>
 
 ### Bibliography 
 

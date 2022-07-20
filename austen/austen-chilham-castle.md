@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
 
-<param author="Susan Civale" banner="/images/banners/19c.jpg" layout="vtl" title="Jane Austen: Chilham Castle" ve-config=""/>
+<param author="Susan Civale" banner="/images/banners/19c.jpg" layout="vtl" title="Jane Austen: Chilham Castle" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Chilham Castle" eid="Q5098912" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Chilham Castle" eid="Q5098912" ve-entity/>
 
 Jane Austen regularly visited Chilham Castle, the seventeenth-century home built on the site of a medieval castle, whenever she was staying nearby with her brother [Edward Austen Knight](/austen-godmersham) between 1796 and 1813.  Dinner parties and evening balls at Chilham Castle offered opportunities for seeing old friends and meeting new people, for eating and drinking, for dancing and listening to music.  Social events at Chilham Castle were therefore noteworthy, and Jane often exchanged letters with her sister about them.  In 1801, Cassandra attended dinner and then a ball at Chilham Castle, and relayed the details about it to her sister who was back in Steventon.  In response, Jane Austen jokes with her sister:   
 _It gives us great pleasure to know that the Chilham ball was so agreeable, and that you danced four dances with Mr. Kemble.  Desirable, however, as the latter circumstance was, I cannot help wondering at its taking place.  Why did you dance four dances with so stupid a man?  Why not rather dance two of them with some elegant brother officer who was struck with your appearance as soon as you entered the room?_[^ref1]  

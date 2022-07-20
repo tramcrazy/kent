@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Elizabeth Waterman-Scrase" layout="vtl" title="Mapping the Dover Road: David Copperfield’s journey" ve-config=""/>
+<param author="Elizabeth Waterman-Scrase" layout="vtl" title="Mapping the Dover Road: David Copperfield’s journey" ve-config/>
        
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Moule.jpg/manifest.json">
 

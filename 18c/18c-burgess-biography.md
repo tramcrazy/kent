@@ -1,13 +1,13 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Stephen Williamson" banner="/images/banners/18c.jpg" layout="vtl" title="Mrs Elizabeth Burgess (1737-1825)" ve-config=""/>
+<param author="Stephen Williamson" banner="/images/banners/18c.jpg" layout="vtl" title="Mrs Elizabeth Burgess (1737-1825)" ve-config/>
 
 <!-- Kent with map centered at Canterbury -->
-<param center="Q29303" ve-map="" zoom="10"/>
+<param center="Q29303" ve-map zoom="10"/>
 
 <!-- Historical map layers -->
-<param mapwarper="" mapwarper-id="37387" title="Kent 1808" ve-map-layer=""/>
+<param mapwarper mapwarper-id="37387" title="Kent 1808" ve-map-layer/>
 
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
 
 #
 
@@ -16,7 +16,7 @@
 The exceptional Elizabeth Burgess was born in Canterbury as Elizabeth Smith. In 1817 she and her brothers celebrated their lives with a dinner described in the [_Kentish Gazette_](/18c/18c-kentish-gazette) as follows:
 <br/><br/>
 ‘A remarkable instance of longevity in one family. Five brothers and one sister dined together at the Eight Bells, in King-street, when the following five brothers and one sister, whose ages amounted to 442 years, dined together at that house: —Mrs. Burgess 80; John Smith 78; Edward Smith 76; Andrew Smith 72; Benjamin Smith 69; Henry Smith 67.’
-<param attribution="Edward Crowther" label="Eight Bells" url="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" ve-image=""/>
+<param attribution="Edward Crowther" label="Eight Bells" url="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" ve-image/>
 
 They were baptised at St Alphege, Canterbury, children of Benjamin Smith and Elizabeth Wootton (married 1734 St Andrews), and Elizabeth married Edward Burgess (1726-1807), a Freeman silk weaver, at St Alphege in 1765. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_-_St_Alphege.jpg/manifest.json">
@@ -25,7 +25,7 @@ In 1762 an Edward Burgess, living near the Eight Bells, St Alphege, now 43 King 
 <br/><br/>
 ELIZABETH BURGESS, MANTUA-MAKER, FROM St. ALPHAGE’S, TAKES this Opportunity to inform her Friends, that she has taken the House of Mr Farr, in St. GEORGE’S, CANTERBURY: Where she continues to make, as usual, all Sorts of SACKS, SLIPS, and GOWNS, after the newest Fashion. – She hopes the Ladies will continue their Favours, which will be gratefully acknowledged, By their humble Servant E. BURGESS.<br/><br/>
 Genteel Lodgings to be Let ready-furnish’d, during the Race-week
-<param attribution="Edward Crowther" label="43, King Street" url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" ve-image=""/>
+<param attribution="Edward Crowther" label="43, King Street" url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" ve-image/>
 
 In 1772 [Kentish Gazette](/18c/18c-kentish-gazette) advises that Mr Burgess next door to the Post Office is selling tickets for the Theatre (Post Office then in St George’s Street and described in 1794 as ‘Opposite the White Friars Gateway by St George’s Church’ but probably from 1768 till about 1790 between the Corn Market (now Longmarket) and Butchery Lane), and in the same year the following appears:
 <br/><br/>
@@ -34,7 +34,7 @@ Those Gentlemen and Ladies who please to favor her with their Commands, may be s
 In the neatest and genteelest Manner, and their Favors gratefully acknowledged.<br/>
 RICH SOUPS ready every MONDAY, WEDNESDAY, and FRIDAY, from Twelve till Two.
 TURTLE-SOUP on MONDAY next.
-<param attribution="Edward Crowther" label="View from Whitefriars looking towards the St George's Clock tower" url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" ve-image=""/>
+<param attribution="Edward Crowther" label="View from Whitefriars looking towards the St George's Clock tower" url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" ve-image/>
 
 Meanwhile Edward and Elizabeth had at least four children: Edward 1765, George 1770, Thomas 1773, William Smith 1778.
 <br/><br/>
@@ -53,7 +53,7 @@ For the next twenty years any further literary output is unknown. _The Thespian 
 A family website, no longer live, advised that:
 <br/><br/>
 ‘My great grandmother was privately a very charitable woman as far as her means would allow.  Among other cases I have heard, that she was so kind to the poor French prisoners of war, that when they were released by exchange, they desired to be marched past her house and cheered her calling out in both languages “God Bless Mrs. Burgess”.  I believe my father witnessed the above.  Being a good cook, she knew how to make French soups and also provided them with soup and the ingredients for them to make that and other French dishes.  She used to entertain some of the officers on parole at her house and kept good society.’
-<param attribution="Canterbury in the Olden Time by John Brent, 1879" label="St George's Gate" url="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" ve-image=""/>
+<param attribution="Canterbury in the Olden Time by John Brent, 1879" label="St George's Gate" url="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" ve-image/>
 
 The same site advised that she was very tall (around 6ft) and lends credence to a pleasing self-mockery of her own ‘awkwardness’ in her Prologue to ‘The Oaks’:
 <br/><br/>
@@ -69,15 +69,15 @@ Quite impolite – her education common.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Old_woman_scouring_a_cooking_pot_in_front_of_large_kitchen_fire._Lady_handing_menu%28%3F%29_to_cook_LCCN2002705911.jpg/manifest.json">
 
 Then in 1805 she published a book called _The Life and History of Betty Bolaine_ – a notorious miser who had just died aged 85. It sold well and went through several editions over the next 30 years. Elizabeth (Betty) Bolaine was sister to a well-regarded Canterbury surgeon and apothecary Noah Bolaine, who in 1753 published a repost to Mr Delafaye’s, Rector of St Mildreds and All Saints, denial of the efficacy of inoculation in the prevention of smallpox. The account of her life runs to over 60 pages including illustrative verse by Elizabeth Burgess. On reading it one cannot but be horrified by Betty’s avarice, but perhaps there is also a streak of admiration for another woman determined like Elizabeth to do her own thing. They were not alone. Mrs Sarah Baker, who managed an East Kent Company of Actors and built the new Canterbury Theatre in Orange-Street that opened in time for Race Week on 24th August 1789, was another.
-<param attribution="© Martin Crowther" label="Site of Mrs Baker's Canterbury Theatre" url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" ve-image=""/>
-<param center="Q26534254" ve-map="" zoom="15"/>
+<param attribution="© Martin Crowther" label="Site of Mrs Baker's Canterbury Theatre" url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" ve-image/>
+<param center="Q26534254" ve-map zoom="15"/>
 
 The _Kentish Gazette_ records Elizabeth Burgess's death in 1825 with the following words:
 <br/><br/>
 ‘Aged 88. Blessed with a strong mind, the deceased, many years ago, produced a satirical piece, called _The Maid of the Oaks_,* which was acted on our stage. The incidents, on the first representation, being known to the audience, it received considerable applause: a few years since, it was again performed, but the love for scandal, and allusion to the parties, having diminished with the growth of time, the prominent features of the play were lost — At the death of a female, familiarly known by the name of _Betty Bolaine_, Mrs. B. again exerted her talents, in writing a history of the old lady's life, and depicting, in very glowing colours, her penurious and eccentric manners. Implicit faith was placed upon this production; although it was known that the writer pretty liberally bestowed vituperation upon her names, in consequence of the disappointments she experienced in not participating in the wealth which the old niggard had amassed.—The work had a great sale. Mrs. B. for many years was in the habit of selling cakes in the city, and latterly kept a registry-office for servants.’
 <br/><br/>
 *The Maid of the Oaks was a different play; it should read The Oaks.
-<param label="Woodcut illustrating St George's Church with St George's Gate in the distance" url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" ve-image=""/>
+<param label="Woodcut illustrating St George's Church with St George's Gate in the distance" url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" ve-image/>
 
 ### Bibliography
 

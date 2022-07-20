@@ -1,10 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Gertrude Warden (Gertrude Isabel Price) (1859-1925)" ve-config=""/>
+<param author="Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Gertrude Warden (Gertrude Isabel Price) (1859-1925)" ve-config/>
 
-<param aliases="Sandgate" eid="Q1000312" ve-entity=""/>
-<param aliases="Hythe" eid="Q967166" ve-entity=""/>
-<param aliases="Lympne" eid="Q2056118" ve-entity=""/>
-<param aliases="Sandling" eid="Q1863660" ve-entity=""/>
+<param aliases="Sandgate" eid="Q1000312" ve-entity/>
+<param aliases="Hythe" eid="Q967166" ve-entity/>
+<param aliases="Lympne" eid="Q2056118" ve-entity/>
+<param aliases="Sandling" eid="Q1863660" ve-entity/>
 
 #
 
@@ -31,12 +31,12 @@ In the novel, Adrian Hervey, an unwell artist, heads to Kent on the recommendati
 On arrival at the railway station in Cranling (a hybrid of Cranbrook and Sandling) Hervey has to “tramp it two miles and a half to the village of Lythinge on the brow of the hill.”[^ref11] It is likely the village is Lympne as the description of the church with its “short square tower” crowns the summit of a grassy hill, and is two and a half miles to Sandling. Hervey stands “for over an hour gazing over the wide-spreading marshes to the angry line of the sea beyond. And the charm and strangeness of the place sank deep into my heart”.[^ref12]  It is possible Gertrude had sought solace in the countryside after the death of her husband and that she is describing her feelings here.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_Stephen%2C_Lympne%2C_Kent_-_geograph.org.uk_-_326052.jpg/manifest.json">
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sandling_Junction_station_%28postcard%29.jpg/manifest.json">
-<param center="Q7416406" ve-map="" zoom="15"/>
+<param center="Q7416406" ve-map zoom="15"/>
 
 According to the landlady at the Rose and Crown, where Hervey stays, “Life at Lythinge was ‘so dull’ she complained, and her former existence in a tiny marsh hamlet was one of wild dissipation and delight by comparison, barring the ague.” [^ref13].  The hotel is not all it was cracked up to be and the landlady stood in dread of the “occasional soldiers who came over from Sandhythe” These would have been the soldiers at the School of Musketry in Hythe.
-<param label="School of Musketry, Hythe" url="https://stor.artstor.org/stor/4ef7a1d3-e56d-464b-a53e-af0841504286" ve-image=""/>
-<param attribution="Michelle Crowther" label="Hythe Military Canal" url="https://stor.artstor.org/stor/99116851-20a9-4b76-8cb3-7ddce7a43d3b" ve-image=""/> 
-<param center="Q967166" ve-map="" zoom="15"/>
+<param label="School of Musketry, Hythe" url="https://stor.artstor.org/stor/4ef7a1d3-e56d-464b-a53e-af0841504286" ve-image/>
+<param attribution="Michelle Crowther" label="Hythe Military Canal" url="https://stor.artstor.org/stor/99116851-20a9-4b76-8cb3-7ddce7a43d3b" ve-image/> 
+<param center="Q967166" ve-map zoom="15"/>
                                                                                                                                                      
 Warden’s description of the area suggests that she had visited Lympne, as it is intimate and not styled on a travel book description: “a vast panorama of marshland, intersected by canals and dotted here and there by tiny villages, bordered by a row of Martello towers, which looked at this distance like children’s overturned sand pails and the sea.” [^ref14]  She said in her earlier interview in the Sketch: “Locality has a great effect on me. What I mean is that an old castle, or a moated grange at once seem peopled by a variety of characters as I walk round the building; but I never want to go inside – the interior I prefer to invent; the exterior I generally describe in detail.”[^ref15] 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Port_Lympne_%2837%29.JPG/manifest.json">
@@ -47,8 +47,8 @@ As Hervey walks, we can imagine Gertrude’s daily outings as she comes to terms
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:St_Stephen%2C_Lympne_2.JPG/manifest.json">
 
 In the story, Hervey becomes enchanted by Lilith, a young girl of about 15 who “appeared at first more like a fairylike emanation of the sunset than a living and breathing creature.”[^re17] He marries her but she deserts him, after spending all his money. Escaping London and its gossips, he moves into the old French House, Lythinge (Based on the French House, Lympne which was later owned by Sir Philip Sassoon) .  At the end of the book, Hervey, now a broken man, ponders upon the fifteen months he “watched the changing seasons over the marshes, hugging my sorrow and living upon memories.” [^ref18]. 
-<param attribution="British library, public domain" label="Illustration on the front cover of The Wooing of a Fairy" url="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" ve-image=""/>
-<param center="Q2056118" ve-map="" zoom="15"/>
+<param attribution="British library, public domain" label="Illustration on the front cover of The Wooing of a Fairy" url="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" ve-image/>
+<param center="Q2056118" ve-map zoom="15"/>
 
 It is unlikely that Gertrude’s stay in Kent was as long as her protagonist's, but her sorrow was probably as real. In 1899 she married Auguste Devot de Quillacq, a long-standing family friend, who was 18 years older than her and they moved to Monaco, where she enjoyed life on the Riviera and became acquainted with [Baroness Orczy](/20c/20c-orczy-biography).[^ref19] She was a member of the Women's Writers' Suffrage League, along with [Sarah Grand](/19c/19c-grand-biography)
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Baroness_Emma_Orczy_%28Bassano%29.jpg/manifest.json">

@@ -1,10 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Susan Civale" banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc" layout="vtl" title="Jane Austen, Canterbury" ve-config=""/>
+<param author="Susan Civale" banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc" layout="vtl" title="Jane Austen, Canterbury" ve-config/>
 
-<param aliases="Godmersham Park" eid="Q17529295" ve-entity=""/>
-<param aliases="Rowling House" eid="Q26324024" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Canterbury Cathedral" eid="Q29265" ve-entity=""/>
+<param aliases="Godmersham Park" eid="Q17529295" ve-entity/>
+<param aliases="Rowling House" eid="Q26324024" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Canterbury Cathedral" eid="Q29265" ve-entity/>
 
 Jane Austen frequently visited Canterbury between 1794 and 1813 whenever she was staying with her brother Edward Austen-Knight, who lived nearby (first at Rowling House, and later at Godmersham Park).  Foremost among the social calls that Austen made in Canterbury were those to Edward’s adoptive mother, Catherine Knight.  Mrs Knight, as she was called by Austen, moved from Godmersham Park to White Friars in Canterbury in 1798.  Jane and her sister Cassandra had a close relationship with Mrs Knight, who was fond of both sisters and showed an interest in Jane’s writing.  In early 1811, she eagerly awaited the publication of _Sense and Sensibility_, and asked Cassandra about the novel’s progress when Jane was absent.  Austen also made other social calls around [Canterbury](/19c/19c-canterbury/) and in the Cathedral precincts.  One family who resided in [Canterbury](/19c/19c-canterbury/), the widowed Mrs. Charles Milles and her daughter Molly, are likely to have been the real-life models for the characters of Mrs. and Miss Bates in _Emma_ (1815).[^ref1]  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Jane_Austen_1870.jpg/manifest.json">
@@ -13,13 +13,13 @@ Austen and her family also made the most of the other attractions [Canterbury](/
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_Cathedral%2C_Central_Tower%2C_South_Transept_%26c._engraved_by_J.LeKeux_after_a_picture_by_G.Cattermole%2C_1821_edited.jpg/manifest.json">
 
 The [Canterbury](/19c/19c-canterbury/) gaol also numbers among Canterbury places that Austen went to see.  Escorted by her brother Edward, who was inspecting it in his capacity as a visiting magistrate, Austen toured the Canterbury gaol in 1813, five years after it opened in 1808.  She alludes to the unspeakable experience in a letter to her sister, remarking that she “went through all the feelings which people must go through, I think, in visiting such a building”.[^ref3]  
-<param attribution="Michelle Crowther" label="Canterbury Gaol" url="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" ve-image=""/>
+<param attribution="Michelle Crowther" label="Canterbury Gaol" url="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" ve-image/>
 
 ### Bibliography
 
 Harris, Jocelyn, “Jane Austen and the Subscription List to Camilla (1796).” _Persuasions Online_ 35:1 Winter 2014.
 Selwyn, David.  _Jane Austen and Leisure_. London: Hambledon Press, 1999.  
-<param attribution="Martin Crowther" label="Bridge leading to Godmersham Park" url="https://stor.artstor.org/stor/d1a32d46-90e4-4b12-81b5-c66c2c27322b" ve-image=""/>
+<param attribution="Martin Crowther" label="Bridge leading to Godmersham Park" url="https://stor.artstor.org/stor/d1a32d46-90e4-4b12-81b5-c66c2c27322b" ve-image/>
 ### References
 
 [^ref1]: Harris.   

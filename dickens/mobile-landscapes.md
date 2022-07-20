@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Ken Moffat and Carolyn W. de la L. Oulton" banner="images/Viking_Bay_Broadstairs.jpg" layout="vtl" title="Mobile Landscapes" ve-config=""/>
+<param author="Ken Moffat and Carolyn W. de la L. Oulton" banner="images/Viking_Bay_Broadstairs.jpg" layout="vtl" title="Mobile Landscapes" ve-config/>
 
 <param eid="Q29303" title="Broadstairs"/>
 <param eid="Q922739" title="Canterbury"/>
@@ -11,13 +11,13 @@
 <param eid="Q949561" title="Cobham"/>
 <param eid="Q5686" title="Charles Dickens"/>
 <param aliases="the village|the town" eid="Q5068781" title="Chalk"/>
-<param aliases="the marshes" article="/articles/Cooling_marshes.md" fill-opacity="0.4" geojson="/geojson/marshes.json" label="Cooling Marshes" ve-entity=""/>
-<param geojson="/geojson/david-copperfield-dover-road" title="Dover Road" ve-entity=""/>
+<param aliases="the marshes" article="/articles/Cooling_marshes.md" fill-opacity="0.4" geojson="/geojson/marshes.json" label="Cooling Marshes" ve-entity/>
+<param geojson="/geojson/david-copperfield-dover-road" title="Dover Road" ve-entity/>
 <param article="/articles/Estella.md" eid="Q5400904" title="Estella"/>
 <param eid="Q179224" title="Dover"/>
 <param eid="Q375314" title="Folkestone"/>
 <param eid="Q676689" title="Gravesend"/>
-<param aliases="Joe" article="/articles/Joe.md" label="Joe Gargery" ve-entity=""/>
+<param aliases="Joe" article="/articles/Joe.md" label="Joe Gargery" ve-entity/>
 <param aliases="Guildhall" eid="Q15272878" title="Guildhall"/>
 <param aliases="Magwitch" article="/articles/Magwitch.md" eid="Q4666596" title="Abel Magwitch"/>
 <param article="/articles/Miss_Havisham.md" eid="Q3316519" title="Miss Havisham"/>
@@ -27,25 +27,25 @@
 <param eid="Q26377461" title="Satis House"/>
 
 <!-- Kent with map centered at Rochester -->
-<param center="Q1094104" ve-map="" zoom="10"/>
+<param center="Q1094104" ve-map zoom="10"/>
 
 <!-- Historical map layers -->
-<param mapwarper="" mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer=""/>
+<param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/>
 
 **Welcome to Dickens Land!**   
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Dickens_Land_books.jpg/manifest.json">
 
 Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At Gravesend we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the sea? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
-<param attribution="by kind permission of Patrick Marrin" label="Baynes's Map of the Environs of Gravesend, 1864" url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" ve-image=""/>
-<param center="Q676689" ve-map="" zoom="10"/>
+<param attribution="by kind permission of Patrick Marrin" label="Baynes's Map of the Environs of Gravesend, 1864" url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" ve-image/>
+<param center="Q676689" ve-map zoom="10"/>
 
 **The adventure begins**   
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](//dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where Pip first meets Magwitch. Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
-<param attribution="Benjamin Mortley" label="Swiss Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image=""/>
+<param attribution="Benjamin Mortley" label="Swiss Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image/>
 
 Enter the literary tour guide – portable, readable and the inspiration for this account of our own peregrinations. From the 1880s onwards guides to Dickens’s Kent provided helpful advice on where to go, how to get there, and what to feel on arrival. The more enterprising, such as Robert Allbut’s 1886 _Rambles in Dickens-Land_, even included helpful extracts from the novels so that the literary pilgrim could orient themselves on arrival. But 150 years after Dickens’s death, what is it like to revisit these places, tracking both the author and his characters where he has told us we will find them, to read the books in the places where they are set? And what does it mean to engage in this apparently naïve activity with someone else who is also old enough to know better?
-<param attribution="Benjamin Mortley" label="Rochester High Street" url="https://stor.artstor.org/stor/2cfcb41f-c781-4914-96e3-48310cb5c5c4" ve-image=""/>
+<param attribution="Benjamin Mortley" label="Rochester High Street" url="https://stor.artstor.org/stor/2cfcb41f-c781-4914-96e3-48310cb5c5c4" ve-image/>
 
 Much like authors William Hughes and Frederic Kitton, who visited Kent around 1890 looking for Dickens Land, we began with considerable enthusiasm, vague expectations and a delicious sense that we could ramble around the countryside pretending to be fictional characters and legitimately call it work.   
 In this frame of mind it was inevitable that we should see Dickens everywhere. And it is only fitting that comestibles should have featured prominently – he invented ‘the fat boy’, we did not. What we had not foreseen was how these forays would transform not us alone, but the landscape itself. Landladies and local officials, unimpressed toddlers and workers on the roads – all were co-opted into our imaginative panorama, flickering across the scene at the oddest moments. ‘Like something from Dickens’ became a key marker of approbation for our more eccentric encounters.  And the places where these things befell us somehow became different, hyper real. No longer small country towns, but focused stage sets, where anything might happen. Leaving Rochester one autumn afternoon we finally got it.
@@ -56,8 +56,8 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 &gt; _Dickensed it of course._    
 <br/>
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
-<param attribution="Benjamin Mortley" label="Benjamin High Street" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image=""/>
-<param center="Q729006" ve-map="" zoom="10"/>
+<param attribution="Benjamin Mortley" label="Benjamin High Street" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image/>
+<param center="Q729006" ve-map zoom="10"/>
 
 **David Copperfield**   
 What we are calling [David Copperfield: a curated walk](/dickens/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs](/dickens/broadstairs).
@@ -65,7 +65,7 @@ What we are calling [David Copperfield: a curated walk](/dickens/david-copperfie
 
 **Broadstairs**   
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens/dickens-fort-house) ), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens/david-copperfield-nuckells-place)  (it’s meant to be in [Dover](/dickens/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House](/dickens/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
-<param attribution="©Martin Crowther" primary="" title="Dickens Museum" url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" ve-image=""/>
+<param attribution="©Martin Crowther" primary title="Dickens Museum" url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" ve-image/>
 
 All three buildings are within sight of each other at Broadstairs, and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'[^ref1](Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/HassamHIGHRES.jpg/manifest.json">
@@ -74,10 +74,10 @@ The museum parlour is a complete reconstruction of the room where David is rando
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Dickens_House_PH.png/manifest.json">
 
 It is a far cry from the grandeur of [Fort House](/dickens/dickens-fort-house), where Dickens wrote part of the novel and where he had Wilkie Collins and other friends to stay. When we went a chirpy billboard suggested that visitors should come in and see Dickens’s study and then recover from the emotion with a cream tea. 
-<param attribution="©Carolyn Oulton" title="Cream tea" url="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" ve-image=""/>
+<param attribution="©Carolyn Oulton" title="Cream tea" url="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" ve-image/>
 
 We had of course planned to have lunch at the Albion, but like Dickens when the hotel’s kitchen boy made off with the last of the cold chicken, we were thwarted by circumstances. And if we had not gone to Wyatt and Jones instead, we might never have thought to go for the pie (wrong novel but who cared), nor would we have met the man at the window table who sat and beamed like Dr Strong, almost certainly without seeing us. We got lost on the way back, of course we did. But we were still [singing](https://www.allmusic.com/album/the-music-of-dickens-and-his-time-mw0001474408) when we reached Canterbury. 
-<param attribution="©Michelle Crowther" label="Albion Hotel, Broadstairs" url="https://stor.artstor.org/stor/079a54df-5a5a-484f-9ebe-3bc9fa0f031b" ve-image=""/>
+<param attribution="©Michelle Crowther" label="Albion Hotel, Broadstairs" url="https://stor.artstor.org/stor/079a54df-5a5a-484f-9ebe-3bc9fa0f031b" ve-image/>
 
 **Canterbury**   
 Our next adventure began in the Canterbury Christ Church University library, where we had a date with the 12 volume Pilgrim edition of Dickens’s letters. A few minutes after the time appointed came a sound like the trademark tapping of Long John Silver’s stick, followed by the mysterious greeting, ‘Wasp. Way here. Leg.’ 
@@ -89,19 +89,19 @@ At this point the narrative is interrupted while a brief debate ensues:
 &gt; _We’re in the middle of a library, for [unprintable epithet] sake._
 <br/><br/>
 Spot which one of us went to boarding school as a child (bath nights Wednesday and Sunday, three at a time, one bar of soap. Since you ask). Silver resolves the issue by seizing the spray, then disappears for a few minutes and hobbles determinedly back.  Narrative resumes.
-<param attribution="©Michelle Crowther" label="Augustine House Library" url="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" ve-image=""/>
+<param attribution="©Michelle Crowther" label="Augustine House Library" url="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" ve-image/>
 
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
-<param attribution="©Michelle Crowther" title="Augustine House interior" url="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" ve-image=""/>
+<param attribution="©Michelle Crowther" title="Augustine House interior" url="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" ve-image/>
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
-<param label="Lady Wootton's Green, Canterbury, 2021" url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" ve-image=""/>
+<param label="Lady Wootton's Green, Canterbury, 2021" url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" ve-image/>
 
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 <br/><br/>
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
-<param attribution="Nat Lowden and Sara Gelencer" label="The House of Agnes" url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" ve-image=""/>
+<param attribution="Nat Lowden and Sara Gelencer" label="The House of Agnes" url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" ve-image/>
 
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Abode_Hotel_Canterbury.jpg/manifest.json">
@@ -111,11 +111,11 @@ Chaucer’s pilgrims, may we remind ourselves, never get anywhere near Canterbur
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens//manifest.json">
 
 Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
-<param attribution="©Martin Crowther" label="3, Albion Villas, Folkestone" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image=""/>
+<param attribution="©Martin Crowther" label="3, Albion Villas, Folkestone" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image/>
 
 **Chalk**   
 In [Broadstairs](/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens/dickens-dover)), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
-<param attribution="©Martin Crowther" label="Victoria Parade, Broadstairs" url="https://stor.artstor.org/stor/1807d34b-a40f-4979-95a8-fee341c98aa5" ve-image=""/>
+<param attribution="©Martin Crowther" label="Victoria Parade, Broadstairs" url="https://stor.artstor.org/stor/1807d34b-a40f-4979-95a8-fee341c98aa5" ve-image/>
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Chalk_Church%2C_Kent.jpg/manifest.json">
@@ -126,17 +126,17 @@ But the real stumbling block was Joe Gargery’s forge. In our determination not
 **Cooling**   
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Cooling churchyard.jpg/manifest.json">
-<param center="Q2649453" ve-map="" zoom="10"/>
+<param center="Q2649453" ve-map zoom="10"/>
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from Gravesend. We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/dickens/Ship and Lobster.JPG/manifest.json">
-<param center="Q676689" ve-map="" zoom="10"/>
+<param center="Q676689" ve-map zoom="10"/>
 
 Pies. We’d been opting for them consistently since [Broadstairs](/dickens/broadstairs). ‘I’m sorry to say I’ve eat your’ - by now it would have felt like treachery to order anything else. This one came with chips or alternatively, was it salad? The juke box was new since Magwitch’s day, the paint job possibly not. But the landlady herself had so clearly stepped out of (whichever Dickens novel you like) and our need of wittles was by this point so intense, that we were by no means inclined to be critical.
 <br/><br/>
 It was just as well we had refreshed ourselves, because what happened next could have been serious. Where we were was anyone’s guess, but the last words either of us can remember were:   
 &gt; _Hurrah, a fjord – I love fjords!_  
-<param attribution="Michelle Crowther" label="Pies" url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" ve-image=""/>
+<param attribution="Michelle Crowther" label="Pies" url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" ve-image/>
 
 And then we stalled right in the middle of it, on one of those bends that only the designers of narrow country lanes know how to dream up.   
 &gt; _So I’m going to be spending the next twelve hours stuck in a car with you somewhere in the Medway?_  
@@ -150,20 +150,20 @@ The next half hour was spent in restrained disagreement over whether to rev the 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:A_Kentish_byway_in_Autumn_-_geograph.org.uk_-_1025007.jpg/manifest.json">
 
 The temporal gap between lunch at the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) and a substantial cream tea at the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) in Cobham  may seem to the reader inadequate. All we can suggest is that the reader gets stuck in a fjord for half an hour and sees how they like it. Besides, the [Leather Bottle](/dickens/pickwick-papers-leather-bottle) is a living museum of Dickensiana, from newspaper cuttings to cigarette cards. It would have been a crime to miss it out. Sitting at a corner table, listening to the chuckling of the teapot over china cups, while peering myopically over each other’s heads the better to read framed autographs and old advertisements — there was no need to say another word.
-<param attribution="Benjamin Mortley" title="Cobham, Kent: The Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image=""/>
-<param center="Q949561" ve-map="" zoom="10"/>
+<param attribution="Benjamin Mortley" title="Cobham, Kent: The Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image/>
+<param center="Q949561" ve-map zoom="10"/>
 
 **Great Expectations Part 2. Rochester**     
 As so often in Dickens, Magwitch’s sousing in the River Medway carries overtones of baptism and renewal. Possibly also vial’s disease (the fjord incident could have been worse after all) and one of us had school on Monday.    
 So for our next foray we carefully avoided the river and set off in search of Estella via the 'Blue Boar' otherwise the [Bull Inn](https://www.rvbhotel.com/).  
 <br/><br/>
 Whenever he leaves the forge Pip is confronted with a choice between the marshy expanse of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
-<param attribution="Benjamin Mortley" fit="cover" title="Bull Hotel" url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" ve-image=""/>
+<param attribution="Benjamin Mortley" fit="cover" title="Bull Hotel" url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" ve-image/>
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 <br/><br/>
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/dickens/great-expectations-restoration-house). 
-<param attribution="Benjamin Mortley" title="Restoration House" url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" ve-image=""/>
+<param attribution="Benjamin Mortley" title="Restoration House" url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" ve-image/>
 
 [‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
 <br/>
@@ -233,7 +233,7 @@ To add to that, looking for the ‘original’ place known only from a novel –
 Dickens is prone to moving places around; as a successful London author David tells us that he can ‘be’ in [Dover](/dickens/dickens-dover) again just by remembering it, ‘As I laid down my pen, a moment since, to think of it, the air from the sea came blowing in again’.  But reading Dickens literally ‘in place’ is particularly rewarding, not least as an acute reminder of how environment becomes character in his novels. Again and again landscape is mobilised to trap, rescue or change characters. To walk through these places, book in hand, can make us feel closer to generations of Davids and Pips, to the friendly strangers of our own chance encounters, and maybe even to each other. 
 <br/><br/>
 Carolyn talks to Katie Holdway about the research behind 'Mobile Landscapes' in a podcast for the Dickens Society [here](https://soundcloud.com/the-dickens-society?fbclid=IwAR3Vja7DvYKYBZYHbCti9pbGSOZGXkdPxPfIvvnWEUDwRDgidvy3R1xspjE)
-<param attribution="©Martin Crowther" label="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" url="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" ve-image=""/>
+<param attribution="©Martin Crowther" label="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" url="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" ve-image/>
 
 **Bibliography**   
 Allbutt, R. (1886) _Rambles in Dickens land_   

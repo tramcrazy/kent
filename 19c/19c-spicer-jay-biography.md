@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg" layout="vtl" title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" ve-config=""/>
+<param author="Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/6/60/Sandgate_Castle.jpg" layout="vtl" title="Edith Katherine Spicer Jay (6 March 1847- 3 December 1901)" ve-config/>
 
-<param aliases="Shorncliffe Barracks" eid="Q26627906" ve-entity=""/>
-<param aliases="Shorncliffe Camp" eid="Q7501508" ve-entity=""/>
+<param aliases="Shorncliffe Barracks" eid="Q26627906" ve-entity/>
+<param aliases="Shorncliffe Camp" eid="Q7501508" ve-entity/>
 
 #
 
@@ -12,10 +12,10 @@ Edith Katherine Spicer Jay, a writer of popular military tales, lived in [Sandga
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sandgate%2C_Kent_%28BM_1892%2C0714.10%29.jpg/manifest.json"> 
 
 Although Edith had written stories from a child, it was only 'when, after a tolerably varied experience of men and things, sick and well, bad and good she found herself on her couch for the remainder of her days' that she began to write for publication.[^ref2]  Crippled with rheumatoid arthritis, she bought a house at Sandgate, a coastal village 'which prides itself on its amount of sunshine and its considerable immunity from sea-fogs'[^ref3] and it was here at Channel Bower, The Riviera Sandgate, that she wrote 18 novels of military adventure as well as stories for _Young Woman_ magazine. Within a few years, Sandgate was hailed as the 'author's haven of repose', being the home of writers such as [H.G. Wells](/20c/20c-wellshg-biography), Mrs Croker and Henry Hamilton.[^ref4]
-<param attribution="Martin Crowther" label="The Riviera, Sandgate" url="https://stor.artstor.org/stor/f4aec845-49aa-4dc4-8005-34516f95e7ad" ve-image=""/>
+<param attribution="Martin Crowther" label="The Riviera, Sandgate" url="https://stor.artstor.org/stor/f4aec845-49aa-4dc4-8005-34516f95e7ad" ve-image/>
 
 Given her military connections in London, it was not long before Edith took an active interest in Shorncliffe Barracks, situated not far from her house. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her 'realistic study of military life'[^ref5] such as _The Rip’s Redemption_ (1897); _Scarlet and Steel_ (1897); and _Redcoat Romances_ (1898). Her house was a home from home for the men, where she offered ‘smokes’ and refreshments. The ‘cavalry circle’, as they were known, could enjoy 'good wholesome literature from her well-stocked library', write letters, and listen to music played on her piano and Metzler organ.[^ref6]  She was also involved in men’s sport, being the president of three football and two cricket teams.[^ref7] 
-<param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt., Shorncliffe Camp" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image=""/>
+<param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt., Shorncliffe Camp" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image/>
 
 Many of Edith’s novels are set in barracks such as the Wellington Barracks, Westminster, the Regent’s Park Barracks and Hounslow, revealing how active she had been in military life before her life in Kent.  There is little sense of her adopted county in these novels, although there are glimpses in some of her other works. _The Apotheosis of Mr Tyrawley_ (1895), for example, is set in a fictional Claretown where the eponymous hero strikes out 'across a parade, down on to the solitary beach. All along the sea-front lights were flashing from the great terraces – dinner parties, home circles, gatherings. Carriages rattling along the wind-swept road; for winter is the season at Claretown.'[^ref8] We will never know whether this was inspired by the Kentish coast, but we can sense it as 'the wind sweeping from the downs cut like a knife, and the autumn mists lay low and chill.'[^ref9] 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:General_view_Sandgate_England.jpg/manifest.json">
@@ -24,7 +24,7 @@ In later years Edith could be seen being pushed along in a bath chair by her sec
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_promenade_Sandgate_England.jpg/manifest.json">
 
 She died on the 3rd December 1901 and was buried with military honours at Shorncliffe Camp. The hearse bearing her coffin was draped with the union flag and followed by a procession of Coastguards and Cavalry. The string band of the Dragoons played the funeral march.[^ref10] 
-<param attribution="Kent Maps Online Postcard Collection" label="Shorncliffe Camp" url="https://stor.artstor.org/stor/290a020f-939a-4095-afcb-7b7c33f19237" ve-image=""/>
+<param attribution="Kent Maps Online Postcard Collection" label="Shorncliffe Camp" url="https://stor.artstor.org/stor/290a020f-939a-4095-afcb-7b7c33f19237" ve-image/>
 
 
 ### References

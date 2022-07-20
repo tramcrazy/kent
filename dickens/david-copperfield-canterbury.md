@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Professor Carolyn Oulton" banner="images/banner/19c.jpg" layout="vtl" title="Dickens and Canterbury" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="images/banner/19c.jpg" layout="vtl" title="Dickens and Canterbury" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
 
 **Publication** _David Copperfield_ (1850)
 
@@ -11,21 +11,21 @@ _David Copperfield_
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,[^ref1]
-<param attribution="Unknown" curtain="" label="House of Agnes" license="No known copyright" url="https://stor.artstor.org/stor/0da84cd3-3704-45d2-b301-bb44a60a7d45" ve-compare=""/>
-<param attribution="Nat Lowden and Sara Gelencer" label="House of Agnes, 2021" license="In Copyright" url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" ve-compare=""/>
+<param attribution="Unknown" curtain label="House of Agnes" license="No known copyright" url="https://stor.artstor.org/stor/0da84cd3-3704-45d2-b301-bb44a60a7d45" ve-compare/>
+<param attribution="Nat Lowden and Sara Gelencer" label="House of Agnes, 2021" license="In Copyright" url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" ve-compare/>
   
 It is here that the Wickfields live and from where David begins his new career as a student at Dr Strong’s Academy, widely believed to be based on the [King’s School](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/charles-dickens-david-copperfield/). A great relief after Salem House, David describes it as:
 a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot…[^ref2]
-<param attribiton=" By kind permission of Peter Henderson" label="Mint Yard 12079 Kings School" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image=""/>
+<param attribiton=" By kind permission of Peter Henderson" label="Mint Yard 12079 Kings School" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image/>
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’[^ref3]
-<param curtain="" label="St Augustine's College, Canterbury, 2021" url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" ve-compare=""/>
-<param label="St Augustine's College, Canterbury (1905 or earlier)" url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" ve-compare=""/>
+<param curtain label="St Augustine's College, Canterbury, 2021" url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" ve-compare/>
+<param label="St Augustine's College, Canterbury (1905 or earlier)" url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" ve-compare/>
 
 David's first impression though is of ‘the sunny street [Sun Street?] of Canterbury, dozing as it were in the hot light’.[^ref4]   
 Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the Dover Road [Dover Road](/dickens/david-copperfield-dover-road).
-<param attribution="Unknown" curtain="" label="Sun Hotel" license="No known copyright" url="https://stor.artstor.org/stor/540e3df7-9640-4a34-bdd0-0db1e789a285" ve-compare=""/>
-<param attribution="Becca Miller, Charli Salter-Mclean, Chloe Bartolo" label="Sun Hotel, 2021" license="In copyright" url="https://stor.artstor.org/stor/f4b4c004-85c4-4ab4-beeb-6939c4cab796" ve-compare=""/>
+<param attribution="Unknown" curtain label="Sun Hotel" license="No known copyright" url="https://stor.artstor.org/stor/540e3df7-9640-4a34-bdd0-0db1e789a285" ve-compare/>
+<param attribution="Becca Miller, Charli Salter-Mclean, Chloe Bartolo" label="Sun Hotel, 2021" license="In copyright" url="https://stor.artstor.org/stor/f4b4c004-85c4-4ab4-beeb-6939c4cab796" ve-compare/>
  
 Dickens’ relationship with Canterbury was the basis of calls from locals such as A. C. Turley for a local branch of the Dickens Society. But his response is actually somewhat ambivalent. A reader of _David Copperfield_ would revel in the fond, almost loving, evocation of a Cathedral town (compared with the much starker depiction of Cloisterham (Rochester) in [_The Mystery of Edwin Drood_ )](/dickens/edwin-drood-curated-walk), but that is not a feature of his letters or other writings. He bought Cruikshank's _Bottle_ here in 1847, took a friend 'in tow to Canterbury' in 1848.[^ref5] and took his American publisher and his wife on a 'Canterbury Pilgrimage' in 1869.[^ref6] But the only obviously affectionate reference to the city is in his appreciation of the warmth of the crowd at a reading he gave at the Guildhall, in a letter to his daughter from the now destroyed Fountain Hotel.    
 Other landmarks still recognisable in the city include The Abode Hotel, (see [Mobile Landscapes](/dickens/mobile-landscapes) almost certainly the hotel Mr Dick stays in on his frequent visits to the city.   

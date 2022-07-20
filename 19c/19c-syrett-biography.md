@@ -1,8 +1,8 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Dr Alyson Hunt" banner="https://upload.wikimedia.org/wikipedia/commons/c/c0/Dream_days_%281922%29_%2814773133082%29.jpg" layout="vtl" title="Netta Syrett  (17 March 1865-15 December 1943)" ve-config=""/>
+<param author="Dr Alyson Hunt" banner="https://upload.wikimedia.org/wikipedia/commons/c/c0/Dream_days_%281922%29_%2814773133082%29.jpg" layout="vtl" title="Netta Syrett  (17 March 1865-15 December 1943)" ve-config/>
 
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Harbour Street" eid="Q26321366" ve-entity=""/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Harbour Street" eid="Q26321366" ve-entity/>
 
 #
 
@@ -10,10 +10,10 @@
 Writer and playwright Netta [Janet] Syrett was born at 23, Harbour Street, [Ramsgate](/dickens/19c-ramsgate) in 1865 and  lived in the town to aged eleven, when she was sent off to school. Her connection with [Ramsgate](/dickens/19c-ramsgate) seems to have had little impact on her life though her memoirs record a happy childhood in a relatively prosperous family. She was the eldest of eleven children (two of her sisters, Mabel and Nellie (Ellen) Syrett became renowned artists who illustrated her works) and niece to the prolific writer and journalist Grant Allen.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Ramsgate_Marina_-_geograph.org.uk_-_1907412.jpg/manifest.json">
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Portrait_of_Grant_Allen_by_Walery.jpg/manifest.json">
-<param center="Q26321366" ve-map="" zoom="15"/>
+<param center="Q26321366" ve-map zoom="15"/>
 
 She wrote 38 novels, 20 children’s books, 4 plays and 18 short stories which were published in many of the popular periodicals of the period. She is now particularly remembered as a New Woman writer for her depictions of independent heroines who reject traditional Victorian gender roles and through her contributions to _The Yellow Book_. She recorded her memoirs in _The Sheltering Tree_ in 1939.
-<param attribution="MWS, Shaun Mudd and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)" label="Magic London, by Netta Syrett" url="https://www.gutenberg.org/files/65490/65490-h/images/cover.jpg" ve-image=""/>
+<param attribution="MWS, Shaun Mudd and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)" label="Magic London, by Netta Syrett" url="https://www.gutenberg.org/files/65490/65490-h/images/cover.jpg" ve-image/>
 
 ## References: 
 Adams, Jad. _English Literature in Transition, 1880-1920_; Greensboro Vol. 62, Iss. 2,  (2019): 206-243.   

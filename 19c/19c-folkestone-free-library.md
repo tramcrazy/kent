@@ -1,21 +1,21 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Professor Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg" layout="vtl" title="Folkestone Free Library" ve-config=""/>
+<param author="Professor Carolyn Oulton" banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/West_Cliff%2C_Folkestone%2C_England-LCCN2002696751.jpg" layout="vtl" title="Folkestone Free Library" ve-config/>
 
-<param aliases="Canterbury Museum and Public Library" eid="Q26370404" ve-entity=""/>
-<param aliases="Folkestone Free Library" eid="Q26314337" ve-entity=""/>
-<param aliases="Grace Street" eid="Q107306323" ve-entity=""/>
+<param aliases="Canterbury Museum and Public Library" eid="Q26370404" ve-entity/>
+<param aliases="Folkestone Free Library" eid="Q26314337" ve-entity/>
+<param aliases="Grace Street" eid="Q107306323" ve-entity/>
 
 #
 
 Whilst the Libraries Act of 1850 enabled provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act. Canterbury Museum and Public Library (now The Beaney) opened its doors in 1858, making it the first free library in England.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Canterbury_Library_main_entrance.jpg/manifest.json">
-<param center="Q26370404" ve-map="" zoom="15"/>
+<param center="Q26370404" ve-map zoom="15"/>
 
 Around twenty years later in 1879 the Folkestone Free Library was established on the Bayle,  although the initial catalogue was not published until 1881. The inclusion of blank pages to record any donations, coupled with the distinction between ‘Literature’ and ‘Novels and Fiction’ offers a clue to one of the challenges faced by librarian George Hills – many people objected to fiction being paid for out of public funds. The 1890 catalogue was arranged with the help of a deeply conservative local clergyman, the Rev. Hall, who personally eschewed all novelists later than [Dickens](https://kent-maps.online/dickens). Not surprisingly it has no separate heading for fiction at all.   
 When the library was moved from the Bayle to Grace Street in April 1888, it had the advantage of being in the same building as the town’s museum, and was able to provide a reading room, reference room, committee room and separate ladies’ room. One joker in 1893 suggested that the ‘Silence’ notice must have been hidden in the Ladies’ Reading Room;  nonetheless the library was employing female staff by at least 1896.  
-<param attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence." label="Folkestone Library" url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" ve-image=""/>
-<param center="Q26627877" ve-map="" zoom="10"/>
+<param attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence." label="Folkestone Library" url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" ve-image/>
+<param center="Q26627877" ve-map zoom="10"/>
 
 Determined to maintain its standards, the library had strict regulations, including ‘No person shall be admitted who is in an intoxicated or dirty condition…’  Presumably not for this reason, a separate children’s section was considered unnecessary until the twentieth century.   
 Nor was the open access system adopted until 1910. Before then anyone wanting to borrow a book would have to brave a possibly disapproving librarian, having first consulted the library ‘indicator’. This simple device – dividing titles firmly into categories - showed readers whether a book was available or in use. 

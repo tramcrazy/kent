@@ -1,11 +1,11 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" author="Alice Sellors and Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" layout="vtl" license="CC BY-SA 2.0" title="Edmund Blunden" ve-config=""/>
+<param attribution="Manna Oast, Oast Court, Yalding, Kent by Oast House Archive" author="Alice Sellors and Michelle Crowther" banner="https://upload.wikimedia.org/wikipedia/commons/7/71/Manna_Oast%2C_Oast_Court%2C_Yalding%2C_Kent_-_geograph.org.uk_-_2369693.jpg" layout="vtl" license="CC BY-SA 2.0" title="Edmund Blunden" ve-config/>
 
-<param aliases="“Yalding”" eid="“Q2051722”" ve-entity=""/>
-<param aliases="“Tonbridge”" eid="“Q936183”" ve-entity=""/>
-<param aliases="“Sandgate”" eid="“Q1000312”" ve-entity=""/>
-<param aliases="“Chatham”" eid="“Q729006”" ve-entity=""/>
-<param center="Q2051722" data-map="" zoom="15"/>
+<param aliases="“Yalding”" eid="“Q2051722”" ve-entity/>
+<param aliases="“Tonbridge”" eid="“Q936183”" ve-entity/>
+<param aliases="“Sandgate”" eid="“Q1000312”" ve-entity/>
+<param aliases="“Chatham”" eid="“Q729006”" ve-entity/>
+<param center="Q2051722" data-map zoom="15"/>
 
 #
 
@@ -17,7 +17,7 @@ Edmund Blunden, poet, author and critic, was born on the 1st of November 1896, i
 'Two influences stand out clearly and unmistakably; that of Kent, his native countryside, and that of the war. Mr Blunden is a thorough Kentishman. That probably is why he succeeds so admirably in recreating the very soul and atmosphere of the southern counties.'[^ref3]
 <br/><br/>
 Yalding was to inspire over 50 of his poems[^ref4] including 'Midnight Skaters' (1968) which Webb (1990) described as "a kaleidoscope of Yalding impressions: skaters against a background of hop-gardens, with death itself lurking beneath the surface in place of the pike."[^ref5]
-<param center="Q2051722" ve-map="" zoom="15"/>
+<param center="Q2051722" ve-map zoom="15"/>
 
 In 1904, his parents decided to move to Congelow, a larger property just outside the village to accommodate their growing family. It was a rambling farmhouse with applelofts, dairy and brewery which suited the imaginative boy.[^ref6] However by 1908, due to financial difficulties, the family had to move to cheaper accommodation, living in two cottages next to the Anchor Inn at Twyford Bridge, which Blunden hated.[^ref7] In 1909, he left the village to board at Christ's Hospital School, Horsham, although he experienced waves of homesickness for his beloved Yalding.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:YaldingTwyford0529.JPG/manifest.json">
@@ -40,7 +40,7 @@ Blunden had a complicated personal life, marrying several times and moving frequ
 **Bibliography**   
 Poetry Foundation. 2021. [Edmund Blunden](https://www.poetryfoundation.org/poets/edmund-blunden). Accessed 10 May 2021. 
 My Poetic Side. 2021. [Edmund Blunden Poems](https://mypoeticside.com/poets/edmund-blunden-poems). Accessed 16 June 2021.  
-Banner image: Manna Oast, Oast Court, Yalding, Kent by Oast House Archive, CC BY-SA 2.0 <https: 2.0="" by-sa="" creativecommons.org="" licenses="">, via Wikimedia Commons
+Banner image: Manna Oast, Oast Court, Yalding, Kent by Oast House Archive, CC BY-SA 2.0 <https: 2.0 by-sa creativecommons.org licenses>, via Wikimedia Commons
 
 ### References
 

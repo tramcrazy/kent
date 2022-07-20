@@ -1,8 +1,8 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author=" Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Charlotte Brown Carmichael Stopes (1840-1929)" ve-config=""/>
+<param author=" Michelle Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Charlotte Brown Carmichael Stopes (1840-1929)" ve-config/>
 
-<param aliases="Swanscombe" eid="Q1083051" ve-entity=""/>
-<param aliases="Greenhithe" eid="Q3028239" ve-entity=""/>
+<param aliases="Swanscombe" eid="Q1083051" ve-entity/>
+<param aliases="Greenhithe" eid="Q3028239" ve-entity/>
 
 #
 
@@ -13,7 +13,7 @@ In 1879 she married Henry Stopes, a keen palaeontologist and moved to Upper Norw
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Somer_Francis_Bacon.jpg/manifest.json">
 
 Spending weekdays at her lodgings in Torrington Square, which was conveniently located near the British Museum, the weekends were spent at the Mansion House, Swanscombe “where with her two little girls she rusticates from Friday to Monday as a relief from the work of arduous literary research in London”.[^ref1]  The Mansion House was the Elizabethan Dower house belonging to the Manor of Swanscombe replete with oak panelling and provided a delightful bolt hole for the family who enjoyed “grubbing” around the potato fields and hop furrows for pre-historic flints".[^ref2]
-<param center="Q1083051" ve-map="" zoom="15"/>  
+<param center="Q1083051" ve-map zoom="15"/>  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Quarterly_journal_of_the_Geological_Society_of_London_%2813937160882%29.jpg/manifest.json">
 
 Charlotte’s ground-breaking publication _British Freewomen: Their Historical Privilege_ published in 1894 outlined the historical right of women to vote, arguing that no law existed to prevent them and established her as a prominent, if now often underestimated, member of the suffrage movement.[^ref3] One wonders whether it was written during a frenetic week in London or drafted using a pen dipped into Sir Walter Scott’s 'grubby round inkstand' which she kept on her desk in Swanscombe.[^ref4] 
@@ -26,7 +26,7 @@ The idyll of family life that Sarah Tooley portrayed in the _Women's Penny Paper
 <br/>
 After the death of her husband in 1902 at Hillside, Greenhithe, Charlotte continued his work, giving a talk at the British Association on his discovery of palaeolithic implements at the Shelly gravel pit in Swanscombe.[^ref9] 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Hand_Axe_Sculpture_in_Swanscombe_Heritage_Park_-_geograph.org.uk_-_1417150.jpg/manifest.json">
-<param center="Q3028239" ve-map="" zoom="10"/>
+<param center="Q3028239" ve-map zoom="10"/>
 
 Her daughter Marie, published a study of the botany of the dried-up Fleet river at Ebbsfleet in 1903. She was to go on to found the first birth control clinic in Britain and write _Married Love_ (1918). A biography of Marie's life was subsequently rejected by the committee of [Folkestone Library](/19c/19c-folkestone-free-library) for fears it might contain references to sex and birth control.[^ref10]  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Marie_Stopes_in_her_laboratory%2C_1904.jpg/manifest.json">

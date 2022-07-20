@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Dr Melanie Caiazza" banner="/images/banners/17c.jpg" layout="vtl" title="Sheppey at war in the 17th century" ve-config=""/> 
+<param author="Dr Melanie Caiazza" banner="/images/banners/17c.jpg" layout="vtl" title="Sheppey at war in the 17th century" ve-config/> 
 
-<param aliases="Sheppey" eid="Q1500299" ve-entity=""/> 
-<param aliases="Sheerness" eid="Q1003196" ve-entity=""/>
-<param aliases="Queenborough" eid="Q17643879" ve-entity=""/>
+<param aliases="Sheppey" eid="Q1500299" ve-entity/> 
+<param aliases="Sheerness" eid="Q1003196" ve-entity/>
+<param aliases="Queenborough" eid="Q17643879" ve-entity/>
 
 #
 

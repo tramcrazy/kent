@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Dr Chris Price" banner="/images/banners/19c.jpg" layout="vtl" title="The Catch" ve-config=""/>
+<param author="Dr Chris Price" banner="/images/banners/19c.jpg" layout="vtl" title="The Catch" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
 
 The catch has a long history: ‘Sumer is Icumen In’ dates from the thirteenth century; Shakespeare makes reference to it, and Pepys records singing them socially with friends. Nowadays, we would call such a piece of music a round: in essence, it consists of a single melody, broken up into phrases of equal length (usually three or four), which may be sung not only consecutively, but concurrently. The composer’s skill is then evident, as the underlying harmony becomes audible. In performance, the singers begin the melody in turn, each beginning when the preceding singer reaches the end of the first phrase, and all will simply repeat the melody until, by common consent or musical mishap, all stop. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sumerisicumenharleyms.jpg/manifest.json">
@@ -24,7 +24,7 @@ In the end, none of this could ensure the survival of the glee beyond the end of
 In its heyday, the glee was a rather more demanding genre requiring a level of vocal dexterity and musical training not normally associated with amateur music-making. The men who sang the glees at a Catch Club evening were more likely to be professional singers. Fortunately for [Canterbury](/music/19c-music-canterbury) – and for every other cathedral city throughout the land, and for the nearby towns who may also have and a Catch or Glee Club to which these musicians could travel along the rapidly-improving roads of the nineteenth century – there was a ready supply of such talent in the local [cathedral choir](/music/19c-cathedral-singing). 
 <br/><br/>
 You can watch this video to find out more [Christ Price and the Canterbury Catch Club](https://youtu.be/dbKAb18w72c)
-<param attribution="by William Gostling, 1825. no known copyright restrictions." label="Canterbury Cathedral, from A Walk In and About the City of Canterbury" url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" ve-image=""/>
+<param attribution="by William Gostling, 1825. no known copyright restrictions." label="Canterbury Cathedral, from A Walk In and About the City of Canterbury" url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" ve-image/>
 
 ### Bibliography
 

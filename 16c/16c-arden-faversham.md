@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Marnie Stanley" banner="/images/banners/16c.jpg" layout="vtl" title="Arden of Faversham (Author unknown)" ve-config=""/> 
+<param author="Marnie Stanley" banner="/images/banners/16c.jpg" layout="vtl" title="Arden of Faversham (Author unknown)" ve-config/> 
 
-<param aliases="Faversham" eid="Q1000115" ve-entity=""/> 
+<param aliases="Faversham" eid="Q1000115" ve-entity/> 
 
 #
 
@@ -9,10 +9,10 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Faversham_Abbey_Site_-_48474928356.jpg/manifest.json">
 
 Arden of Faversham follows the affair of Alice Arden and Mosby, one which her husband is grieved by, but knows not how to prevent, even inviting Mosby into his home believing it would end neighbourly suspicion. Alice’s thoughts turn to murder; however, she is not the only one seeking Arden’s demise. Mosby acquires poison from a local painter in return for his sister’s hand in marriage, however Alice’s cooking efforts fail to kill Arden, and her subsequent chance encounter with Greene who Arden has stripped of land, results in a murderous arrangement. 
-<param attribution="Martin Crowther" label="The house where Thomas Arden lived and was killed in 1551" url="https://stor.artstor.org/stor/7274fc11-fb2d-4028-971f-cbf2608d5e74" ve-image=""/>
+<param attribution="Martin Crowther" label="The house where Thomas Arden lived and was killed in 1551" url="https://stor.artstor.org/stor/7274fc11-fb2d-4028-971f-cbf2608d5e74" ve-image/>
 
 Soon two assassins have been hired (Shakebag and Black Will), and Arden’s manservant is drawn into the plot (also with the promise of Mosby’s sister). After several murder attempts fail, they eventually manage to lure Arden into a trap set in his own house, before killing him, and dragging his body into the grounds. It is not long before neighbourhood suspicion arises, and the poorly hidden evidence points the authorities in the direction of Alice and her fellow assassins, who are executed for the deed. Numerous speculations and rigorous scholarly studies have attempted to attribute the play to various playwrights – the main three put forward being William Shakespeare, Christopher Marlowe and Thomas Kyd. 
-<param label="Arden Plaque" url="https://stor.artstor.org/stor/14dbc8fa-db1d-4416-92cf-4ed0f0711ae3" ve-image=""/>
+<param label="Arden Plaque" url="https://stor.artstor.org/stor/14dbc8fa-db1d-4416-92cf-4ed0f0711ae3" ve-image/>
 
 Recent computer analysis by Kinney has found evidence that the play is partly by Shakespeare, with little indication of contribution from Marlowe or Kyd. However, Freebury-Jones argues that to attribute the play to Shakespeare is to ignore the numerous studies which have provided strong evidence for Kyd. The play’s authorship remains up for debate. One argument put forward in favour of Shakespeare, is the play’s ambiguity’ – the play certainly covers a variety of controversial debates of the age, without making any solid judgements and instead leaves the audience to take their own stance on matters. 
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Shakespeare_Droeshout_1623.jpg/manifest.json">

@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Maddie Pettit" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="Belgian WW1 Refugees" ve-config=""/>
-<param center="Q375314" ve-map="" zoom="10"/>
-<param eid="Q12892" ve-entity=""/>
+<param author="Maddie Pettit" banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" layout="vtl" title="Belgian WW1 Refugees" ve-config/>
+<param center="Q375314" ve-map zoom="10"/>
+<param eid="Q12892" ve-entity/>
 
 #
 

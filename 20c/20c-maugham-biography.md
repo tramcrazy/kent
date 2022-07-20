@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author=" Laura Allen" banner="https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg" layout="vtl" title=" William Somerset Maugham (1874-1965)" ve-config=""/>
+<param author=" Laura Allen" banner="https://upload.wikimedia.org/wikipedia/commons/1/1f/W._Somerset_Maugham_signature.svg" layout="vtl" title=" William Somerset Maugham (1874-1965)" ve-config/>
 
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Whitstable" eid="Q964785" ve-entity=""/>
-<param aliases="King’s School" eid="Q3360332" ve-entity=""/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Whitstable" eid="Q964785" ve-entity/>
+<param aliases="King’s School" eid="Q3360332" ve-entity/>
 
 #
 
@@ -12,9 +12,9 @@ An English playwright, novelist, and short story writer born in Paris, Maugham i
 
 Attended the [King’s School](https://www.kings-school.co.uk/) in Canterbury. Two of his novels have obvious connections to Kent: [_Of Human Bondage_ ](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/somerset-maugham-of-human-bondage/)(1915) is based on his experiences at King’s School and _Cakes and Ale_ (1930) on the people of Whitstable.'
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Mint_Yard_Canterbury.jpg/manifest.json">
-<param center="Q3360332" ve-map="" zoom="10"/>
-<param center="Q29303" ve-map="" zoom="10"/>
-<param center="Q964785" ve-map="" zoom="10"/>
+<param center="Q3360332" ve-map zoom="10"/>
+<param center="Q29303" ve-map zoom="10"/>
+<param center="Q964785" ve-map zoom="10"/>
 
 _‘When they got out of the train at Tercanbury, Philip felt sick with apprehension, and during the drive in to the town sat pale and silent. The high brick wall in front of the school gave it the look of a prison. There was a little door in it, which opened on their ringing; and a clumsy, untidy man came out and fetched Philip's tin trunk and his play-box. They were shown into the drawing-room; it was filled with massive, ugly furniture, and the chairs of the suite were placed round the walls with a forbidding rigidity. They waited for the headmaster.’_ _Of Human Bondage_
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:The_Mint_Yard_Gate%2C_Kings_School%2C_Canterbury_-_geograph.org.uk_-_67733.jpg/manifest.json">
@@ -23,13 +23,13 @@ _‘Blackstable consisted of a long winding street that led to the sea, with lit
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/gh:kent-map/images/20c/thumbnail_somersetmauagham.jpg/manifest.json">
 
 After his mother’s death in 1882 Maugham was sent to stay with his uncle, who was a Vicar in Whitstable. He was sent to King’s school, Canterbury, Britain’s oldest public school founded in 597, and part of the Eton group. There, he was isolated and bullied for his poor English, owing to which he later developed a stammer. In his novel _Of Human Bondage_ Canterbury becomes Tercanbury, but King’s School retains its name. Maugham describes it thus, ‘The King's School at Tercanbury, to which Philip went when he was thirteen, prided itself on its antiquity. It traced its origin to an abbey school, founded before the Conquest, where the rudiments of learning were taught by Augustine monks’. In the novel Maugham’s experiences of being bullied at the prestigious school are portrayed, and the school is held responsible, ‘for the rest of the term he tormented Philip cruelly, and, though Philip tried to keep out of his way, the school was so small that it was impossible’. 
-<param center="Q29303" ve-map="" zoom="10"/>
-<param center="Q964785" ve-map="" zoom="10"/>
+<param center="Q29303" ve-map zoom="10"/>
+<param center="Q964785" ve-map zoom="10"/>
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Great_Stour_at_Canterbury_-_geograph.org.uk_-_1987472.jpg/manifest.json">
 
 Maugham does not represent Kent in a favourable way in his other novel based on his life there, _Cakes &amp; Ale_. Both central protagonists feel alienated in Kent. In the second novel ‘Blackstable’ (Whitstable) – is a place where the main character feels ‘shy and lonely (not lonely in the body, for I spent all day at the hospital with all kinds of people, but lonely in the spirit).’ Both novels offer an interesting representation of Kent’s historic institutions from the perspective of a young outsider.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Cobbled_Street_in_Whitstable.jpg/manifest.json">
-<param center="Q964785" ve-map="" zoom="15"/>
+<param center="Q964785" ve-map zoom="15"/>
 
 ### Bibliography
 

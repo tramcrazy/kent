@@ -1,12 +1,12 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Michelle and Martin Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Dora Jordan (1761-1816)" ve-config=""/>
+<param author="Michelle and Martin Crowther" banner="/images/banners/19c.jpg" layout="vtl" title="Dora Jordan (1761-1816)" ve-config/>
 
-<param aliases="Margate" eid="Q618045" ve-entity=""/>
-<param aliases="Canterbury" eid="Q29303" ve-entity=""/>
-<param aliases="Dover" eid="Q179224" ve-entity=""/>
-<param aliases="Deal" eid="Q1011096" ve-entity=""/>
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Sittingbourne" eid="Q1626044" ve-entity=""/>
+<param aliases="Margate" eid="Q618045" ve-entity/>
+<param aliases="Canterbury" eid="Q29303" ve-entity/>
+<param aliases="Dover" eid="Q179224" ve-entity/>
+<param aliases="Deal" eid="Q1011096" ve-entity/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Sittingbourne" eid="Q1626044" ve-entity/>
 
 #
 

@@ -1,5 +1,5 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Jacqui Stamp" banner="/images/banners/19c.jpg" layout="vtl" title="The Hooden Horse: an East Kent tradition" ve-config=""/>
+<param author="Jacqui Stamp" banner="/images/banners/19c.jpg" layout="vtl" title="The Hooden Horse: an East Kent tradition" ve-config/>
 
 #
 

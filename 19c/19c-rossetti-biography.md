@@ -1,18 +1,18 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Laura Allen" banner="/images/banners/19c.jpg" layout="vtl" title="Dante Gabriel Rossetti (1828-1882) and Christina Rossetti (1830-1894)" ve-config=""/>
+<param author="Laura Allen" banner="/images/banners/19c.jpg" layout="vtl" title="Dante Gabriel Rossetti (1828-1882) and Christina Rossetti (1830-1894)" ve-config/>
 
-<param aliases="Birchington" eid="Q21993856" ve-entity=""/>
-<param aliases="Birchington-on-Sea" eid="Q865021" ve-entity=""/>
-<param aliases="Margate" eid="Q618045" ve-entity=""/>
-<param aliases="Parish church" eid="Q17546635" ve-entity=""/>
-<param aliases="Pre-Raphaelite Brotherhood" eid="Q184814" ve-entity=""/>
+<param aliases="Birchington" eid="Q21993856" ve-entity/>
+<param aliases="Birchington-on-Sea" eid="Q865021" ve-entity/>
+<param aliases="Margate" eid="Q618045" ve-entity/>
+<param aliases="Parish church" eid="Q17546635" ve-entity/>
+<param aliases="Pre-Raphaelite Brotherhood" eid="Q184814" ve-entity/>
 
 #
 
 D. G. Rossetti was a prolific English poet, painter, and illustrator of the Pre-Raphaelite movement. He was one of the founders of the Pre-Raphaelite Brotherhood in 1848.   
 His sister Christina was a poet associated with the Pre-Raphaelite literary movement. Her most famous collection was _Goblin Market and Other Poems_ (1862).
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Dante_Gabriel_Rossetti_-_Joan_of_Arc_%281882%29.jpg/manifest.json">
-<param center="Q865021" ve-map="" zoom="12"/>
+<param center="Q865021" ve-map zoom="12"/>
 
 ‘Birchington Churchyard’   
 _A lowly hill which overlooks a flat,   

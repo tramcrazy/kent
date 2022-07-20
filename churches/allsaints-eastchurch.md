@@ -1,8 +1,8 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
-<param author="Dr Melanie Caizza" banner="/images/banners/19c.jpg" layout="vtl" title="All Saints parish church of Eastchurch, Isle of Sheppey" ve-config=""/>
+<param author="Dr Melanie Caizza" banner="/images/banners/19c.jpg" layout="vtl" title="All Saints parish church of Eastchurch, Isle of Sheppey" ve-config/>
 
-<param aliases="Eastchurch" eid="Q2661688" ve-entity=""/>
-<param aliases="Isle of Sheppey" eid="Q1500299" ve-entity=""/>
+<param aliases="Eastchurch" eid="Q2661688" ve-entity/>
+<param aliases="Isle of Sheppey" eid="Q1500299" ve-entity/>
 
 All Saints church in Eastchurch has an interesting late medieval and early modern history on the Isle of Sheppey due to its links to the Cheney family at nearby Shurland Manor and its relationship to the Minster Church on the isle.  In 1431, royal license was granted for All Saints to perform all duties of a parish church, yet wealthy inhabitants of the island that left wills have shown that they did not want burial to take place at their parish church, as per the usual custom by this period.  As a prominent and wealthy landowning family of the Isle of Sheppey, the Cheneys all requested burial at the Minster rather than their local Eastchurch parish church.  
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Isle_of_Sheppey_from_Space_NASA.jpg/manifest.json">

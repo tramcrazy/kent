@@ -1,9 +1,9 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Sylvia Hornsby" banner="/images/banners/19c.jpg" layout="vtl" title="George Meredith (1828-1909)" ve-config=""/>
+<param author="Sylvia Hornsby" banner="/images/banners/19c.jpg" layout="vtl" title="George Meredith (1828-1909)" ve-config/>
 
-<param aliases="Ramsgate" eid="Q736439" ve-entity=""/>
-<param aliases="Tunbridge Wells" eid="Q665489" ve-entity=""/>
-<param aliases="Hawkhurst" eid="Q2744669" ve-entity=""/>
+<param aliases="Ramsgate" eid="Q736439" ve-entity/>
+<param aliases="Tunbridge Wells" eid="Q665489" ve-entity/>
+<param aliases="Hawkhurst" eid="Q2744669" ve-entity/>
 
 #
 

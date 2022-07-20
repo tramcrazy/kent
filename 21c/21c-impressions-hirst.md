@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a>
-<param author="Diana Hirst" banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" layout="vtl" title="Impressions from a Bolthole Window" ve-config=""/>
+<param author="Diana Hirst" banner="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" layout="vtl" title="Impressions from a Bolthole Window" ve-config/>
 
-<param aliases="Deal" eid="Q1011096" ve-entity=""/>
+<param aliases="Deal" eid="Q1011096" ve-entity/>
 
 #
 
@@ -38,7 +38,7 @@ the sea is silvered by a secret sun.
 A pregnant cloud droops luminosity,   
 suspending gloom, suspending rain.   
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Coastline_near_Deal_castle_%282012%29_-_panoramio.jpg/manifest.json">
-<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" ve-image=""/>
+<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" ve-image/>
 
 Tonight the pier is gaudy.  Its orange sodium lights   
 are giddy in the off-shore breeze.  They look all set   
@@ -94,7 +94,7 @@ underscore the butter-pink horizon
 which melts upwards into a sky   
 whose blueness hardens into steel   
 as it stretches to its zenith.   
-<param attribution="Elizabeth Waterman-Scrase" label="Sea-front at Deal" url="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" ve-image=""/>
+<param attribution="Elizabeth Waterman-Scrase" label="Sea-front at Deal" url="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" ve-image/>
 
 Knobbled waves in rows   
 knit one, drop one, cast one on,   
@@ -176,7 +176,7 @@ A silver horizontal bar is scored,
 division line with sky the upper integer,   
 and sea the lower one.   
 A sum to which there’s no solution.   
-<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" ve-image=""/>
+<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" ve-image/>
 
 As the weight of the falling sun   
 plummets behind the day’s-end town,   

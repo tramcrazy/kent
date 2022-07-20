@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"/></a>
 
-<param author="Diana Hirst" banner="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" layout="vtl" title="E.M. Forster" ve-config=""/>
+<param author="Diana Hirst" banner="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" layout="vtl" title="E.M. Forster" ve-config/>
 
 <param eid="Q936183" ve-entity="Tonbridge"/>
 <param eid="Q1920945" ve-entity="Trottiscliffe"/>

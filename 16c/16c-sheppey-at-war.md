@@ -1,10 +1,10 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"/></a> 
-<param author="Dr Melanie Caiazza" banner="/images/banners/16c.jpg" layout="vtl" title="Sheppey at war in the 16th century" ve-config=""/> 
+<param author="Dr Melanie Caiazza" banner="/images/banners/16c.jpg" layout="vtl" title="Sheppey at war in the 16th century" ve-config/> 
 
-<param aliases="Sheppey" eid="Q1500299" ve-entity=""/> 
-<param aliases="Shurland Manor" eid="Q105782444" ve-entity=""/>
-<param aliases="Minster" eid="Q609390" ve-entity=""/>
-<param aliases="Queenborough Castle" eid="Q17643879" ve-entity=""/>
+<param aliases="Sheppey" eid="Q1500299" ve-entity/> 
+<param aliases="Shurland Manor" eid="Q105782444" ve-entity/>
+<param aliases="Minster" eid="Q609390" ve-entity/>
+<param aliases="Queenborough Castle" eid="Q17643879" ve-entity/>
 
 #
 
@@ -30,7 +30,7 @@ However, the second half of his report reveals concern for the inhabitants of th
 	therof, and that no inhabitante within this Isle, may be herafter pressed for 
 	any the said provisions, unless he occupy 300 acres of fresh land within the 
 	same at the least.’[^ref3]
-<param label="Detail of Sheppey, John Speed map of Kent, 1611" url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" ve-image=""/>
+<param label="Detail of Sheppey, John Speed map of Kent, 1611" url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" ve-image/>
 
 Overall, Hoby’s account provides a complex insight into the tensions between the Crown’s military agenda and the everyday hardship of the local islanders, particularly in Eastchurch parish.
 <param ve-image-v2 manifest="https://iiif.juncture-digital.org/wc:Sheppey_Cliff_Top_-_geograph.org.uk_-_389427.jpg/manifest.json">

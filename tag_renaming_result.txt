@@ -1,362 +1,362 @@
 Tags neither self hosted or from wikimedia so will not be converted: 
-<param label="2 Nuckell's Place later became Dickens House. Or - to add to the confusion - Dickens' House" url="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" ve-image=""/>
-<param label="Broadstairs" url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" ve-image=""/>
-<param url="https://stor.artstor.org/stor/24226407-4255-42b5-a1e0-4fe9ddbf8a30" ve-image=""/>
-<param url="https://stor.artstor.org/stor/5fd29544-ad48-4ef4-8e7a-74cb1f11165f" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Theatre Royal, Rochester" url="https://stor.artstor.org/stor/d0b420cf-d0fd-49f1-a9d1-1f47cbc1618f" ve-image=""/>
-<param url="https://stor.artstor.org/stor/637f0dd1-a51b-4b63-851c-5cd9ab8ffdc5" ve-image=""/>
-<param attribution="By kind permission of Carolyn Oulton" label="Harbour Parade, Ramsgate" url="https://stor.artstor.org/stor/d2f327c4-4385-46be-93f9-9d1ca740785a" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Gad's Hill, Rochester" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
-<param attribution="Michelle Crowther" label="Pies" url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" ve-image=""/>
-<param label="Sherlock and Dr Watson" url="https://stor.artstor.org/stor/fae476ff-29d2-4cf1-aa56-9bc77eebb358" ve-image=""/>
-<param attribution="Martin Crowther" label="Camden Crescent, Dover" url="https://stor.artstor.org/stor/71ff761a-59b2-48d3-af90-1a207e12ad6b" ve-image=""/>
-<param attribution="1828 Adlard" label="Rochester Bridge" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image=""/>
-<param url="https://stor.artstor.org/stor/e20400b8-e3ad-4655-9f1c-ac49f1846682" ve-image=""/>
-<param attribution="Scanned image by Paul Schlicke, and text by Philip V. Allingham" label="The Free and Easy by George Cruikshank, 8 February 1836" url="https://user-images.githubusercontent.com/64199349/128225474-c0f41403-0413-4549-8f2a-e765d8e2601a.png" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Swiss Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image=""/>
-<param attribution="Michelle Crowther, by kind permission" label="Curry's PC World on Sturry Retail Park" url="https://stor.artstor.org/stor/8d8e4096-14f4-4413-bbb3-948eb0b7bc74" ve-image=""/>
-<param attribution="Martin Crowther" label="Ivy Cottage" url="https://stor.artstor.org/stor/fab81d15-c1f8-43fc-8678-ae80bfbf75e3" ve-image=""/>
-<param label="Arden Plaque" url="https://stor.artstor.org/stor/14dbc8fa-db1d-4416-92cf-4ed0f0711ae3" ve-image=""/>
-<param attribution="Peter Firmin. By kind permission of Charlotte Firmin" label="The Winter Diary of a Country Rat" url="https://stor.artstor.org/stor/a50ee0cf-5697-4ae5-99cf-5bd9b4f46b75" ve-image=""/>
-<param attribution="Postcard, pre-1918, Léon &amp; Levy" label="Westgate" url="https://stor.artstor.org/stor/b0acbfd0-9654-4d59-b6ed-9f4fde9f6453" ve-image=""/>
-<param attribution="Drawn by G.Shepherd" label="Snargate Street, Dover c.1830." url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
-<param attribution="Michelle M" label="Canterbury Cathedral, Canterbury" url="https://stor.artstor.org/stor/2d12c710-fb1b-4e9c-b15d-c4a5da37340f" ve-image=""/>
-<param attribution="permission of Peter Henderson" label="Mint Yard, Canterbury" url="https://stor.artstor.org/stor/daff0204-9646-4c43-a2ec-5577eb6cca3e" ve-image=""/>
-<param label="Birchington-on-Sea" url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" ve-image=""/>
-<param attribution="Edward Crowther, by kind permission" label="Wincheap Industrial Estate sign" url="https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d" ve-image=""/>
-<param attribution="Sarah Grand's passport © International Centre for Victorian Women Writers" label="Sarah Grand's passport" url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" ve-image=""/>
-<param attribution="Martin Crowther" label="The Timber Batts, at Bodsham" url="https://stor.artstor.org/stor/583b0092-6214-4137-985b-ac9062374c5a" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image=""/>
-<param attribution="Wellcome Images (https://wellcomecollection.org/works/ed688gme/items)" description="Engraving by J. Wood, 1830." license="public domain" region="-105,-80,1236,964" title="A woman in bed after giving birth." url="https://iiif.wellcomecollection.org/image/V0007494/full/1024%2C/0/default.jpg" ve-image=""/>
-<param attribution="© Michelle Crowther" label="Road of Remembrance" url="https://stor.artstor.org/stor/c4709d92-4e55-4e57-8e13-8ebd8e7187ed" ve-image=""/>
-<param attribution="© Martin Crowther" label="Blue Plaque at Nayland Rock Shelter" url="https://stor.artstor.org/stor/bf760fe0-4461-43e7-abf2-231fef1033d4" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the chancel screen and wainscotting from the high altar. Note how plain the carving is from this side of the screen, when viewed from the other side, it is highly decorative" url="https://stor.artstor.org/stor/68c5b8c3-5fec-4cab-893b-5edf940aa5a7" ve-image=""/>
-<param attribution="Benjamin Mortley" label="High Street, Rochester" url="https://stor.artstor.org/stor/c777c08c-78a1-4719-ab1d-c56a4d39db53" ve-image=""/>
-<param attribution="Michelle Crowther" label="Hythe Military Canal" url="https://stor.artstor.org/stor/99116851-20a9-4b76-8cb3-7ddce7a43d3b" ve-image=""/>
-<param attribution="© St Edmund's School, Canterbury, used with kind permission" label="St Edmund's School" url="https://stor.artstor.org/stor/6ab759bd-834f-46a9-adda-72e1807f86b6" ve-image=""/>
-<param label="Canterbury in the Olden Time signed by the author" url="https://stor.artstor.org/stor/129ae304-a3f9-4021-856a-0c6d4ce1c3bc" ve-image=""/>
-<param attribution="Carolyn Oulton" label="Canterbury Odeon - Covid Vaccination Centre" url="https://stor.artstor.org/stor/6babbfb7-29be-4fe3-bc13-fffffd71c75f" ve-image=""/>
-<param label="Penshurst" url="https://stor.artstor.org/stor/fa7281ea-765d-4ca1-afc9-2723f4ef7ff2" ve-image=""/>
-<param attribution="Canterbury in the Olden Time by John Brent, 1879" label="St George's Gate" url="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" ve-image=""/>
-<param attribution="By permission of Bethlem Museum of the Mind" label="Murder" url="https://stor.artstor.org/stor/f0fcc4d1-c3d4-40a3-a6e1-9f8a7711bba4" ve-image=""/>
-<param attribution="Jewish Women's Archive (https://jwa.org/media/rebecca-solomon-governess)" description="Painted by Rebecca Solomon, c. 1851" license="public domain" region="-100,-80,1200,936" title="The Governess" url="https://cdn.jwa.org/sites/default/files/mediaobjects/rebecca_solomon_-_thegoverness.jpg" ve-image=""/>
-<param attribution="Postcard of Kent College, c.1930. By kind permission of Kent College" label="Postcard of Kent College" url="https://stor.artstor.org/stor/0335f354-b193-43c7-859f-39df4b1965a1" ve-image=""/>
-<param attribution="By kind permission of Carolyn Oulton" label="Ramsgate, East Cliff Promenade" url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" ve-image=""/>
-<param attribution="By kind permission of Martin Crowther" label="The Harbour, Folkestone, looking east by George Barnard" url="https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image=""/>
-<param attribution="Martin Crowther" label="Back view of Godmersham Park" url="https://stor.artstor.org/stor/16f50fe5-af80-4d10-a5f4-9820d3e7c63c" ve-image=""/>
-<param label="Simon Langton Boys' Grammar School" url="https://stor.artstor.org/stor/efb430e3-c025-4ddd-a976-bc985277273c" ve-image=""/>
-<param attribution="Postcard, Valentine's series, no known copyright" label="Dane John Gardens, pre-1918" url="https://stor.artstor.org/stor/f7e87e07-6521-4ea5-99e3-6f2f6594b92b" ve-image=""/>
-<param attribution="Calum Elliot and Emma Molford, by kind permission" label="Canterbury High Street" url="https://stor.artstor.org/stor/4492394e-fa2c-454b-99a9-0520c088b76d" ve-image=""/>
-<param attribution="© Ken Moffatt" label="Ship and Lobster" url="https://stor.artstor.org/stor/87dff019-2bdb-408a-b9a6-2c7952a1d686" ve-image=""/>
-<param attribution="Horace Spence Collection" label="Floods at Fordwich" url="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a" ve-image=""/>
-<param attribution="High St, Aylesford by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons" label="Aylesford" url="https://commons.wikimedia.org/wiki/File:High_St,_Aylesford_-_geograph.org.uk_-_1839610.jpg" ve-image=""/>
-<param attribution="Martin Crowther" label="A2 sign on the High Street" url="https://stor.artstor.org/stor/bd562c60-7fcd-435e-9c8d-d1a1a989a015" ve-image=""/>
-<param attribution="©Elgate Postcards, Margate" label="Bleak House -Fort House - as Dickens would have known it" url="https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db" ve-image=""/>
-<param attribution="Martin Crowther" label="Blue plaque" url="https://stor.artstor.org/stor/eccb379a-a975-40fc-a14c-f6f34a0163de" ve-image=""/>
-<param label="The Water Tower, Woodlands Wood, Adisham" url="https://stor.artstor.org/stor/0095b092-a8e8-4d8f-b644-ad93dd98f9f8" ve-image=""/>
-<param attribution="©Martin Crowther" label="Victoria Parade, Broadstairs" url="https://stor.artstor.org/stor/1807d34b-a40f-4979-95a8-fee341c98aa5" ve-image=""/>
-<param attribution="John Brent" label="Canterbury in the Olden Time" url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" ve-image=""/>
-<param attribution="John Brent" label="Illustration of enamelled brooches from Canterbury in the Olden Time" url="https://stor.artstor.org/stor/3e7c4e22-8283-443a-8ae0-da685ef246bf" ve-image=""/>
-<param attribution="Martin Crowther" label="Nailbourne" url="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" ve-image=""/>
-<param attribution="Photographer unknown" label="Fire at Barrett's on St Peter's Street, 1937" url="https://stor.artstor.org/stor/cd790d83-8b41-4b53-a497-4d691528174f" ve-image=""/>
-<param attribution="©Carolyn Oulton" title="Cream tea" url="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" ve-image=""/>
-<param attribution="By kind permission of Broadstairs Dickens Museum" label="Broadstairs Rate Book, 1843" url="https://stor.artstor.org/stor/f918a212-aeef-4252-8a4a-6b076588f70d" ve-image=""/>
-<param attribution="Dr Alyson Hunt" label="Pierremont House, Ramsgate" url="https://stor.artstor.org/stor/2204efeb-42d0-40d9-b76e-ce129b2afd50" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Pink sweetshop" url="https://stor.artstor.org/stor/fdc76136-9469-4588-b33c-8cf665eaf476" ve-image=""/>
-<param attribution="No known copyright restrictions" label="Canterbury street, from A Walk In and About the City of Canterbury by William Gostling" url="https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b" ve-image=""/>
-<param label="Seven Oaks, Kent" url="https://stor.artstor.org/stor/02b33eb0-f0d4-44ac-ba62-4608bedc1cef" ve-image=""/>
-<param attribution="Lisa Hawkins" label="Near Seasalter" url="https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526" ve-image=""/>
-<param attribution="By kind permission of M.R.Shifrin" label="Victorian Turkish baths" url="https://stor.artstor.org/stor/73026e16-50c4-4401-94c3-8980a2eb39b1" ve-image=""/>
-<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." label="Margate Parade c. 180" url="https://stor.artstor.org/stor/13b9cf96-8fcb-4df0-8491-9049ae7450fc" ve-image=""/>
-<param attribution="© Martin Crowther" label="Margate" url="https://stor.artstor.org/stor/6b2b48c1-ee71-4b39-88a1-7b4bff52ae2e" ve-image=""/>
-<param attribution="By kind permission of David Perdue" label="Dickens' Rochester/Chatham" url="https://stor.artstor.org/stor/cc1b9669-0996-475c-bba2-692467a50043" ve-image=""/>
-<param attribution="Photographed by Calum Elliot and Emma Molford" label="Dane John Gardens, Canterbury, April 2021" url="https://stor.artstor.org/stor/04dc1444-cdd0-445b-8041-b2dd02ed0f58" ve-image=""/>
-<param attribution="Astrid Stilma, by kind permission of Patrick Marrin" label="The Crab and Winkle Railway" url="https://stor.artstor.org/stor/c968b1f6-1fe2-4b97-ba54-488194230fed" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church interior, looking east towards the altar." url="https://stor.artstor.org/stor/c6381b04-426f-4ec9-b281-c62d5f58a539" ve-image=""/>
-<param attribution="© Canterbury Christ Church University, used with kind permission" label="View across the Quad to Hepworth at CCCU" url="https://stor.artstor.org/stor/86d7445f-2196-48b6-a135-182c7865c7a3" ve-image=""/>
-<param attribution="Benjamin Mortley" fit="cover" title="Bull Hotel" url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" ve-image=""/>
-<param attribution="Drawn by G. Shepherd" label="Snargate Street Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
-<param attribution="Connor Treston" label="St Martin's Church" url="https://stor.artstor.org/stor/801c7f8a-436d-4bc2-863f-7be500afda3d" ve-image=""/>
-<param attribution="Martin Crowther" label="Blue Plaque at the Duck, Pett Bottom" url="https://stor.artstor.org/stor/eccb379a-a975-40fc-a14c-f6f34a0163de" ve-image=""/>
-<param label="Simon Langton Schools, Whitefriars" url="https://stor.artstor.org/stor/c1364803-83ff-4c91-ad94-2c3903d4b135" ve-image=""/>
-<param attribution="Drawn by G.Shepherd" label="Snargate St, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
-<param attribution="National Library of Scotland 	Glen.88(1) Attribution 4.0 International CC BY 4.0" label="Davie's Caledonian repository of the most favorite Scottish slow airs, marches, strathspeys, reels, jigs, hornpipes, &amp;c." url="https://deriv.nls.uk/dcn30/1050/0038/105000383.30.jpg" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church from the north east, showing the Victorian renovation of the nave and aisles." url="https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1" ve-image=""/>
-<param attribution="By kind permission of Fiona Castle" label="Debden Court Farm" url="https://stor.artstor.org/stor/b257f31e-8685-4abc-8585-4393b1c4fd9f" ve-image=""/>
-<param attribution="Thomas Crowther" label="Scuba" url="https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace" ve-image=""/>
-<param attribution="MWS, Shaun Mudd and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)" label="Magic London, by Netta Syrett" url="https://www.gutenberg.org/files/65490/65490-h/images/cover.jpg" ve-image=""/>
-<param attribution="Lisa Hawkins" label="Marshside" url="https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc" ve-image=""/>
-<param attribution="Horace Spence Collection" label="Floods, Canterbury, 1909" url="https://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" ve-image=""/>
-<param attribution="Andrew Vincent" label="St Mary the Virgin, Fordwich" url="https://stor.artstor.org/stor/b19db3c3-6ab8-494d-b5eb-ae98c085602d" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="Chatham Dockyard" url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" ve-image=""/>
-<param label="The Dockyard, Chatham" url="https://stor.artstor.org/stor/4e856731-aff2-4d72-91b6-01e6e1ab812f" ve-image=""/>
-<param attibution="T.C.Dugdale, private collection" label="Hopping" url="https://stor.artstor.org/stor/22b087f4-554d-47c2-8131-3582d178ad1f" ve-image=""/>
-<param label="Godmersham Park" url="https://stor.artstor.org/stor/436d9c34-e028-42da-a033-65d1d24a46fe" ve-image=""/>
-<param attribution="Martin Crowther, by kind permission" label="Tannery Field bull" url="https://stor.artstor.org/stor/40ca319d-06b9-453b-8435-5cb7cf2a7946" ve-image=""/>
-<param attribution="Lisa Hawkins" label="North Foreland" url="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" ve-image=""/>
-<param attribution="©Michelle Crowther" label="Augustine House Library" url="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" ve-image=""/>
-<param label="The authors who worked on the CRAY project" url="https://stor.artstor.org/stor/c7b05a8c-84a8-41d0-ace6-65117ba54e49" ve-image=""/>
-<param attribution="Edward Crowther" label="Eight Bells" url="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" ve-image=""/>
-<param attribution="© Michelle Crowther" label="The Road of Remembrance, Folkestone" url="https://stor.artstor.org/stor/c4709d92-4e55-4e57-8e13-8ebd8e7187ed" ve-image=""/>
-<param attribution="Andrew Vincent" label="St John the Baptist, Smallhythe" url="https://stor.artstor.org/stor/62da9026-fd94-40de-9f54-ad63696fdc9e" ve-image=""/>
-<param attribution="Michelle Crowther, by kind permission" label="Former Barretts showroom, now being renovated" url="https://stor.artstor.org/stor/62c0d182-6f60-4916-a824-c82f77e63c3a" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="The Westgate, Canterbury" url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" ve-image=""/>
-<param label="Lady Wootton's Green, Canterbury, 2021" url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" ve-image=""/>
-<param attribution="Postcard, Léon &amp; Levy" label="St Peter's Street, pre-1918" url="https://stor.artstor.org/stor/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6" ve-image=""/>
-<param attribution="Andrew Vincent" label="The Fordwich stone which sits in the north aisle. It is difficult to appreciate the intricate and beautiful carving without seeing it in person" url="https://stor.artstor.org/stor/91852a6e-27d8-488f-9769-662972f4647f" ve-image=""/>
-<param attribution="©Michelle Crowther" label="Albion Hotel, Broadstairs" url="https://stor.artstor.org/stor/079a54df-5a5a-484f-9ebe-3bc9fa0f031b" ve-image=""/>
-<param attribution="Lisa Hawkins" label="Minster Marsh, stormy day" url="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde" ve-image=""/>
-<param label="Unknown Kent, 1921" url="https://stor.artstor.org/stor/ced608e6-1e5f-48a9-b58c-0f2eda22bead" ve-image=""/>
-<param attribution="©The Salmon Picture Library" url="https://stor.artstor.org/stor/35b08e17-9f1e-452e-b176-53e9023f9a37" ve-image=""/>
-<param attribution="H.Boys fecit © Augustine House Library, Canterbury Christ Church University" label="A small south down ram belonging to Mr Boys" url="https://stor.artstor.org/stor/88d2f112-4ba0-4117-a87a-238e090cd846" ve-image=""/>
-<param attribution="Martin Crowther" label="Traveller's Joy by Gloria Treseder" url="https://stor.artstor.org/stor/23eec7ab-f778-47b0-a28d-813713070fef" ve-image=""/>
-<param attribution="Photography by Martin Crowther" label="Rupert Bear by Gloria Treseder" url="https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855" ve-image=""/>
-<param label="Broadstairs" url="https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e" ve-image=""/>
-<param label="Godmersham Park" url="https://stor.artstor.org/stor/6c1e5309-950a-423e-a8b6-00288674c2d5" ve-image=""/>
-<param attribution="Photographed by Martin Crowther" label="Home of Bithia Croker" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Restoration House" url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" ve-image=""/>
-<param attribution="© Canterbury Christ Church University, used with kind permission" label="History class in the early 1980s" url="https://stor.artstor.org/stor/fa0a8eed-c703-49da-8fc5-ab5e9f9b58f2" ve-image=""/>
-<param label="Godmersham Park" url="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of St Mary’s from the east, with the chancel and north aisle chapel, with the tower and spire in the background" url="https://stor.artstor.org/stor/b19db3c3-6ab8-494d-b5eb-ae98c085602d" ve-image=""/>
-<param attribution="By kind permission of Andrew Sargent" label="Tourist Guides" url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" ve-image=""/>
-<param attribution="Michelle Crowther" label="1, London Road, Canterbury" url="https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393" ve-image=""/>
-<param attribution="Martin Crowther" label="Abandoned Debenhams" url="https://stor.artstor.org/stor/2b076d61-1920-4e76-aced-2a3b0d7e7512" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="Ramsgate Pavilion" url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" ve-image=""/>
-<param label="English's Guide to Folkestone, Sandgate, Hythe" url="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" ve-image=""/>
-<param label="Rupert Bear by Gloria Treseder" url="https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855" ve-image=""/>
-<param label="St Martin's Church, Canterbury" url="https://stor.artstor.org/stor/5394b37b-30f1-4c6c-a751-990c98a13f1f" ve-image=""/>
-<param attribution="Published by H. J. Goulden, Canterbury, pre-1918" label="Simon Langton Schools" url="https://stor.artstor.org/stor/c1364803-83ff-4c91-ad94-2c3903d4b135" ve-image=""/>
-<param attribution="Martin Crowther, by kind permission" label="Tannery Field bull" url="https://stor.artstor.org/stor/c2a24edf-49f6-48fd-9c29-11731fb15d16" ve-image=""/>
-<param attribution="Photographed by Michelle Crowther" label="Portrait Bench, Dover seafront" url="https://stor.artstor.org/stor/07405b1d-ef21-4501-90ed-3ad985c20029" ve-image=""/>
-<param attribution="M.R. Shifrin" label="Biggin Hall, site of the former Turkish baths, Dover" url="https://stor.artstor.org/stor/470cd2c9-931b-4036-9a67-66079d3f8925" ve-image=""/>
-<param label="Advertisement in The Globe for the Granville Hotel" url="https://stor.artstor.org/stor/3c62d8de-ea92-4d3e-abcc-efc9d1b39728" ve-image=""/>
-<param attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence" label="Folkestone Library" url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" ve-image=""/>
-<param attribution="Reproduced from an original F. Frith &amp; Co postcard" label="The Guildhall" url="https://stor.artstor.org/stor/5f118363-1cb7-4377-9fdf-d6983e5f0307" ve-image=""/>
-<param attribution="Benjamin Mortley" label="College Gate" url="https://stor.artstor.org/stor/bf19e774-7bbc-468e-b913-61257c0eb034" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="Canterbury High Street" url="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" ve-image=""/>
-<param attribution="Martin Crowther" label="Faversham" url="https://stor.artstor.org/stor/3e8869d4-b20a-451f-8dab-886f05b29604" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church from the west end, with the tower door and window, later additions to the older tower’s fabric" url="https://stor.artstor.org/stor/c9d907e6-b0ea-4ab8-94e1-79ab46c647ec" ve-image=""/>
-<param label="Broadstairs" url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" ve-image=""/>
-<param label="Incidents of Hop gathering" url="https://stor.artstor.org/stor/b8c85c59-97a0-45db-befb-36c7a779740c" ve-image=""/>
-<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Novels by G.A. Henty" url="https://stor.artstor.org/stor/82c3499a-ede2-4442-a0bb-ec3ccd531e99" ve-image=""/>
-<param attribution="John Andrews, John Dury and William Herbert. By permission of Augustine House Library" label="A Topographical Map of the County of Kent" url="https://stor.artstor.org/stor/eb61d339-15de-4602-ace7-9cb4272a1ac3" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/e3cea4a0-257a-41c5-836a-6a9a7e73be07" ve-image=""/>
-<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" ve-image=""/>
-<param attribution="Martin Crowther" label="Blue Plaque" url="https://stor.artstor.org/stor/d306de51-dc71-4369-9416-2306342424d1" ve-image=""/>
-<param attribution="© Kent Archive and Local History Service" label="Ramsgate and Margate, 1882" url="https://stor.artstor.org/stor/811dfc80-b02e-4166-a487-02892f44e4c5" ve-image=""/>
-<param attribution="Photographed by Astrid Stilma, by kind permission of Patrick Marrin" label="Rochester Bridge, 1828" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image=""/>
-<param attribution="Andrew Vincent" label="The mural depicting St Eanswythe which was painted onto the south wall of the south chancel chapel. She is said to have died in her early twenties." url="https://stor.artstor.org/stor/893f1386-bfc5-4d0e-b562-540f038d2db1" ve-image=""/>
-<param attribution="Michelle Crowther" label="The Hugin, Pegwell Bay" url="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Rochester Cathedral" url="https://stor.artstor.org/stor/44be2f2c-2f9a-48a2-8cc2-e009206ac344" ve-image=""/>
-<param attribution="Photographed by Michelle Crowther" label="Plaque to Longhurst in Canterbury Cathedral" url="https://stor.artstor.org/stor/ee2dd200-0f05-4e33-877d-45477188e322" ve-image=""/>
-<param label="Granville Hotel, Ramsgate" url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" ve-image=""/>
-<param attribution="Edward Crowther" label="Mulberry Court from the Stour" url="https://stor.artstor.org/stor/aa53f9c0-4744-413f-af77-9f8212fe68ed" ve-image=""/>
-<param attribution="by kind permission of Patrick Marrin" label="Baynes's Map of the Environs of Gravesend, 1864" url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt., Shorncliffe Camp" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image=""/>
-<param attribution="Public domain" label="St George's Street" url="https://stor.artstor.org/stor/a88a700f-df99-46c1-ba05-e5809a9d9e77" ve-image=""/>
-<param attribution="British library, public domain" label="Illustration on the front cover of The Wooing of a Fairy" url="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" ve-image=""/>
-<param attribution="Martin Crowther" label="Delapidated Nasons" url="https://stor.artstor.org/stor/ccf163ea-b09d-4334-be4d-fd176d79a7eb" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church interior looking west from under the central tower down into the large nave and aisles." url="https://stor.artstor.org/stor/28b8ffc8-41e6-4ee0-9670-b325efef6860" ve-image=""/>
-<param label="Snargate Street, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
-<param attribution="© Martin Crowther" label="James Simmons House, Canterbury " url="https://stor.artstor.org/stor/0dbebb56-ac19-4cef-9f23-7e64db40f34b" ve-image=""/>
-<param label="Marine Library, Ramsgate" url="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" ve-image=""/>
-<param attribution="© Martin Crowther" label="Kentish Gazette" url="https://stor.artstor.org/stor/45c339b3-6234-4096-827e-8cce6681e0fe" ve-image=""/>
-<param attribution="By kind permission of Maidstone Grammar School for Girls" label="Maidstone Grammar School for Girls at Albion Place" url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" ve-image=""/>
-<param attribution="Martin Crowther" label="Entrance Gates to the Mining Museum" url="https://stor.artstor.org/stor/b3049a2f-0ece-44cb-a9f6-7d64c533597d" ve-image=""/>
-<param attribution="Martin Crowther" label="Betteshanger Colliery" url="https://stor.artstor.org/stor/837bda95-d400-4e3b-913b-b70829ae8967" ve-image=""/>
-<param label="Detail of Sheppey, John Speed map of Kent, 1611" url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" ve-image=""/>
-<param attribution="Private collection" label="Hopping" url="https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266" ve-image=""/>
-<param attribution="Lisa Hawkins" label="Greyfriars" url="https://stor.artstor.org/stor/ef6a32bc-19e0-492f-975d-7beac4d68e37" ve-image=""/>
-<param attribution="Diana Hirst" label="Folkestone" url="https://stor.artstor.org/stor/217498b0-8935-4fb8-b565-6eb02161a180" ve-image=""/>
-<param attribution="Michelle Crowther" label="Canterbury Gaol" url="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" ve-image=""/>
-<param label="Simon Langton Girls' Grammar School" url="https://stor.artstor.org/stor/a5222b83-766a-49ce-a3e5-6ff598aecee5" ve-image=""/>
-<param attribution="Martin Crowther" label="The house where Thomas Arden lived and was killed in 1551" url="https://stor.artstor.org/stor/7274fc11-fb2d-4028-971f-cbf2608d5e74" ve-image=""/>
-<param attribution="Martin Crowther" label="10 Radnor Cliff, Sandgate" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image=""/>
-<param attribution="Sainsbury Archive, open access" label="Design for the award-winning Sainsbury's Canterbury branch" url="https://d1nvj7b44vmgv4.cloudfront.net/w800/bra/SA_BRA_7_C_6_10hr.jpg" ve-image=""/>
-<param label="St Peter and St Paul, Headcorn" url="https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99" ve-image=""/>
-<param attribution="In copyright. By permission of Bethlem Museum of the Mind" label="Richard Dadd at his easel, 1850s" url="https://stor.artstor.org/stor/711b2c87-7604-4f8d-a6e6-fd3f9463aecf" ve-image=""/>
-<param attribution="No known copyright restrictions." label="Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825" url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" ve-image=""/>
-<param attribution="© Carolyn Oulton, by kind permission" label="Simon Langton Boys'" url="https://stor.artstor.org/stor/b6c45d8f-4472-4f55-884b-2d14cab76143" ve-image=""/>
-<param attribution="Martin Crowther" label="Blue Plaque, 10 Radnor Cliff" url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" ve-image=""/>
-<param attribution="By kind permission of King's School, Canterbury" label="South prospect at King's School" url="https://stor.artstor.org/stor/67a31a8c-c065-4747-a259-131c9d72eddc" ve-image=""/>
-<param attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin" label="The Picturesque Beauties of Great Britain: Kent: The New Sessions House, Maidstone" url="https://stor.artstor.org/stor/d08f6d96-830c-4102-97a5-c96b9eb64ef2" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Benjamin High Street" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image=""/>
-<param attribution="Public domain, via The Garden’s Trust" label="The title page of the _Museum Tradescantianum_ catalogue, featuring John Tradescant the Elder" url="https://thegardenstrustblog.files.wordpress.com/2020/04/screenshot-92.png" ve-image=""/>
-<param attribution="Edward Crowther" label="Mulberry Court, Stour Street" url="https://stor.artstor.org/stor/e5314be8-ce81-4a98-8367-61e82e3944ad" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="Marine Parade, Hythe with Moyle Tower c.1914" url="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" ve-image=""/>
-<param attribution="Mint Yard, Kings School, Canterbury, c. 1900. By kind permission of King's School, Canterbury" label="Mint Yard" url="https://stor.artstor.org/stor/daff0204-9646-4c43-a2ec-5577eb6cca3e" ve-image=""/>
-<param attribution="Peter Firmin. By kind permission of Charlotte Firmin" label="Front Paper, The Winter Diary of a Country Rat" url="https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b" ve-image=""/>
-<param label="School of Musketry, Hythe" url="https://stor.artstor.org/stor/4ef7a1d3-e56d-464b-a53e-af0841504286" ve-image=""/>
-<param attribution="Augustine House Library" label="Canterbury Cathedral" url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" ve-image=""/>
-<param attribution="Michelle Crowther" label="The Hugin, replica Viking longship, Pegwell Bay" url="https://stor.artstor.org/stor/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church from the south east. Note the stepped gables and heavy buttressing" url="https://stor.artstor.org/stor/62da9026-fd94-40de-9f54-ad63696fdc9e" ve-image=""/>
-<param attribution="Martin Crowther" label="Burnand's grave" url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" ve-image=""/>
-<param label="Ramsgate, 1830" url="https://stor.artstor.org/stor/c7983b3e-e756-442c-81ad-5a75c9941c5f" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the high alter surrounded by beautifully carved marble which was added during Matthew Woodward’s restorations. In the bottom left-hand corner you can see two candles and a small portrait. These stand next to the reliquary of St Eanswythe." url="https://stor.artstor.org/stor/6962033a-cf74-425e-b4a9-bb9964c7cea0" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Bull Hotel" url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" ve-image=""/>
-<param attribution="Benjamin Mortley" label="The Gatehouse" url="https://stor.artstor.org/stor/4eeec435-8628-4798-b754-cdfb0f2a094e" ve-image=""/>
-<param attribution="Horace Spence Collection" label="Causeway" url="https://stor.artstor.org/stor/521f0909-d812-46b8-84f5-49c0328aba76" ve-image=""/>
-<param attribution="Simon Langton Boys' School, 1974. By permission of Simon Langton Boys' Grammar School" label="Simon Langton Boys' School entrance" url="https://stor.artstor.org/stor/efb430e3-c025-4ddd-a976-bc985277273c" ve-image=""/>
-<param attribution="By kind permission of Martin Crowther" label="Redcoats by the coast" url="https://stor.artstor.org/stor/9892bd49-0ecf-4513-a85d-00fc939769da" ve-image=""/>
-<param attribution="© DDS Demolition, 2018, used with kind permission" label="Drone view of prison backlands and site for Building 2 at CCCU" url="https://stor.artstor.org/stor/9e1ce94c-02c1-4e20-841d-2a5996d2e8d2" ve-image=""/>
-<param attribution="The Photochrom Co. Ltd" label="The Parade, Hythe with Moyle Tower" url="https://stor.artstor.org/stor/573d7807-f4c0-40b9-ad07-e65b737daf4f" ve-image=""/>
-<param attribution="© Martin Crowther" label="Seats inside Nayland Rock Shelter" url="https://stor.artstor.org/stor/43f708f9-0d08-4e7a-9f99-50e869e44ac2" ve-image=""/>
-<param attribution="by Thomas Stanley Treanor, 1904" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands" url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" ve-image=""/>
-<param attribution"by="" crowther"="" kind="" label="Landing the fare at Pegwell Bay" martin="" of="" permission="" url="https://stor.artstor.org/stor/8aeaee15-e48f-420f-9638-961e6c2a86b7" ve-image=""/>
-<param attribution="© St Edmund's School, Canterbury, used with kind permission" label="St Edmund's School" url="https://stor.artstor.org/stor/8818c692-2db8-4bde-a586-ddeb030f7ca9" ve-image=""/>
-<param attribution="Michelle Crowther, by permission" label="Former Barretts showroom on St Peter's Street" url="https://stor.artstor.org/stor/5f170802-922a-4ff3-9636-011d3bc59c7e" ve-image=""/>
-<param attribution="Thomas Crowther" label="Multiplying" url="https://stor.artstor.org/stor/d56de85e-015f-4305-9adb-9ddb12601fcc" ve-image=""/>
-<param attribution="Copyright Martin Crowther" label="Hop picking in the early 19th century" url="https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe" ve-image=""/>
-<param label="Another Time by Anthony Gormley, Margate" url="https://stor.artstor.org/stor/ee7f84dc-a5b0-4c36-ad58-bb9a01682e54" ve-image=""/>
-<param attribution="Edward Crowther, by kind permission" label="Wincheap Industrial Estate" url="https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d" ve-image=""/>
-<param attribution="Photographed by Martin Crowther" label="The End of the Pilgrim's Way" url="https://stor.artstor.org/stor/ef31ef12-11c7-42bf-9db8-a2239051278e" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church from the west, showing the entrance and porch, as well as the figure of St John the Baptist set into a niche above the west window" url="https://stor.artstor.org/stor/e1a56162-96fa-4e4c-af51-a481569d773c" ve-image=""/>
-<param attribution="Painted by Elisa Hudson" label="Millenium Mural, Canterbury" url="https://stor.artstor.org/stor/3804b801-3aa0-4e06-97fa-d8793febc878" ve-image=""/>
-<param attribution="Martin Crowther" label="Miners Statue near the roundabout on the A258" url="https://stor.artstor.org/stor/792d1b6f-16d4-47c3-8e1d-8a86b5469678" ve-image=""/>
-<param label="A Christmas Carol" url="https://stor.artstor.org/stor/2e5c30ff-5b87-40d2-9bae-52961b0a1a51" ve-image=""/>
-<param attribution="Michelle Crowther, by kind permission" label="Sturry Retail Park" url="https://stor.artstor.org/stor/71e99860-a9d4-4204-a59e-ddb2c508ef98" ve-image=""/>
-<param attribution="Martin Crowther" label="The Waiting Miner" url="https://stor.artstor.org/stor/8cc5eb9c-60be-4b8d-8408-cea130517fd6" ve-image=""/>
-<param attribution="©Martin Crowther" primary="" title="Dickens Museum" url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" ve-image=""/>
-<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." label="Estuary of the Thames and the Medway by A. Fullarton &amp; Co." url="https://stor.artstor.org/stor/3077e656-5d0a-4310-b7ca-c69a16417e07" ve-image=""/>
-<param label="An old postcard of a colourised picture of the church with the Old Oak by its entrance." url="https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99" ve-image=""/>
-<param label="Sandwich" url="https://stor.artstor.org/stor/3087858b-da37-4628-9bf4-b8ea685e6b71" ve-image=""/>
-<param attribution="Chris Price" label="Map showing the locations of subscribers to the 2 volume edition of works by John Wall Calcott" url="https://stor.artstor.org/stor/1eb60c5c-a15e-4f20-82f3-8a124803bf10" ve-image=""/>
-<param attribution="By kind permission of M.R. Shifrin" label="Dr Richard Barter" url="https://stor.artstor.org/stor/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d" ve-image=""/>
-<param attribution="Martin Crowther" label="Bishopsbourne" url="https://stor.artstor.org/stor/3e4f3256-59f7-495a-92e8-7b469bb98021" ve-image=""/>
-<param attribution="Martin Crowther" label="Don John Grove, with Brent's house on the far left" url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" ve-image=""/>
-<param attribution="Peter Gasston, CC-BY-NC-ND 2.0" label="Queen Bertha outside the King's School, Canterbury" url="https://stor.artstor.org/stor/b51a34a6-cf52-44c9-b52a-d7398d78edee" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church from the east end, with the chancel and chapel windows and the vestry in the foreground." url="https://stor.artstor.org/stor/e0e6b0c5-c739-48b5-99a0-3d94c3af0702" ve-image=""/>
-<param attribution="Martin Crowther" label="Site of the Cheker of Hope, Canterbury" url="https://stor.artstor.org/stor/16808a03-82ab-4ab2-8e9d-94922488e13c" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Leather Bottle Inn" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image=""/>
-<param attribution="Maidstone Museum and Bentlif Art Gallery, Maidstone (https://artuk.org/discover/artworks/at-the-seaside-pegwell-bay-near-ramsgate-kent-76676/view_as/grid/search/keyword:kent-pegwell-bay--referrer:global-search/page/1)" fit="contain" label="At the Seaside, Pegwell Bay, near Ramsgate, Kent" license="CC BY 3.0" url="https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg" ve-image=""/>
-<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Map engraved for John Boys" url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" ve-image=""/>
-<param attribution="c.1909" label="Lloyd's Paper Mill, Sittingbourne" url="https://stor.artstor.org/stor/ff02b007-70c7-432e-88d7-04fa94cfefde" ve-image=""/>
-<param label="The Micawbers at Canterbury" url="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" ve-image=""/>
-<param attribution="Rapheal Tuck and Son's Postcard 7182 pre.1905" label="The Medway at Tonbridge" url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" ve-image=""/>
-<param attribution="Front cover of the Penguin edition" label="Stealthy Terror" url="https://stor.artstor.org/stor/553e2b21-40cd-4e41-b5b0-b3226e668e7d" ve-image=""/>
-<param attribution="Horace Spence Collection." label="St Peter's Lane" url="https://stor.artstor.org/stor/8a73b8e9-398c-46dc-8669-7fab7d348202" ve-image=""/>
-<param attribution="©Michelle Crowther" title="Augustine House interior" url="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" ve-image=""/>
-<param label="Early 20C postcard showing the view from Bleak House" url="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" ve-image=""/>
-<param attribution="Nat Lowden and Sara Gelencer" label="The House of Agnes" url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" ve-image=""/>
-<param attribution="David Bedford, by kind permission" label="Zizzi's restaurant in Cogan House, St Peter's Street" url="https://stor.artstor.org/stor/e783dd08-05cf-4606-a6cb-6bf8d428892f" ve-image=""/>
-<param attribution="Public domain, photo from Léon et Lévy" label="Cattle market at Canterbury around 1900" url="https://stor.artstor.org/stor/5129a00d-b3c8-46f1-b40c-fe241d7d0479" ve-image=""/>
-<param attribution="© Martin Crowther" label="Nayland Rock Shelter" url="https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad" ve-image=""/>
-<param attribution="©Martin Crowther" label="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" url="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" ve-image=""/>
-<param attribution="Steve Sheath" label="Boys' memorial in St Mary the Virgin, Wingham" url="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Rochester Cathedral Graveyard" url="https://stor.artstor.org/stor/4546137c-afaf-4a2a-91ee-35090bb7c986" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Eastgate House" url="https://stor.artstor.org/stor/9aff6e05-5788-4668-a69b-fbf5f2b7006b" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Restoration House" url="https://stor.artstor.org/stor/9951b7cc-f35d-493e-ad88-077859ca1919" ve-image=""/>
-<param label="Elham Valley Railway" url="https://stor.artstor.org/stor/d80318dc-0229-4020-9ccf-28174d5ef4c2" ve-image=""/>
-<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" label="From Mansfield's A History of Gravesend in the County of Kent, 1922" url="https://stor.artstor.org/stor/44f84728-2548-48bc-9a14-67c47b94b6ef" ve-image=""/>
-<param attribution="Edward Crowther" label="View from Whitefriars looking towards the St George's Clock tower" url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" ve-image=""/>
-<param attribution="Tate (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)" description="oil painting by William Dyce, 1858" fit="contain" label="Pegwell Bay, Kent - a Recollection of October 5th 1858" license="CC BY-NC-ND 3.0" url="https://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg" ve-image=""/>
-<param attribution="©Martin Crowther" label="3, Albion Villas, Folkestone" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image=""/>
-<param attribution="Lisa Hawkins" label="Wantsum Channel near the railway lines" url="https://stor.artstor.org/stor/2dbb351f-a888-41cd-87ef-eba4780a11c9" ve-image=""/>
-<param attribution="© Kate Davies" label="Joseph Conrad's grave" url="https://stor.artstor.org/stor/fdcf1896-22cd-41c2-917a-cd07a8621a22" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt. at the Shorncliffe Barracks" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image=""/>
-<param attribution="Andrew Vincent" label="The view of the church interior from the east, looking down the nave at the tower arch and window" url="https://stor.artstor.org/stor/5ae696c2-ac43-4b19-b530-3431efe8a01d" ve-image=""/>
-<param label="Ellen Terry as Imogen" url="https://stor.artstor.org/stor/29dd64d3-531b-479f-b993-f0fc7c206cef" ve-image=""/>
-<param attribution="Martin Crowther" label="Camden Crescent, Dover" url="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" ve-image=""/>
-<param arriving="" attribution="By kind permission of Folkestone Museum" belgian="" folkestone"="" in="" label="" refugees="" url="https://raw.githubusercontent.com/kent-map/kent/502194a/20c/images/arrivalofbelgiansFMuseum.jpg" ve-image=""/>
-<param label="Chatham Dockyard" url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" ve-image=""/>
-<param label="Ramsgate Commemorative Map 1884-1934" url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" ve-image=""/>
-<param attribution="Martin Crowther" label="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" url="https://stor.artstor.org/stor/115f208d-182b-44f6-bf4d-8f481eea236d" ve-image=""/>
-<param attribution="John Boys" label="A General View of the Agriculture of the County of Kent" url="https://stor.artstor.org/stor/0a089144-1037-4a97-999f-28208ceaef93" ve-image=""/>
-<param label="Dickens' House, Broadstairs" url="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" ve-image=""/>
-<param attribution="Martin Crowther" label="Bodsham, Kent" url="https://stor.artstor.org/stor/cdf378d5-b3b4-4dc5-ade6-7081899da0b4" ve-image=""/>
-<param attribution="© Martin Crowther" label="Site of Mrs Baker's Canterbury Theatre" url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" ve-image=""/>
-<param attribution="Martin Crowther" label="Kent Coalfied 1905-1989" url="https://stor.artstor.org/stor/66a7078a-86c2-4c13-ae8a-13ba53f64a66" ve-image=""/>
-<param attribution="by William Gostling, 1825. no known copyright restrictions." label="Canterbury Cathedral, from A Walk In and About the City of Canterbury" url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" ve-image=""/>
-<param label="Margate sign post" url="https://stor.artstor.org/stor/a1a47ab9-b7e5-4e64-9e2e-703827012850" ve-image=""/>
-<param attribution="Benjamin Mortley" label="High Street, Rochester" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image=""/>
-<param attribution="Photographed by Martin Crowther" label="The Pilgrim's Guide to Canterbury" url="https://stor.artstor.org/stor/fcfc5c9a-3387-4c5f-9756-b5f6e7fb0f88" ve-image=""/>
-<param url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d" ve-image=""/>
-<param attribution="Edward Crowther" label="43, King Street" url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" ve-image=""/>
-<param attribution="Engraved by Thomas Conder. Fron  Walpole's The New British Traveller. Photo by Astrid Stilma. By permission of Patrick Marrin." label="A New Map of Kent drawn from the best authorities, 1784" url="https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41" ve-image=""/>
-<param label="The Dockyard, Chatham" url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" ve-image=""/>
-<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Survey of Woods by John Boys" url="https://stor.artstor.org/stor/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8" ve-image=""/>
-<param attribution="By kind permission of Simon Langton Girls' Grammar School" label="Simon Langton Girls'" url="https://stor.artstor.org/stor/a5222b83-766a-49ce-a3e5-6ff598aecee5" ve-image=""/>
-<param attribution="Martin Crowther" label="3, Albion Villas" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Swiss Chalet" url="https://stor.artstor.org/stor/f4286803-649c-4c6d-8399-444096dc1eb9" ve-image=""/>
-<param attribution="Michelle Crowther, by permission" label="Sturry Retail Park" url="https://stor.artstor.org/stor/71e99860-a9d4-4204-a59e-ddb2c508ef98" ve-image=""/>
-<param attribution="by John Brent" label="Canterbury Castle in Canterbury in Olden Times" url="https://stor.artstor.org/stor/d3328173-c9b0-43ad-9fc2-dfeaa3505793" ve-image=""/>
-<param atribution="Martin Crowther" label="Oasthouses, Kent" url="https://raw.githubusercontent.com/kent-map/kent/98a7d4f/20c/images/OasthousesMJC.jpg" ve-image=""/>
-<param attribution="Photographer unknown" label="Schools Closed sign" url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" ve-image=""/>
-<param attribution="H.G. Groves, Tunbridge Wells" label="Queen's Grove, Tunbridge Wells" url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" ve-image=""/>
-<param attribution="H.G. Groves, Tunbridge Wells" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" ve-image=""/>
-<param attribution="Andrew Vincent" label="St Mary and St Eanswythe, Folkestone" url="https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1" ve-image=""/>
-<param label="Bridge at Rochester" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image=""/>
-<param attribution="Martin Crowther" label="Blue Plaque commemorating Dickens visit to Dover" url="https://stor.artstor.org/stor/2751b76f-4da8-4961-b70d-eff26866c8b2" ve-image=""/>
-<param label="St Lawrence Church, Godmersham" url="https://stor.artstor.org/stor/900e6a98-8038-402c-8cf1-f9446e1b192f" ve-image=""/>
-<param attribution="National Portrait Gallery (https://www.npg.org.uk/collections/search/portrait/mw111900/William-Dyce?)" description="by John Watkins in albumen carte-de-visite, 1860-1864" fit="contain" label="Photograph of William Dyce" license="CC BY-NC-ND 3.0" url="https://i.imgur.com/iwAgEKD.png" ve-image=""/>
-<param attribution="Andrew Vincent" label="A view of the church’s main entrance and porch, with  better view of the tower, and greater detail of the style of windows mentioned" url="https://stor.artstor.org/stor/c61de6cd-b542-4807-9996-043b0bb4183a" ve-image=""/>
-<param description="A spitfire tipping a V1 with its wing" label="V1 tipped over by a Spitfire" license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg" ve-image=""/>
-<param attribiton=" By kind permission of Peter Henderson" label="Mint Yard 12079 Kings School" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image=""/>
-<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Crop rotation, John Boys" url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" ve-image=""/>
-<param attribution="By kind permission of Fiona Castle" label="Debden Court Farm, Petham" url="https://stor.artstor.org/stor/819746fc-e928-49b6-821d-737eff8dd233" ve-image=""/>
-<param attribution="Edward Crowther, by kind permission" label="Bamboo Tiger on the Wincheap Industrial Estate" url="https://stor.artstor.org/stor/c871728f-4eb7-4287-a421-6c7ef0cd1922" ve-image=""/>
-<param attribution="John Salmon Postcards" label="Kent" url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" ve-image=""/>
-<param label="Birchington on Sea, The Square" url="https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Restoration House" url="https://stor.artstor.org/stor/3c4c6ac1-83f5-4506-b071-fa8fb35f90bc" ve-image=""/>
-<param attribution="Paul Crampton, by permission" label="The Holden Plan" url="https://stor.artstor.org/stor/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a" ve-image=""/>
-<param attribution="Benjamin Mortley" title="Restoration House" url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" ve-image=""/>
-<param attribution="Kent Past and Present by George Bosworth, 1901" label="Geology of Kent" url="https://stor.artstor.org/stor/f8cec39e-e9b1-4882-87d7-4107a00019b1" ve-image=""/>
-<param attribution="Astrid Stilma, by kind permission of Patrick Marrin" label="The Crab and Winkle Railway" url="https://stor.artstor.org/stor/2b9ded2c-0e81-46b0-9dcb-9e3c87d4d735" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Rochester High Street" url="https://stor.artstor.org/stor/2cfcb41f-c781-4914-96e3-48310cb5c5c4" ve-image=""/>
-<param attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/14062582)" description="Illustrated by Elizabeth Gould for Charles Darwin’s “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”, 1832-1836" fit="contain" license="public domain" title="Darwin's Finches (Geospiza parvula) in “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”" url="https://live.staticflickr.com/8351/8429528713_8488cfc03b_b.jpg" ve-image=""/>
-<param label="Beltinge" url="https://stor.artstor.org/stor/18912934-acb7-4c45-b1fc-83b59b86e182" ve-image=""/>
-<param attribution="Connor Treston, by kind permission" label="Market area today" url="https://stor.artstor.org/stor/03bbed1c-285e-4f1b-b03f-6169a6afca1c" ve-image=""/>
-<param attribution="Martin Crowther" label="Canterbury East station" url="https://stor.artstor.org/stor/e5ce46d0-9be4-4154-8f87-856471fd5e67" ve-image=""/>
-<param attribution="By kind permission of Andrew Sargent" label="The Deal Band Stand" url="https://stor.artstor.org/stor/f958882b-3914-448a-a35c-fca8e966a0fd" ve-image=""/>
-<param attribution="National Library of Australia (http://nla.gov.au/nla.obj-150672913)" description="Oil painting by unknown artist" fit="contain" license="public domain" title="Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)" url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2019/02/nla.obj-150672913-1-716x1024.jpg" ve-image=""/>
-<param attribution="© Martin Crowther" label="Tomb of the worthy Alderman James Simmons" url="https://stor.artstor.org/stor/1f4ccd77-6d62-48a2-9be5-d54e407b8a88" ve-image=""/>
-<param attribution="Martin Crowther" label="The Riviera, Sandgate" url="https://stor.artstor.org/stor/f4aec845-49aa-4dc4-8005-34516f95e7ad" ve-image=""/>
-<param attribution="Martin Crowther" label="Site of the Soldier's Home on Lismore Road, Beltinge" url="https://stor.artstor.org/stor/8009bc63-bac6-4da4-93e1-2da9a8313cb7" ve-image=""/>
-<param label="Bleak House, Broadstairs" url="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" ve-image=""/>
-<param attribution="Elizabeth Waterman-Scrase" label="Sea-front at Deal" url="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" ve-image=""/>
-<param label="Traveller's Joy by Gloria Treseder" url="https://stor.artstor.org/stor/3682a5ad-c995-4ad6-bf5c-a24da1b86d05" ve-image=""/>
-<param attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence." label="Folkestone Library" url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" ve-image=""/>
-<param attribution="Lisa Hawkins" label="Towards Reculver" url="https://stor.artstor.org/stor/5ca9a9c9-174a-4594-a0fb-fffc695e7f1b" ve-image=""/>
-<param attribution="Photography by Martin Crowther" label="Chaucer's Pilgrims by Gloria Treseder" url="https://stor.artstor.org/stor/c6cf4dfd-eb93-40b5-b466-58ae8f557f5f" ve-image=""/>
-<param attribution="Martin Crowther" label="Miners houses at Betteshanger" url="https://stor.artstor.org/stor/8e43ec4c-6f32-4cc3-a630-51348ef92b9e" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Gad's Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
-<param attribution="Postcard, pre-1920" label="Canterbury High Street" url="https://stor.artstor.org/stor/707a3d41-f05c-49d5-add1-dbc573efec4a" ve-image=""/>
-<param attribution="Martin Crowther" label="Bridge leading to Godmersham Park" url="https://stor.artstor.org/stor/d1a32d46-90e4-4b12-81b5-c66c2c27322b" ve-image=""/>
-<param attribution="Martin Crowther" label="Steps in the grounds of Godmersham Park" url="https://stor.artstor.org/stor/c86080d7-264e-47fd-b156-9033306d9c0e" ve-image=""/>
-<param attribution="Public domain" label="Simon Langton Grammar Schools when co-located" url="https://stor.artstor.org/stor/dfa23143-29ed-4551-b01f-7a93dfd04724" ve-image=""/>
-<param attribution="© Canterbury Christ Church University, used with kind permission" label="1960s campus at CCCU" url="https://stor.artstor.org/stor/ada7827f-a5e3-4daa-a6d2-8bf65efd1113" ve-image=""/>
-<param description="prattware pot lid , c.1860; painting by Arthur Boyd Houghton, 1862" fit="contain" label="Shrimp Paste Pot Lid from 'Pegwell Bay &amp; Four Shrimpers' collection" url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg" ve-image=""/>
-<param attribution="rawpixel (https://www.rawpixel.com/image/321165/free-illustration-image-blue-wren-gould)" description="Illustrated by Elizabeth Gould for John Gould’s “Birds of Australia”, 1972" fit="contain" license="public domain" title="Blue Wren (Malurus cyaneus) in “Birds of Australia”" url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&amp;dpr=1&amp;fit=default&amp;crop=default&amp;q=65&amp;vib=3&amp;con=3&amp;usm=15&amp;bg=F4F4F3&amp;ixlib=js-2.2.1&amp;s=8539ca4f45990976634b541654947458" ve-image=""/>
-<param attribution="The Wellcome Collection, no known copyright" label="The Pillars of Hercules, or, A narrative of travels in Spain and Morocco in 1848 / By David Urquhart" url="https://iiif.wellcomecollection.org/image/b29351066_0002_0007.jp2/full/full/0/default.jpg" ve-image=""/>
-<param attribution="©The Salmon Picture Library" url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" ve-image=""/>
-<param attribution="Kent Maps Online Collection" label="Ramsgate, East Cliff Promenade" url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" ve-image=""/>
-<param attribution="Michelle Crowther, by kind permission" label="Asda store, Sturry Road" url="https://stor.artstor.org/stor/ff1f22f6-520c-4a56-aa44-9760c672b0ee" ve-image=""/>
-<param attribution="Daniel Vincent" label="White Cliffs" url="https://stor.artstor.org/stor/5aee558d-22f7-4227-9dbc-4a0a188399e9" ve-image=""/>
-<param attribution="Usage terms Public Domain" label="Rookwood; The fourth edition" url="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20romantics%20and%20victorians/collection-item-images/a/i/n/ainsworth%20w%20h%20rookwood%20m00006%2057.jpg" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Eastgate House" url="https://stor.artstor.org/stor/4bcb5ff3-1a7b-4d15-943d-36c283e418e0" ve-image=""/>
-<param attribution="Credit: Wellcome Collection. Public Domain Mark" label="Punch, or, the London Charivari" license="CC BY 4.0" url="https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg" ve-image=""/>
-<param attribution="By kind permission of Carolyn Oulton" label="Granville Hotel" url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" ve-image=""/>
-<param attribution="Peter Henderson, by permission" label="Mint Yard, King's School, Canterbury" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image=""/>
-<param attribution="No known copyright restrictions" label="Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling" url="https://stor.artstor.org/stor/e70a6523-0d4d-42da-a07a-699c3f2aa1ea" ve-image=""/>
-<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" ve-image=""/>
-<param attribution="Carolyn Oulton" label="Canterbury Odeon - Covid Vaccination Centre" url="https://stor.artstor.org/stor/24d208f8-0b96-4e08-85b3-c45a1558eb2b" ve-image=""/>
-<param attribution="Postcard, pre-1918, Léon &amp; Levy" label="St Peter's Street" url="https://stor.artstor.org/stor/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Gads Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image=""/>
-<param label="Cobham Hall, near Rochester" url="https://stor.artstor.org/stor/dc892f31-c494-463b-ae95-942bf382344a" ve-image=""/>
-<param attribution="Michelle Crowther, by kind permission" label="Site of former Barretts forecourt" url="https://stor.artstor.org/stor/8acd68ee-34f3-4208-8d83-69407ebfe847" ve-image=""/>
-<param attribution="T. Pointer, Stationer, Birchington on Sea c.1909" label="The Cliffs and Bungalows, Birchington-on-sea" url="https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46" ve-image=""/>
-<param label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" ve-image=""/>
-<param attribution="Martin Crowther" label="Churchill Statue in Westerham" url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" ve-image=""/>
-<param attribution="Benjamin Mortley" title="Cobham, Kent: The Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image=""/>
-<param attribution"wellcome="" collection:="" domain="" label="Margate, Kent: a woman diving off a bathing wagon in to the sea. Coloured etching, ca. 1800." mark"="" public="" url="https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg" ve-image=""/>
-<param attribution="Photography by Hufton and Crow, by kind permission of the Turner Contemporary" label="Turner Contemporary" url="https://stor.artstor.org/stor/08e67dca-f24b-42f5-80ac-d270d6756b99" ve-image=""/>
-<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" label="The Picturesque Beauties of Great Britain: Kent. Rochester Bridge, 1829" url="https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a" ve-image=""/>
-<param label="Birchington Promenade" url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" ve-image=""/>
-<param attribution="Kent Maps Online Postcard Collection" label="Shorncliffe Camp" url="https://stor.artstor.org/stor/290a020f-939a-4095-afcb-7b7c33f19237" ve-image=""/>
-<param attribution="Mint Yard, Kings School, Canterbury, 1976. By kind permission of King's School, Canterbury" label="Mint Yard" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image=""/>
-<param attribution="Drawn by George Shepherd" label="Snargate Street, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image=""/>
-<param label="Woodcut illustrating St George's Church with St George's Gate in the distance" url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" ve-image=""/>
-<param attribution="Murray School House, Kings School, Canterbury, c. 1900. By kind permission of King's School, Canterbury" label="Murray School House" url="https://stor.artstor.org/stor/a257cc7a-42ea-4a6d-a510-a0d88c551690" ve-image=""/>
-<param attribution="by kind permission of Broadstairs Dickens Museum" label="Map of Broadstairs, 1824 showing Chandos Place" url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" ve-image=""/>
-<param attribution="Benjamin Mortley" label="Dickens's Writing Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image=""/>
+<param label="2 Nuckell's Place later became Dickens House. Or - to add to the confusion - Dickens' House" url="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" ve-image/>
+<param label="Broadstairs" url="https://stor.artstor.org/stor/c5128fb0-fda9-44dc-adda-4573ed973526" ve-image/>
+<param url="https://stor.artstor.org/stor/24226407-4255-42b5-a1e0-4fe9ddbf8a30" ve-image/>
+<param url="https://stor.artstor.org/stor/5fd29544-ad48-4ef4-8e7a-74cb1f11165f" ve-image/>
+<param attribution="Benjamin Mortley" label="Theatre Royal, Rochester" url="https://stor.artstor.org/stor/d0b420cf-d0fd-49f1-a9d1-1f47cbc1618f" ve-image/>
+<param url="https://stor.artstor.org/stor/637f0dd1-a51b-4b63-851c-5cd9ab8ffdc5" ve-image/>
+<param attribution="By kind permission of Carolyn Oulton" label="Harbour Parade, Ramsgate" url="https://stor.artstor.org/stor/d2f327c4-4385-46be-93f9-9d1ca740785a" ve-image/>
+<param attribution="Benjamin Mortley" label="Gad's Hill, Rochester" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image/>
+<param attribution="Michelle Crowther" label="Pies" url="https://stor.artstor.org/stor/bfce798e-18d9-4e1b-bd73-b375747cb320" ve-image/>
+<param label="Sherlock and Dr Watson" url="https://stor.artstor.org/stor/fae476ff-29d2-4cf1-aa56-9bc77eebb358" ve-image/>
+<param attribution="Martin Crowther" label="Camden Crescent, Dover" url="https://stor.artstor.org/stor/71ff761a-59b2-48d3-af90-1a207e12ad6b" ve-image/>
+<param attribution="1828 Adlard" label="Rochester Bridge" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image/>
+<param url="https://stor.artstor.org/stor/e20400b8-e3ad-4655-9f1c-ac49f1846682" ve-image/>
+<param attribution="Scanned image by Paul Schlicke, and text by Philip V. Allingham" label="The Free and Easy by George Cruikshank, 8 February 1836" url="https://user-images.githubusercontent.com/64199349/128225474-c0f41403-0413-4549-8f2a-e765d8e2601a.png" ve-image/>
+<param attribution="Benjamin Mortley" label="Swiss Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image/>
+<param attribution="Michelle Crowther, by kind permission" label="Curry's PC World on Sturry Retail Park" url="https://stor.artstor.org/stor/8d8e4096-14f4-4413-bbb3-948eb0b7bc74" ve-image/>
+<param attribution="Martin Crowther" label="Ivy Cottage" url="https://stor.artstor.org/stor/fab81d15-c1f8-43fc-8678-ae80bfbf75e3" ve-image/>
+<param label="Arden Plaque" url="https://stor.artstor.org/stor/14dbc8fa-db1d-4416-92cf-4ed0f0711ae3" ve-image/>
+<param attribution="Peter Firmin. By kind permission of Charlotte Firmin" label="The Winter Diary of a Country Rat" url="https://stor.artstor.org/stor/a50ee0cf-5697-4ae5-99cf-5bd9b4f46b75" ve-image/>
+<param attribution="Postcard, pre-1918, Léon &amp; Levy" label="Westgate" url="https://stor.artstor.org/stor/b0acbfd0-9654-4d59-b6ed-9f4fde9f6453" ve-image/>
+<param attribution="Drawn by G.Shepherd" label="Snargate Street, Dover c.1830." url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
+<param attribution="Michelle M" label="Canterbury Cathedral, Canterbury" url="https://stor.artstor.org/stor/2d12c710-fb1b-4e9c-b15d-c4a5da37340f" ve-image/>
+<param attribution="permission of Peter Henderson" label="Mint Yard, Canterbury" url="https://stor.artstor.org/stor/daff0204-9646-4c43-a2ec-5577eb6cca3e" ve-image/>
+<param label="Birchington-on-Sea" url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" ve-image/>
+<param attribution="Edward Crowther, by kind permission" label="Wincheap Industrial Estate sign" url="https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d" ve-image/>
+<param attribution="Sarah Grand's passport © International Centre for Victorian Women Writers" label="Sarah Grand's passport" url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" ve-image/>
+<param attribution="Martin Crowther" label="The Timber Batts, at Bodsham" url="https://stor.artstor.org/stor/583b0092-6214-4137-985b-ac9062374c5a" ve-image/>
+<param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image/>
+<param attribution="Wellcome Images (https://wellcomecollection.org/works/ed688gme/items)" description="Engraving by J. Wood, 1830." license="public domain" region="-105,-80,1236,964" title="A woman in bed after giving birth." url="https://iiif.wellcomecollection.org/image/V0007494/full/1024%2C/0/default.jpg" ve-image/>
+<param attribution="© Michelle Crowther" label="Road of Remembrance" url="https://stor.artstor.org/stor/c4709d92-4e55-4e57-8e13-8ebd8e7187ed" ve-image/>
+<param attribution="© Martin Crowther" label="Blue Plaque at Nayland Rock Shelter" url="https://stor.artstor.org/stor/bf760fe0-4461-43e7-abf2-231fef1033d4" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the chancel screen and wainscotting from the high altar. Note how plain the carving is from this side of the screen, when viewed from the other side, it is highly decorative" url="https://stor.artstor.org/stor/68c5b8c3-5fec-4cab-893b-5edf940aa5a7" ve-image/>
+<param attribution="Benjamin Mortley" label="High Street, Rochester" url="https://stor.artstor.org/stor/c777c08c-78a1-4719-ab1d-c56a4d39db53" ve-image/>
+<param attribution="Michelle Crowther" label="Hythe Military Canal" url="https://stor.artstor.org/stor/99116851-20a9-4b76-8cb3-7ddce7a43d3b" ve-image/>
+<param attribution="© St Edmund's School, Canterbury, used with kind permission" label="St Edmund's School" url="https://stor.artstor.org/stor/6ab759bd-834f-46a9-adda-72e1807f86b6" ve-image/>
+<param label="Canterbury in the Olden Time signed by the author" url="https://stor.artstor.org/stor/129ae304-a3f9-4021-856a-0c6d4ce1c3bc" ve-image/>
+<param attribution="Carolyn Oulton" label="Canterbury Odeon - Covid Vaccination Centre" url="https://stor.artstor.org/stor/6babbfb7-29be-4fe3-bc13-fffffd71c75f" ve-image/>
+<param label="Penshurst" url="https://stor.artstor.org/stor/fa7281ea-765d-4ca1-afc9-2723f4ef7ff2" ve-image/>
+<param attribution="Canterbury in the Olden Time by John Brent, 1879" label="St George's Gate" url="https://stor.artstor.org/stor/c8270a90-11bb-4a80-aa86-c01accee9063" ve-image/>
+<param attribution="By permission of Bethlem Museum of the Mind" label="Murder" url="https://stor.artstor.org/stor/f0fcc4d1-c3d4-40a3-a6e1-9f8a7711bba4" ve-image/>
+<param attribution="Jewish Women's Archive (https://jwa.org/media/rebecca-solomon-governess)" description="Painted by Rebecca Solomon, c. 1851" license="public domain" region="-100,-80,1200,936" title="The Governess" url="https://cdn.jwa.org/sites/default/files/mediaobjects/rebecca_solomon_-_thegoverness.jpg" ve-image/>
+<param attribution="Postcard of Kent College, c.1930. By kind permission of Kent College" label="Postcard of Kent College" url="https://stor.artstor.org/stor/0335f354-b193-43c7-859f-39df4b1965a1" ve-image/>
+<param attribution="By kind permission of Carolyn Oulton" label="Ramsgate, East Cliff Promenade" url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" ve-image/>
+<param attribution="By kind permission of Martin Crowther" label="The Harbour, Folkestone, looking east by George Barnard" url="https://stor.artstor.org/stor/e3916d2b-2c0e-4bac-b403-53c9ac4ccb84" ve-image/>
+<param attribution="Benjamin Mortley" label="Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image/>
+<param attribution="Martin Crowther" label="Back view of Godmersham Park" url="https://stor.artstor.org/stor/16f50fe5-af80-4d10-a5f4-9820d3e7c63c" ve-image/>
+<param label="Simon Langton Boys' Grammar School" url="https://stor.artstor.org/stor/efb430e3-c025-4ddd-a976-bc985277273c" ve-image/>
+<param attribution="Postcard, Valentine's series, no known copyright" label="Dane John Gardens, pre-1918" url="https://stor.artstor.org/stor/f7e87e07-6521-4ea5-99e3-6f2f6594b92b" ve-image/>
+<param attribution="Calum Elliot and Emma Molford, by kind permission" label="Canterbury High Street" url="https://stor.artstor.org/stor/4492394e-fa2c-454b-99a9-0520c088b76d" ve-image/>
+<param attribution="© Ken Moffatt" label="Ship and Lobster" url="https://stor.artstor.org/stor/87dff019-2bdb-408a-b9a6-2c7952a1d686" ve-image/>
+<param attribution="Horace Spence Collection" label="Floods at Fordwich" url="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a" ve-image/>
+<param attribution="High St, Aylesford by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons" label="Aylesford" url="https://commons.wikimedia.org/wiki/File:High_St,_Aylesford_-_geograph.org.uk_-_1839610.jpg" ve-image/>
+<param attribution="Martin Crowther" label="A2 sign on the High Street" url="https://stor.artstor.org/stor/bd562c60-7fcd-435e-9c8d-d1a1a989a015" ve-image/>
+<param attribution="©Elgate Postcards, Margate" label="Bleak House -Fort House - as Dickens would have known it" url="https://stor.artstor.org/stor/d301f78e-3342-4822-82ad-c1d5b428d6db" ve-image/>
+<param attribution="Martin Crowther" label="Blue plaque" url="https://stor.artstor.org/stor/eccb379a-a975-40fc-a14c-f6f34a0163de" ve-image/>
+<param label="The Water Tower, Woodlands Wood, Adisham" url="https://stor.artstor.org/stor/0095b092-a8e8-4d8f-b644-ad93dd98f9f8" ve-image/>
+<param attribution="©Martin Crowther" label="Victoria Parade, Broadstairs" url="https://stor.artstor.org/stor/1807d34b-a40f-4979-95a8-fee341c98aa5" ve-image/>
+<param attribution="John Brent" label="Canterbury in the Olden Time" url="https://stor.artstor.org/stor/8170ce97-3fe7-4dac-b063-ff35b17faecb" ve-image/>
+<param attribution="John Brent" label="Illustration of enamelled brooches from Canterbury in the Olden Time" url="https://stor.artstor.org/stor/3e7c4e22-8283-443a-8ae0-da685ef246bf" ve-image/>
+<param attribution="Martin Crowther" label="Nailbourne" url="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" ve-image/>
+<param attribution="Photographer unknown" label="Fire at Barrett's on St Peter's Street, 1937" url="https://stor.artstor.org/stor/cd790d83-8b41-4b53-a497-4d691528174f" ve-image/>
+<param attribution="©Carolyn Oulton" title="Cream tea" url="https://stor.artstor.org/stor/a44f44d7-8226-47fe-9762-90595ead4cf4" ve-image/>
+<param attribution="By kind permission of Broadstairs Dickens Museum" label="Broadstairs Rate Book, 1843" url="https://stor.artstor.org/stor/f918a212-aeef-4252-8a4a-6b076588f70d" ve-image/>
+<param attribution="Dr Alyson Hunt" label="Pierremont House, Ramsgate" url="https://stor.artstor.org/stor/2204efeb-42d0-40d9-b76e-ce129b2afd50" ve-image/>
+<param attribution="Benjamin Mortley" label="Pink sweetshop" url="https://stor.artstor.org/stor/fdc76136-9469-4588-b33c-8cf665eaf476" ve-image/>
+<param attribution="No known copyright restrictions" label="Canterbury street, from A Walk In and About the City of Canterbury by William Gostling" url="https://stor.artstor.org/stor/fb97b8a2-50de-4cae-b35b-7aedb06de42b" ve-image/>
+<param label="Seven Oaks, Kent" url="https://stor.artstor.org/stor/02b33eb0-f0d4-44ac-ba62-4608bedc1cef" ve-image/>
+<param attribution="Lisa Hawkins" label="Near Seasalter" url="https://stor.artstor.org/stor/0304f113-bb27-49ec-998f-15329c201526" ve-image/>
+<param attribution="By kind permission of M.R.Shifrin" label="Victorian Turkish baths" url="https://stor.artstor.org/stor/73026e16-50c4-4401-94c3-8980a2eb39b1" ve-image/>
+<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." label="Margate Parade c. 180" url="https://stor.artstor.org/stor/13b9cf96-8fcb-4df0-8491-9049ae7450fc" ve-image/>
+<param attribution="© Martin Crowther" label="Margate" url="https://stor.artstor.org/stor/6b2b48c1-ee71-4b39-88a1-7b4bff52ae2e" ve-image/>
+<param attribution="By kind permission of David Perdue" label="Dickens' Rochester/Chatham" url="https://stor.artstor.org/stor/cc1b9669-0996-475c-bba2-692467a50043" ve-image/>
+<param attribution="Photographed by Calum Elliot and Emma Molford" label="Dane John Gardens, Canterbury, April 2021" url="https://stor.artstor.org/stor/04dc1444-cdd0-445b-8041-b2dd02ed0f58" ve-image/>
+<param attribution="Astrid Stilma, by kind permission of Patrick Marrin" label="The Crab and Winkle Railway" url="https://stor.artstor.org/stor/c968b1f6-1fe2-4b97-ba54-488194230fed" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church interior, looking east towards the altar." url="https://stor.artstor.org/stor/c6381b04-426f-4ec9-b281-c62d5f58a539" ve-image/>
+<param attribution="© Canterbury Christ Church University, used with kind permission" label="View across the Quad to Hepworth at CCCU" url="https://stor.artstor.org/stor/86d7445f-2196-48b6-a135-182c7865c7a3" ve-image/>
+<param attribution="Benjamin Mortley" fit="cover" title="Bull Hotel" url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" ve-image/>
+<param attribution="Drawn by G. Shepherd" label="Snargate Street Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
+<param attribution="Connor Treston" label="St Martin's Church" url="https://stor.artstor.org/stor/801c7f8a-436d-4bc2-863f-7be500afda3d" ve-image/>
+<param attribution="Martin Crowther" label="Blue Plaque at the Duck, Pett Bottom" url="https://stor.artstor.org/stor/eccb379a-a975-40fc-a14c-f6f34a0163de" ve-image/>
+<param label="Simon Langton Schools, Whitefriars" url="https://stor.artstor.org/stor/c1364803-83ff-4c91-ad94-2c3903d4b135" ve-image/>
+<param attribution="Drawn by G.Shepherd" label="Snargate St, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
+<param attribution="National Library of Scotland 	Glen.88(1) Attribution 4.0 International CC BY 4.0" label="Davie's Caledonian repository of the most favorite Scottish slow airs, marches, strathspeys, reels, jigs, hornpipes, &amp;c." url="https://deriv.nls.uk/dcn30/1050/0038/105000383.30.jpg" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church from the north east, showing the Victorian renovation of the nave and aisles." url="https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1" ve-image/>
+<param attribution="By kind permission of Fiona Castle" label="Debden Court Farm" url="https://stor.artstor.org/stor/b257f31e-8685-4abc-8585-4393b1c4fd9f" ve-image/>
+<param attribution="Thomas Crowther" label="Scuba" url="https://stor.artstor.org/stor/c5a69374-84aa-4934-a9d4-4469d7e40ace" ve-image/>
+<param attribution="MWS, Shaun Mudd and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)" label="Magic London, by Netta Syrett" url="https://www.gutenberg.org/files/65490/65490-h/images/cover.jpg" ve-image/>
+<param attribution="Lisa Hawkins" label="Marshside" url="https://stor.artstor.org/stor/36ae75f3-b601-4695-ba8e-efb2e99630fc" ve-image/>
+<param attribution="Horace Spence Collection" label="Floods, Canterbury, 1909" url="https://stor.artstor.org/stor/a0bf9873-f3f9-4f74-99c8-a392e6ea8e47" ve-image/>
+<param attribution="Andrew Vincent" label="St Mary the Virgin, Fordwich" url="https://stor.artstor.org/stor/b19db3c3-6ab8-494d-b5eb-ae98c085602d" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="Chatham Dockyard" url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" ve-image/>
+<param label="The Dockyard, Chatham" url="https://stor.artstor.org/stor/4e856731-aff2-4d72-91b6-01e6e1ab812f" ve-image/>
+<param attibution="T.C.Dugdale, private collection" label="Hopping" url="https://stor.artstor.org/stor/22b087f4-554d-47c2-8131-3582d178ad1f" ve-image/>
+<param label="Godmersham Park" url="https://stor.artstor.org/stor/436d9c34-e028-42da-a033-65d1d24a46fe" ve-image/>
+<param attribution="Martin Crowther, by kind permission" label="Tannery Field bull" url="https://stor.artstor.org/stor/40ca319d-06b9-453b-8435-5cb7cf2a7946" ve-image/>
+<param attribution="Lisa Hawkins" label="North Foreland" url="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" ve-image/>
+<param attribution="©Michelle Crowther" label="Augustine House Library" url="https://stor.artstor.org/stor/6680eb0e-67fe-4e0a-bd39-f2ab91fdaa61" ve-image/>
+<param label="The authors who worked on the CRAY project" url="https://stor.artstor.org/stor/c7b05a8c-84a8-41d0-ace6-65117ba54e49" ve-image/>
+<param attribution="Edward Crowther" label="Eight Bells" url="https://stor.artstor.org/stor/24ee11de-7f17-4c68-8455-8c0cc4339c11" ve-image/>
+<param attribution="© Michelle Crowther" label="The Road of Remembrance, Folkestone" url="https://stor.artstor.org/stor/c4709d92-4e55-4e57-8e13-8ebd8e7187ed" ve-image/>
+<param attribution="Andrew Vincent" label="St John the Baptist, Smallhythe" url="https://stor.artstor.org/stor/62da9026-fd94-40de-9f54-ad63696fdc9e" ve-image/>
+<param attribution="Michelle Crowther, by kind permission" label="Former Barretts showroom, now being renovated" url="https://stor.artstor.org/stor/62c0d182-6f60-4916-a824-c82f77e63c3a" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="The Westgate, Canterbury" url="https://stor.artstor.org/stor/bd59ff4f-a8f7-4728-95f7-cacbfafb3e00" ve-image/>
+<param label="Lady Wootton's Green, Canterbury, 2021" url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" ve-image/>
+<param attribution="Postcard, Léon &amp; Levy" label="St Peter's Street, pre-1918" url="https://stor.artstor.org/stor/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6" ve-image/>
+<param attribution="Andrew Vincent" label="The Fordwich stone which sits in the north aisle. It is difficult to appreciate the intricate and beautiful carving without seeing it in person" url="https://stor.artstor.org/stor/91852a6e-27d8-488f-9769-662972f4647f" ve-image/>
+<param attribution="©Michelle Crowther" label="Albion Hotel, Broadstairs" url="https://stor.artstor.org/stor/079a54df-5a5a-484f-9ebe-3bc9fa0f031b" ve-image/>
+<param attribution="Lisa Hawkins" label="Minster Marsh, stormy day" url="https://stor.artstor.org/stor/f0bec294-4bea-40c0-8161-a6c8c1f1cdde" ve-image/>
+<param label="Unknown Kent, 1921" url="https://stor.artstor.org/stor/ced608e6-1e5f-48a9-b58c-0f2eda22bead" ve-image/>
+<param attribution="©The Salmon Picture Library" url="https://stor.artstor.org/stor/35b08e17-9f1e-452e-b176-53e9023f9a37" ve-image/>
+<param attribution="H.Boys fecit © Augustine House Library, Canterbury Christ Church University" label="A small south down ram belonging to Mr Boys" url="https://stor.artstor.org/stor/88d2f112-4ba0-4117-a87a-238e090cd846" ve-image/>
+<param attribution="Martin Crowther" label="Traveller's Joy by Gloria Treseder" url="https://stor.artstor.org/stor/23eec7ab-f778-47b0-a28d-813713070fef" ve-image/>
+<param attribution="Photography by Martin Crowther" label="Rupert Bear by Gloria Treseder" url="https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855" ve-image/>
+<param label="Broadstairs" url="https://stor.artstor.org/stor/09e1b362-e980-44dd-947b-801070eb499e" ve-image/>
+<param label="Godmersham Park" url="https://stor.artstor.org/stor/6c1e5309-950a-423e-a8b6-00288674c2d5" ve-image/>
+<param attribution="Photographed by Martin Crowther" label="Home of Bithia Croker" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image/>
+<param attribution="Benjamin Mortley" label="Restoration House" url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" ve-image/>
+<param attribution="© Canterbury Christ Church University, used with kind permission" label="History class in the early 1980s" url="https://stor.artstor.org/stor/fa0a8eed-c703-49da-8fc5-ab5e9f9b58f2" ve-image/>
+<param label="Godmersham Park" url="https://stor.artstor.org/stor/a9fbde83-5a1f-41d3-9fcb-9ad86496be12" ve-image/>
+<param attribution="Andrew Vincent" label="The view of St Mary’s from the east, with the chancel and north aisle chapel, with the tower and spire in the background" url="https://stor.artstor.org/stor/b19db3c3-6ab8-494d-b5eb-ae98c085602d" ve-image/>
+<param attribution="By kind permission of Andrew Sargent" label="Tourist Guides" url="https://stor.artstor.org/stor/864eb83b-2fc9-44e6-9668-a3a4ec717619" ve-image/>
+<param attribution="Michelle Crowther" label="1, London Road, Canterbury" url="https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393" ve-image/>
+<param attribution="Martin Crowther" label="Abandoned Debenhams" url="https://stor.artstor.org/stor/2b076d61-1920-4e76-aced-2a3b0d7e7512" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="Ramsgate Pavilion" url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" ve-image/>
+<param label="English's Guide to Folkestone, Sandgate, Hythe" url="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" ve-image/>
+<param label="Rupert Bear by Gloria Treseder" url="https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855" ve-image/>
+<param label="St Martin's Church, Canterbury" url="https://stor.artstor.org/stor/5394b37b-30f1-4c6c-a751-990c98a13f1f" ve-image/>
+<param attribution="Published by H. J. Goulden, Canterbury, pre-1918" label="Simon Langton Schools" url="https://stor.artstor.org/stor/c1364803-83ff-4c91-ad94-2c3903d4b135" ve-image/>
+<param attribution="Martin Crowther, by kind permission" label="Tannery Field bull" url="https://stor.artstor.org/stor/c2a24edf-49f6-48fd-9c29-11731fb15d16" ve-image/>
+<param attribution="Photographed by Michelle Crowther" label="Portrait Bench, Dover seafront" url="https://stor.artstor.org/stor/07405b1d-ef21-4501-90ed-3ad985c20029" ve-image/>
+<param attribution="M.R. Shifrin" label="Biggin Hall, site of the former Turkish baths, Dover" url="https://stor.artstor.org/stor/470cd2c9-931b-4036-9a67-66079d3f8925" ve-image/>
+<param label="Advertisement in The Globe for the Granville Hotel" url="https://stor.artstor.org/stor/3c62d8de-ea92-4d3e-abcc-efc9d1b39728" ve-image/>
+<param attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence" label="Folkestone Library" url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" ve-image/>
+<param attribution="Reproduced from an original F. Frith &amp; Co postcard" label="The Guildhall" url="https://stor.artstor.org/stor/5f118363-1cb7-4377-9fdf-d6983e5f0307" ve-image/>
+<param attribution="Benjamin Mortley" label="College Gate" url="https://stor.artstor.org/stor/bf19e774-7bbc-468e-b913-61257c0eb034" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="Canterbury High Street" url="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" ve-image/>
+<param attribution="Martin Crowther" label="Faversham" url="https://stor.artstor.org/stor/3e8869d4-b20a-451f-8dab-886f05b29604" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church from the west end, with the tower door and window, later additions to the older tower’s fabric" url="https://stor.artstor.org/stor/c9d907e6-b0ea-4ab8-94e1-79ab46c647ec" ve-image/>
+<param label="Broadstairs" url="https://stor.artstor.org/stor/7cdfdb0a-69ae-4fd6-a2e4-1a9cd5dfe1d3" ve-image/>
+<param label="Incidents of Hop gathering" url="https://stor.artstor.org/stor/b8c85c59-97a0-45db-befb-36c7a779740c" ve-image/>
+<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Novels by G.A. Henty" url="https://stor.artstor.org/stor/82c3499a-ede2-4442-a0bb-ec3ccd531e99" ve-image/>
+<param attribution="John Andrews, John Dury and William Herbert. By permission of Augustine House Library" label="A Topographical Map of the County of Kent" url="https://stor.artstor.org/stor/eb61d339-15de-4602-ace7-9cb4272a1ac3" ve-image/>
+<param attribution="Benjamin Mortley" label="Leather Bottle" url="https://stor.artstor.org/stor/e3cea4a0-257a-41c5-836a-6a9a7e73be07" ve-image/>
+<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/b4b1e2ee-a94d-4fd6-aec2-2bf7902abfb6" ve-image/>
+<param attribution="Martin Crowther" label="Blue Plaque" url="https://stor.artstor.org/stor/d306de51-dc71-4369-9416-2306342424d1" ve-image/>
+<param attribution="© Kent Archive and Local History Service" label="Ramsgate and Margate, 1882" url="https://stor.artstor.org/stor/811dfc80-b02e-4166-a487-02892f44e4c5" ve-image/>
+<param attribution="Photographed by Astrid Stilma, by kind permission of Patrick Marrin" label="Rochester Bridge, 1828" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image/>
+<param attribution="Andrew Vincent" label="The mural depicting St Eanswythe which was painted onto the south wall of the south chancel chapel. She is said to have died in her early twenties." url="https://stor.artstor.org/stor/893f1386-bfc5-4d0e-b562-540f038d2db1" ve-image/>
+<param attribution="Michelle Crowther" label="The Hugin, Pegwell Bay" url="https://stor.artstor.org/stor/05d3fd9a-d78d-45b0-9baa-4eadde612f7a" ve-image/>
+<param attribution="Benjamin Mortley" label="Rochester Cathedral" url="https://stor.artstor.org/stor/44be2f2c-2f9a-48a2-8cc2-e009206ac344" ve-image/>
+<param attribution="Photographed by Michelle Crowther" label="Plaque to Longhurst in Canterbury Cathedral" url="https://stor.artstor.org/stor/ee2dd200-0f05-4e33-877d-45477188e322" ve-image/>
+<param label="Granville Hotel, Ramsgate" url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" ve-image/>
+<param attribution="Edward Crowther" label="Mulberry Court from the Stour" url="https://stor.artstor.org/stor/aa53f9c0-4744-413f-af77-9f8212fe68ed" ve-image/>
+<param attribution="by kind permission of Patrick Marrin" label="Baynes's Map of the Environs of Gravesend, 1864" url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt., Shorncliffe Camp" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image/>
+<param attribution="Public domain" label="St George's Street" url="https://stor.artstor.org/stor/a88a700f-df99-46c1-ba05-e5809a9d9e77" ve-image/>
+<param attribution="British library, public domain" label="Illustration on the front cover of The Wooing of a Fairy" url="https://stor.artstor.org/stor/e0d0f20a-3c3f-48db-ba79-f8fc85a1d38e" ve-image/>
+<param attribution="Martin Crowther" label="Delapidated Nasons" url="https://stor.artstor.org/stor/ccf163ea-b09d-4334-be4d-fd176d79a7eb" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church interior looking west from under the central tower down into the large nave and aisles." url="https://stor.artstor.org/stor/28b8ffc8-41e6-4ee0-9670-b325efef6860" ve-image/>
+<param label="Snargate Street, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
+<param attribution="© Martin Crowther" label="James Simmons House, Canterbury " url="https://stor.artstor.org/stor/0dbebb56-ac19-4cef-9f23-7e64db40f34b" ve-image/>
+<param label="Marine Library, Ramsgate" url="https://stor.artstor.org/stor/20f1480d-349c-4c15-b57e-86a67db8eed2" ve-image/>
+<param attribution="© Martin Crowther" label="Kentish Gazette" url="https://stor.artstor.org/stor/45c339b3-6234-4096-827e-8cce6681e0fe" ve-image/>
+<param attribution="By kind permission of Maidstone Grammar School for Girls" label="Maidstone Grammar School for Girls at Albion Place" url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" ve-image/>
+<param attribution="Martin Crowther" label="Entrance Gates to the Mining Museum" url="https://stor.artstor.org/stor/b3049a2f-0ece-44cb-a9f6-7d64c533597d" ve-image/>
+<param attribution="Martin Crowther" label="Betteshanger Colliery" url="https://stor.artstor.org/stor/837bda95-d400-4e3b-913b-b70829ae8967" ve-image/>
+<param label="Detail of Sheppey, John Speed map of Kent, 1611" url="https://stor.artstor.org/stor/2c221d42-8be8-432e-80c5-a1c13e87ea9d" ve-image/>
+<param attribution="Private collection" label="Hopping" url="https://stor.artstor.org/stor/8b2c869f-fca1-462c-9f35-0ec431e15266" ve-image/>
+<param attribution="Lisa Hawkins" label="Greyfriars" url="https://stor.artstor.org/stor/ef6a32bc-19e0-492f-975d-7beac4d68e37" ve-image/>
+<param attribution="Diana Hirst" label="Folkestone" url="https://stor.artstor.org/stor/217498b0-8935-4fb8-b565-6eb02161a180" ve-image/>
+<param attribution="Michelle Crowther" label="Canterbury Gaol" url="https://stor.artstor.org/stor/04b07dbb-e3b2-43d8-b9b3-265e9cff8737" ve-image/>
+<param label="Simon Langton Girls' Grammar School" url="https://stor.artstor.org/stor/a5222b83-766a-49ce-a3e5-6ff598aecee5" ve-image/>
+<param attribution="Martin Crowther" label="The house where Thomas Arden lived and was killed in 1551" url="https://stor.artstor.org/stor/7274fc11-fb2d-4028-971f-cbf2608d5e74" ve-image/>
+<param attribution="Martin Crowther" label="10 Radnor Cliff, Sandgate" url="https://stor.artstor.org/stor/4cee51d5-7884-4217-9dda-d92840561842" ve-image/>
+<param attribution="Sainsbury Archive, open access" label="Design for the award-winning Sainsbury's Canterbury branch" url="https://d1nvj7b44vmgv4.cloudfront.net/w800/bra/SA_BRA_7_C_6_10hr.jpg" ve-image/>
+<param label="St Peter and St Paul, Headcorn" url="https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99" ve-image/>
+<param attribution="In copyright. By permission of Bethlem Museum of the Mind" label="Richard Dadd at his easel, 1850s" url="https://stor.artstor.org/stor/711b2c87-7604-4f8d-a6e6-fd3f9463aecf" ve-image/>
+<param attribution="No known copyright restrictions." label="Canterbury Cathedral, from A Walk In and About the City of Canterbury by William Gostling, 1825" url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" ve-image/>
+<param attribution="© Carolyn Oulton, by kind permission" label="Simon Langton Boys'" url="https://stor.artstor.org/stor/b6c45d8f-4472-4f55-884b-2d14cab76143" ve-image/>
+<param attribution="Martin Crowther" label="Blue Plaque, 10 Radnor Cliff" url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" ve-image/>
+<param attribution="By kind permission of King's School, Canterbury" label="South prospect at King's School" url="https://stor.artstor.org/stor/67a31a8c-c065-4747-a259-131c9d72eddc" ve-image/>
+<param attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin" label="The Picturesque Beauties of Great Britain: Kent: The New Sessions House, Maidstone" url="https://stor.artstor.org/stor/d08f6d96-830c-4102-97a5-c96b9eb64ef2" ve-image/>
+<param attribution="Benjamin Mortley" label="Benjamin High Street" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image/>
+<param attribution="Public domain, via The Garden’s Trust" label="The title page of the _Museum Tradescantianum_ catalogue, featuring John Tradescant the Elder" url="https://thegardenstrustblog.files.wordpress.com/2020/04/screenshot-92.png" ve-image/>
+<param attribution="Edward Crowther" label="Mulberry Court, Stour Street" url="https://stor.artstor.org/stor/e5314be8-ce81-4a98-8367-61e82e3944ad" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="Marine Parade, Hythe with Moyle Tower c.1914" url="https://stor.artstor.org/stor/44468ea4-cc7a-44c7-8390-ebf9f8ec8db8" ve-image/>
+<param attribution="Mint Yard, Kings School, Canterbury, c. 1900. By kind permission of King's School, Canterbury" label="Mint Yard" url="https://stor.artstor.org/stor/daff0204-9646-4c43-a2ec-5577eb6cca3e" ve-image/>
+<param attribution="Peter Firmin. By kind permission of Charlotte Firmin" label="Front Paper, The Winter Diary of a Country Rat" url="https://stor.artstor.org/stor/f0782a67-883f-4b39-91f1-7d63e32c9f3b" ve-image/>
+<param label="School of Musketry, Hythe" url="https://stor.artstor.org/stor/4ef7a1d3-e56d-464b-a53e-af0841504286" ve-image/>
+<param attribution="Augustine House Library" label="Canterbury Cathedral" url="https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2" ve-image/>
+<param attribution="Michelle Crowther" label="The Hugin, replica Viking longship, Pegwell Bay" url="https://stor.artstor.org/stor/ae074fc0-6b07-4cb0-b2a9-ca4ace42cc2e" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church from the south east. Note the stepped gables and heavy buttressing" url="https://stor.artstor.org/stor/62da9026-fd94-40de-9f54-ad63696fdc9e" ve-image/>
+<param attribution="Martin Crowther" label="Burnand's grave" url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" ve-image/>
+<param label="Ramsgate, 1830" url="https://stor.artstor.org/stor/c7983b3e-e756-442c-81ad-5a75c9941c5f" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the high alter surrounded by beautifully carved marble which was added during Matthew Woodward’s restorations. In the bottom left-hand corner you can see two candles and a small portrait. These stand next to the reliquary of St Eanswythe." url="https://stor.artstor.org/stor/6962033a-cf74-425e-b4a9-bb9964c7cea0" ve-image/>
+<param attribution="Benjamin Mortley" label="Bull Hotel" url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" ve-image/>
+<param attribution="Benjamin Mortley" label="The Gatehouse" url="https://stor.artstor.org/stor/4eeec435-8628-4798-b754-cdfb0f2a094e" ve-image/>
+<param attribution="Horace Spence Collection" label="Causeway" url="https://stor.artstor.org/stor/521f0909-d812-46b8-84f5-49c0328aba76" ve-image/>
+<param attribution="Simon Langton Boys' School, 1974. By permission of Simon Langton Boys' Grammar School" label="Simon Langton Boys' School entrance" url="https://stor.artstor.org/stor/efb430e3-c025-4ddd-a976-bc985277273c" ve-image/>
+<param attribution="By kind permission of Martin Crowther" label="Redcoats by the coast" url="https://stor.artstor.org/stor/9892bd49-0ecf-4513-a85d-00fc939769da" ve-image/>
+<param attribution="© DDS Demolition, 2018, used with kind permission" label="Drone view of prison backlands and site for Building 2 at CCCU" url="https://stor.artstor.org/stor/9e1ce94c-02c1-4e20-841d-2a5996d2e8d2" ve-image/>
+<param attribution="The Photochrom Co. Ltd" label="The Parade, Hythe with Moyle Tower" url="https://stor.artstor.org/stor/573d7807-f4c0-40b9-ad07-e65b737daf4f" ve-image/>
+<param attribution="© Martin Crowther" label="Seats inside Nayland Rock Shelter" url="https://stor.artstor.org/stor/43f708f9-0d08-4e7a-9f99-50e869e44ac2" ve-image/>
+<param attribution="by Thomas Stanley Treanor, 1904" label="“The Goodwin Sands” image from Heroes of the Goodwin Sands" url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" ve-image/>
+<param attribution"by crowther" kind label="Landing the fare at Pegwell Bay" martin of permission url="https://stor.artstor.org/stor/8aeaee15-e48f-420f-9638-961e6c2a86b7" ve-image/>
+<param attribution="© St Edmund's School, Canterbury, used with kind permission" label="St Edmund's School" url="https://stor.artstor.org/stor/8818c692-2db8-4bde-a586-ddeb030f7ca9" ve-image/>
+<param attribution="Michelle Crowther, by permission" label="Former Barretts showroom on St Peter's Street" url="https://stor.artstor.org/stor/5f170802-922a-4ff3-9636-011d3bc59c7e" ve-image/>
+<param attribution="Thomas Crowther" label="Multiplying" url="https://stor.artstor.org/stor/d56de85e-015f-4305-9adb-9ddb12601fcc" ve-image/>
+<param attribution="Copyright Martin Crowther" label="Hop picking in the early 19th century" url="https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe" ve-image/>
+<param label="Another Time by Anthony Gormley, Margate" url="https://stor.artstor.org/stor/ee7f84dc-a5b0-4c36-ad58-bb9a01682e54" ve-image/>
+<param attribution="Edward Crowther, by kind permission" label="Wincheap Industrial Estate" url="https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d" ve-image/>
+<param attribution="Photographed by Martin Crowther" label="The End of the Pilgrim's Way" url="https://stor.artstor.org/stor/ef31ef12-11c7-42bf-9db8-a2239051278e" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church from the west, showing the entrance and porch, as well as the figure of St John the Baptist set into a niche above the west window" url="https://stor.artstor.org/stor/e1a56162-96fa-4e4c-af51-a481569d773c" ve-image/>
+<param attribution="Painted by Elisa Hudson" label="Millenium Mural, Canterbury" url="https://stor.artstor.org/stor/3804b801-3aa0-4e06-97fa-d8793febc878" ve-image/>
+<param attribution="Martin Crowther" label="Miners Statue near the roundabout on the A258" url="https://stor.artstor.org/stor/792d1b6f-16d4-47c3-8e1d-8a86b5469678" ve-image/>
+<param label="A Christmas Carol" url="https://stor.artstor.org/stor/2e5c30ff-5b87-40d2-9bae-52961b0a1a51" ve-image/>
+<param attribution="Michelle Crowther, by kind permission" label="Sturry Retail Park" url="https://stor.artstor.org/stor/71e99860-a9d4-4204-a59e-ddb2c508ef98" ve-image/>
+<param attribution="Martin Crowther" label="The Waiting Miner" url="https://stor.artstor.org/stor/8cc5eb9c-60be-4b8d-8408-cea130517fd6" ve-image/>
+<param attribution="©Martin Crowther" primary title="Dickens Museum" url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" ve-image/>
+<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin." label="Estuary of the Thames and the Medway by A. Fullarton &amp; Co." url="https://stor.artstor.org/stor/3077e656-5d0a-4310-b7ca-c69a16417e07" ve-image/>
+<param label="An old postcard of a colourised picture of the church with the Old Oak by its entrance." url="https://stor.artstor.org/stor/d4be729a-0826-4b0f-8eaa-6a4c33dbbc99" ve-image/>
+<param label="Sandwich" url="https://stor.artstor.org/stor/3087858b-da37-4628-9bf4-b8ea685e6b71" ve-image/>
+<param attribution="Chris Price" label="Map showing the locations of subscribers to the 2 volume edition of works by John Wall Calcott" url="https://stor.artstor.org/stor/1eb60c5c-a15e-4f20-82f3-8a124803bf10" ve-image/>
+<param attribution="By kind permission of M.R. Shifrin" label="Dr Richard Barter" url="https://stor.artstor.org/stor/bb4edc13-7c73-4c21-a5fe-ed7f69fb9b8d" ve-image/>
+<param attribution="Martin Crowther" label="Bishopsbourne" url="https://stor.artstor.org/stor/3e4f3256-59f7-495a-92e8-7b469bb98021" ve-image/>
+<param attribution="Martin Crowther" label="Don John Grove, with Brent's house on the far left" url="https://stor.artstor.org/stor/000006fe-369e-488c-909b-955d19db4123" ve-image/>
+<param attribution="Peter Gasston, CC-BY-NC-ND 2.0" label="Queen Bertha outside the King's School, Canterbury" url="https://stor.artstor.org/stor/b51a34a6-cf52-44c9-b52a-d7398d78edee" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church from the east end, with the chancel and chapel windows and the vestry in the foreground." url="https://stor.artstor.org/stor/e0e6b0c5-c739-48b5-99a0-3d94c3af0702" ve-image/>
+<param attribution="Martin Crowther" label="Site of the Cheker of Hope, Canterbury" url="https://stor.artstor.org/stor/16808a03-82ab-4ab2-8e9d-94922488e13c" ve-image/>
+<param attribution="Benjamin Mortley" label="Leather Bottle Inn" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image/>
+<param attribution="Maidstone Museum and Bentlif Art Gallery, Maidstone (https://artuk.org/discover/artworks/at-the-seaside-pegwell-bay-near-ramsgate-kent-76676/view_as/grid/search/keyword:kent-pegwell-bay--referrer:global-search/page/1)" fit="contain" label="At the Seaside, Pegwell Bay, near Ramsgate, Kent" license="CC BY 3.0" url="https://d3d00swyhr67nd.cloudfront.net/w944h944/collection/KT/MMB/KT_MMB_B_MAI_46514-001.jpg" ve-image/>
+<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Map engraved for John Boys" url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" ve-image/>
+<param attribution="c.1909" label="Lloyd's Paper Mill, Sittingbourne" url="https://stor.artstor.org/stor/ff02b007-70c7-432e-88d7-04fa94cfefde" ve-image/>
+<param label="The Micawbers at Canterbury" url="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" ve-image/>
+<param attribution="Rapheal Tuck and Son's Postcard 7182 pre.1905" label="The Medway at Tonbridge" url="https://stor.artstor.org/stor/ae0662fc-e1a2-43a1-8382-71def7414a5c" ve-image/>
+<param attribution="Front cover of the Penguin edition" label="Stealthy Terror" url="https://stor.artstor.org/stor/553e2b21-40cd-4e41-b5b0-b3226e668e7d" ve-image/>
+<param attribution="Horace Spence Collection." label="St Peter's Lane" url="https://stor.artstor.org/stor/8a73b8e9-398c-46dc-8669-7fab7d348202" ve-image/>
+<param attribution="©Michelle Crowther" title="Augustine House interior" url="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" ve-image/>
+<param label="Early 20C postcard showing the view from Bleak House" url="https://stor.artstor.org/stor/0badef45-31a2-4639-9599-ec3aa2bd4d42" ve-image/>
+<param attribution="Nat Lowden and Sara Gelencer" label="The House of Agnes" url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" ve-image/>
+<param attribution="David Bedford, by kind permission" label="Zizzi's restaurant in Cogan House, St Peter's Street" url="https://stor.artstor.org/stor/e783dd08-05cf-4606-a6cb-6bf8d428892f" ve-image/>
+<param attribution="Public domain, photo from Léon et Lévy" label="Cattle market at Canterbury around 1900" url="https://stor.artstor.org/stor/5129a00d-b3c8-46f1-b40c-fe241d7d0479" ve-image/>
+<param attribution="© Martin Crowther" label="Nayland Rock Shelter" url="https://stor.artstor.org/stor/3732a411-bdb3-4fe9-a464-1aeb2ac8d7ad" ve-image/>
+<param attribution="©Martin Crowther" label="Camden Crescent, Dover, where Dickens stayed while he wrote Bleak House" url="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" ve-image/>
+<param attribution="Steve Sheath" label="Boys' memorial in St Mary the Virgin, Wingham" url="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" ve-image/>
+<param attribution="Benjamin Mortley" label="Rochester Cathedral Graveyard" url="https://stor.artstor.org/stor/4546137c-afaf-4a2a-91ee-35090bb7c986" ve-image/>
+<param attribution="Benjamin Mortley" label="Eastgate House" url="https://stor.artstor.org/stor/9aff6e05-5788-4668-a69b-fbf5f2b7006b" ve-image/>
+<param attribution="Benjamin Mortley" label="Restoration House" url="https://stor.artstor.org/stor/9951b7cc-f35d-493e-ad88-077859ca1919" ve-image/>
+<param label="Elham Valley Railway" url="https://stor.artstor.org/stor/d80318dc-0229-4020-9ccf-28174d5ef4c2" ve-image/>
+<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" label="From Mansfield's A History of Gravesend in the County of Kent, 1922" url="https://stor.artstor.org/stor/44f84728-2548-48bc-9a14-67c47b94b6ef" ve-image/>
+<param attribution="Edward Crowther" label="View from Whitefriars looking towards the St George's Clock tower" url="https://stor.artstor.org/stor/4fda5de2-62ed-4549-a66d-201350544e47" ve-image/>
+<param attribution="Tate (https://www.tate.org.uk/art/artworks/dyce-pegwell-bay-kent-a-recollection-of-october-5th-1858-n01407)" description="oil painting by William Dyce, 1858" fit="contain" label="Pegwell Bay, Kent - a Recollection of October 5th 1858" license="CC BY-NC-ND 3.0" url="https://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg" ve-image/>
+<param attribution="©Martin Crowther" label="3, Albion Villas, Folkestone" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image/>
+<param attribution="Lisa Hawkins" label="Wantsum Channel near the railway lines" url="https://stor.artstor.org/stor/2dbb351f-a888-41cd-87ef-eba4780a11c9" ve-image/>
+<param attribution="© Kate Davies" label="Joseph Conrad's grave" url="https://stor.artstor.org/stor/fdcf1896-22cd-41c2-917a-cd07a8621a22" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="1st Royal Scots Regt. at the Shorncliffe Barracks" url="https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c" ve-image/>
+<param attribution="Andrew Vincent" label="The view of the church interior from the east, looking down the nave at the tower arch and window" url="https://stor.artstor.org/stor/5ae696c2-ac43-4b19-b530-3431efe8a01d" ve-image/>
+<param label="Ellen Terry as Imogen" url="https://stor.artstor.org/stor/29dd64d3-531b-479f-b993-f0fc7c206cef" ve-image/>
+<param attribution="Martin Crowther" label="Camden Crescent, Dover" url="https://stor.artstor.org/stor/61b0b13d-f9de-432b-a628-1706a79d3cf4" ve-image/>
+<param arriving attribution="By kind permission of Folkestone Museum" belgian folkestone" in label refugees url="https://raw.githubusercontent.com/kent-map/kent/502194a/20c/images/arrivalofbelgiansFMuseum.jpg" ve-image/>
+<param label="Chatham Dockyard" url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" ve-image/>
+<param label="Ramsgate Commemorative Map 1884-1934" url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" ve-image/>
+<param attribution="Martin Crowther" label="Geoffrey Chaucer Statue, Canterbury - sculpted by Sam Holland and Lynn O'Dowd, 2018" url="https://stor.artstor.org/stor/115f208d-182b-44f6-bf4d-8f481eea236d" ve-image/>
+<param attribution="John Boys" label="A General View of the Agriculture of the County of Kent" url="https://stor.artstor.org/stor/0a089144-1037-4a97-999f-28208ceaef93" ve-image/>
+<param label="Dickens' House, Broadstairs" url="https://stor.artstor.org/stor/14998065-2aae-464e-9015-45036a05a19b" ve-image/>
+<param attribution="Martin Crowther" label="Bodsham, Kent" url="https://stor.artstor.org/stor/cdf378d5-b3b4-4dc5-ade6-7081899da0b4" ve-image/>
+<param attribution="© Martin Crowther" label="Site of Mrs Baker's Canterbury Theatre" url="https://stor.artstor.org/stor/8ad09547-c0f0-47b8-84f8-748c62ad20eb" ve-image/>
+<param attribution="Martin Crowther" label="Kent Coalfied 1905-1989" url="https://stor.artstor.org/stor/66a7078a-86c2-4c13-ae8a-13ba53f64a66" ve-image/>
+<param attribution="by William Gostling, 1825. no known copyright restrictions." label="Canterbury Cathedral, from A Walk In and About the City of Canterbury" url="https://stor.artstor.org/stor/fe4a9962-d0fd-4116-9f01-a05b7425fbfa" ve-image/>
+<param label="Margate sign post" url="https://stor.artstor.org/stor/a1a47ab9-b7e5-4e64-9e2e-703827012850" ve-image/>
+<param attribution="Benjamin Mortley" label="High Street, Rochester" url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" ve-image/>
+<param attribution="Photographed by Martin Crowther" label="The Pilgrim's Guide to Canterbury" url="https://stor.artstor.org/stor/fcfc5c9a-3387-4c5f-9756-b5f6e7fb0f88" ve-image/>
+<param url="https://stor.artstor.org/stor/70056d92-7406-48ec-a8e5-060c6bcf584d" ve-image/>
+<param attribution="Edward Crowther" label="43, King Street" url="https://stor.artstor.org/stor/4dc963f3-29e3-4756-b974-a4e1a4aad62e" ve-image/>
+<param attribution="Engraved by Thomas Conder. Fron  Walpole's The New British Traveller. Photo by Astrid Stilma. By permission of Patrick Marrin." label="A New Map of Kent drawn from the best authorities, 1784" url="https://stor.artstor.org/stor/113d965a-9e47-4ad3-8c46-ea1a91002f41" ve-image/>
+<param label="The Dockyard, Chatham" url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" ve-image/>
+<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Survey of Woods by John Boys" url="https://stor.artstor.org/stor/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8" ve-image/>
+<param attribution="By kind permission of Simon Langton Girls' Grammar School" label="Simon Langton Girls'" url="https://stor.artstor.org/stor/a5222b83-766a-49ce-a3e5-6ff598aecee5" ve-image/>
+<param attribution="Martin Crowther" label="3, Albion Villas" url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" ve-image/>
+<param attribution="Benjamin Mortley" label="Swiss Chalet" url="https://stor.artstor.org/stor/f4286803-649c-4c6d-8399-444096dc1eb9" ve-image/>
+<param attribution="Michelle Crowther, by permission" label="Sturry Retail Park" url="https://stor.artstor.org/stor/71e99860-a9d4-4204-a59e-ddb2c508ef98" ve-image/>
+<param attribution="by John Brent" label="Canterbury Castle in Canterbury in Olden Times" url="https://stor.artstor.org/stor/d3328173-c9b0-43ad-9fc2-dfeaa3505793" ve-image/>
+<param atribution="Martin Crowther" label="Oasthouses, Kent" url="https://raw.githubusercontent.com/kent-map/kent/98a7d4f/20c/images/OasthousesMJC.jpg" ve-image/>
+<param attribution="Photographer unknown" label="Schools Closed sign" url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" ve-image/>
+<param attribution="H.G. Groves, Tunbridge Wells" label="Queen's Grove, Tunbridge Wells" url="https://stor.artstor.org/stor/f37d719d-5638-49d9-973f-bcfc0995e197" ve-image/>
+<param attribution="H.G. Groves, Tunbridge Wells" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" ve-image/>
+<param attribution="Andrew Vincent" label="St Mary and St Eanswythe, Folkestone" url="https://stor.artstor.org/stor/35bc9f9f-8fd4-4164-8042-c0ddbae953b1" ve-image/>
+<param label="Bridge at Rochester" url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" ve-image/>
+<param attribution="Martin Crowther" label="Blue Plaque commemorating Dickens visit to Dover" url="https://stor.artstor.org/stor/2751b76f-4da8-4961-b70d-eff26866c8b2" ve-image/>
+<param label="St Lawrence Church, Godmersham" url="https://stor.artstor.org/stor/900e6a98-8038-402c-8cf1-f9446e1b192f" ve-image/>
+<param attribution="National Portrait Gallery (https://www.npg.org.uk/collections/search/portrait/mw111900/William-Dyce?)" description="by John Watkins in albumen carte-de-visite, 1860-1864" fit="contain" label="Photograph of William Dyce" license="CC BY-NC-ND 3.0" url="https://i.imgur.com/iwAgEKD.png" ve-image/>
+<param attribution="Andrew Vincent" label="A view of the church’s main entrance and porch, with  better view of the tower, and greater detail of the style of windows mentioned" url="https://stor.artstor.org/stor/c61de6cd-b542-4807-9996-043b0bb4183a" ve-image/>
+<param description="A spitfire tipping a V1 with its wing" label="V1 tipped over by a Spitfire" license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Spitfire-Tipping-V-1-Flying-Bomb-wiki.jpg" ve-image/>
+<param attribiton=" By kind permission of Peter Henderson" label="Mint Yard 12079 Kings School" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image/>
+<param attribution="© Augustine House Library, Canterbury Christ Church University" label="Crop rotation, John Boys" url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" ve-image/>
+<param attribution="By kind permission of Fiona Castle" label="Debden Court Farm, Petham" url="https://stor.artstor.org/stor/819746fc-e928-49b6-821d-737eff8dd233" ve-image/>
+<param attribution="Edward Crowther, by kind permission" label="Bamboo Tiger on the Wincheap Industrial Estate" url="https://stor.artstor.org/stor/c871728f-4eb7-4287-a421-6c7ef0cd1922" ve-image/>
+<param attribution="John Salmon Postcards" label="Kent" url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" ve-image/>
+<param label="Birchington on Sea, The Square" url="https://stor.artstor.org/stor/15f9c416-969a-4d55-bf7a-bdea6a14b886" ve-image/>
+<param attribution="Benjamin Mortley" label="Restoration House" url="https://stor.artstor.org/stor/3c4c6ac1-83f5-4506-b071-fa8fb35f90bc" ve-image/>
+<param attribution="Paul Crampton, by permission" label="The Holden Plan" url="https://stor.artstor.org/stor/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a" ve-image/>
+<param attribution="Benjamin Mortley" title="Restoration House" url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" ve-image/>
+<param attribution="Kent Past and Present by George Bosworth, 1901" label="Geology of Kent" url="https://stor.artstor.org/stor/f8cec39e-e9b1-4882-87d7-4107a00019b1" ve-image/>
+<param attribution="Astrid Stilma, by kind permission of Patrick Marrin" label="The Crab and Winkle Railway" url="https://stor.artstor.org/stor/2b9ded2c-0e81-46b0-9dcb-9e3c87d4d735" ve-image/>
+<param attribution="Benjamin Mortley" label="Rochester High Street" url="https://stor.artstor.org/stor/2cfcb41f-c781-4914-96e3-48310cb5c5c4" ve-image/>
+<param attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/14062582)" description="Illustrated by Elizabeth Gould for Charles Darwin’s “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”, 1832-1836" fit="contain" license="public domain" title="Darwin's Finches (Geospiza parvula) in “The Zoology of the Voyage of H.M.S. Beagle - Part III Birds”" url="https://live.staticflickr.com/8351/8429528713_8488cfc03b_b.jpg" ve-image/>
+<param label="Beltinge" url="https://stor.artstor.org/stor/18912934-acb7-4c45-b1fc-83b59b86e182" ve-image/>
+<param attribution="Connor Treston, by kind permission" label="Market area today" url="https://stor.artstor.org/stor/03bbed1c-285e-4f1b-b03f-6169a6afca1c" ve-image/>
+<param attribution="Martin Crowther" label="Canterbury East station" url="https://stor.artstor.org/stor/e5ce46d0-9be4-4154-8f87-856471fd5e67" ve-image/>
+<param attribution="By kind permission of Andrew Sargent" label="The Deal Band Stand" url="https://stor.artstor.org/stor/f958882b-3914-448a-a35c-fca8e966a0fd" ve-image/>
+<param attribution="National Library of Australia (http://nla.gov.au/nla.obj-150672913)" description="Oil painting by unknown artist" fit="contain" license="public domain" title="Elizabeth Gould holding an Australian cockatiel (Nymphicus hollandicus)" url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2019/02/nla.obj-150672913-1-716x1024.jpg" ve-image/>
+<param attribution="© Martin Crowther" label="Tomb of the worthy Alderman James Simmons" url="https://stor.artstor.org/stor/1f4ccd77-6d62-48a2-9be5-d54e407b8a88" ve-image/>
+<param attribution="Martin Crowther" label="The Riviera, Sandgate" url="https://stor.artstor.org/stor/f4aec845-49aa-4dc4-8005-34516f95e7ad" ve-image/>
+<param attribution="Martin Crowther" label="Site of the Soldier's Home on Lismore Road, Beltinge" url="https://stor.artstor.org/stor/8009bc63-bac6-4da4-93e1-2da9a8313cb7" ve-image/>
+<param label="Bleak House, Broadstairs" url="https://stor.artstor.org/stor/887cf466-0aa5-4989-a3ba-02c786a5d29d" ve-image/>
+<param attribution="Elizabeth Waterman-Scrase" label="Sea-front at Deal" url="https://stor.artstor.org/stor/d1087754-5201-4025-a7c8-2c8fec21d2f9" ve-image/>
+<param label="Traveller's Joy by Gloria Treseder" url="https://stor.artstor.org/stor/3682a5ad-c995-4ad6-bf5c-a24da1b86d05" ve-image/>
+<param attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence." label="Folkestone Library" url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" ve-image/>
+<param attribution="Lisa Hawkins" label="Towards Reculver" url="https://stor.artstor.org/stor/5ca9a9c9-174a-4594-a0fb-fffc695e7f1b" ve-image/>
+<param attribution="Photography by Martin Crowther" label="Chaucer's Pilgrims by Gloria Treseder" url="https://stor.artstor.org/stor/c6cf4dfd-eb93-40b5-b466-58ae8f557f5f" ve-image/>
+<param attribution="Martin Crowther" label="Miners houses at Betteshanger" url="https://stor.artstor.org/stor/8e43ec4c-6f32-4cc3-a630-51348ef92b9e" ve-image/>
+<param attribution="Benjamin Mortley" label="Gad's Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image/>
+<param attribution="Postcard, pre-1920" label="Canterbury High Street" url="https://stor.artstor.org/stor/707a3d41-f05c-49d5-add1-dbc573efec4a" ve-image/>
+<param attribution="Martin Crowther" label="Bridge leading to Godmersham Park" url="https://stor.artstor.org/stor/d1a32d46-90e4-4b12-81b5-c66c2c27322b" ve-image/>
+<param attribution="Martin Crowther" label="Steps in the grounds of Godmersham Park" url="https://stor.artstor.org/stor/c86080d7-264e-47fd-b156-9033306d9c0e" ve-image/>
+<param attribution="Public domain" label="Simon Langton Grammar Schools when co-located" url="https://stor.artstor.org/stor/dfa23143-29ed-4551-b01f-7a93dfd04724" ve-image/>
+<param attribution="© Canterbury Christ Church University, used with kind permission" label="1960s campus at CCCU" url="https://stor.artstor.org/stor/ada7827f-a5e3-4daa-a6d2-8bf65efd1113" ve-image/>
+<param description="prattware pot lid , c.1860; painting by Arthur Boyd Houghton, 1862" fit="contain" label="Shrimp Paste Pot Lid from 'Pegwell Bay &amp; Four Shrimpers' collection" url="https://i.ebayimg.com/images/g/61wAAOSw0~9hNQto/s-l1600.jpg" ve-image/>
+<param attribution="rawpixel (https://www.rawpixel.com/image/321165/free-illustration-image-blue-wren-gould)" description="Illustrated by Elizabeth Gould for John Gould’s “Birds of Australia”, 1972" fit="contain" license="public domain" title="Blue Wren (Malurus cyaneus) in “Birds of Australia”" url="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd15-158-num.jpg?w=800&amp;dpr=1&amp;fit=default&amp;crop=default&amp;q=65&amp;vib=3&amp;con=3&amp;usm=15&amp;bg=F4F4F3&amp;ixlib=js-2.2.1&amp;s=8539ca4f45990976634b541654947458" ve-image/>
+<param attribution="The Wellcome Collection, no known copyright" label="The Pillars of Hercules, or, A narrative of travels in Spain and Morocco in 1848 / By David Urquhart" url="https://iiif.wellcomecollection.org/image/b29351066_0002_0007.jp2/full/full/0/default.jpg" ve-image/>
+<param attribution="©The Salmon Picture Library" url="https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50" ve-image/>
+<param attribution="Kent Maps Online Collection" label="Ramsgate, East Cliff Promenade" url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" ve-image/>
+<param attribution="Michelle Crowther, by kind permission" label="Asda store, Sturry Road" url="https://stor.artstor.org/stor/ff1f22f6-520c-4a56-aa44-9760c672b0ee" ve-image/>
+<param attribution="Daniel Vincent" label="White Cliffs" url="https://stor.artstor.org/stor/5aee558d-22f7-4227-9dbc-4a0a188399e9" ve-image/>
+<param attribution="Usage terms Public Domain" label="Rookwood; The fourth edition" url="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20romantics%20and%20victorians/collection-item-images/a/i/n/ainsworth%20w%20h%20rookwood%20m00006%2057.jpg" ve-image/>
+<param attribution="Benjamin Mortley" label="Eastgate House" url="https://stor.artstor.org/stor/4bcb5ff3-1a7b-4d15-943d-36c283e418e0" ve-image/>
+<param attribution="Credit: Wellcome Collection. Public Domain Mark" label="Punch, or, the London Charivari" license="CC BY 4.0" url="https://iiif.wellcomecollection.org/image/L0005395/full/full/0/default.jpg" ve-image/>
+<param attribution="By kind permission of Carolyn Oulton" label="Granville Hotel" url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" ve-image/>
+<param attribution="Peter Henderson, by permission" label="Mint Yard, King's School, Canterbury" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image/>
+<param attribution="No known copyright restrictions" label="Dane John Gardens, from A Walk In and About the City of Canterbury by William Gostling" url="https://stor.artstor.org/stor/e70a6523-0d4d-42da-a07a-699c3f2aa1ea" ve-image/>
+<param attribution="Martin Crowther" label="Deal Pier" url="https://stor.artstor.org/stor/731e64ad-bad5-4db7-998a-84087304e97d" ve-image/>
+<param attribution="Carolyn Oulton" label="Canterbury Odeon - Covid Vaccination Centre" url="https://stor.artstor.org/stor/24d208f8-0b96-4e08-85b3-c45a1558eb2b" ve-image/>
+<param attribution="Postcard, pre-1918, Léon &amp; Levy" label="St Peter's Street" url="https://stor.artstor.org/stor/d0564753-7dc5-4985-8e3f-2fbcab4ee5d6" ve-image/>
+<param attribution="Benjamin Mortley" label="Gads Hill" url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" ve-image/>
+<param label="Cobham Hall, near Rochester" url="https://stor.artstor.org/stor/dc892f31-c494-463b-ae95-942bf382344a" ve-image/>
+<param attribution="Michelle Crowther, by kind permission" label="Site of former Barretts forecourt" url="https://stor.artstor.org/stor/8acd68ee-34f3-4208-8d83-69407ebfe847" ve-image/>
+<param attribution="T. Pointer, Stationer, Birchington on Sea c.1909" label="The Cliffs and Bungalows, Birchington-on-sea" url="https://stor.artstor.org/stor/09022d7a-17ba-48e8-8429-10f7fcbb6a46" ve-image/>
+<param label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" ve-image/>
+<param attribution="Martin Crowther" label="Churchill Statue in Westerham" url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" ve-image/>
+<param attribution="Benjamin Mortley" title="Cobham, Kent: The Leather Bottle" url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" ve-image/>
+<param attribution"wellcome collection: domain label="Margate, Kent: a woman diving off a bathing wagon in to the sea. Coloured etching, ca. 1800." mark" public url="https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg" ve-image/>
+<param attribution="Photography by Hufton and Crow, by kind permission of the Turner Contemporary" label="Turner Contemporary" url="https://stor.artstor.org/stor/08e67dca-f24b-42f5-80ac-d270d6756b99" ve-image/>
+<param attribution="Photo by Astrid Stilma. By permission of Patrick Marrin" label="The Picturesque Beauties of Great Britain: Kent. Rochester Bridge, 1829" url="https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a" ve-image/>
+<param label="Birchington Promenade" url="https://stor.artstor.org/stor/53a636b7-822e-4430-bb05-b26f9936675a" ve-image/>
+<param attribution="Kent Maps Online Postcard Collection" label="Shorncliffe Camp" url="https://stor.artstor.org/stor/290a020f-939a-4095-afcb-7b7c33f19237" ve-image/>
+<param attribution="Mint Yard, Kings School, Canterbury, 1976. By kind permission of King's School, Canterbury" label="Mint Yard" url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" ve-image/>
+<param attribution="Drawn by George Shepherd" label="Snargate Street, Dover, 1830" url="https://stor.artstor.org/stor/1f7f1801-76e2-4b52-8fa1-996e0d735573" ve-image/>
+<param label="Woodcut illustrating St George's Church with St George's Gate in the distance" url="https://stor.artstor.org/stor/79a30b48-ac51-4a64-a949-de2b726c7ae7" ve-image/>
+<param attribution="Murray School House, Kings School, Canterbury, c. 1900. By kind permission of King's School, Canterbury" label="Murray School House" url="https://stor.artstor.org/stor/a257cc7a-42ea-4a6d-a510-a0d88c551690" ve-image/>
+<param attribution="by kind permission of Broadstairs Dickens Museum" label="Map of Broadstairs, 1824 showing Chandos Place" url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" ve-image/>
+<param attribution="Benjamin Mortley" label="Dickens's Writing Chalet" url="https://stor.artstor.org/stor/11fbd10c-4977-45e6-8713-df4c593a5574" ve-image/>

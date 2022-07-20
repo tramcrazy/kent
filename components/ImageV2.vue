@@ -46,7 +46,8 @@ module.exports = {
   watch: {
     viewerIsActive: {
       handler: function (isActive) { 
-        this.$refs.viewer.style.display = isActive ? 'unset' : 'none' 
+        this.$refs.viewer.style.display = isActive ? 'unset' : 'none'
+        console.log(`ve2-image.isActive=${isActive} display=${this.$refs.viewer.style.display}`)
       },
       immediate: false
     }

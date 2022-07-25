@@ -1,0 +1,245 @@
+Images in kent repo:	400
+Images in images repo:	164
+Copied images:			160
+Uncopied images:		240
+All uncopied images:
+./music/images/Summer.jpg
+./music/images/Banquetcard.jpg
+./music/images/cathedralimage.jpg
+./music/images/A_century_of_ballads,_1810-1910;_their_composers_and_singers_(IA_centuryofballads00simpiala).pdf.jpg
+./19c/images/page1-349px-The_Yellow_Book_-_07.djvu.jpg
+./19c/images/conradgrave.jpg
+./19c/images/Banquetcard.jpg
+./19c/images/Jerome_K._Jerome.jpg
+./19c/images/439 - Kingston Map Late 18th Century (1).jpg
+./19c/images/HCA_by_Thora_Hallager_1869.jpg
+./19c/images/697px-Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg
+./19c/images/Margaret_Emily_Shore_engraving.jpg
+./19c/images/Perkin Warbeck.jpg
+./19c/images/geograph-6441598-by-Wayland-Smith.jpg
+./19c/images/SG passport.jpeg
+./19c/images/jacqueline.jpg
+./19c/images/JaneAustenCassandraWatercolour.jpg
+./19c/images/Rochester Castle MJC.jpg
+./19c/images/Robert_Barr.jpg
+./19c/images/luffman.jpg
+./19c/images/Ellen Terry with Henry Irving.jpg
+./19c/images/Victoria plaque Pierremont House.jpg
+./19c/images/library indicator.jpg
+./19c/images/Oswalds house gatepost - Bishopsbourne MJC.jpg
+./images/labs.jpg
+./images/dianahirst.jpg
+./images/Ramsgate map.jpg
+./images/Viking_Bay_Broadstairs.jpg
+./images/17c.png
+./images/maxsaunders.jpg
+./images/jstamp.jpg
+./images/16c.png
+./images/CO_in_bookshop.jpg
+./images/susancivale.jpg
+./images/Hop jug.jpg
+./images/petervujakovic.jpg
+./images/IMG_9523.jpg
+./images/jeremypage.jpg
+./images/duggan.jpg
+./images/Headshot Image .jpg
+./images/Elizabeth_WS.jpg
+./images/heathermurdoch.jpg
+./images/SG passport.jpeg
+./images/charlieworthington.jpg
+./images/Fran Allfrey.jpeg
+./images/18C Bloody Code Black seal.jpg
+./images/miroslava.karaskova photo.jpg
+./images/lauraallen.jpg
+./images/ctaylor.jpeg
+./images/Belgian2.jpg
+./images/sophiebaldock.jpg
+./images/favicon.png
+./images/thumbnail_Margate graffiti.jpg
+./images/michelle.jpg
+./images/Belgian1.jpg
+./images/LisaHawkins.jpg
+./images/Maddie radio.jpg
+./images/simoneblandford.jpg
+./images/twitter.png
+./images/kaitlyncowling.jpg
+./images/Christiana Payne.jpg
+./images/maggie photo Westgate.jpg
+./images/Martin Latham for author page.jpg
+./images/upsidedownsophiebaldock.jpg
+./images/IMG_20201206_123913-01.jpeg
+./images/thumbnail_DG.jpg
+./images/19c.png
+./images/whalley.jpg
+./images/Ice cream.jpg
+./images/marnie1.jpg
+./images/Mandyjones1.jpg
+./images/Pat Argar.jpg
+./images/18c.png
+./images/claire bartram.jpg
+./images/Multiple Authors or Editors - MLA Citation Style, 7th Edition - LibGuides at University of Lethbridge_files/askus.gif
+./images/Multiple Authors or Editors - MLA Citation Style, 7th Edition - LibGuides at University of Lethbridge_files/cc.png
+./images/banners/17c.jpg
+./images/banners/16c.jpg
+./images/banners/20c.jpg
+./images/banners/cherry.jpg
+./images/banners/19c.jpg
+./images/banners/18c.jpg
+./images/thumbnails/21c.jpg
+./images/thumbnails/17c.jpg
+./images/thumbnails/16c.jpg
+./images/thumbnails/20c.jpg
+./images/thumbnails/thumbnailchaucer.jpg
+./images/thumbnails/JaneAustenCassandraWatercolour1.jpg
+./images/thumbnails/grammer-school-gate-rochester.jpg
+./images/thumbnails/david-copperfield.jpg
+./images/thumbnails/19c.jpg
+./images/thumbnails/mobile-landscapes.jpg
+./images/thumbnails/18c.jpg
+./images/thumbnails/dickens-head.jpg
+./20c/images/thumbnail_Spence floods causeway.jpg
+./20c/images/Tonbridge_School_-_geograph.org.uk_-_1542050.jpg
+./20c/images/HopbinMJC.jpg
+./20c/images/thumbnail_Spence floods 1.jpg
+./20c/images/ramsgatepavilion.jpg
+./20c/images/Murray Mint Yard 1 Kings School perm Peter Henderson.jpg
+./20c/images/Mint Yard 12079 Kings School perm Peter Henderson.jpg
+./20c/images/The Goodwin Sands img-019.jpg
+./20c/images/1946 royal visit 7 Kings School perm Peter Henderson.jpg
+./20c/images/Hops1MJC.jpg
+./20c/images/Spence floods North Lane 1909.jpg
+./20c/images/Murray School House Kings School perm Peter Henderson.jpg
+./20c/images/Simon Langton Boys, Aerial 1974.jpeg
+./20c/images/hedgecutting.png
+./20c/images/North_Downs_at_Trottiscliffe.jpg
+./20c/images/RomanFolkestone by Winbolt MJC.jpg
+./20c/images/Albemarle1.jpg
+./20c/images/Spence floods Pound Lane 1909.jpg
+./20c/images/Albemarle2.jpg
+./20c/images/Simon Langton Boys, Entrance 1974 CROPPED.jpeg
+./20c/images/Spade House.jpg
+./20c/images/south prospect ab Kings School perm Peter Henderson.jpg
+./20c/images/Zululand Kodak III 006.jpg
+./20c/images/maxwell2.jpg
+./20c/images/1936 R26-10 Stuck in mud.jpg
+./20c/images/maxwell1.jpg
+./20c/images/Postcard of Kent College 1930s.jpg
+./20c/images/Spence floods Fordwich.jpg
+./20c/images/Spence floods St Peter's Lane.jpg
+./20c/images/Path in The Wantsum Kent.jpg
+./20c/images/thumbnail_ET-and-HI-72.jpg
+./20c/images/road of remembrance MC.jpg
+./dickens/images/labs.jpg
+./dickens/images/k_t_c_28_b_20_f002r Cooling Churchyard.jpg
+./dickens/images/Viking_Bay_Broadstairs.jpg
+./dickens/images/k_t_c_28_b_20_f001r Pip at fingerpost.jpg
+./dickens/images/Margate from the Parade.jpg
+./dickens/images/dickensland.jpg
+./dickens/images/dickensland.png
+./dickens/images/3_Albion_Villas_Folkestone.jpg
+./dickens/images/Black's 1901 East Kent PICTURE OF CATHEDRAL.jpg
+./dickens/images/Grammar_School_Gate_Rochester.jpg
+./dickens/images/Postcard of Bleak House 1909.jpg
+./dickens/images/CO_in_bookshop.jpg
+./dickens/images/Shakespeare Cliff maps_k_top_16_48_g.jpg
+./dickens/images/067463_Gads_HIll.jpg
+./dickens/images/1200px-Restoration_House_Rochester.jpg
+./dickens/images/Fig 4 Eastgate House.jpg
+./dickens/images/Chalk Church.jpg
+./dickens/images/c13874-65 Walmer Castle.jpg
+./dickens/images/c13874-67Ramsgate.jpg
+./dickens/images/Dickens_House.jpg
+./dickens/images/Fig 3 The Gatehouse.jpg
+./dickens/images/Elizabeth_WS.jpg
+./dickens/images/A_View_at_Margate_maps_k_top_17_4_d.jpg
+./dickens/images/Hythe c13874-60 (1).jpg
+./dickens/images/gutenberg.orgfiles9898-himages0414.jpg
+./dickens/images/Jerome_K._Jerome_(7893553318).jpg
+./dickens/images/Grand_Letter_Opener.jpg
+./dickens/images/Love in a Mist.jpg
+./dickens/images/dickens_head.jpg
+./dickens/images/Fig 1 Rochester Cathedral.jpg
+./dickens/images/Macadam.jpg
+./dickens/images/Broadstairs from Bleak House.jpg
+./dickens/images/1200px-Mystery_of_edwin_drood_0188.jpg
+./dickens/images/RamsgateTownandHarbour.jpg
+./dickens/images/F60118-30 Staplehurst.jpg
+./dickens/images/dickensland-1820-overlay.png
+./dickens/images/MilleniumMuralMJC.jpg
+./dickens/images/c13874-63 Dover, from Shakespear's Cliff.jpg
+./dickens/images/1200px-2006SweepsCath1crop.jpg
+./dickens/images/guildhallrochester.jpg
+./dickens/images/MaryPrice.jpg
+./dickens/images/michelle.jpg
+./dickens/images/JaneAustenCassandraWatercolour.jpg
+./dickens/images/copperfield.jpg
+./dickens/images/Arthur_Matthews_084102.jpg
+./dickens/images/Fig 6 Minor Cannon Row.jpg
+./dickens/images/Cream tea BH.jpg
+./dickens/images/Dover postcard.jpg
+./dickens/images/Kingsgate maps_k_top_18_30_f.jpg
+./dickens/images/c13874-67 Ramsgate.jpg
+./dickens/images/KM in Dickens House.jpeg
+./dickens/images/Evanion.jpg
+./dickens/images/Robert_Barr.jpg
+./dickens/images/ViewofRamsgateTownandHarbour003KTOP00000017U007B0000.jpg
+./dickens/images/DCshoeswaiter.jpg
+./dickens/images/Town of Broadstairs maps_k_top_18_1_1.jpg
+./dickens/images/david-copperfield-banner.jpg
+./dickens/images/Gads from the road.jpg
+./dickens/images/Canterbury in Dickens Land.jpg
+./dickens/images/doverroad.jpg
+./dickens/images/thumbnail_3Gadshill.jpg
+./dickens/images/Bull-Hotel-postcard-Rochester.jpg
+./dickens/images/Pip.jpg
+./dickens/images/Falstaff.jpg
+./dickens/images/Forester's and Shepherd's Gala Day c00802-04.jpg
+./dickens/images/Dungeness Light House c13874-59.jpg
+./dickens/images/Charles_Dickens_signature_1838.png
+./dickens/images/Grammar School Rochester maps_k_top_17_10_cc.jpg
+./dickens/images/View of Ramsgate Town and Harbour 003KTOP00000017U007B0000.jpg
+./dickens/images/RamsgateandMargate.jpg
+./dickens/images/c13874-64 Dover Castle.jpg
+./dickens/images/Fig 2 The Crypt.jpg
+./dickens/images/c13874-66 Deal Castle.jpg
+./dickens/images/ve-button.png
+./17c/images/Kent map later 17C.jpeg
+./canterbury/images/Formerly Canterbury Tales.jpg
+./canterbury/images/Costa and Waterstones.jpg
+./canterbury/images/St George's Place, Waitrose.jpg
+./canterbury/images/A2 sign.jpg
+./canterbury/images/St Georges Clock Tower MJC.jpg
+./canterbury/images/Simon Langton Boys, Entrance 1974 CROPPED.jpeg
+./canterbury/images/Millennium banner.jpg
+./canterbury/images/Milennium Mural.jpg
+./canterbury/images/Screenshot 2021-04-16 at 09.09.13.png
+./canterbury/images/Postcard of Kent College 1930s.jpg
+./seascape/images/haybarges.jpg
+./seascape/images/Reculver towers and coast.jpg
+./seascape/images/thumbnailadmiraltychart1910.jpg
+./seascape/images/Hay barges banner.jpg
+./austen/images/View of Ramsgate Town and Harbour.jpg
+./austen/images/chilhamcastle.jpg
+./austen/images/439 - Kingston Map Late 18th Century.jpg
+./austen/images/TunbridgeWells Wikimedia.jpg
+./16c/images/16C Canterbury.jpeg
+./21c/images/Margate signs.jpg
+./21c/images/SherlockMJC.jpg
+./21c/images/Cathedral LizzieS.jpg
+./21c/images/Millenium Mural.jpg
+./21c/images/dungeness.jpg
+./21c/images/A2 sign.jpg
+./21c/images/Martin Latham 2.jpg
+./21c/images/PigrimsMJC.jpg
+./21c/images/RupertMJC.jpg
+./21c/images/Cathedral 2 Michelle M.jpg
+./21c/images/Faversham across Ham Marshes 1.jpeg
+./21c/images/TravellersJoyMJC.jpg
+./21c/images/Book Display March 2021 MJC.jpg
+./21c/images/Cathedral Michelle M.jpg
+./21c/images/Pilgrim2MJC.jpg
+./21c/images/Hufton and Crow Turner.jpeg
+./landscape/images/HopbinMJC.jpg
+./landscape/images/A02 agregions.jpg
+./landscape/images/F03 Geology.jpg
+./18c/images/1U8A1416-01 18C map Alexander Hogg.jpeg

@@ -4,8 +4,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -13,8 +12,7 @@
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -22,8 +20,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -31,8 +28,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -40,8 +36,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -49,8 +44,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -63,8 +57,7 @@ Canterbury is .
 
 
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -72,8 +65,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -81,8 +73,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 
@@ -90,8 +81,7 @@ Canterbury is .
 
 Canterbury is .
 
-##
-**[Canterbury in the 20th Century](/canterbury/20c-canterbury-overview)**
+## Canterbury in the 20th Century {href=/canterbury/20c-canterbury-overview}
 
 - author: Richard Maltby
 

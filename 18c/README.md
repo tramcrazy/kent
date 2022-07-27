@@ -5,8 +5,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[John Boys](18c-boys-biography)**
+## John Boys {href=18c-boys-biography}
 
 - author: Diana Hirst
 
@@ -14,8 +13,7 @@
 
 John Boys, agriculturalist, was well known for his breed of South Down sheep.  
 
-##
-**[Elizabeth Carter](18c-carter-biography)**
+## Elizabeth Carter {href=18c-carter-biography}
 
 - author: Dr Peter Merchant
 
@@ -23,8 +21,7 @@ John Boys, agriculturalist, was well known for his breed of South Down sheep.
 
 Elizabeth Carter was an English poet, classicist, writer, translator, and linguist who was born in Deal.  
 
-##
-**[Elizabeth Burgess](18c-burgess-biography)**
+## Elizabeth Burgess {href=18c-burgess-biography}
 
 - author: Stephen Williamson
 
@@ -32,8 +29,7 @@ Elizabeth Carter was an English poet, classicist, writer, translator, and lingui
 
 Playwright and pastry-maker.
 
-##
-**[Ann Radcliffe](18c-radcliffe-biography)**
+## Ann Radcliffe {href=18c-radcliffe-biography}
 
 - author: Dr Michael Goodrum
 
@@ -41,8 +37,7 @@ Playwright and pastry-maker.
 
 Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, with literary sensations such as The Mysteries of Udolpho (1794) and The Italian (1796). Both of these are set in the exotic climate of southern Europe. However, Ann Radcliffe never went to Italy, even better than that, she came to Kent.
 
-##
-**[The Bloody Code](18c-bloody-code)**
+## The Bloody Code {href=18c-bloody-code}
 
 - author: Dr Martin Watts
 
@@ -50,8 +45,7 @@ Ann Radcliffe was a defining figure of the eighteenth century Gothic romance, wi
 
 The Bloody Code applied death sentences to a growing number of crimes, while others attracted cruel penalties of mutilation, burning and whipping.
 
-##
-**[The Kentish Gazette](18c-kentish-gazette)**
+## The Kentish Gazette {href=18c-kentish-gazette}
 
 - author: Katie Holdway
 

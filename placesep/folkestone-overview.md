@@ -5,8 +5,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[Folkestone in the 19th century](/19c/19c-folkestone/)**
+## Folkestone in the 19th century {href=/19c/19c-folkestone/}
 
 - author: Carolyn Oulton
 
@@ -14,8 +13,7 @@
 
 Text here.
 
-##
-**[Folkestone in World War One](/20c/20c-folkestone-ww1/)**
+## Folkestone in World War One {href=/20c/20c-folkestone-ww1/}
 
 - author: Carolyn Oulton
 
@@ -23,8 +21,7 @@ Text here.
 
 Text here.
 
-##
-**[St Eanswythe Church](/churches/steanswythe-folkestone/)**
+## St Eanswythe Church {href=/churches/steanswythe-folkestone/}
 
 - author: Carolyn Oulton
 
@@ -32,8 +29,7 @@ Text here.
 
 Text here.
 
-##
-**[Charles Dickens and Folkestone](/dickens/dickens-folkestone/)**
+## Charles Dickens and Folkestone {href=/dickens/dickens-folkestone/}
 
 - author: Carolyn Oulton
 
@@ -41,8 +37,7 @@ Text here.
 
 Text here.
 
-##
-**[Robert Barr](https://kent-maps.online/19c/19c-barr-biography/)**
+## Robert Barr {href=https://kent-maps.online/19c/19c-barr-biography/}
 
 - author: Carolyn Oulton
 
@@ -50,8 +45,7 @@ Text here.
 
 Text here.
 
-##
-**[Jerome K. Jerome](/19c/19c-jerome-biography/)**
+## Jerome K. Jerome {href=/19c/19c-jerome-biography/}
 
 - author: Carolyn Oulton
 
@@ -59,8 +53,7 @@ Text here.
 
 Text here.
 
-##
-**[Edward Linley Sambourne](/19c/19c-sambourne-biography/)**
+## Edward Linley Sambourne {href=/19c/19c-sambourne-biography/}
 
 - author: Carolyn Oulton
 
@@ -68,8 +61,7 @@ Text here.
 
 Text here.
 
-##
-**[Folkestone Free Library](/19c/19c-folkestone-free-library/)**
+## Folkestone Free Library {href=/19c/19c-folkestone-free-library/}
 
 - author: Carolyn Oulton
 
@@ -77,8 +69,7 @@ Text here.
 
 Text here.
 
-##
-**[Belgian Refugees](/20c/20c-belgian-refugees/)**
+## Belgian Refugees {href=/20c/20c-belgian-refugees/}
 
 - author: Carolyn Oulton
 
@@ -86,8 +77,7 @@ Text here.
 
 Text here.
 
-##
-**[John Ferguson](/20c/20c-ferguson-biography/)**
+## John Ferguson {href=/20c/20c-ferguson-biography/}
 
 - author: Carolyn Oulton
 
@@ -95,8 +85,7 @@ Text here.
 
 Text here.
 
-##
-**[S.E. Winbolt](/20c/20c-winbolt-biography/)**
+## S.E. Winbolt {href=/20c/20c-winbolt-biography/}
 
 - author: Michelle Crowther
 
@@ -104,8 +93,7 @@ Text here.
 
 Text here.
 
-##
-**[Elizabeth Bowen](/20c/20c-bowen-biography/)**
+## Elizabeth Bowen {href=/20c/20c-bowen-biography/}
 
 - author: Carolyn Oulton
 

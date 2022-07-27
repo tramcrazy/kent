@@ -5,8 +5,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[Arden of Faversham](16c-arden-faversham)**
+## Arden of Faversham {href=16c-arden-faversham}
 
 - author: Marnie Stanley
 
@@ -14,8 +13,7 @@
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
 
-##
-**[Elizabeth Barton](16c-barton-biography)**
+## Elizabeth Barton {href=16c-barton-biography}
 
 - author: Amber Potter
 
@@ -23,8 +21,7 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 The 'Holy Maid of Kent', Elizabeth Barton, prophesized that Henry VIII would die if he were to marry Anne Boleyn.
 
-##
-**[Sheppey at War](16c-sheppey-at-war)**
+## Sheppey at War {href=16c-sheppey-at-war}
 
 - author: Dr Melanie Caiazza
 
@@ -32,8 +29,7 @@ The 'Holy Maid of Kent', Elizabeth Barton, prophesized that Henry VIII would die
 
 In 1588 concerns about the Spanish Armada approaching London via the Kent coast caused the Crown to invest in fortifications at Queenborough Castle and Minster.  
 
-##
-**[Spanish Armada](16c-spanish-armada)**
+## Spanish Armada {href=16c-spanish-armada}
 
 - author: Various
 

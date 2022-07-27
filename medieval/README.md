@@ -5,8 +5,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[Geoffrey Chaucer](14c-chaucer)**
+## Geoffrey Chaucer {href=14c-chaucer}
 
 - author: Charlotte Worthington
 
@@ -14,8 +13,7 @@
 
 Chaucer has become one of England’s most famous poets. He is best known for The Canterbury Tales, which he wrote in the last decade of his life. 
 
-##
-**[Hengest and Horsa](hengestandhorsa)**
+## Hengest and Horsa {href=hengestandhorsa}
 
 - author: Francesca Allfrey and Beth Whalley
 
@@ -23,8 +21,7 @@ Chaucer has become one of England’s most famous poets. He is best known for Th
 
 Whether or not Hengest and Horsa ever existed, the fact remains that they are part of the folk myths of Kent and are established characters in local and national stories of the past. 
 
-##
-**[Battle of Crayford](battleofcrayford)**
+## Battle of Crayford {href=battleofcrayford}
 
 - author: Francesca Allfrey and Beth Whalley
 

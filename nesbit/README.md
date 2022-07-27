@@ -5,8 +5,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[Edith Nesbit](/nesbit/nesbit-biography)**
+## Edith Nesbit {href=/nesbit/nesbit-biography}
 
 - author: Eleanor Fitzsimons
 
@@ -14,8 +13,7 @@
 
 Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of Kent.
 
-##
-**[Penshurst](/nesbit/nesbit-penshurst)**
+## Penshurst {href=/nesbit/nesbit-penshurst}
 
 - author: Eleanor Fitzsimons
 
@@ -23,8 +21,7 @@ Edith Nesbit, who wrote as E. Nesbit, has close links to the coastal county of K
 
 When she was thirteen, Edith Nesbit stayed for a time in the village of Penshurst, near Sevenoaks. 
 
-##
-**[River Medway](/nesbit/nesbit-river-medway)**
+## River Medway {href=/nesbit/nesbit-river-medway}
 
 - author: Eleanor Fitzsimons
 

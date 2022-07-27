@@ -32,7 +32,7 @@
 <param active="true" data-map-layer mapwarper-id="45555" title="Kent 1904" type="mapwarper"/>
        
 <!-- Historical map layers --> 
-<param active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860" ve-map-layer/>
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860" />
 
 #
 

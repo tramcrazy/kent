@@ -5,8 +5,7 @@
 
 # &nbsp; {.cards}
 
-##
-**[19th century](19c-recommended-reading)**
+## 19th century {href=19c-recommended-reading}
 
 - author: Marnie Stanley
 
@@ -14,8 +13,7 @@
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
 
-##
-**[20th century](20c-recommended-reading)**
+## 20th century {href=20c-recommended-reading}
 
 - author: Marnie Stanley
 
@@ -23,8 +21,7 @@ On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversh
 
 On St. Valentine’s day 1551 a grizzly site was found in the grounds of Faversham abbey - the landowner Thomas Arden lay dead in the snow, his wife’s affair with the tailor Mosby having taken a murderous turn.
 
-##
-**[21st century](21c-recommended-reading)**
+## 21st century {href=21c-recommended-reading}
 
 - author: Marnie Stanley
 

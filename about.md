@@ -1,4 +1,5 @@
-<html><head></head><body><param layout="index" title="Kent Maps Project: About" ve-config/>
+.ve-header "Kent Maps Project: About" gh:kent-map/kent/images/Bleak_house_postcard.jpg sticky=true
+    - [Home](/)
 
 # About the site and project
 

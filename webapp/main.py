@@ -3,7 +3,7 @@
 
 '''
 Flask app for Visual Essays site.
-Dependencies: bs4 Flask Flask-Cors html5lib requests serverless_wsgi
+Dependencies: bs4 Flask Flask-Cors html5lib PyYAML requests serverless_wsgi
 '''
 
 import logging
@@ -13,6 +13,7 @@ logger = logging.getLogger()
 
 import os
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
+CREDS = yaml.load(open(f'{SCRIPT_DIR}/creds.yaml', 'r').read(), Loader=yaml.FullLoader)
 
 from time import time as now
 from flask import Flask, request, send_from_directory

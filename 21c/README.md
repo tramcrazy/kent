@@ -1,6 +1,6 @@
-<param ve-config 
-       title="21st Century Kent"
-       banner="images/Millenium%20Mural.jpg">
+.ve-header "21st Century Kent" gh:kent-map/kent/images/Millenium%20Mural.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

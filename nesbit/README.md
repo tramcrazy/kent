@@ -1,7 +1,6 @@
-<param ve-config 
-       title="Edith Nesbit's Kent"
-       banner="/images/banners/19c.jpg"
-       layout="index">
+.ve-header "Edith Nesbit's Kent" gh:kent-map/kent/images/banners//19c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

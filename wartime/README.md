@@ -1,7 +1,6 @@
-<param ve-config 
-       title="Wartime Kent"
-       banner="https://stor.artstor.org/stor/bee89f45-ed57-468c-bbbb-e706bd015859"
-       layout="index">
+.ve-header "Wartime Kent" https://stor.artstor.org/stor/bee89f45-ed57-468c-bbbb-e706bd015859 sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

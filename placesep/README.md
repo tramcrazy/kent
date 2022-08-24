@@ -1,7 +1,6 @@
-<param ve-config 
-       title="Places E-P"
-       banner="/images/banners/19c.jpg"
-       layout="index">
+.ve-header "Places E-P" gh:kent-map/kent/images/banners/19c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

@@ -1,7 +1,6 @@
-<param ve-config 
-       title="Literary Landscapes"
-       banner="images/OasthousesMJC.jpg"
-       layout="index">
+.ve-header "Literary Landscapes" gh:kent-map/kent/images/banners/OasthousesMJC.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

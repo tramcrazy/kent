@@ -1,7 +1,6 @@
-<param ve-config 
-       title="18th Century Kent"
-       banner="/images/banners/18c.jpg"
-       layout="index">
+.ve-header "18th Century Kent" gh:kent-map/kent/images/banners/18c.jpg sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

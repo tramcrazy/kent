@@ -1,7 +1,7 @@
 
-<param ve-config 
-       title="Dickens Land"
-       banner="https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/dickensland.png">
+.ve-header "Dickens Land" https://iiif.juncture-digital.org/banner?url=https://raw.githubusercontent.com/kent-map/kent/main/dickens/images/dickensland.png sticky=true
+    - [Home](/)
+    - [About](/about)
 
 # &nbsp; {.cards}
 

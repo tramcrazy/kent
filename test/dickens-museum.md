@@ -1,3 +1,4 @@
+.ve-header "Dickens Museum"
 # dickens-museum
 .ve-video https://raw.githubusercontent.com/kent-map/images/main/videos/Dickens_Museum.mp4 sticky
 

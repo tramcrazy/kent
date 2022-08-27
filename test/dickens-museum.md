@@ -1,4 +1,4 @@
-.ve-header "Dickens Museum" wc:AmalfiCoast1.jpg sticky=true
+.ve-header "Dickens Museum" wc:AmalfiCoast11.jpg sticky=true
 # dickens-museum
 .ve-video https://raw.githubusercontent.com/kent-map/images/main/videos/Dickens_Museum.mp4 sticky
 

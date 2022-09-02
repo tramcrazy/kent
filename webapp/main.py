@@ -13,6 +13,8 @@ logger = logging.getLogger()
 
 import os
 SCRIPT_DIR = os.path.abspath(os.path.dirname(__file__))
+
+import yaml
 CREDS = yaml.load(open(f'{SCRIPT_DIR}/creds.yaml', 'r').read(), Loader=yaml.FullLoader)
 
 from time import time as now
@@ -80,15 +82,16 @@ def _get_local_content(path):
   logger.warn(f'Local content not found: path={path}')
 
 def _get_html(path, base_url, ref=REF, **kwargs):
-  api_url = f'{API_ENDPOINT}/html/?prefix={PREFIX}&base={base_url}'
   html = ''
   status_code = 404
   if LOCAL_CONTENT_ROOT:
     md = _get_local_content(path)
     if md: # Markdown found, convert to HTML using API
+      api_url = f'{API_ENDPOINT}/html/?prefix={PREFIX}&base={base_url}'
       resp = requests.post(api_url, json={'markdown':md, 'prefix':PREFIX})
       status_code, html =  resp.status_code, resp.text if resp.status_code == 200 else ''
   else:
+    api_url = f'{API_ENDPOINT}/html{path}?prefix={PREFIX}&base={base_url}'
     resp = requests.get(api_url + (f'&ref={ref}' if ref else ''))
     status_code, html =  resp.status_code, resp.text if resp.status_code == 200 else ''
   if status_code == 200 and 'localhost' in API_ENDPOINT:
